@@ -40,3 +40,8 @@ Attention pour toute autre intervention : repartir de la version courante, ne pa
 - Les photos de bannières sont intégrées au HTML pour éviter les échecs de vignettes Drive. Les fiches, PDF, listes et liens existants sont conservés.
 
 Fichiers concernés : index.html et data.json. Repartir impérativement de leur dernière version pour poursuivre.
+
+
+### Contrôle visuel et réparation du portrait masculin
+
+Le champ photo_data d’Alvarez contenait une chaîne d’image invalide. Le portrait a été réextrait de la fiche Ange Alvarez.pdf des élèves (Drive : 1U3UiofasPvSEoNsLdsqE5gCkQp2bdR9S, image X11), puis réintégré en JPEG valide dans data.json et la bannière. Le visuel de Dachau a été recadré sur sa partie photographique inférieure pour retirer l’ancien texte incrusté. Les autres informations des hommes sont inchangées.
