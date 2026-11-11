@@ -31,3 +31,12 @@ Attention pour toute autre intervention : repartir de la version courante, ne pa
 - Jeanne TILLET (93865)
 - Christine VACHER (93859)
 - Marie VERGE (93888)
+
+## Deuxième passage : bannières et repères des 64 femmes
+
+- 62 fiches portent désormais un complément de situation, date ou lieu issu du Livre-Mémorial. Les deux autres signalent explicitement une divergence de naissance : Suzanne Cazaux (17/03/1927 dans le projet, 08/08/1908 dans la FMD) et Louise Deyris (22/06/1901 contre 22/07/1901). Les identités d’origine n’ont pas été modifiées.
+- 19 références AC 21 P au total, dont 12 ajoutées lors de ce passage, rapprochées par patronyme et date de naissance. Aucune lecture des dossiers intégraux revendiquée.
+- Accueil : trois portraits superposés pour les femmes (Renée Bisserier/Lacoude, Jeannine Lejard, Marie-Louise Lasserre), portrait déjà intégré d’Ange Alvarez pour les hommes avec feuillets décoratifs, et ancien visuel du projet montrant le mémorial de Dachau pour les camps. Aucun portrait masculin d’attribution incertaine ajouté. Albert et Jean-Louis Tillet, retrouvés dans le Drive mais sans rattachement établi à la liste des hommes du convoi, n’ont pas été utilisés.
+- Les photos de bannières sont intégrées au HTML pour éviter les échecs de vignettes Drive. Les fiches, PDF, listes et liens existants sont conservés.
+
+Fichiers concernés : index.html et data.json. Repartir impérativement de leur dernière version pour poursuivre.
