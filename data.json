@@ -2073,7 +2073,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "SOE — Salesman"
+      "ordre_reseau": "SOE — Salesman",
+      "reseau_affiche": "SOE — Salesman"
     },
     {
       "nom": "ADELAIDE HAUTVAL",
@@ -2116,7 +2117,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "~Engagement individuel"
+      "ordre_reseau": "~Engagement individuel",
+      "reseau_affiche": "Engagement individuel"
     },
     {
       "nom": "MARCELLE HENRI",
@@ -2179,7 +2181,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "VIC — BCRA"
+      "ordre_reseau": "VIC — BCRA",
+      "reseau_affiche": "VIC — BCRA"
     },
     {
       "nom": "YVONNE PAGNIEZ",
@@ -2237,7 +2240,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Organisation civile et militaire — Centurie"
+      "ordre_reseau": "Organisation civile et militaire — Centurie",
+      "reseau_affiche": "Organisation civile et militaire — Centurie"
     },
     {
       "nom": "JEANNE GOUPILLE",
@@ -2285,7 +2289,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "~Filières d’évasion de la famille Goupille"
+      "ordre_reseau": "~Filières d’évasion de la famille Goupille",
+      "reseau_affiche": "Filières d’évasion de la famille Goupille"
     },
     {
       "nom": "YVONNE DE KOMORNICKA",
@@ -2328,7 +2333,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Combat — MUR"
+      "ordre_reseau": "Combat — MUR",
+      "reseau_affiche": "Combat — MUR"
     },
     {
       "nom": "JANE SIVADON",
@@ -2381,7 +2387,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Combat Zone Nord"
+      "ordre_reseau": "Combat Zone Nord",
+      "reseau_affiche": "Combat Zone Nord"
     },
     {
       "nom": "GERMAINE TILLON",
@@ -2446,7 +2453,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Musée de l’Homme — Hauet-Vildé"
+      "ordre_reseau": "Musée de l’Homme — Hauet-Vildé",
+      "reseau_affiche": "Musée de l’Homme — Hauet-Vildé"
     },
     {
       "nom": "MARIE CLAUDE VAILLANT COUTURIER",
@@ -2489,7 +2497,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Résistance communiste"
+      "ordre_reseau": "Résistance communiste",
+      "reseau_affiche": "Résistance communiste"
     },
     {
       "nom": "FERNANDE ADELE SAVAGNAT",
@@ -2532,7 +2541,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Ceux de la Résistance"
+      "ordre_reseau": "Ceux de la Résistance",
+      "reseau_affiche": "Ceux de la Résistance"
     },
     {
       "nom": "CHARLOTTE DELBO",
@@ -2575,7 +2585,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Résistance communiste"
+      "ordre_reseau": "Résistance communiste",
+      "reseau_affiche": "Résistance communiste"
     },
     {
       "nom": "LAURE DIEBOLD",
@@ -2607,7 +2618,8 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Mithridate — Délégation de Jean Moulin"
+      "ordre_reseau": "Mithridate — Délégation de Jean Moulin",
+      "reseau_affiche": "Mithridate — Délégation de Jean Moulin"
     },
     {
       "nom": "LISE LONDON",
@@ -2650,7 +2662,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "FTP — Résistance communiste"
+      "ordre_reseau": "FTP — Résistance communiste",
+      "reseau_affiche": "FTP — Résistance communiste"
     },
     {
       "nom": "JACQUELINE PERY D'ALINCOURT",
@@ -2693,7 +2706,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "BCRA — Soutien aux agents"
+      "ordre_reseau": "BCRA — Soutien aux agents",
+      "reseau_affiche": "BCRA — Soutien aux agents"
     },
     {
       "nom": "MIREILLE LAUZE",
@@ -2736,7 +2750,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Résistance communiste"
+      "ordre_reseau": "Résistance communiste",
+      "reseau_affiche": "Résistance communiste"
     },
     {
       "nom": "GENEVIÈVE DE GAULLE ANTHONIOZ",
@@ -2799,7 +2814,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Défense de la France"
+      "ordre_reseau": "Défense de la France",
+      "reseau_affiche": "Défense de la France"
     },
     {
       "nom": "MARIE JOSÉ CHOMBART DE LAUWE",
@@ -2857,7 +2873,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Georges France 31"
+      "ordre_reseau": "Georges France 31",
+      "reseau_affiche": "Georges France 31"
     },
     {
       "nom": "ELISABETH GOUPILLE",
@@ -2897,7 +2914,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "~Filières d’évasion de la famille Goupille"
+      "ordre_reseau": "~Filières d’évasion de la famille Goupille",
+      "reseau_affiche": "Filières d’évasion de la famille Goupille"
     },
     {
       "nom": "PAULINE GABRIELLE GAILLARD",
@@ -2950,7 +2968,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Marie-Odile"
+      "ordre_reseau": "Marie-Odile",
+      "reseau_affiche": "Marie-Odile"
     },
     {
       "nom": "DENISE VERNAY",
@@ -2982,7 +3001,8 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Franc-Tireur — MUR"
+      "ordre_reseau": "Franc-Tireur — MUR",
+      "reseau_affiche": "Franc-Tireur — MUR"
     },
     {
       "nom": "GINETTE LION CLEMENT",
@@ -3025,7 +3045,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "FTP"
+      "ordre_reseau": "FTP",
+      "reseau_affiche": "FTP"
     },
     {
       "nom": "ANISE POSTEL VINAY",
@@ -3078,7 +3099,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Gloria"
+      "ordre_reseau": "Gloria",
+      "reseau_affiche": "Gloria"
     },
     {
       "nom": "SUZANNE ORTS",
@@ -3123,7 +3145,8 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "ordre_reseau": "Marco Polo"
+      "ordre_reseau": "Marco Polo",
+      "reseau_affiche": "Marco Polo"
     },
     {
       "nom": "CAUBET",
@@ -3656,7 +3679,8 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange",
+      "reseau_affiche": "Action PTT"
     },
     {
       "nom": "JACQUELINE FLEURY-MARIÉ",
@@ -3698,7 +3722,8 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange",
+      "reseau_affiche": "Défense de la France · Mithridate"
     },
     {
       "nom": "MARIE DUBOIS",
@@ -3740,7 +3765,8 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange",
+      "reseau_affiche": "Résistance communiste"
     },
     {
       "nom": "SUZANNE GUYOTAT",
@@ -3806,7 +3832,8 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange",
+      "reseau_affiche": "Marco Polo"
     },
     {
       "nom": "BERTY ALBRECHT",
