@@ -84,6 +84,30 @@ Une fois les photos validées, enregistrer chaque image dans le dossier Drive de
 | 54 | Marie Jouffron (née Martin) | Née le 6 mars 1901 à Paris ; mariée, mère de quatre enfants, domiciliée à Marseille.  | Ravensbrück 27180 ; Flossenbürg 50333 | https://asso-flossenburg.com/wp-content/uploads/2020/04/JOUFFRON-nee-MARTIN-Marie.pdf | Marie Jouffron.jpg |
 | 55 | Églantine Martin-Pelloux | Née le 5 juin 1922 à Gap (Hautes-Alpes) ; cultivatrice.  | Ravensbrück 35247 ; Flossenbürg 50732 | https://asso-flossenburg.com/fiches/MARTIN%20-%20Pelloux%20Eglantine.pdf | Églantine Martin-Pelloux.jpg |
 | 56 | Yvonne Oddon | Née le 18 juin 1902 à Gap (Hautes-Alpes), dans une famille protestante. Morte le 7 septembre 1982 à Paris. | — | https://museedelaresistanceenligne.org/personnedetail_pdf.php?id=17151 | Yvonne Oddon.jpg |
+| 57 | Ferdinande HERBERT  | 22/10/1905 | 93870 | — | Ferdinande HERBERT .jpg |
+| 58 | Raymonde LAURENT  | 15/05/1919 | 93895 | — | Raymonde LAURENT .jpg |
+| 59 | Andrée Laurent (née Massip), dite « Miquette » | Née vers 1924. Morte le 14 février 2023 à Toulon (Var), dans sa 99e année. | — | https://asso-flossenburg.com/wp-content/uploads/2023/09/ASSOCIATION-FLOSSENBURG-KOMMANDOS-CREATION-BULLETIN-MESSAGE-N%C2%B091-6-PAGES-2023070079-_BAT.pdf | Andrée Laurent.jpg |
+| 60 | Pierrette Doize | Née en 1908. Morte en septembre 1945, des suites de sa déportation. | — | https://museedelaresistanceenligne.org/media1764-Pierre-Doize | Pierrette Doize.jpg |
+| 61 | Catherine Dior | Née Ginette Dior le 2 août 1917 à Granville (Manche) ; la famille s’installe à Callian (Var) dans les années 1930. Morte le 17 juin 2008 à Callian (Var). | — | https://fr.wikipedia.org/wiki/Catherine_Dior | Catherine Dior.jpg |
+| 62 | Josette Molland-Ilinsky | Née le 14 mai 1923 à Bourges ; elle grandit à Lyon. Morte le 17 février 2024 à Falicon (Alpes-Maritimes), à 100 ans ; inhumée à Nice. | — | https://www.lyoncapitale.fr/?p=374585 | Josette Molland-Ilinsky.jpg |
+| 63 | Jacqueline Aubéry du Boulley, dite « Jacky » | Âgée de 22 ans en 1944. | — | https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf | Jacqueline Aubéry du Boulley.jpg |
+| 64 | Hélène Podliasky, dite « Christine » | Âgée de 24 ans en 1944 ; chimiste. | — | https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf | Hélène Podliasky.jpg |
+| 65 | Jeannette L’Herminier | Née en 1907. Morte en 2007. | Ravensbrück 27459 ; Flossenbürg 50412 | https://asso-flossenburg.com/wp-content/uploads/2021/03/ASSOCIATION-FLOSSENBURG-KOMMANDOS-BULLETIN-N%C2%B0-86-FLIP-BOOK.pdf | Jeannette L'Herminier.jpg |
+| 66 | Yvonne Abbas | Née le 29 avril 1922. Morte le 13 décembre 2014. | — | https://fr.wikipedia.org/wiki/Yvonne_Abbas | Yvonne Abbas.jpg |
+| 67 | Annette Chalut | Née Annette Weill le 29 avril 1924 à Paris. Morte le 8 novembre 2021 à Paris. | — | https://fr.wikipedia.org/wiki/Annette_Chalut | Annette Chalut.jpg |
+| 68 | Gilberte Champion | Née Gilberte Gueunier le 17 avril 1913 à Paris. Morte le 18 novembre 2020 à Sucy-en-Brie, à 107 ans. | — | https://fr.wikipedia.org/wiki/Gilberte_Champion | Gilberte Champion.jpg |
+| 69 | Madeleine Cestari | Née le 7 octobre 1921. Morte le 12 août 2016. | — | https://fr.wikipedia.org/wiki/Madeleine_Cestari | Madeleine Cestari.jpg |
+| 70 | Yvette Lundy | Née en 1916. Morte le 3 novembre 2019, à 103 ans. | Ravensbrück 47360 | https://fr.timesofisrael.com/yvette-lundy-disparue-apres-une-vie-de-resistance/amp/ | Yvette Lundy.jpg |
+| 71 | Marcelle Baron (née Le Bail) | Née le 14 juillet 1909 à Nantes. Morte en 2011. | Ravensbrück 38773 | https://afmd44.org/wp-content/publications/Marcelle-Baron-1909-2011.pdf | Marcelle Baron.jpg |
+| 72 | Marie Reynoard | Née le 28 octobre 1897 à Bastia (Corse). Morte à Ravensbrück le 30 janvier 1945. | — | https://theatrum-belli.com/in-memoriam-marie-reynoard-resistante-deportee-decedee-en-janvier-1945/?pdf=361164 | Marie Reynoard.jpg |
+| 73 | Lucette Sallé | Morte en 1945 des suites de sa déportation. | Ravensbrück 39299 | https://archives.nievre.fr/document/deportations---exemple-de-lucette-salle | Lucette Sallé.jpg |
+| 74 | Mère Marie Skobtsov | Née Elizaveta Pilenko en 1891 en Russie ; réfugiée à Paris. Morte gazée à Ravensbrück le 31 mars 1945. | — | https://fr.wikipedia.org/wiki/Marie_Skobtsov | Mère Marie Skobtsov.jpg |
+| 75 | Noëlla Rouget | Née en 1919. Morte en 2020. | — | https://www.connexionfrance.com/French-news/Resistance-fighter-who-forgave-fiance-s-torturer-dies | Noëlla Rouget.jpg |
+| 76 | Gisèle Guillemot | Née en 1922. Morte en 2013. | — | https://fr.wikipedia.org/wiki/Gisèle_Guillemot | Gisèle Guillemot.jpg |
+| 77 | Berthe Aubert | Morte à Ravensbrück le 28 janvier 1945. | Ravensbrück 44608 | https://museedelaresistanceenligne.org/media2239-Andr-et-Berthe-Aubert | Berthe Aubert.jpg |
+| 78 | Jeanne Grimaud | Morte à Ravensbrück en 1944. | — | https://museedelaresistanceenligne.org/media5391-Plaque-en-hommage-A | Jeanne Grimaud.jpg |
+| 79 | Christiane Rème (née Cavelier de Cuverville) | Née en 1923 à Bonn. Morte le 1er juillet 2019. | — | https://irk-cir.org/en/members/72 | Christiane Rème.jpg |
+| 80 | Marie de Robien | — | — | https://asso-flossenburg.com/wp-content/uploads/2021/03/ASSOCIATION-FLOSSENBURG-KOMMANDOS-BULLETIN-N%C2%B0-86-FLIP-BOOK.pdf | Marie de Robien.jpg |
 
 ## Nouvelles femmes à photographier (priorité)
 
@@ -97,3 +121,4 @@ Fiches régionales créées le 12 novembre, biographies terminées, photos à tr
 - 2026-11-12 : portraits déposés dans PHOTO RESISTANTES puis reliés : Madeleine Croset (affiche municipale, crédit famille Croset), Georgette Martin (Sand Arty, média 2025), Isaure Luzet (extrait du Word des élèves). Crédits affichés au verso. Biographies inchangées.
 - Élisabeth Goupille : son témoignage Chienne de vie, je t’aime d’un amour fou, p. 5, indique explicitement qu’elle n’a pas souhaité inclure de photo. Les images du livre ne doivent pas être attribuées à Élisabeth par défaut.
 - Jeanne Martin-Valenziano : fiche associative consultée sans image. Émilienne Antetomaso : seule image du PDF 48 × 48, non retenue comme portrait sans identification. Suzanne Guyotat : recherches de portrait non concluantes ; ne pas utiliser un portrait de Pierre Guyotat.
+- 2026-11-12 : 24 fiches ajoutées pour atteindre 56 fiches à attribuer aux élèves (régionales : Andrée Laurent-Massip, Pierrette Doize, Catherine Dior, Josette Molland-Ilinsky, Jacqueline Aubéry du Boulley ; 17 autres figures de Ravensbrück).
