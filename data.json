@@ -2334,7 +2334,8 @@
       ],
       "recherche_mise_a_jour": "2026-11-12",
       "ordre_reseau": "Combat — MUR",
-      "reseau_affiche": "Combat — MUR"
+      "reseau_affiche": "Combat — MUR",
+      "region": "Provence-Alpes-Côte d'Azur"
     },
     {
       "nom": "JANE SIVADON",
@@ -2751,7 +2752,8 @@
       ],
       "recherche_mise_a_jour": "2026-11-12",
       "ordre_reseau": "Résistance communiste",
-      "reseau_affiche": "Résistance communiste"
+      "reseau_affiche": "Résistance communiste",
+      "region": "Provence-Alpes-Côte d'Azur"
     },
     {
       "nom": "GENEVIÈVE DE GAULLE ANTHONIOZ",
@@ -3002,7 +3004,8 @@
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
       "ordre_reseau": "Franc-Tireur — MUR",
-      "reseau_affiche": "Franc-Tireur — MUR"
+      "reseau_affiche": "Franc-Tireur — MUR",
+      "region": "Provence-Alpes-Côte d'Azur"
     },
     {
       "nom": "GINETTE LION CLEMENT",
@@ -5394,10 +5397,10 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "À rechercher (pays d’Arles).",
+        "naissance": "À rechercher ; un article de presse du Gard la présente comme une « porteuse de mémoire » nîmoise : origine à vérifier (Gard ou pays d’Arles).",
         "deces": null,
         "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
-        "deportation": "Déportée à Ravensbrück.",
+        "deportation": "Arrêtée sur dénonciation, incarcérée à Nîmes, à Marseille puis à Rennes ; déportée au camp de Neue Bremm (Sarrebruck), puis transférée en 1944 à Ravensbrück.",
         "memoire": "Son témoignage audiovisuel est conservé par l’association pour un musée de la Résistance et de la Déportation d’Arles.",
         "matricules": null
       },
@@ -5405,6 +5408,10 @@
         {
           "label": "Association pour un musée de la Résistance et de la Déportation d’Arles – fonds de témoignages",
           "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
+        },
+        {
+          "label": "Objectif Gard – Nîmes, la porteuse de mémoire Andrée Julien",
+          "url": "https://www.objectifgard.com/gard/nimes/nimes-la-porteuse-de-memoire-andree-julien-157559.php"
         }
       ],
       "archives_deportation": [],
@@ -5451,6 +5458,171 @@
         {
           "label": "Notice encyclopédique (Wikipédia)",
           "url": "https://fr.wikipedia.org/wiki/Martha_Desrumaux"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "MICHELINE MÉJEAN NÉE TARDIEU",
+      "nom_affiche": "Micheline Méjean (née Tardieu)",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née le 9 septembre 1913 à Avignon (Vaucluse) ; mariée, un enfant, domiciliée à Arles (Bouches-du-Rhône).",
+        "deces": null,
+        "engagement": "Membre du réseau « Mesnard et Lucien », rattaché au réseau britannique Buckmaster (« Mesnard » était le pseudonyme de Jean Méjan).",
+        "deportation": "Arrêtée par la Gestapo à son domicile d’Arles le 23 avril 1943 vers 4 heures du matin ; détenue à Marseille (Saint-Pierre puis Baumettes) et à Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février, transférée le 11 avril 1944 au kommando d’Holleischen (Flossenbürg). Libérée le 3 mai 1945 par des partisans polonais, prise en charge par les Américains le 5 mai, rapatriée par Longuyon le 20 mai 1945.",
+        "memoire": null,
+        "matricules": "Ravensbrück 27475 ; Flossenbürg 50418"
+      },
+      "sources_biographiques": [
+        {
+          "label": "Association du camp de Flossenbürg – fiche individuelle",
+          "url": "https://asso-flossenburg.com/fiches/MEJEAN%20Micheline.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "MARIE DORANGE NÉE LECOUTEY",
+      "nom_affiche": "Marie Dorange (née Lecoutey)",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née le 3 juillet 1911 à Saint-Vaast-la-Hougue (Manche) ; mariée, deux enfants, domiciliée à Marseille.",
+        "deces": null,
+        "engagement": "Membre du réseau britannique Buckmaster (« Jean-Marie ») depuis le 1er décembre 1942 : liaisons, hébergement, renseignement.",
+        "deportation": "Arrêtée à Marseille le 17 avril 1943 ; détenue à Marseille, Fresnes, Romainville et Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février, transférée le 11 avril 1944 au kommando d’Holleischen (Flossenbürg). Libérée le 3 mai 1945, rapatriée par Longuyon.",
+        "memoire": null,
+        "matricules": "Ravensbrück 27671 ; Flossenbürg 50393"
+      },
+      "sources_biographiques": [
+        {
+          "label": "Association du camp de Flossenbürg – fiche individuelle",
+          "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/Dorange-Marie.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "HENRIETTE DUVERT NÉE DEPAILLET",
+      "nom_affiche": "Henriette Duvert (née Depaillet)",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née le 21 mai 1914 à Ambert (Puy-de-Dôme) ; secrétaire, célibataire au moment de son arrestation.",
+        "deces": null,
+        "engagement": "Se réclamait de l’Armée des Volontaires ; arrêtée à Marseille alors qu’elle effectuait une liaison.",
+        "deportation": "Prise dans une souricière de la Gestapo à Marseille le 23 avril 1943 ; détenue à Marseille, Fresnes et Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février, puis kommandos de Graslitz et de Zwodau (Flossenbürg). Libérée à Zwodau par les Américains le 7 mai 1945, rapatriée par Mézières.",
+        "memoire": "Lien avec la région : arrêtée et emprisonnée à Marseille.",
+        "matricules": "Ravensbrück 27377 ; Flossenbürg 51844"
+      },
+      "sources_biographiques": [
+        {
+          "label": "Association du camp de Flossenbürg – fiche individuelle",
+          "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/Depaillet-epouse-Duvert-Henriette.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "ODETTE FABIUS NÉE SCHMOLL",
+      "nom_affiche": "Odette Fabius (née Schmoll)",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née en 1910 à Paris (8e arrondissement).",
+        "deces": "1990, à Paris.",
+        "engagement": "Engagée en novembre 1941 à Marseille dans le réseau de renseignement Alliance, en liaison avec l’Intelligence Service britannique.",
+        "deportation": "Arrêtée à Marseille par la Gestapo le 23 avril 1943, détenue à la prison Saint-Pierre puis au secret à Fresnes ; déportée à Ravensbrück, dont elle revient.",
+        "memoire": "Elle a raconté sa déportation dans « Un lever de soleil sur le Mecklembourg » (Albin Michel, 1986).",
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Odette Fabius – notice encyclopédique",
+          "url": "https://wikimonde.com/article/Odette_Fabius"
+        },
+        {
+          "label": "Bibliothèques numériques du ministère des Armées – Un lever de soleil sur le Mecklembourg",
+          "url": "https://bibliotheques-numeriques.defense.gouv.fr/impression/document/a9d4d696-8db4-4da1-a403-f684e8343375"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "JOSÉPHINE BORDANAVA",
+      "nom_affiche": "Joséphine Bordanava, dite « Josée »",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Fille de républicains espagnols exilés en France.",
+        "deces": "À rechercher.",
+        "engagement": "Entrée dans la Résistance à 18 ans ; travaille aux services sociaux de Combat à Cannes, puis à Marseille pour les Mouvements unis de la Résistance (MUR), où elle distribue des colis aux familles qui cachent des enfants juifs.",
+        "deportation": "Arrêtée le 1er mars 1944, interrogée au siège de la Gestapo, 425 rue Paradis à Marseille ; détenue aux Baumettes puis à Romainville ; déportée vers Ravensbrück le 23 juin 1944. Elle fait partie des neuf jeunes femmes qui s’évadent ensemble pendant la marche de la mort d’avril 1945.",
+        "memoire": null,
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Fondation Auschwitz – Neuf jeunes femmes à Ravensbrück (2025)",
+          "url": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "NICOLE CLARENCE",
+      "nom_affiche": "Nicole Clarence",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "À rechercher.",
+        "deces": "À rechercher.",
+        "engagement": "Membre des Éclaireurs de France en 1942, elle recueille à Marseille des renseignements sur les positions allemandes et sert d’agente de liaison ; elle rejoint ensuite le secrétariat national du mouvement Franc-Tireur à Lyon.",
+        "deportation": "Arrêtée le 4 août 1944, probablement sur dénonciation, détenue à Fresnes ; arrivée à Ravensbrück le 21 août 1944 sous le nom de Nicole Audibert. Elle fait partie des neuf jeunes femmes qui s’évadent pendant la marche de la mort d’avril 1945.",
+        "memoire": null,
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Fondation Auschwitz – Neuf jeunes femmes à Ravensbrück (2025)",
+          "url": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "NICOLE RAMBURE",
+      "nom_affiche": "Nicole Rambure",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née le 26 octobre 1920 ; elle a vécu à Marseille.",
+        "deces": "À vérifier.",
+        "engagement": "Agente de liaison, arrêtée plusieurs fois en deux ans.",
+        "deportation": "Déportée un an, à Ravensbrück puis en Tchécoslovaquie.",
+        "memoire": "Un tableau lui ayant appartenu est présenté par le Musée de la Résistance en ligne.",
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Musée de la Résistance en ligne – tableau appartenant à Nicole Rambure",
+          "url": "https://museedelaresistanceenligne.org/media.php?media=1993"
         }
       ],
       "archives_deportation": [],

@@ -121,6 +121,15 @@ Une fois les photos validées, enregistrer chaque image dans le dossier Drive de
 | 91 | Andrée Julien | À rechercher (pays d’Arles). | — | https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf | Andrée Julien.jpg |
 | 92 | Colette Laffineur | À rechercher (pays d’Arles). | — | https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf | Colette Laffineur.jpg |
 | 93 | Martha Desrumaux | Née le 18 octobre 1897 à Comines (Nord). Morte le 30 novembre 1982 à Évenos (Var). | — | https://fr.wikipedia.org/wiki/Martha_Desrumaux | Martha Desrumaux.jpg |
+| 94 | Ferdinande HERBERT  | 22/10/1905 | 93870 | — | Ferdinande HERBERT .jpg |
+| 95 | Raymonde LAURENT  | 15/05/1919 | 93895 | — | Raymonde LAURENT .jpg |
+| 96 | Micheline Méjean (née Tardieu) | Née le 9 septembre 1913 à Avignon (Vaucluse) ; mariée, un enfant, domiciliée à Arles (Bouches-du-Rhône). | Ravensbrück 27475 ; Flossenbürg 50418 | https://asso-flossenburg.com/fiches/MEJEAN%20Micheline.pdf | Micheline Méjean.jpg |
+| 97 | Marie Dorange (née Lecoutey) | Née le 3 juillet 1911 à Saint-Vaast-la-Hougue (Manche) ; mariée, deux enfants, domiciliée à Marseille. | Ravensbrück 27671 ; Flossenbürg 50393 | https://asso-flossenburg.com/wp-content/uploads/2020/04/Dorange-Marie.pdf | Marie Dorange.jpg |
+| 98 | Henriette Duvert (née Depaillet) | Née le 21 mai 1914 à Ambert (Puy-de-Dôme) ; secrétaire, célibataire au moment de son arrestation. | Ravensbrück 27377 ; Flossenbürg 51844 | https://asso-flossenburg.com/wp-content/uploads/2020/04/Depaillet-epouse-Duvert-Henriette.pdf | Henriette Duvert.jpg |
+| 99 | Odette Fabius (née Schmoll) | Née en 1910 à Paris (8e arrondissement). 1990, à Paris. | — | https://wikimonde.com/article/Odette_Fabius | Odette Fabius.jpg |
+| 100 | Joséphine Bordanava, dite « Josée » | Fille de républicains espagnols exilés en France. À rechercher. | — | https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf | Joséphine Bordanava.jpg |
+| 101 | Nicole Clarence | À rechercher. À rechercher. | — | https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf | Nicole Clarence.jpg |
+| 102 | Nicole Rambure | Née le 26 octobre 1920 ; elle a vécu à Marseille. À vérifier. | — | https://museedelaresistanceenligne.org/media.php?media=1993 | Nicole Rambure.jpg |
 
 ## Nouvelles femmes à photographier (priorité)
 
@@ -136,3 +145,4 @@ Fiches régionales créées le 12 novembre, biographies terminées, photos à tr
 - Jeanne Martin-Valenziano : fiche associative consultée sans image. Émilienne Antetomaso : seule image du PDF 48 × 48, non retenue comme portrait sans identification. Suzanne Guyotat : recherches de portrait non concluantes ; ne pas utiliser un portrait de Pierre Guyotat.
 - 2026-11-12 : 24 fiches ajoutées pour atteindre 56 fiches à attribuer aux élèves (régionales : Andrée Laurent-Massip, Pierrette Doize, Catherine Dior, Josette Molland-Ilinsky, Jacqueline Aubéry du Boulley ; 17 autres figures de Ravensbrück).
 - 2026-11-12 : 13 fiches ajoutées pour atteindre 56 fiches à attribuer aux élèves (régionales : Andrée Laurent-Massip, Pierrette Doize, Catherine Dior, Josette Molland-Ilinsky, Jacqueline Aubéry du Boulley ; 17 autres figures de Ravensbrück).
+- 2026-11-12 : 9 fiches régionales ajoutées (résistantes de la région déportées à Ravensbrück : Méjean, Dorange, Duvert, Fabius, Bordanava, Clarence, Rambure).
