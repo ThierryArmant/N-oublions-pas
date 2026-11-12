@@ -74,10 +74,10 @@ Une fois les photos validées, enregistrer chaque image dans le dossier Drive de
 | 44 | Christine VACHER | 24/02/1922 | 93859 | https://www.bddm.org/liv/details.php?id=I.261. | Christine VACHER.jpg |
 | 45 | Marie VERGE | 10/01/1890 | 93888 | https://www.bddm.org/liv/details.php?id=I.261. | Marie VERGE.jpg |
 | 46 | Suzanne Guyotat | Née le 14 juillet 1912 à Bourg-Argental (Loire). Morte le 4 février 2011 à Lyon. | — | https://fr.wikipedia.org/wiki/Suzanne_Guyotat | Suzanne Guyotat.jpg | ⚠️ l’affiche ne contient qu’un point d’interrogation : chercher ailleurs
-| 47 | Isaure Luzet | Née en décembre 1899 à Luxeuil (Haute-Saône). Morte le 14 juillet 1994 à Corenc (Isère) ; inhumée au cimetière Saint-Roch de Grenoble. | — | https://fr.wikipedia.org/wiki/Isaure_Luzet | Isaure Luzet.jpg | ✅ reliée (portrait extrait de l’affiche des élèves)
-| 48 | Madeleine Croset | Née en 1913 à L’Isle-sur-la-Sorgue (Vaucluse) ; infirmière de formation. Morte le 30 octobre 2011 à Saint-Didier (Vaucluse). | — | https://archives.vaucluse.fr/informations-transversales/toutes-les-actualites-1209/la-conference-sur-la-resistante-madeleine-croset-9526/pdf | Madeleine Croset.jpg |
+| 47 | Isaure Luzet | https://drive.google.com/file/d/1zLzZrwi9kAISwZqU-Rd5hUWouJXQ8kJO/view | Isaure Luzet.jpg | Portrait extrait de l’affiche originale des élèves, sans retouche. | reliée |
+| 48 | Madeleine Croset | https://www.islesurlasorgue.fr/exposition-madeleine-croset-deportee-et-internee-de-la-resistance-1913-2011 | Madeleine Croset.jpg | Portrait extrait de l’affiche de l’exposition de la Ville de L’Isle-sur-la-Sorgue. Illustration : Madeleine Croset, collection particulière famille Croset. Recadrage photographique, sans retouche du visage. | reliée |
 | 49 | Jeanne Martin-Valenziano | Née le 14 mars 1927 à Avignon (Vaucluse) ; sténodactylo. | Ravensbrück 79996 ; Flossenbürg 58382 | https://asso-flossenburg.com/fiches/MARTIN%20%C3%A9pouse%20Valenziano%20Jeanne.pdf | Jeanne Martin-Valenziano.jpg |
-| 50 | Georgette Martin | Née le 12 décembre 1903 ; elle vivait à Marseille. Morte le 20 octobre 2011, à 108 ans. | — | https://museedelaresistanceenligne.org/media2027-Georgette-Martin-son-domicile | Georgette Martin.jpg |
+| 50 | Georgette Martin | https://museedelaresistanceenligne.org/media2025-Portrait-de-Georgette-Martin | Georgette Martin.jpg | © Sand Arty — Droits réservés. Musée de la Résistance en ligne, média 2025. Image réduite pour l’affichage. | reliée |
 | 51 | Émilienne Antetomaso (née Tartat) | Née le 29 septembre 1903 à Marseille ; mariée, un enfant, domiciliée au Puy-en-Velay (Haute-Loire). | Ravensbrück 35306 ; Flossenbürg 50757 | https://asso-flossenburg.com/wp-content/uploads/2020/04/ANTETOMASO-nee-TARTAT-Emilienne.pdf | Émilienne Antetomaso.jpg |
 | 52 | Raymonde Tillon-Nédelec | Née Raymonde Barbé le 22 octobre 1915 à Puteaux ; militante communiste installée à Marseille. Morte le 17 juillet 2016 à Paris, à 100 ans. | — | https://fr.wikipedia.org/wiki/Raymonde_Tillon | Raymonde Tillon-Nédelec.jpg |
 | 53 | Micheline Maurel | Née le 17 juillet 1916 à Toulon (Var), fille d’Édouard Maurel, pionnier de la radio dans le Var. Morte en 2009. | — | https://bop.unibe.ch/versants/article/download/11870/14821/54905 | Micheline Maurel.jpg |
@@ -93,3 +93,7 @@ Fiches régionales créées le 12 novembre, biographies terminées, photos à tr
 
 - 2026-11-12 : création du journal, 56 fiches sans photo.
 - 2026-11-12 : 5 nouvelles fiches régionales (Raymonde Tillon, Micheline Maurel, Marie Jouffron, Églantine Martin-Pelloux, Yvonne Oddon).
+
+- 2026-11-12 : portraits déposés dans PHOTO RESISTANTES puis reliés : Madeleine Croset (affiche municipale, crédit famille Croset), Georgette Martin (Sand Arty, média 2025), Isaure Luzet (extrait du Word des élèves). Crédits affichés au verso. Biographies inchangées.
+- Élisabeth Goupille : son témoignage Chienne de vie, je t’aime d’un amour fou, p. 5, indique explicitement qu’elle n’a pas souhaité inclure de photo. Les images du livre ne doivent pas être attribuées à Élisabeth par défaut.
+- Jeanne Martin-Valenziano : fiche associative consultée sans image. Émilienne Antetomaso : seule image du PDF 48 × 48, non retenue comme portrait sans identification. Suzanne Guyotat : recherches de portrait non concluantes ; ne pas utiliser un portrait de Pierre Guyotat.
