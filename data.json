@@ -3615,6 +3615,874 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
         }
       ]
+    },
+    {
+      "nom": "SIMONE MICHEL-LÉVY",
+      "nom_affiche": "Simone Michel-Lévy",
+      "categorie": "ravensbruck",
+      "photo": {
+        "id": "1hGka1dowmosmqrZv9f0oFFvrYI5gxkvP",
+        "name": "Affiche des élèves – Simone Michel-Lévy"
+      },
+      "documents": [
+        {
+          "id": "1hGka1dowmosmqrZv9f0oFFvrYI5gxkvP",
+          "name": "Affiche des élèves – Simone Michel-Lévy",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1Oq9SCMRfK8fXelguTVvO2F-tUwezfyvT",
+          "name": "Texte des élèves – Simone Michel-Lévy",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née le 19 janvier 1906 à Chaussin (Jura).",
+        "deces": "Pendue le 13 avril 1945 au camp de Flossenbürg (Allemagne), dix jours avant la libération du camp.",
+        "engagement": "Rédactrice aux PTT, elle organise dès 1940 la résistance dans les télécommunications (réseau « Action PTT »), met en place des liaisons radio et un centre de courrier clandestin gare de Lyon pour la Confrérie Notre-Dame et l’OCM. Pseudonymes : Emma, Françoise, Madame Royale, Mademoiselle Flaubert.",
+        "deportation": "Arrêtée en novembre 1943 et torturée, elle est déportée de Compiègne le 31 janvier 1944 et arrive à Ravensbrück le 3 février. Affectée au kommando d’Holleischen (usine de munitions), elle sabote une presse avec Hélène Lignier et Noémie Suchet ; toutes trois sont transférées à Flossenbürg et pendues.",
+        "memoire": "L’une des six femmes Compagnons de la Libération (décret du 26 septembre 1945). Place Simone-Michel-Lévy à Paris ; timbre de la série « Héros de la Résistance »."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Ordre de la Libération – notice du Compagnon",
+          "url": "https://www.ordredelaliberation.fr/fr/compagnons/simone-michel-levy"
+        },
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Simone_Michel-Lévy"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "JACQUELINE FLEURY-MARIÉ",
+      "nom_affiche": "Jacqueline Fleury-Marié",
+      "categorie": "ravensbruck",
+      "photo": {
+        "id": "1dhVUE5-5btBv6Nqwqs3MA5Gnt69pqk95",
+        "name": "Affiche des élèves – Jacqueline Fleury"
+      },
+      "documents": [
+        {
+          "id": "1dhVUE5-5btBv6Nqwqs3MA5Gnt69pqk95",
+          "name": "Affiche des élèves – Jacqueline Fleury",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1qraLYimVrL3XLFheFNqBqc0S1BuYC75D",
+          "name": "Texte des élèves – Jacqueline Fleury",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Jacqueline Marié le 12 décembre 1923 à Wiesbaden (Allemagne), fille d’un ingénieur militaire.",
+        "deces": "À vérifier : le texte des élèves indique un décès en 2022, ce que les notices consultées ne confirment pas.",
+        "engagement": "À 17 ans, elle diffuse le journal Défense de la France, puis agit avec ses parents et son frère dans le réseau de renseignement Mithridate ; le domicile familial de Versailles accueille réunions et jeunes recherchés.",
+        "deportation": "Arrêtée avec sa famille en juillet 1944, torturée, internée à Fresnes, elle est déportée avec sa mère par le convoi du 15 août 1944 à Ravensbrück, puis envoyée dans des kommandos dépendant de Buchenwald (Torgau, Markkleeberg). Évadée d’une marche de la mort fin avril 1945, rapatriée fin mai.",
+        "memoire": "Présidente de l’ADIR (association des déportées et internées de la Résistance) après Geneviève de Gaulle-Anthonioz ; témoin infatigable auprès des élèves ; auteure de Résistante (2019, avec Jérôme Cordelier). Grand-croix de la Légion d’honneur."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Jacqueline_Fleury"
+        },
+        {
+          "label": "Mémorial de Buchenwald – biographie",
+          "url": "https://www.buchenwald.de/en/geschichte/biografien/bag-ausstellung/jacqueline-marie"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "MARIE DUBOIS",
+      "nom_affiche": "Marie Dubois",
+      "categorie": "ravensbruck",
+      "photo": {
+        "id": "1yqgSsFlriUdecBQ4t8pmnud1wRyqIjC0",
+        "name": "Affiche des élèves – Marie Dubois"
+      },
+      "documents": [
+        {
+          "id": "1yqgSsFlriUdecBQ4t8pmnud1wRyqIjC0",
+          "name": "Affiche des élèves – Marie Dubois",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1hbHjOiEuZWQNUZi9yVPN1FAgvbziqMIN",
+          "name": "Texte des élèves – Marie Dubois",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née le 14 octobre 1915 à Saint-Coulomb (Ille-et-Vilaine).",
+        "deces": "Morte en déportation le 8 avril 1945 à Mauthausen (Autriche).",
+        "engagement": "Militante communiste, agent de liaison du parti clandestin : avec Mounette Dutilleul elle garde puis transporte une partie des fonds du parti et participe à la mise en place de liaisons et d’une imprimerie clandestine.",
+        "deportation": "Arrêtée par la police française le 13 septembre 1941 porteuse de documents et d’argent, elle est condamnée à mort par un tribunal militaire allemand le 22 décembre 1941 — l’une des premières résistantes condamnées à mort. Peine commuée ; déportée le 17 novembre 1942 (prison de Lübeck), classée « Nuit et brouillard », puis Ravensbrück et Mauthausen.",
+        "memoire": "Son mari est mort lui aussi en déportation ; leurs deux enfants furent recueillis par l’orphelinat de la CGT « L’Avenir social »."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Marie_Dubois_(résistante)"
+        },
+        {
+          "label": "Le Maitron – dictionnaire des fusillés et militants",
+          "url": "https://maitron.fr/"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "SUZANNE GUYOTAT",
+      "nom_affiche": "Suzanne Guyotat",
+      "categorie": "ravensbruck",
+      "photo": {
+        "id": "1Uaqh8R-cBDi2bXI614DS66Ga33p8Js1c",
+        "name": "Texte des élèves – Suzanne Guyotat"
+      },
+      "documents": [
+        {
+          "id": "1Uaqh8R-cBDi2bXI614DS66Ga33p8Js1c",
+          "name": "Texte des élèves – Suzanne Guyotat",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née le 14 juillet 1912 à Bourg-Argental (Loire).",
+        "deces": "Morte le 4 février 2011 à Lyon.",
+        "engagement": "Bibliothécaire, proche de Philippe Viannay, elle dirige début 1942 Défense de la France en zone sud, puis siège au comité directeur à Paris (liaisons zone nord / zone sud et avec Combat) ; elle monte une imprimerie de faux papiers et des Cahiers de Défense de la France.",
+        "deportation": "Arrêtée le 4 avril 1944, torturée, internée à Fresnes et Romainville, elle est déportée le 15 août 1944 à Ravensbrück (« 57 000 »), puis à Torgau et au camp de Königsberg-sur-l’Oder, libéré par l’Armée rouge en février 1945.",
+        "memoire": "Croix de guerre 1939-1945, médaille de la Résistance, officier de la Légion d’honneur (1970)."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Suzanne_Guyotat"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "SUZANNE ORTS",
+      "nom_affiche": "Suzanne Orts (née Pic)",
+      "categorie": "ravensbruck",
+      "photo": {
+        "id": "1XbdQX2jbbzwUjPYAgk-Ax2EZArYueHpH",
+        "name": "Texte des élèves – Suzanne Orts"
+      },
+      "documents": [
+        {
+          "id": "1XbdQX2jbbzwUjPYAgk-Ax2EZArYueHpH",
+          "name": "Texte des élèves – Suzanne Orts",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Suzanne Pic, dite « Suzon », lycéenne à Mâcon en 1943.",
+        "deces": null,
+        "engagement": "À 14 ans, avec sa mère, elle rejoint le réseau Marco Polo : tracts gaullistes, liaisons pour le maquis de Beaubery, puis renseignement sur les défenses allemandes du Sud et liaisons Mâcon–Perpignan.",
+        "deportation": "Arrêtée sur dénonciation le 21 mai 1944 à 17 ans, isolée à la citadelle de Perpignan, transférée à Romainville, elle est déportée avec sa mère à Neue Bremm puis à Ravensbrück (fin juin 1944) et au kommando HASAG de Leipzig (Buchenwald), où elle est gravement blessée. Marche de la mort en avril 1945, rapatriée le 18 mai.",
+        "memoire": "Les objets confectionnés au camp sont conservés au musée de la Résistance et de la Déportation de Castelnau-le-Lez (Hérault)."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Suzanne_Orts"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "BERTY ALBRECHT",
+      "nom_affiche": "Berty Albrecht",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1G9O56YckwjCat2ZiH7idtLSqRBCQ6EgC",
+        "name": "Affiche des élèves – Berty Albrecht"
+      },
+      "documents": [
+        {
+          "id": "1G9O56YckwjCat2ZiH7idtLSqRBCQ6EgC",
+          "name": "Affiche des élèves – Berty Albrecht",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "15cKM7cMbdLv8Z_KtswDinAtOY5IvTdvp",
+          "name": "Texte des élèves – Berty Albrecht",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Berthie Wild le 15 février 1893 à Marseille.",
+        "deces": "Morte le 31 mai 1943 à la prison de Fresnes, dans des circonstances restées obscures.",
+        "engagement": "Surintendante d’usine et militante féministe, elle cofonde avec Henri Frenay le Mouvement de libération nationale puis Combat ; elle crée le service social du mouvement et participe au journal clandestin.",
+        "deportation": "Arrêtée une première fois en 1942, internée, elle s’évade ; reprise par la Gestapo à Mâcon le 28 mai 1943, elle est transférée à Fresnes où elle meurt quelques jours plus tard. Elle n’a pas été déportée.",
+        "memoire": "Compagnon de la Libération (26 août 1943) ; l’une des deux femmes inhumées au Mémorial de la France combattante du Mont-Valérien."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Ordre de la Libération – notice du Compagnon",
+          "url": "https://www.ordredelaliberation.fr/fr/compagnons/berty-albrecht"
+        },
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Berty_Albrecht"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "GILBERTE BROSSOLETTE",
+      "nom_affiche": "Gilberte Brossolette",
+      "categorie": "engagees",
+      "photo": {
+        "id": "10UrYF9-hlUSc5wB7CGkHxnags44GodeX",
+        "name": "Affiche des élèves – Gilberte Brossolette"
+      },
+      "documents": [
+        {
+          "id": "10UrYF9-hlUSc5wB7CGkHxnags44GodeX",
+          "name": "Affiche des élèves – Gilberte Brossolette",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1OWgbUwlzUielkUUYMzstpWCVZ_bZUVgZ",
+          "name": "Texte des élèves – Gilberte Brossolette",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Gilberte Bruel le 21 juin 1905 à Paris.",
+        "deces": "Morte le 12 mars 2004 à Paris.",
+        "engagement": "Épouse de Pierre Brossolette, elle tient avec lui une librairie rue de la Pompe, lieu de rendez-vous de la Résistance, puis rejoint Londres en 1942 et travaille pour la France libre (BCRA, radio).",
+        "deportation": "Non déportée. Son mari, arrêté en 1944, se jette d’une fenêtre du siège de la Gestapo pour ne pas parler.",
+        "memoire": "Après la Libération, l’une des premières femmes sénatrices (1946) et première femme vice-présidente du Conseil de la République."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Gilberte_Brossolette"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "JOSÉPHINE BAKER",
+      "nom_affiche": "Joséphine Baker",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1Km5wZmWV4OKw2cp-K1raMPCDCWQ6CP7y",
+        "name": "Affiche des élèves – Joséphine Baker"
+      },
+      "documents": [
+        {
+          "id": "1Km5wZmWV4OKw2cp-K1raMPCDCWQ6CP7y",
+          "name": "Affiche des élèves – Joséphine Baker",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "10dAEmAfOiZxZw1lv2yeIWOKTfVFucyAM",
+          "name": "Texte des élèves – Joséphine Baker",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Freda Josephine McDonald le 3 juin 1906 à Saint-Louis (États-Unis).",
+        "deces": "Morte le 12 avril 1975 à Paris.",
+        "engagement": "Artiste naturalisée française en 1937, elle devient dès 1939 agent de renseignement du contre-espionnage, transporte des messages cachés dans ses partitions, puis s’engage dans les Forces aériennes françaises libres en Afrique du Nord.",
+        "deportation": "Non déportée.",
+        "memoire": "Croix de guerre, médaille de la Résistance, Légion d’honneur ; engagée contre le racisme (marche de Washington, 1963). Entrée au Panthéon le 30 novembre 2021."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Chemins de mémoire – ministère des Armées",
+          "url": "https://www.cheminsdememoire.gouv.fr/fr/josephine-baker"
+        },
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Joséphine_Baker"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "SUZANNE NOËL",
+      "nom_affiche": "Suzanne Noël",
+      "categorie": "engagees",
+      "photo": {
+        "id": "16annYT9QXBtvtz4MMe6zYYGKRYztI7cp",
+        "name": "Affiche des élèves – Suzanne Noël"
+      },
+      "documents": [
+        {
+          "id": "16annYT9QXBtvtz4MMe6zYYGKRYztI7cp",
+          "name": "Affiche des élèves – Suzanne Noël",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1RMFN7-UHt6eBZ6BKBN0IVR46z-wftOLL",
+          "name": "Texte des élèves – Suzanne Noël",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Suzanne Gros le 19 janvier 1878 à Laon (Aisne).",
+        "deces": "Morte le 11 novembre 1954 à Paris.",
+        "engagement": "Pionnière de la chirurgie esthétique et réparatrice (soins aux « gueules cassées » de 1914-1918), militante féministe, fondatrice du Soroptimist en France. Sous l’Occupation, elle aide la Résistance, notamment en modifiant le visage de personnes recherchées.",
+        "deportation": "Non déportée.",
+        "memoire": "Figure du droit de vote des femmes et de la place des femmes dans la médecine."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Suzanne_Noël"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "THÉRÈSE PAPILLON",
+      "nom_affiche": "Thérèse Papillon",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1MMyU6FzbFbhdGJYDpH9pMR3POy3zAH4t",
+        "name": "Affiche des élèves – Thérèse Papillon"
+      },
+      "documents": [
+        {
+          "id": "1MMyU6FzbFbhdGJYDpH9pMR3POy3zAH4t",
+          "name": "Affiche des élèves – Thérèse Papillon",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1acuQgr1eN2fX9xwNXF0N2O16N4kzJnDR",
+          "name": "Texte des élèves – Thérèse Papillon",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née le 10 septembre 1886 à Tournan-en-Brie (Seine-et-Marne).",
+        "deces": "Morte le 21 mars 1983 à Amiens ; inhumée à l’abbaye de Valloires.",
+        "engagement": "Infirmière-major décorée en 1914-1918 (Légion d’honneur, croix de guerre, campagne de Serbie), fondatrice du préventorium de l’abbaye de Valloires (Somme). Membre de l’OCM et du réseau Centurie, elle cache des aviateurs alliés et des enfants juifs, faisant tousser les enfants pour faire croire aux Allemands à la tuberculose.",
+        "deportation": "Non déportée.",
+        "memoire": "Reconnue Juste parmi les Nations par Yad Vashem."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Musée de la Résistance en ligne – notice",
+          "url": "https://www.museedelaresistanceenligne.org/personnedetail_pdf.php?id=38146"
+        },
+        {
+          "label": "Yad Vashem – base des Justes parmi les Nations",
+          "url": "https://collections.yadvashem.org/fr/righteous"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "GERMAINE RIBIÈRE",
+      "nom_affiche": "Germaine Ribière",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1b5OqFEtDMXcSidIejXkunm4KQWmw1er2",
+        "name": "Affiche des élèves – Germaine Ribière"
+      },
+      "documents": [
+        {
+          "id": "1b5OqFEtDMXcSidIejXkunm4KQWmw1er2",
+          "name": "Affiche des élèves – Germaine Ribière",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1tQ-a7YdG5gLcX3l0aZrjGjEsb-Eo3kUX",
+          "name": "Texte des élèves – Germaine Ribière",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née le 21 avril 1917 à Limoges.",
+        "deces": "Morte en 1999.",
+        "engagement": "Étudiante catholique à Lyon, elle participe aux Cahiers du Témoignage chrétien et à l’Amitié chrétienne ; elle cache et fait passer des familles juives, et alerte avant la rafle du Vél d’Hiv et les rafles de zone sud.",
+        "deportation": "Non déportée.",
+        "memoire": "L’une des premières Françaises reconnues Justes parmi les Nations (1967) ; devenue ensuite assistante sociale."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Europe Remembers – biographie",
+          "url": "https://www.europeremembers.com/stories/533/germaine-ribiere"
+        },
+        {
+          "label": "Yad Vashem – base des Justes parmi les Nations",
+          "url": "https://collections.yadvashem.org/fr/righteous"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "ISAURE LUZET",
+      "nom_affiche": "Isaure Luzet",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1zLzZrwi9kAISwZqU-Rd5hUWouJXQ8kJO",
+        "name": "Affiche des élèves – Isaure Luzet"
+      },
+      "documents": [
+        {
+          "id": "1zLzZrwi9kAISwZqU-Rd5hUWouJXQ8kJO",
+          "name": "Affiche des élèves – Isaure Luzet",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née en décembre 1899 à Luxeuil (Haute-Saône).",
+        "deces": "Morte le 14 juillet 1994 à Corenc (Isère) ; inhumée au cimetière Saint-Roch de Grenoble.",
+        "engagement": "Pharmacienne à Grenoble (pharmacie « Au Dragon », poste de la Croix-Rouge), cheftaine de guides, elle fabrique de faux papiers et organise le transport d’enfants juifs avec des religieuses de Notre-Dame-de-Sion ; elle cache des fugitifs chez elle.",
+        "deportation": "Non déportée. À la Libération, elle accueille pour la Croix-Rouge les déportés rapatriés.",
+        "memoire": "Conseillère municipale de Grenoble (1947-1959), mêlée à l’affaire Finaly ; reconnue Juste parmi les Nations en 1988."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Isaure_Luzet"
+        },
+        {
+          "label": "Yad Vashem – base des Justes parmi les Nations",
+          "url": "https://collections.yadvashem.org/fr/righteous"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "MARIE HACKIN",
+      "nom_affiche": "Marie Hackin",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1AgodVTDNaOgLUtJg9pI6z1-Wm7y5zxgi",
+        "name": "Affiche des élèves – Marie Hackin"
+      },
+      "documents": [
+        {
+          "id": "1AgodVTDNaOgLUtJg9pI6z1-Wm7y5zxgi",
+          "name": "Affiche des élèves – Marie Hackin",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Marie Parmentier le 7 septembre 1905 à Rombas (Moselle).",
+        "deces": "Disparue en mer le 24 février 1941, lorsque son navire est torpillé au large des îles Féroé.",
+        "engagement": "Archéologue (fouilles de Bagram en Afghanistan avec son mari Joseph Hackin), elle rallie la France libre à Londres dès 1940 et devient sous-lieutenant au Corps des volontaires françaises.",
+        "deportation": "Non déportée.",
+        "memoire": "L’une des six femmes Compagnons de la Libération (1942)."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Ordre de la Libération – notice du Compagnon",
+          "url": "https://www.ordredelaliberation.fr/fr/compagnons/marie-hackin"
+        },
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Marie_Hackin"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "MARIE-MADELEINE FOURCADE",
+      "nom_affiche": "Marie-Madeleine Fourcade",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1XyY_AElXFTL10k8SklfSrXhPjbZmVb_s",
+        "name": "Affiche des élèves – Marie-Madeleine Fourcade"
+      },
+      "documents": [
+        {
+          "id": "1XyY_AElXFTL10k8SklfSrXhPjbZmVb_s",
+          "name": "Affiche des élèves – Marie-Madeleine Fourcade",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Marie-Madeleine Bridou le 8 novembre 1909 à Marseille.",
+        "deces": "Morte le 20 juillet 1989 à Paris ; premières obsèques d’une femme aux Invalides.",
+        "engagement": "Chef du réseau de renseignement Alliance (environ 3 000 membres), le plus grand réseau lié à l’Intelligence Service ; nom de code « Hérisson ».",
+        "deportation": "Arrêtée deux fois, elle s’évade notamment de la caserne d’Aix-en-Provence en se glissant entre les barreaux (juillet 1944). Non déportée ; plusieurs centaines de membres d’Alliance moururent en déportation.",
+        "memoire": "Auteure de L’Arche de Noé ; présidente du comité d’action de la Résistance."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Chemins de mémoire – ministère des Armées",
+          "url": "https://www.cheminsdememoire.gouv.fr/fr/marie-madeleine-fourcade"
+        },
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Marie-Madeleine_Fourcade"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "DANIELLE CASANOVA",
+      "nom_affiche": "Danielle Casanova (Vincentella Perini)",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1CJ4RTT47dfvKpSA3Ge1ClKdFe3kmR2pR",
+        "name": "Affiche des élèves – Vincentella Perini"
+      },
+      "documents": [
+        {
+          "id": "1CJ4RTT47dfvKpSA3Ge1ClKdFe3kmR2pR",
+          "name": "Affiche des élèves – Vincentella Perini",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1C7mUsSSnJDeCupmJLiMo8JnOlB461ATD",
+          "name": "Texte des élèves – Danielle Casanova",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Vincentella Perini le 9 janvier 1909 à Ajaccio (Corse).",
+        "deces": "Morte du typhus le 9 mai 1943 à Auschwitz-Birkenau.",
+        "engagement": "Chirurgienne-dentiste, militante communiste, fondatrice de l’Union des jeunes filles de France ; dans la clandestinité, elle organise les comités féminins et la presse clandestine.",
+        "deportation": "Arrêtée en février 1942, internée à Romainville, elle est déportée à Auschwitz par le convoi du 24 janvier 1943 (« convoi des 31 000 ») avec Charlotte Delbo et Marie-Claude Vaillant-Couturier ; dentiste au Revier, elle y meurt du typhus. Déportée à Auschwitz et non à Ravensbrück.",
+        "memoire": "Légion d’honneur à titre posthume ; de nombreuses rues et écoles portent son nom."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Danielle_Casanova"
+        },
+        {
+          "label": "Musée de la Résistance en ligne – notice",
+          "url": "https://www.museedelaresistanceenligne.org/personnedetail_pdf.php?id=11819"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "SIMONE VEIL",
+      "nom_affiche": "Simone Veil",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1Uamh5A_MklZ8Nyt6MHhTCPNeO1Q6orFj",
+        "name": "Affiche des élèves – Simone Veil"
+      },
+      "documents": [
+        {
+          "id": "1Uamh5A_MklZ8Nyt6MHhTCPNeO1Q6orFj",
+          "name": "Affiche des élèves – Simone Veil",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "10D8cj9l1qhnzHb2LDHCGI7wFpBS6rujH",
+          "name": "Texte des élèves – Simone Veil et Yvonne Pagniez",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Simone Jacob le 13 juillet 1927 à Nice.",
+        "deces": "Morte le 30 juin 2017 à Paris.",
+        "engagement": "Persécutée comme juive ; sa sœur Denise (Denise Vernay) est résistante.",
+        "deportation": "Arrêtée à Nice le 30 mars 1944, déportée de Drancy à Auschwitz-Birkenau (convoi 71, 13 avril 1944) avec sa mère et sa sœur Madeleine, puis à Bergen-Belsen, libérée le 15 avril 1945. Sa mère, son père et son frère ne sont pas revenus. Déportée à Auschwitz et non à Ravensbrück.",
+        "memoire": "Magistrate, ministre de la Santé (loi de 1975 sur l’IVG), première présidente du Parlement européen élu (1979), présidente de la Fondation pour la mémoire de la Shoah. Entrée au Panthéon en 2018."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Simone_Veil"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "FRANÇOISE SELIGMANN",
+      "nom_affiche": "Françoise Seligmann (née Claudine Jullien)",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1hDa8-UlnqJqXDb2w4o1vMssl7T-a6Xp3",
+        "name": "Affiche des élèves – Claudine Jullien"
+      },
+      "documents": [
+        {
+          "id": "1hDa8-UlnqJqXDb2w4o1vMssl7T-a6Xp3",
+          "name": "Affiche des élèves – Claudine Jullien / Françoise Seligmann",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1dNIydlwUKQbiBL4T4lcC682MpzhNdTSs",
+          "name": "Texte des élèves – Françoise Seligmann",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Claudine Jullien le 9 juin 1919 à Marseille.",
+        "deces": "Morte le 27 février 2013 à Neuilly-sur-Seine (l’affiche indique 2017).",
+        "engagement": "Avec le pasteur Roland de Pury, elle organise dès 1941 une filière d’évasion vers la Suisse (Archamps) et fait passer une centaine de juifs et de réfugiés ; membre de Combat (service social, NAP), puis des MUR ; elle participe en 1944 à l’évasion d’une résistante à Blois.",
+        "deportation": "Non déportée.",
+        "memoire": "Directrice du service social du MLN (1944), militante de la Ligue des droits de l’Homme, opposante à la torture en Algérie, sénatrice des Hauts-de-Seine (1992-1995)."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Françoise_Seligmann"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "ÉLISABETH RISLER-FRANÇOIS",
+      "nom_affiche": "Élisabeth Risler-François",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1DrIprFPzR6vDNEmo4xVU2cto4hQhSOT3",
+        "name": "Affiche des élèves – Élisabeth Risler-François"
+      },
+      "documents": [
+        {
+          "id": "1DrIprFPzR6vDNEmo4xVU2cto4hQhSOT3",
+          "name": "Affiche des élèves – Élisabeth Risler-François",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1I_fBI6qTo9_3Lhaub5Jor-OGeVZz2NSL",
+          "name": "Fiche orale des élèves – Élisabeth Risler-François",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née le 2 avril 1905 à Paris.",
+        "deces": "Morte le 20 août 1989 à Saint-Cloud.",
+        "engagement": "Responsable de la Fédération française des éclaireuses, elle organise avec son mari Pierre François le placement d’enfants juifs dans une maison d’enfants protestante.",
+        "deportation": "Non déportée.",
+        "memoire": "Reconnue Juste parmi les Nations avec son époux le 31 mai 2011 ; l’allée des Justes de Vichy honore leur nom. Après-guerre, elle crée le scoutisme marin des éclaireuses."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Yad Vashem – base des Justes parmi les Nations",
+          "url": "https://collections.yadvashem.org/fr/righteous"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "ÉLISABETH DUSSAUZE",
+      "nom_affiche": "Élisabeth (Lisbeth) Dussauze",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1KcYR3y-Q0ZFeyrujKgMbfpyhIi6lN4xo",
+        "name": "Affiche des élèves – Élisabeth Dussauze"
+      },
+      "documents": [
+        {
+          "id": "1KcYR3y-Q0ZFeyrujKgMbfpyhIi6lN4xo",
+          "name": "Affiche des élèves – Élisabeth Dussauze",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1k1QOMHl0GjucAHKZD3Bs2nzPuB53X9oP",
+          "name": "Texte des élèves – Élisabeth Dussauze",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née le 29 décembre 1914 à Londres, dans une famille protestante.",
+        "deces": "Morte en 1983 (selon l’affiche des élèves).",
+        "engagement": "Surintendante d’usine, membre du groupe Ricou puis du comité directeur de Combat Zone Nord (janvier 1942). Son frère Paul, résistant, est guillotiné le 7 janvier 1944.",
+        "deportation": "Arrêtée dans la nuit du 3 au 4 février 1942, détenue à la Santé, transférée en Allemagne (Sarrebruck, Cologne), condamnée à mort le 12 octobre 1943 ; peine non exécutée. Détenue dans des prisons et bagnes du Reich, elle s’évade pendant une marche de la mort en 1945 et rentre en France en mai 1945.",
+        "memoire": "Commandeur de la Légion d’honneur, croix de guerre 1939-1945, médaille de la Résistance avec rosette. Notice à compléter à partir des archives (SHD, Vincennes)."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Texte de recherche des élèves (Drive du projet)",
+          "url": "https://drive.google.com/file/d/1k1QOMHl0GjucAHKZD3Bs2nzPuB53X9oP/view"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "ÉMILIENNE MOREAU-EVRARD",
+      "nom_affiche": "Émilienne Moreau-Evrard",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1d6R9Pyn_lxckvb2jOPXyZDNElJA4QdcS",
+        "name": "Affiche des élèves – Émilienne Moreau-Evrard"
+      },
+      "documents": [
+        {
+          "id": "1d6R9Pyn_lxckvb2jOPXyZDNElJA4QdcS",
+          "name": "Affiche des élèves – Émilienne Moreau-Evrard",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1zd1dfEPVhZO0Hu8j5gu-0WFcPQ9_q2IA",
+          "name": "Affiche (PDF) – Émilienne Moreau-Evrard",
+          "mime": "application/pdf"
+        },
+        {
+          "id": "11DjM-w9amuFa64mUqutCglCHlBICsfHO",
+          "name": "Texte des élèves – Émilienne Moreau-Evrard",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née le 4 juin 1898 à Wingles (Pas-de-Calais).",
+        "deces": "Morte le 5 janvier 1971 à Lens.",
+        "engagement": "« Héroïne de Loos » en 1915 (soins aux blessés et combat aux côtés des soldats britanniques), elle reprend la lutte en 1940 dans le réseau Brutus et le mouvement La France au combat dans le Nord, avant de gagner Londres en 1944.",
+        "deportation": "Non déportée.",
+        "memoire": "L’une des six femmes Compagnons de la Libération (1945)."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Ordre de la Libération – notice du Compagnon",
+          "url": "https://www.ordredelaliberation.fr/fr/compagnons/emilienne-moreau-evrard"
+        },
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Émilienne_Moreau-Evrard"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "LUCIE AUBRAC",
+      "nom_affiche": "Lucie Aubrac",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1ZFg8um8H9ZDD7mTumm4OXPI3Vrnag9R5",
+        "name": "Affiche des élèves – Lucie Aubrac"
+      },
+      "documents": [
+        {
+          "id": "1ZFg8um8H9ZDD7mTumm4OXPI3Vrnag9R5",
+          "name": "Affiche des élèves – Lucie Aubrac",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "1JTpvEHSvTxBIQQ7168QZHadvbTWAdtXO",
+          "name": "Texte des élèves – Lucie Aubrac",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Lucie Bernard le 29 juin 1912 à Paris (Mâcon selon certaines notices).",
+        "deces": "Morte le 14 mars 2007 à Issy-les-Moulineaux.",
+        "engagement": "Professeure d’histoire, cofondatrice de Libération-Sud avec son mari Raymond ; elle organise en octobre 1943 à Lyon l’attaque d’un camion allemand pour libérer Raymond Aubrac et d’autres résistants.",
+        "deportation": "Non déportée ; elle gagne Londres en février 1944.",
+        "memoire": "Première femme à siéger dans une assemblée parlementaire française (Assemblée consultative provisoire, 1944) ; grande voix du témoignage auprès des élèves."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Chemins de mémoire – ministère des Armées",
+          "url": "https://www.cheminsdememoire.gouv.fr/fr/lucie-aubrac"
+        },
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Lucie_Aubrac"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+    },
+    {
+      "nom": "MARIE CURIE",
+      "nom_affiche": "Marie Curie",
+      "categorie": "engagees",
+      "photo": {
+        "id": "1zQuBKa-27fzY4f5yaTEZbsoxf8ozKd5K",
+        "name": "Affiche des élèves – Marie Curie"
+      },
+      "documents": [
+        {
+          "id": "1zQuBKa-27fzY4f5yaTEZbsoxf8ozKd5K",
+          "name": "Affiche des élèves – Marie Curie",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "192PeXRoVWd0oXw5YPPo3itVp-ZzbbQn4",
+          "name": "Texte des élèves – Marie Curie",
+          "mime": "application/pdf"
+        }
+      ],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née Maria Skłodowska le 7 novembre 1867 à Varsovie.",
+        "deces": "Morte le 4 juillet 1934 à Passy (Haute-Savoie).",
+        "engagement": "Physicienne et chimiste, deux prix Nobel (1903, 1911). Pendant la Première Guerre mondiale, elle crée les unités de radiologie mobiles (« petites Curies ») pour soigner les blessés. Elle est morte avant la Seconde Guerre mondiale : elle figure ici comme femme engagée, non comme résistante.",
+        "deportation": "Sans objet.",
+        "memoire": "Entrée au Panthéon en 1995, première femme honorée pour ses propres mérites."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Marie_Curie"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
     }
   ],
   "hommes": [
