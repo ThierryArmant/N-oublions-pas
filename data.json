@@ -2335,7 +2335,12 @@
       "recherche_mise_a_jour": "2026-11-12",
       "ordre_reseau": "Combat — MUR",
       "reseau_affiche": "Combat — MUR",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Avignon",
+        "departement": "84",
+        "lien": "Engagement"
+      }
     },
     {
       "nom": "JANE SIVADON",
@@ -2757,7 +2762,12 @@
       "recherche_mise_a_jour": "2026-11-12",
       "ordre_reseau": "Résistance communiste",
       "reseau_affiche": "Résistance communiste",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Aubagne",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "GENEVIÈVE DE GAULLE ANTHONIOZ",
@@ -3003,13 +3013,22 @@
         {
           "label": "Notice biographique / source de référence",
           "url": "https://www.fondationresistance.org/recherche-et-documentation/ressources/portrait/denise-vernay-jacob/"
+        },
+        {
+          "label": "Mémorial de la Shoah – Famille Jacob, enfance de Denise à Nice",
+          "url": "https://www.memorialdelashoah.org/exposition-simone-veil-biographie-famille-jacob.html"
         }
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
       "ordre_reseau": "Franc-Tireur — MUR",
       "reseau_affiche": "Franc-Tireur — MUR",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Nice",
+        "departement": "06",
+        "lien": "Vie et engagement"
+      }
     },
     {
       "nom": "GINETTE LION CLEMENT",
@@ -4500,6 +4519,11 @@
       "photo_source": {
         "label": "Portrait extrait de l’affiche de l’exposition de la Ville de L’Isle-sur-la-Sorgue. Illustration : Madeleine Croset, collection particulière famille Croset. Recadrage photographique, sans retouche du visage.",
         "url": "https://www.islesurlasorgue.fr/exposition-madeleine-croset-deportee-et-internee-de-la-resistance-1913-2011"
+      },
+      "provenance_region": {
+        "commune": "L’Isle-sur-la-Sorgue",
+        "departement": "84",
+        "lien": "Naissance"
       }
     },
     {
@@ -4522,7 +4546,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Avignon",
+        "departement": "84",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "GEORGETTE MARTIN",
@@ -4557,6 +4586,11 @@
       "photo_source": {
         "label": "© Sand Arty — Droits réservés. Musée de la Résistance en ligne, média 2025. Image réduite pour l’affichage.",
         "url": "https://museedelaresistanceenligne.org/media2025-Portrait-de-Georgette-Martin"
+      },
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Vie et engagement"
       }
     },
     {
@@ -4579,7 +4613,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "RAYMONDE TILLON",
@@ -4613,6 +4652,11 @@
       "photo_source": {
         "label": "Assemblée nationale, base Sycomore, notice 5522 : Raymonde Nédelec née Barbé, épouse Tillon. Image réduite.",
         "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/5522"
+      },
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Vie et engagement"
       }
     },
     {
@@ -4647,6 +4691,11 @@
       "photo_source": {
         "label": "Portrait publié par Les Éditions de Minuit sur la notice de Micheline Maurel ; photographe non précisé. Image réduite.",
         "url": "https://www.leseditionsdeminuit.fr/auteur-Micheline_Maurel-1613-1-1-0-1.html"
+      },
+      "provenance_region": {
+        "commune": "Toulon",
+        "departement": "83",
+        "lien": "Naissance"
       }
     },
     {
@@ -4669,7 +4718,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Vie et engagement"
+      }
     },
     {
       "nom": "ÉGLANTINE MARTIN ÉPOUSE PELLOUX",
@@ -4691,7 +4745,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Gap",
+        "departement": "05",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "YVONNE ODDON",
@@ -4725,6 +4784,11 @@
       "photo_source": {
         "label": "© Service historique de la Défense, GR 16 P 448886 — Musée de la Résistance en ligne, média 10456. Image réduite.",
         "url": "https://www.museedelaresistanceenligne.org/media10456-Yvonne-Oddon"
+      },
+      "provenance_region": {
+        "commune": "Gap",
+        "departement": "05",
+        "lien": "Naissance"
       }
     },
     {
@@ -4748,7 +4812,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Toulon",
+        "departement": "83",
+        "lien": "Lieu de vie"
+      }
     },
     {
       "nom": "PIERRETTE DOIZE",
@@ -4775,7 +4844,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille · Miramas · Salon-de-Provence",
+        "departement": "13",
+        "lien": "Vie et engagement"
+      }
     },
     {
       "nom": "CATHERINE DIOR",
@@ -4806,7 +4880,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Callian",
+        "departement": "83",
+        "lien": "Lieu de vie"
+      }
     },
     {
       "nom": "JOSETTE MOLLAND-ILINSKY",
@@ -4833,7 +4912,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Falicon",
+        "departement": "06",
+        "lien": "Lieu de vie"
+      }
     },
     {
       "nom": "JACQUELINE AUBÉRY DU BOULLEY",
@@ -4856,7 +4940,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Antibes",
+        "departement": "06",
+        "lien": "Engagement"
+      }
     },
     {
       "nom": "HÉLÈNE PODLIASKY",
@@ -5304,7 +5393,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "MARIE-LOUISE SOUQUE NÉE RIPERT",
@@ -5327,7 +5421,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Belgentier",
+        "departement": "83",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "JULIETTE EYRAUD",
@@ -5350,7 +5449,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Graveson",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "LAURENCE CAILA",
@@ -5373,7 +5477,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Cannes",
+        "departement": "06",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "RAYMONDE TEMMERMANN",
@@ -5396,7 +5505,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "THÉRÉSA WASILEWSKA",
@@ -5419,7 +5533,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Nice",
+        "departement": "06",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "JEANNETTE CASTELLANO",
@@ -5442,7 +5561,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "?",
+        "departement": "?",
+        "lien": "Provenance"
+      }
     },
     {
       "nom": "CHRISTIANE FAMERY",
@@ -5465,7 +5589,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "?",
+        "departement": "?",
+        "lien": "Provenance"
+      }
     },
     {
       "nom": "ANDRÉE JULIEN",
@@ -5492,7 +5621,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "?",
+        "departement": "?",
+        "lien": "Provenance"
+      }
     },
     {
       "nom": "COLETTE LAFFINEUR",
@@ -5515,7 +5649,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "?",
+        "departement": "?",
+        "lien": "Provenance"
+      }
     },
     {
       "nom": "MARTHA DESRUMAUX",
@@ -5546,6 +5685,11 @@
         "label": "Femmes Françaises, 26 avril 1945 ; Gallica / BnF. Recadrage Benoît Prieur, Wikimedia Commons, CC BY-SA 4.0 ; image réduite.",
         "url": "https://commons.wikimedia.org/wiki/File:Martha_Desrumaux_a_la_une_de_femmes_francaises_26-4-1945_(cropped).png",
         "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "provenance_region": {
+        "commune": "Évenos",
+        "departement": "83",
+        "lien": "Lieu de vie"
       }
     },
     {
@@ -5569,7 +5713,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Avignon",
+        "departement": "84",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "MARIE DORANGE NÉE LECOUTEY",
@@ -5592,7 +5741,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Vie et engagement"
+      }
     },
     {
       "nom": "HENRIETTE DUVERT NÉE DEPAILLET",
@@ -5615,7 +5769,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Liaison et arrestation"
+      }
     },
     {
       "nom": "ODETTE FABIUS NÉE SCHMOLL",
@@ -5642,7 +5801,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Engagement"
+      }
     },
     {
       "nom": "JOSÉPHINE BORDANAVA",
@@ -5682,7 +5846,12 @@
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur",
       "ordre_reseau": "Combat ; MUR",
-      "reseau_affiche": "Combat ; MUR"
+      "reseau_affiche": "Combat ; MUR",
+      "provenance_region": {
+        "commune": "Cannes (06) · Marseille",
+        "departement": "13",
+        "lien": "Engagement"
+      }
     },
     {
       "nom": "NICOLE CLARENCE",
@@ -5711,7 +5880,12 @@
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur",
       "ordre_reseau": "Franc-Tireur ; Buckmaster Acolyte ; MUR / MLN",
-      "reseau_affiche": "Franc-Tireur ; Buckmaster Acolyte ; MUR / MLN"
+      "reseau_affiche": "Franc-Tireur ; Buckmaster Acolyte ; MUR / MLN",
+      "provenance_region": {
+        "commune": "Nice (06) · Marseille",
+        "departement": "13",
+        "lien": "Lieu de vie"
+      }
     },
     {
       "nom": "NICOLE RAMBURE",
@@ -5744,7 +5918,12 @@
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur",
       "ordre_reseau": "FTPF",
-      "reseau_affiche": "FTPF"
+      "reseau_affiche": "FTPF",
+      "provenance_region": {
+        "commune": "Marseille · Martigues",
+        "departement": "13",
+        "lien": "Lieu de vie"
+      }
     },
     {
       "nom": "LUCIENNE VANUCCI",
@@ -5773,7 +5952,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Nice",
+        "departement": "06",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "JEANNE CLAVET",
@@ -5802,7 +5986,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "ÉMILIE HAFFENBACH",
@@ -5831,7 +6020,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "L’Isle-sur-la-Sorgue",
+        "departement": "84",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "GEORGETTE BERTHET",
@@ -5864,7 +6058,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Gap",
+        "departement": "05",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "AGNÈS KIRMANN",
@@ -5893,7 +6092,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "AUGUSTINE VALETTE",
@@ -5922,7 +6126,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "ROSE NIELSEN",
@@ -5951,7 +6160,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Tallard",
+        "departement": "05",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "JEANNE MAGNAN",
@@ -5980,7 +6194,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Bayons",
+        "departement": "04",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "LOUISE CHAREYRE",
@@ -6009,7 +6228,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Saint-Firmin",
+        "departement": "05",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "LUCIENNE TAGNARD",
@@ -6038,7 +6262,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Guillestre",
+        "departement": "05",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "ADRIENNE LAGÈRE",
@@ -6067,7 +6296,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Briançon",
+        "departement": "05",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "ODETTE SYLVESTRE",
@@ -6096,7 +6330,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Briançon",
+        "departement": "05",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "ANNE-MARIE SPOERRY",
@@ -6125,7 +6364,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Cannes",
+        "departement": "06",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "YVONNE LE ROUX",
@@ -6154,7 +6398,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Toulon",
+        "departement": "83",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "TATIANA DE FLEURIEU",
@@ -6183,7 +6432,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Menton",
+        "departement": "06",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "HENRIETTE BARDI DE FOURTOU",
@@ -6212,7 +6466,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Nice",
+        "departement": "06",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "LOUISE DE GIRAUD D’AGAY",
@@ -6241,7 +6500,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "THÉRÈSE FLOIRAS",
@@ -6270,7 +6534,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "PAULETTE FLOIRAS",
@@ -6299,7 +6568,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "ELVIRE BEZIAS",
@@ -6328,7 +6602,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "MARIE BONNIEU",
@@ -6357,7 +6636,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "MICHELINE FARAUT",
@@ -6386,7 +6670,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Nice",
+        "departement": "06",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "PAULETTE LAUGERY",
@@ -6415,7 +6704,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "JOSETTE REIBAUT",
@@ -6444,7 +6738,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "ARMANDINE DELYS",
@@ -6473,7 +6772,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Avignon",
+        "departement": "84",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "DENISE MAUGENDRE",
@@ -6502,7 +6806,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Avignon",
+        "departement": "84",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "SIMONE DEGUERET",
@@ -6531,7 +6840,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Toulon",
+        "departement": "83",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "CHARLOTTE ABONNEN",
@@ -6560,7 +6874,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Hyères",
+        "departement": "83",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "EVELYNE WILKINSON",
@@ -6589,7 +6908,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Saint-Raphaël",
+        "departement": "83",
+        "lien": "Naissance"
+      }
     },
     {
       "nom": "LUCIENNE THÉVENIN",
@@ -6622,7 +6946,12 @@
         }
       ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "provenance_region": {
+        "commune": "Marseille",
+        "departement": "13",
+        "lien": "Naissance"
+      }
     }
   ],
   "hommes": [
