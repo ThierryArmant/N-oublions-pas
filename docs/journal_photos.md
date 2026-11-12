@@ -79,7 +79,13 @@ Une fois les photos validées, enregistrer chaque image dans le dossier Drive de
 | 49 | Jeanne Martin-Valenziano | Née le 14 mars 1927 à Avignon (Vaucluse) ; sténodactylo. | Ravensbrück 79996 ; Flossenbürg 58382 | https://asso-flossenburg.com/fiches/MARTIN%20%C3%A9pouse%20Valenziano%20Jeanne.pdf | Jeanne Martin-Valenziano.jpg |
 | 50 | Georgette Martin | Née le 12 décembre 1903 ; elle vivait à Marseille. Morte le 20 octobre 2011, à 108 ans. | — | https://museedelaresistanceenligne.org/media2027-Georgette-Martin-son-domicile | Georgette Martin.jpg |
 | 51 | Émilienne Antetomaso (née Tartat) | Née le 29 septembre 1903 à Marseille ; mariée, un enfant, domiciliée au Puy-en-Velay (Haute-Loire). | Ravensbrück 35306 ; Flossenbürg 50757 | https://asso-flossenburg.com/wp-content/uploads/2020/04/ANTETOMASO-nee-TARTAT-Emilienne.pdf | Émilienne Antetomaso.jpg |
+| 52 | Raymonde Tillon-Nédelec | Née Raymonde Barbé le 22 octobre 1915 à Puteaux ; militante communiste installée à Marseille. Morte le 17 juillet 2016 à Paris, à 100 ans. | — | https://fr.wikipedia.org/wiki/Raymonde_Tillon | Raymonde Tillon-Nédelec.jpg |
+| 53 | Micheline Maurel | Née le 17 juillet 1916 à Toulon (Var), fille d’Édouard Maurel, pionnier de la radio dans le Var. Morte en 2009. | — | https://bop.unibe.ch/versants/article/download/11870/14821/54905 | Micheline Maurel.jpg |
+| 54 | Marie Jouffron (née Martin) | Née le 6 mars 1901 à Paris ; mariée, mère de quatre enfants, domiciliée à Marseille.  | Ravensbrück 27180 ; Flossenbürg 50333 | https://asso-flossenburg.com/wp-content/uploads/2020/04/JOUFFRON-nee-MARTIN-Marie.pdf | Marie Jouffron.jpg |
+| 55 | Églantine Martin-Pelloux | Née le 5 juin 1922 à Gap (Hautes-Alpes) ; cultivatrice.  | Ravensbrück 35247 ; Flossenbürg 50732 | https://asso-flossenburg.com/fiches/MARTIN%20-%20Pelloux%20Eglantine.pdf | Églantine Martin-Pelloux.jpg |
+| 56 | Yvonne Oddon | Née le 18 juin 1902 à Gap (Hautes-Alpes), dans une famille protestante. Morte le 7 septembre 1982 à Paris. | — | https://museedelaresistanceenligne.org/personnedetail_pdf.php?id=17151 | Yvonne Oddon.jpg |
 
 ## Historique
 
-- 2026-11-12 : création du journal, 51 fiches sans photo.
+- 2026-11-12 : création du journal, 56 fiches sans photo.
+- 2026-11-12 : 5 nouvelles fiches régionales (Raymonde Tillon, Micheline Maurel, Marie Jouffron, Églantine Martin-Pelloux, Yvonne Oddon).
