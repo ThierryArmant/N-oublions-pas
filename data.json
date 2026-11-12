@@ -4443,6 +4443,100 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12"
+    },
+    {
+      "nom": "MADELEINE CROSET",
+      "nom_affiche": "Madeleine Croset",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née en 1913 à L’Isle-sur-la-Sorgue (Vaucluse) ; infirmière de formation.",
+        "deces": "Morte le 30 octobre 2011 à Saint-Didier (Vaucluse).",
+        "engagement": "Membre du réseau de renseignement Alliance, à qui Marie-Madeleine Fourcade confie la responsabilité du secteur de Lyon. Nom de code « Souris ».",
+        "deportation": "Arrêtée à Lyon, interrogée et torturée par Klaus Barbie, détenue au secret huit mois à la prison d’Offenburg (Allemagne), condamnée à mort par un tribunal du Reich, puis déportée à Ravensbrück.",
+        "memoire": "Après la guerre, elle dirige la maternité de Beauregard à Marseille. Médaillée de la Résistance, chevalier de la Légion d’honneur. Les Archives de Vaucluse lui ont consacré une conférence en 2025."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Archives départementales de Vaucluse – conférence Madeleine Croset",
+          "url": "https://archives.vaucluse.fr/informations-transversales/toutes-les-actualites-1209/la-conference-sur-la-resistante-madeleine-croset-9526/pdf"
+        },
+        {
+          "label": "ICI Vaucluse – « Madeleine Croset, femme libre et résistante vauclusienne »",
+          "url": "https://www.ici.fr/emissions/le-saviez-vous/madeleine-croset-femme-libre-et-resistante-vauclusienne-5885028"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "JEANNE MARTIN ÉPOUSE VALENZIANO",
+      "nom_affiche": "Jeanne Martin-Valenziano",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "matricules": "Ravensbrück 79996 ; Flossenbürg 58382",
+        "naissance": "Née le 14 mars 1927 à Avignon (Vaucluse) ; sténodactylo.",
+        "deces": null,
+        "engagement": "Résistante FTP dès janvier 1943, à 15 ans : rédaction et distribution de tracts à Avignon.",
+        "deportation": "Arrêtée à Avignon le 12 février 1944 ; prisons Sainte-Anne (Avignon), Baumettes (Marseille), Fresnes, puis prisons de Lauban et Breslau dans le Reich. Classée « NN ». Internée à Ravensbrück le 25 octobre 1944 (matricule 79996), transférée aux kommandos de Graslitz puis de Zwodau (Flossenbürg, matricule 58382). Libérée par les Américains le 7 mai 1945, rapatriée le 18 mai."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Association française Buchenwald… Flossenbürg – fiche individuelle",
+          "url": "https://asso-flossenburg.com/fiches/MARTIN%20%C3%A9pouse%20Valenziano%20Jeanne.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "GEORGETTE MARTIN",
+      "nom_affiche": "Georgette Martin",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "matricules": null,
+        "naissance": "Née le 12 décembre 1903 ; elle vivait à Marseille.",
+        "deces": "Morte le 20 octobre 2011, à 108 ans.",
+        "engagement": "Agent de liaison du réseau « Abbé Blanc » à Marseille.",
+        "deportation": "Déportée à Ravensbrück. Date d’arrestation et parcours dans le camp à rechercher.",
+        "memoire": "Le Musée de la Résistance en ligne conserve des photographies d’elle prises à son domicile marseillais."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Musée de la Résistance en ligne – Georgette Martin",
+          "url": "https://museedelaresistanceenligne.org/media2027-Georgette-Martin-son-domicile"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "ÉMILIENNE ANTETOMASO NÉE TARTAT",
+      "nom_affiche": "Émilienne Antetomaso (née Tartat)",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "matricules": "Ravensbrück 35306 ; Flossenbürg 50757",
+        "naissance": "Née le 29 septembre 1903 à Marseille ; mariée, un enfant, domiciliée au Puy-en-Velay (Haute-Loire).",
+        "deces": null,
+        "engagement": "Aide apportée à la Résistance en Haute-Loire.",
+        "deportation": "Arrêtée le 18 mars 1944 à Chadrac (Haute-Loire), internée à Vichy puis Romainville. Partie de Paris-Est le 18 avril 1944, arrivée à Ravensbrück le 22 avril (matricule 35306), envoyée au kommando d’Holleischen (Flossenbürg, matricule 50757). Libérée début mai 1945, rapatriée le 20 mai 1945."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Association du camp de Flossenbürg – fiche individuelle",
+          "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/ANTETOMASO-nee-TARTAT-Emilienne.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
     }
   ],
   "hommes": [
