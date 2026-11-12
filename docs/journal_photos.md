@@ -73,8 +73,8 @@ Une fois les photos validées, enregistrer chaque image dans le dossier Drive de
 | 43 | Jeanne TILLET | 09/05/1896 | 93865 | https://www.bddm.org/liv/details.php?id=I.261. | Jeanne TILLET.jpg |
 | 44 | Christine VACHER | 24/02/1922 | 93859 | https://www.bddm.org/liv/details.php?id=I.261. | Christine VACHER.jpg |
 | 45 | Marie VERGE | 10/01/1890 | 93888 | https://www.bddm.org/liv/details.php?id=I.261. | Marie VERGE.jpg |
-| 46 | Suzanne Guyotat | Née le 14 juillet 1912 à Bourg-Argental (Loire). Morte le 4 février 2011 à Lyon. | — | https://fr.wikipedia.org/wiki/Suzanne_Guyotat | Suzanne Guyotat.jpg |
-| 47 | Isaure Luzet | Née en décembre 1899 à Luxeuil (Haute-Saône). Morte le 14 juillet 1994 à Corenc (Isère) ; inhumée au cimetière Saint-Roch de Grenoble. | — | https://fr.wikipedia.org/wiki/Isaure_Luzet | Isaure Luzet.jpg |
+| 46 | Suzanne Guyotat | Née le 14 juillet 1912 à Bourg-Argental (Loire). Morte le 4 février 2011 à Lyon. | — | https://fr.wikipedia.org/wiki/Suzanne_Guyotat | Suzanne Guyotat.jpg | ⚠️ l’affiche ne contient qu’un point d’interrogation : chercher ailleurs
+| 47 | Isaure Luzet | Née en décembre 1899 à Luxeuil (Haute-Saône). Morte le 14 juillet 1994 à Corenc (Isère) ; inhumée au cimetière Saint-Roch de Grenoble. | — | https://fr.wikipedia.org/wiki/Isaure_Luzet | Isaure Luzet.jpg | ✅ reliée (portrait extrait de l’affiche des élèves)
 | 48 | Madeleine Croset | Née en 1913 à L’Isle-sur-la-Sorgue (Vaucluse) ; infirmière de formation. Morte le 30 octobre 2011 à Saint-Didier (Vaucluse). | — | https://archives.vaucluse.fr/informations-transversales/toutes-les-actualites-1209/la-conference-sur-la-resistante-madeleine-croset-9526/pdf | Madeleine Croset.jpg |
 | 49 | Jeanne Martin-Valenziano | Née le 14 mars 1927 à Avignon (Vaucluse) ; sténodactylo. | Ravensbrück 79996 ; Flossenbürg 58382 | https://asso-flossenburg.com/fiches/MARTIN%20%C3%A9pouse%20Valenziano%20Jeanne.pdf | Jeanne Martin-Valenziano.jpg |
 | 50 | Georgette Martin | Née le 12 décembre 1903 ; elle vivait à Marseille. Morte le 20 octobre 2011, à 108 ans. | — | https://museedelaresistanceenligne.org/media2027-Georgette-Martin-son-domicile | Georgette Martin.jpg |
@@ -84,6 +84,10 @@ Une fois les photos validées, enregistrer chaque image dans le dossier Drive de
 | 54 | Marie Jouffron (née Martin) | Née le 6 mars 1901 à Paris ; mariée, mère de quatre enfants, domiciliée à Marseille.  | Ravensbrück 27180 ; Flossenbürg 50333 | https://asso-flossenburg.com/wp-content/uploads/2020/04/JOUFFRON-nee-MARTIN-Marie.pdf | Marie Jouffron.jpg |
 | 55 | Églantine Martin-Pelloux | Née le 5 juin 1922 à Gap (Hautes-Alpes) ; cultivatrice.  | Ravensbrück 35247 ; Flossenbürg 50732 | https://asso-flossenburg.com/fiches/MARTIN%20-%20Pelloux%20Eglantine.pdf | Églantine Martin-Pelloux.jpg |
 | 56 | Yvonne Oddon | Née le 18 juin 1902 à Gap (Hautes-Alpes), dans une famille protestante. Morte le 7 septembre 1982 à Paris. | — | https://museedelaresistanceenligne.org/personnedetail_pdf.php?id=17151 | Yvonne Oddon.jpg |
+
+## Nouvelles femmes à photographier (priorité)
+
+Fiches régionales créées le 12 novembre, biographies terminées, photos à trouver : Madeleine Croset, Jeanne Martin-Valenziano, Georgette Martin, Émilienne Antetomaso, Raymonde Tillon-Nédelec, Micheline Maurel, Marie Jouffron, Églantine Martin-Pelloux, Yvonne Oddon. Voir aussi `docs/journal_photos_2026-11-12.md` (coordination photos).
 
 ## Historique
 
