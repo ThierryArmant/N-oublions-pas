@@ -130,6 +130,38 @@ Une fois les photos validées, enregistrer chaque image dans le dossier Drive de
 | 100 | Joséphine Bordanava, dite « Josée » | Fille de républicains espagnols exilés en France. À rechercher. | — | https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf | Joséphine Bordanava.jpg |
 | 101 | Nicole Clarence | À rechercher. À rechercher. | — | https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf | Nicole Clarence.jpg |
 | 102 | Nicole Rambure | Née le 26 octobre 1920 ; elle a vécu à Marseille. À vérifier. | — | https://museedelaresistanceenligne.org/media.php?media=1993 | Nicole Rambure.jpg |
+| 103 | Ferdinande HERBERT  | 22/10/1905 | 93870 | — | Ferdinande HERBERT .jpg |
+| 104 | Raymonde LAURENT  | 15/05/1919 | 93895 | — | Raymonde LAURENT .jpg |
+| 105 | Lucienne Vanucci | Née le 28 octobre 1925 à Nice (Alpes-Maritimes). Morte en déportation le 9 mai 1944 à Ravensbrück. | Ravensbrück 22464 | https://www.bddm.org/liv/details.php?id=I.126. | Lucienne Vanucci.jpg |
+| 106 | Jeanne Clavet | Née le 2 mars 1895 à Marseille (Bouches-du-Rhône). Morte en déportation le 30 mars 1945 à Ravensbrück. | Ravensbrück 27630 | https://www.bddm.org/liv/details.php?id=I.175. | Jeanne Clavet.jpg |
+| 107 | Émilie Haffenbach | Née le 18 avril 1892 à L’Isle-sur-la-Sorgue (Vaucluse). Morte en déportation. | Ravensbrück 44730 | https://www.bddm.org/liv/details.php?id=I.235. | Émilie Haffenbach.jpg |
+| 108 | Georgette Berthet | Née le 20 novembre 1921 à Gap (Hautes-Alpes). Morte en déportation. | Ravensbrück 57775 | https://www.bddm.org/liv/details.php?id=I.264. | Georgette Berthet.jpg |
+| 109 | Agnès Kirmann | Née le 26 avril 1901 à Marseille (Bouches-du-Rhône). Morte en déportation. | Ravensbrück 57558 | https://www.bddm.org/liv/details.php?id=I.264. | Agnès Kirmann.jpg |
+| 110 | Augustine Valette | Née le 31 juillet 1918 à Marseille (Bouches-du-Rhône). Morte en déportation. | — | https://www.bddm.org/liv/details.php?id=I.264. | Augustine Valette.jpg |
+| 111 | Rose Nielsen | Née le 21 mars 1903 à Tallard (Hautes-Alpes). | Ravensbrück 24578 | https://www.bddm.org/liv/details.php?id=I.146. | Rose Nielsen.jpg |
+| 112 | Jeanne Magnan | Née le 30 décembre 1902 à Bayons (Basses-Alpes). | Ravensbrück 27208 | https://www.bddm.org/liv/details.php?id=I.175. | Jeanne Magnan.jpg |
+| 113 | Louise Chareyre | Née le 17 février 1893 à Saint-Firmin (Hautes-Alpes). | Ravensbrück 34109 | https://www.bddm.org/liv/details.php?id=I.189. | Louise Chareyre.jpg |
+| 114 | Lucienne Tagnard | Née le 31 mai 1907 à Guillestre (Hautes-Alpes). | Ravensbrück 44661 | https://www.bddm.org/liv/details.php?id=I.230. | Lucienne Tagnard.jpg |
+| 115 | Adrienne Lagère | Née le 25 janvier 1911 à Briançon (Hautes-Alpes). | Ravensbrück 44734 | https://www.bddm.org/liv/details.php?id=I.235. | Adrienne Lagère.jpg |
+| 116 | Odette Sylvestre | Née le 28 mars 1922 à Briançon (Hautes-Alpes). | Ravensbrück 44797 | https://www.bddm.org/liv/details.php?id=I.235. | Odette Sylvestre.jpg |
+| 117 | Anne-Marie Spoerry | Née le 13 mai 1918 à Cannes (Alpes-Maritimes). | Ravensbrück 27831 | https://www.bddm.org/liv/details.php?id=I.175. | Anne-Marie Spoerry.jpg |
+| 118 | Yvonne Le Roux | Née le 6 mars 1882 à Toulon (Var). | Ravensbrück 27987 | https://www.bddm.org/liv/details.php?id=I.175. | Yvonne Le Roux.jpg |
+| 119 | Tatiana de Fleurieu | Née le 23 novembre 1897 à Menton (Alpes-Maritimes). | Ravensbrück 27653 | https://www.bddm.org/liv/details.php?id=I.175. | Tatiana de Fleurieu.jpg |
+| 120 | Henriette Bardi de Fourtou | Née le 22 septembre 1908 à Nice (Alpes-Maritimes). | Ravensbrück 43108 | https://www.bddm.org/liv/details.php?id=I.224. | Henriette Bardi de Fourtou.jpg |
+| 121 | Louise de Giraud d’Agay | Née le 25 juillet 1914 à Marseille (Bouches-du-Rhône). | Ravensbrück 57803 | https://www.bddm.org/liv/details.php?id=I.264. | Louise de Giraud d'Agay.jpg |
+| 122 | Thérèse Floiras | Née le 24 juin 1898 à Marseille (Bouches-du-Rhône). | Ravensbrück 27687 | https://www.bddm.org/liv/details.php?id=I.175. | Thérèse Floiras.jpg |
+| 123 | Paulette Floiras | Née le 25 janvier 1927 à Marseille (Bouches-du-Rhône). | Ravensbrück 27686 | https://www.bddm.org/liv/details.php?id=I.175. | Paulette Floiras.jpg |
+| 124 | Elvire Bezias | Née le 3 février 1905 à Marseille (Bouches-du-Rhône). | Ravensbrück 42165 | https://www.bddm.org/liv/details.php?id=I.216. | Elvire Bezias.jpg |
+| 125 | Marie Bonnieu | Née le 2 décembre 1920 à Marseille (Bouches-du-Rhône). | Ravensbrück 42166 | https://www.bddm.org/liv/details.php?id=I.216. | Marie Bonnieu.jpg |
+| 126 | Micheline Faraut | Née le 26 novembre 1919 à Nice (Alpes-Maritimes). | Ravensbrück 42175 | https://www.bddm.org/liv/details.php?id=I.216. | Micheline Faraut.jpg |
+| 127 | Paulette Laugery | Née le 9 avril 1920 à Marseille (Bouches-du-Rhône). | Ravensbrück 42190 | https://www.bddm.org/liv/details.php?id=I.216. | Paulette Laugery.jpg |
+| 128 | Josette Reibaut | Née le 13 décembre 1919 à Marseille (Bouches-du-Rhône). | Ravensbrück 42219 | https://www.bddm.org/liv/details.php?id=I.216. | Josette Reibaut.jpg |
+| 129 | Armandine Delys | Née le 20 septembre 1902 à Avignon (Vaucluse). | Ravensbrück 42091 | https://www.bddm.org/liv/details.php?id=I.215. | Armandine Delys.jpg |
+| 130 | Denise Maugendre | Née le 13 mai 1916 à Avignon (Vaucluse). | Ravensbrück 43100 | https://www.bddm.org/liv/details.php?id=I.224. | Denise Maugendre.jpg |
+| 131 | Simone Degueret | Née le 22 août 1918 à Toulon (Var). | Ravensbrück 21661 | https://www.bddm.org/liv/details.php?id=I.118. | Simone Degueret.jpg |
+| 132 | Charlotte Abonnen | Née le 18 septembre 1909 à Hyères (Var). | Ravensbrück 35163 | https://www.bddm.org/liv/details.php?id=I.204. | Charlotte Abonnen.jpg |
+| 133 | Evelyne Wilkinson | Née le 26 janvier 1923 à Saint-Raphaël (Var). | Ravensbrück 39032 | https://www.bddm.org/liv/details.php?id=I.212. | Evelyne Wilkinson.jpg |
+| 134 | Lucienne Thévenin | Née le 16 juillet 1917 à Marseille (Bouches-du-Rhône). | Auschwitz 31642 | https://www.bddm.org/liv/details.php?id=I.74. | Lucienne Thévenin.jpg |
 
 ## Nouvelles femmes à photographier (priorité)
 
@@ -146,3 +178,4 @@ Fiches régionales créées le 12 novembre, biographies terminées, photos à tr
 - 2026-11-12 : 24 fiches ajoutées pour atteindre 56 fiches à attribuer aux élèves (régionales : Andrée Laurent-Massip, Pierrette Doize, Catherine Dior, Josette Molland-Ilinsky, Jacqueline Aubéry du Boulley ; 17 autres figures de Ravensbrück).
 - 2026-11-12 : 13 fiches ajoutées pour atteindre 56 fiches à attribuer aux élèves (régionales : Andrée Laurent-Massip, Pierrette Doize, Catherine Dior, Josette Molland-Ilinsky, Jacqueline Aubéry du Boulley ; 17 autres figures de Ravensbrück).
 - 2026-11-12 : 9 fiches régionales ajoutées (résistantes de la région déportées à Ravensbrück : Méjean, Dorange, Duvert, Fabius, Bordanava, Clarence, Rambure).
+- 2026-11-12 : 30 résistantes nées dans la région, trouvées dans le Livre-Mémorial (FMD), ajoutées ; une réserve d’une cinquantaine d’autres noms figure dans docs/reserve_resistantes_region_2026-11-12.md.
