@@ -26,3 +26,7 @@ Déjà présentes, non dupliquées : Marcelle Henry, Fernande Servagnat, ainsi q
 ## Mise à jour : photos en couverture
 
 Le recto de chaque nouvelle fiche montre désormais la photo de la résistante (dossier des portraits du projet), comme les autres fiches ; les affiches et textes des élèves sont au verso, sous les informations. Pas de photo trouvée pour Isaure Luzet et Suzanne Guyotat.
+
+## Mise à jour : un seul onglet de portraits
+
+L'onglet séparé « Autres femmes engagées » est supprimé : toutes les fiches des élèves sont intégrées à l'onglet « Portraits d'autres femmes engagées : résistantes, déportées, Justes » (44 portraits), à côté des 64 femmes du convoi. Le champ `categorie` n'est plus utilisé.

@@ -3647,7 +3647,6 @@
     {
       "nom": "SIMONE MICHEL-LÉVY",
       "nom_affiche": "Simone Michel-Lévy",
-      "categorie": "ravensbruck",
       "photo": {
         "id": "1hckdNjLifL6hkFl9Jd0LVlP9OVEszujS",
         "name": "Simone Michel Lévy.png"
@@ -3684,13 +3683,11 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange",
       "reseau_affiche": "Action PTT"
     },
     {
       "nom": "JACQUELINE FLEURY-MARIÉ",
       "nom_affiche": "Jacqueline Fleury-Marié",
-      "categorie": "ravensbruck",
       "photo": {
         "id": "10-PAkTMf064tcezKBBLCA3stnvhnFtp8",
         "name": "Jaqueline Fleury.png"
@@ -3727,13 +3724,11 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange",
       "reseau_affiche": "Défense de la France · Mithridate"
     },
     {
       "nom": "MARIE DUBOIS",
       "nom_affiche": "Marie Dubois",
-      "categorie": "ravensbruck",
       "photo": {
         "id": "1fZtRQJ5DyeL_tk6N8tXmlGfJnLrfngw3",
         "name": "Marie Dubois.png"
@@ -3770,13 +3765,11 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange",
       "reseau_affiche": "Résistance communiste"
     },
     {
       "nom": "SUZANNE GUYOTAT",
       "nom_affiche": "Suzanne Guyotat",
-      "categorie": "ravensbruck",
       "photo": null,
       "documents": [
         {
@@ -3805,13 +3798,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "BERTY ALBRECHT",
       "nom_affiche": "Berty Albrecht",
-      "categorie": "engagees",
       "photo": {
         "id": "1rhbjThgJZTcv6qb4vM1H0pcdvzTPcWIg",
         "name": "Berty Albrecht.png"
@@ -3847,13 +3838,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "GILBERTE BROSSOLETTE",
       "nom_affiche": "Gilberte Brossolette",
-      "categorie": "engagees",
       "photo": {
         "id": "10oSbZJCzz8F6CDEpM7s0-dgAXwJ7lOla",
         "name": "Gilberte Brossolette .png"
@@ -3885,13 +3874,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "JOSÉPHINE BAKER",
       "nom_affiche": "Joséphine Baker",
-      "categorie": "engagees",
       "photo": {
         "id": "15l9gzs2ZrBORKgnstFdg4acZafTXidAr",
         "name": "BAKER.png"
@@ -3927,13 +3914,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "SUZANNE NOËL",
       "nom_affiche": "Suzanne Noël",
-      "categorie": "engagees",
       "photo": {
         "id": "1wt74aUgjeouWPIZFlKXLxmJehEdWcvjf",
         "name": "Suzanne Noel.png"
@@ -3965,13 +3950,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "THÉRÈSE PAPILLON",
       "nom_affiche": "Thérèse Papillon",
-      "categorie": "engagees",
       "photo": {
         "id": "1f4UwCFmJm2Iwl3vZ84sIis9CtrkX1SaL",
         "name": "Thérèse Papillon.png"
@@ -4007,13 +3990,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "GERMAINE RIBIÈRE",
       "nom_affiche": "Germaine Ribière",
-      "categorie": "engagees",
       "photo": {
         "id": "1RCJOoKcWpQcJu5kSa05wmbk1rqprKCKY",
         "name": "Germaine Ribière.png"
@@ -4049,13 +4030,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "ISAURE LUZET",
       "nom_affiche": "Isaure Luzet",
-      "categorie": "engagees",
       "photo": null,
       "documents": [
         {
@@ -4088,13 +4067,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "MARIE HACKIN",
       "nom_affiche": "Marie Hackin",
-      "categorie": "engagees",
       "photo": {
         "id": "1HVxlChL4olKNv44_zw7_mjRANrF-R39M",
         "name": "Marie Hackin.png"
@@ -4125,13 +4102,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "MARIE-MADELEINE FOURCADE",
       "nom_affiche": "Marie-Madeleine Fourcade",
-      "categorie": "engagees",
       "photo": {
         "id": "1Z0gNKIAI6L6J1cYdqwUytroco-cFWfMt",
         "name": "Marie Madeleine Fourcade.png"
@@ -4162,13 +4137,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "DANIELLE CASANOVA",
       "nom_affiche": "Danielle Casanova (Vincentella Perini)",
-      "categorie": "engagees",
       "photo": {
         "id": "14WSCBlDe3cdkkpgBkGWsUoSafK0bAv2N",
         "name": "Vincentella Perini.png"
@@ -4204,13 +4177,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "SIMONE VEIL",
       "nom_affiche": "Simone Veil",
-      "categorie": "engagees",
       "photo": {
         "id": "1MVQMzNLNqXzFSInsm37BUvYeQZyDkl5W",
         "name": "Simone Veil.png"
@@ -4242,13 +4213,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "FRANÇOISE SELIGMANN",
       "nom_affiche": "Françoise Seligmann (née Claudine Jullien)",
-      "categorie": "engagees",
       "photo": {
         "id": "1H8EhGRqA-TWoy4y5NaIqW0nx_s3X1Kot",
         "name": "Claudine Renée Josette Jullien.png"
@@ -4280,13 +4249,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "ÉLISABETH RISLER-FRANÇOIS",
       "nom_affiche": "Élisabeth Risler-François",
-      "categorie": "engagees",
       "photo": {
         "id": "1EWf99Wt4-QAPngDKtCK8GUxCe8IZyKaq",
         "name": "Elisabeth Risler-Francois.png"
@@ -4318,13 +4285,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "ÉLISABETH DUSSAUZE",
       "nom_affiche": "Élisabeth (Lisbeth) Dussauze",
-      "categorie": "engagees",
       "photo": {
         "id": "1GP63MQIzsx5PJMiRaIBKayPf9cqjG0g9",
         "name": "Elisabeth Dussauze.png"
@@ -4356,13 +4321,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "ÉMILIENNE MOREAU-EVRARD",
       "nom_affiche": "Émilienne Moreau-Evrard",
-      "categorie": "engagees",
       "photo": {
         "id": "1wqHIdVJLn10vHQU9hOJ4mq2R3l5P-uI-",
         "name": "Emilienne Moureau-Evrard.png"
@@ -4403,13 +4366,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "LUCIE AUBRAC",
       "nom_affiche": "Lucie Aubrac",
-      "categorie": "engagees",
       "photo": {
         "id": "1kQqPhMEYxvZQjsuiFDc5PK4ocXUDpgEk",
         "name": "Lucie Aubrac.png"
@@ -4445,13 +4406,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     },
     {
       "nom": "MARIE CURIE",
       "nom_affiche": "Marie Curie",
-      "categorie": "engagees",
       "photo": {
         "id": "1Sc_7gvLH36LS7_tX8pt_aYOiA2ZD0nL_",
         "name": "MARIE CURIE.png"
@@ -4483,8 +4442,7 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
+      "recherche_mise_a_jour": "2026-11-12"
     }
   ],
   "hommes": [
