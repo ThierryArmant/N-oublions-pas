@@ -4518,17 +4518,21 @@
       },
       "documents": [],
       "biographie": {
-        "matricules": null,
-        "naissance": "Née le 12 décembre 1903 ; elle vivait à Marseille.",
+        "matricules": "Ravensbrück 27216 ; Flossenbürg 50346",
+        "naissance": "Née le 10 novembre 1903 à Paris selon l’Association Flossenbürg (le Musée de la Résistance en ligne indique le 12 décembre 1903 : à vérifier) ; divorcée, deux enfants, ouvrière à Marseille.",
         "deces": "Décédée le 20 octobre 2011, à 108 ans.",
-        "engagement": "Agent de liaison du réseau « Abbé Blanc » à Marseille.",
-        "deportation": "Déportée à Ravensbrück. Date d’arrestation et parcours dans le camp à rechercher.",
+        "engagement": "Agente P1 du réseau « Abbé Blanc » : renseignement, hébergement, distribution de journaux clandestins.",
+        "deportation": "Arrêtée à Marseille le 27 août 1943, détenue aux forts Saint-Nicolas et Saint-Pierre puis à Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février (matricule 27216), envoyée le 11 avril au kommando d’Holleischen (Flossenbürg, matricule 50346). Libérée début mai 1945, rapatriée le 20 mai.",
         "memoire": "Le Musée de la Résistance en ligne conserve des photographies d’elle prises à son domicile marseillais."
       },
       "sources_biographiques": [
         {
           "label": "Musée de la Résistance en ligne – Georgette Martin",
           "url": "https://museedelaresistanceenligne.org/media2027-Georgette-Martin-son-domicile"
+        },
+        {
+          "label": "Association du camp de Flossenbürg – fiche individuelle",
+          "url": "https://asso-flossenburg.com/fiches/MARTIN%20Georgette.pdf"
         }
       ],
       "archives_deportation": [],
@@ -5199,6 +5203,259 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12"
+    },
+    {
+      "nom": "PIERRETTE VIAN NÉE IVALDI",
+      "nom_affiche": "Pierrette Vian (née Ivaldi)",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née le 12 juillet 1903 à Marseille ; mariée, commerçante à Marseille.",
+        "deces": null,
+        "engagement": "Agente P2 du réseau britannique Buckmaster (« Roger ») depuis février 1942 : hébergement de parachutistes, recrutement.",
+        "deportation": "Arrêtée à Marseille le 18 octobre 1943, détenue à Marseille puis Compiègne, déportée le 31 janvier 1944 à Ravensbrück (matricule 27300), puis aux kommandos de Graslitz et Zwodau (Flossenbürg, matricule 51834). Évacuée le 13 avril 1945, libérée à Zwodau par les Américains le 7 mai, rapatriée le 19 mai 1945.",
+        "memoire": null,
+        "matricules": "Ravensbrück 27300 ; Flossenbürg 51834"
+      },
+      "sources_biographiques": [
+        {
+          "label": "Association du camp de Flossenbürg – fiche individuelle",
+          "url": "https://asso-flossenburg.com/fiches/VIAN%20n%C3%A9e%20IVALDI%20Pierrette.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "MARIE-LOUISE SOUQUE NÉE RIPERT",
+      "nom_affiche": "Marie-Louise Souque (née Ripert)",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née le 4 août 1898 à Belgentier (Var) ; mariée, manœuvre, domiciliée à Talence (Gironde).",
+        "deces": null,
+        "engagement": "Agente de liaison des FTP de Gironde depuis mai 1941.",
+        "deportation": "Arrêtée à Talence le 26 avril 1943 ; fort du Hâ, Romainville, Compiègne. Arrivée à Ravensbrück le 29 avril 1943 (matricule 19246), puis kommando d’Holleischen (Flossenbürg, matricule 50268). Libérée début mai 1945, rapatriée le 20 mai.",
+        "memoire": null,
+        "matricules": "Ravensbrück 19246 ; Flossenbürg 50268"
+      },
+      "sources_biographiques": [
+        {
+          "label": "Association du camp de Flossenbürg – fiche individuelle",
+          "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/SOUQUE-nee-RIPERT-Marie-Louise.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "JULIETTE EYRAUD",
+      "nom_affiche": "Juliette Eyraud",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née le 18 mai 1925 à Graveson (Bouches-du-Rhône).",
+        "deces": null,
+        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deportation": "Déportée à Ravensbrück (matricule 24285). Le Livre-Mémorial indique une libération le 29 septembre 1944.",
+        "memoire": null,
+        "matricules": "Ravensbrück 24285"
+      },
+      "sources_biographiques": [
+        {
+          "label": "Livre-Mémorial de la Fondation pour la Mémoire de la Déportation (bddm.org) – liste IV.2",
+          "url": "https://www.bddm.org/liv/details.php?id=IV.2."
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "LAURENCE CAILA",
+      "nom_affiche": "Laurence Caila (ou Gaila)",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née le 31 octobre 1912 à Cannes (Alpes-Maritimes).",
+        "deces": null,
+        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deportation": "Déportée à Ravensbrück, puis au kommando de Neurohlau (Flossenbürg). Rentrée en France.",
+        "memoire": null,
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Livre-Mémorial de la Fondation pour la Mémoire de la Déportation (bddm.org) – liste IV.2",
+          "url": "https://www.bddm.org/liv/details.php?id=IV.2."
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "RAYMONDE TEMMERMANN",
+      "nom_affiche": "Raymonde Temmermann",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née le 16 février 1921 à Marseille.",
+        "deces": null,
+        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deportation": "Passée par Kassel (kommando de Buchenwald) et Ravensbrück. Rentrée en France.",
+        "memoire": null,
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Livre-Mémorial de la Fondation pour la Mémoire de la Déportation (bddm.org) – liste IV.2",
+          "url": "https://www.bddm.org/liv/details.php?id=IV.2."
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "THÉRÉSA WASILEWSKA",
+      "nom_affiche": "Thérésa Wasilewska",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née le 17 janvier 1921 à Nice (Alpes-Maritimes).",
+        "deces": null,
+        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deportation": "Déportée à Ravensbrück puis à Altenburg. Sort final à établir.",
+        "memoire": null,
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Livre-Mémorial de la Fondation pour la Mémoire de la Déportation (bddm.org) – liste IV.2",
+          "url": "https://www.bddm.org/liv/details.php?id=IV.2."
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "JEANNETTE CASTELLANO",
+      "nom_affiche": "Jeannette Castellano",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "À rechercher (pays d’Arles).",
+        "deces": null,
+        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deportation": "Déportée à Ravensbrück.",
+        "memoire": "Son témoignage audiovisuel est conservé par l’association pour un musée de la Résistance et de la Déportation d’Arles.",
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Association pour un musée de la Résistance et de la Déportation d’Arles – fonds de témoignages",
+          "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "CHRISTIANE FAMERY",
+      "nom_affiche": "Christiane Famery",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "À rechercher (pays d’Arles).",
+        "deces": null,
+        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deportation": "Déportée à Ravensbrück.",
+        "memoire": "Son témoignage audiovisuel est conservé par l’association pour un musée de la Résistance et de la Déportation d’Arles.",
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Association pour un musée de la Résistance et de la Déportation d’Arles – fonds de témoignages",
+          "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "ANDRÉE JULIEN",
+      "nom_affiche": "Andrée Julien",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "À rechercher (pays d’Arles).",
+        "deces": null,
+        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deportation": "Déportée à Ravensbrück.",
+        "memoire": "Son témoignage audiovisuel est conservé par l’association pour un musée de la Résistance et de la Déportation d’Arles.",
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Association pour un musée de la Résistance et de la Déportation d’Arles – fonds de témoignages",
+          "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "COLETTE LAFFINEUR",
+      "nom_affiche": "Colette Laffineur",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "À rechercher (pays d’Arles).",
+        "deces": null,
+        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deportation": "Déportée à Ravensbrück.",
+        "memoire": "Son témoignage audiovisuel est conservé par l’association pour un musée de la Résistance et de la Déportation d’Arles.",
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Association pour un musée de la Résistance et de la Déportation d’Arles – fonds de témoignages",
+          "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "nom": "MARTHA DESRUMAUX",
+      "nom_affiche": "Martha Desrumaux",
+      "photo": null,
+      "documents": [],
+      "biographie": {
+        "naissance": "Née le 18 octobre 1897 à Comines (Nord).",
+        "deces": "Morte le 30 novembre 1982 à Évenos (Var).",
+        "engagement": "Syndicaliste CGT et militante communiste, organisatrice de la Résistance dans le Nord (grève des mineurs de 1941).",
+        "deportation": "Arrêtée le 26 août 1941, déportée à Ravensbrück en mars 1942 ; libérée par la Croix-Rouge en avril 1945.",
+        "memoire": "Déléguée des déportés à l’Assemblée consultative provisoire en 1945, l’une des premières femmes parlementaires. Elle a fini sa vie dans le Var.",
+        "matricules": null
+      },
+      "sources_biographiques": [
+        {
+          "label": "Notice encyclopédique (Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Martha_Desrumaux"
+        }
+      ],
+      "archives_deportation": [],
+      "recherche_mise_a_jour": "2026-11-12",
+      "region": "Provence-Alpes-Côte d'Azur"
     }
   ],
   "hommes": [

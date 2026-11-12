@@ -108,6 +108,19 @@ Une fois les photos validées, enregistrer chaque image dans le dossier Drive de
 | 78 | Jeanne Grimaud | Morte à Ravensbrück en 1944. | — | https://museedelaresistanceenligne.org/media5391-Plaque-en-hommage-A | Jeanne Grimaud.jpg |
 | 79 | Christiane Rème (née Cavelier de Cuverville) | Née en 1923 à Bonn. Morte le 1er juillet 2019. | — | https://irk-cir.org/en/members/72 | Christiane Rème.jpg |
 | 80 | Marie de Robien | — | — | https://asso-flossenburg.com/wp-content/uploads/2021/03/ASSOCIATION-FLOSSENBURG-KOMMANDOS-BULLETIN-N%C2%B0-86-FLIP-BOOK.pdf | Marie de Robien.jpg |
+| 81 | Ferdinande HERBERT  | 22/10/1905 | 93870 | — | Ferdinande HERBERT .jpg |
+| 82 | Raymonde LAURENT  | 15/05/1919 | 93895 | — | Raymonde LAURENT .jpg |
+| 83 | Pierrette Vian (née Ivaldi) | Née le 12 juillet 1903 à Marseille ; mariée, commerçante à Marseille. | Ravensbrück 27300 ; Flossenbürg 51834 | https://asso-flossenburg.com/fiches/VIAN%20n%C3%A9e%20IVALDI%20Pierrette.pdf | Pierrette Vian.jpg |
+| 84 | Marie-Louise Souque (née Ripert) | Née le 4 août 1898 à Belgentier (Var) ; mariée, manœuvre, domiciliée à Talence (Gironde). | Ravensbrück 19246 ; Flossenbürg 50268 | https://asso-flossenburg.com/wp-content/uploads/2020/04/SOUQUE-nee-RIPERT-Marie-Louise.pdf | Marie-Louise Souque.jpg |
+| 85 | Juliette Eyraud | Née le 18 mai 1925 à Graveson (Bouches-du-Rhône). | Ravensbrück 24285 | https://www.bddm.org/liv/details.php?id=IV.2. | Juliette Eyraud.jpg |
+| 86 | Laurence Caila (ou Gaila) | Née le 31 octobre 1912 à Cannes (Alpes-Maritimes). | — | https://www.bddm.org/liv/details.php?id=IV.2. | Laurence Caila.jpg |
+| 87 | Raymonde Temmermann | Née le 16 février 1921 à Marseille. | — | https://www.bddm.org/liv/details.php?id=IV.2. | Raymonde Temmermann.jpg |
+| 88 | Thérésa Wasilewska | Née le 17 janvier 1921 à Nice (Alpes-Maritimes). | — | https://www.bddm.org/liv/details.php?id=IV.2. | Thérésa Wasilewska.jpg |
+| 89 | Jeannette Castellano | À rechercher (pays d’Arles). | — | https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf | Jeannette Castellano.jpg |
+| 90 | Christiane Famery | À rechercher (pays d’Arles). | — | https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf | Christiane Famery.jpg |
+| 91 | Andrée Julien | À rechercher (pays d’Arles). | — | https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf | Andrée Julien.jpg |
+| 92 | Colette Laffineur | À rechercher (pays d’Arles). | — | https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf | Colette Laffineur.jpg |
+| 93 | Martha Desrumaux | Née le 18 octobre 1897 à Comines (Nord). Morte le 30 novembre 1982 à Évenos (Var). | — | https://fr.wikipedia.org/wiki/Martha_Desrumaux | Martha Desrumaux.jpg |
 
 ## Nouvelles femmes à photographier (priorité)
 
@@ -122,3 +135,4 @@ Fiches régionales créées le 12 novembre, biographies terminées, photos à tr
 - Élisabeth Goupille : son témoignage Chienne de vie, je t’aime d’un amour fou, p. 5, indique explicitement qu’elle n’a pas souhaité inclure de photo. Les images du livre ne doivent pas être attribuées à Élisabeth par défaut.
 - Jeanne Martin-Valenziano : fiche associative consultée sans image. Émilienne Antetomaso : seule image du PDF 48 × 48, non retenue comme portrait sans identification. Suzanne Guyotat : recherches de portrait non concluantes ; ne pas utiliser un portrait de Pierre Guyotat.
 - 2026-11-12 : 24 fiches ajoutées pour atteindre 56 fiches à attribuer aux élèves (régionales : Andrée Laurent-Massip, Pierrette Doize, Catherine Dior, Josette Molland-Ilinsky, Jacqueline Aubéry du Boulley ; 17 autres figures de Ravensbrück).
+- 2026-11-12 : 13 fiches ajoutées pour atteindre 56 fiches à attribuer aux élèves (régionales : Andrée Laurent-Massip, Pierrette Doize, Catherine Dior, Josette Molland-Ilinsky, Jacqueline Aubéry du Boulley ; 17 autres figures de Ravensbrück).
