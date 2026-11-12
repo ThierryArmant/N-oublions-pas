@@ -4,10 +4,10 @@ Sources : dossiers Drive « Affiches terminées » et « TEXTE RESISTANTES » (p
 
 ## Ajouts
 
-22 nouvelles fiches, chacune reliée à l'affiche et, quand il existe, au texte de recherche des élèves. Les biographies ont été recoupées avec des notices de référence (Ordre de la Libération, Chemins de mémoire, Yad Vashem, Musée de la Résistance en ligne, encyclopédies).
+21 nouvelles fiches, chacune reliée à l'affiche et, quand il existe, au texte de recherche des élèves. Les biographies ont été recoupées avec des notices de référence (Ordre de la Libération, Chemins de mémoire, Yad Vashem, Musée de la Résistance en ligne, encyclopédies).
 
-**Onglet « Portraits d'autres femmes résistantes déportées au KL Ravensbrück » (+5)**
-Simone Michel-Lévy, Jacqueline Fleury-Marié, Marie Dubois, Suzanne Guyotat, Suzanne Orts.
+**Onglet « Portraits d'autres femmes résistantes déportées au KL Ravensbrück » (+4)**
+Simone Michel-Lévy, Jacqueline Fleury-Marié, Marie Dubois, Suzanne Guyotat (Suzanne Orts existait déjà : texte des élèves ajouté à sa fiche).
 
 **Nouvel onglet « Autres femmes engagées » (17), champ `categorie: "engagees"`**
 Berty Albrecht, Gilberte Brossolette, Joséphine Baker, Suzanne Noël, Thérèse Papillon, Germaine Ribière, Isaure Luzet, Marie Hackin, Marie-Madeleine Fourcade, Danielle Casanova (Auschwitz), Simone Veil (Auschwitz), Françoise Seligmann (née Claudine Jullien), Élisabeth Risler-François, Élisabeth Dussauze, Émilienne Moreau-Evrard, Lucie Aubrac, Marie Curie (figure non liée à la Seconde Guerre mondiale).
@@ -22,3 +22,7 @@ Déjà présentes, non dupliquées : Marcelle Henry, Fernande Servagnat, ainsi q
 - Fichier `estelle.docx` des affiches : personne non identifiée, pas de fiche créée.
 - Les affiches .docx s'affichent seulement si les fichiers Drive sont partagés « toute personne disposant du lien ».
 - Les prénoms des élèves ne sont pas affichés sur le site ; certains noms de fichiers Drive les contiennent encore.
+
+## Mise à jour : photos en couverture
+
+Le recto de chaque nouvelle fiche montre désormais la photo de la résistante (dossier des portraits du projet), comme les autres fiches ; les affiches et textes des élèves sont au verso, sous les informations. Pas de photo trouvée pour Isaure Luzet et Suzanne Guyotat.

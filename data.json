@@ -3105,8 +3105,8 @@
     {
       "nom": "SUZANNE ORTS",
       "photo": {
-        "id": "1tFIRrXyyOrFrZbQjvMFYfO0I5VemomlE",
-        "name": "Suzanne_Orts,_adolescente.jpg"
+        "id": "1cc-Rlr0xi3iFWV9oJCdmb4tvBZfNCVoo",
+        "name": "Suzanne PIc (orts).jpg"
       },
       "documents": [
         {
@@ -3115,6 +3115,11 @@
           "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
           "preview_url": "https://drive.google.com/thumbnail?id=1-nOiA2ahOyCRXMfWNAuIu9CE4STMXp6J&sz=w2000",
           "preview_source_id": "1-nOiA2ahOyCRXMfWNAuIu9CE4STMXp6J"
+        },
+        {
+          "id": "1XbdQX2jbbzwUjPYAgk-Ax2EZArYueHpH",
+          "name": "Texte des élèves – Suzanne Orts",
+          "mime": "application/pdf"
         }
       ],
       "nom_affiche": "Suzanne Orts",
@@ -3644,8 +3649,8 @@
       "nom_affiche": "Simone Michel-Lévy",
       "categorie": "ravensbruck",
       "photo": {
-        "id": "1hGka1dowmosmqrZv9f0oFFvrYI5gxkvP",
-        "name": "Affiche des élèves – Simone Michel-Lévy"
+        "id": "1hckdNjLifL6hkFl9Jd0LVlP9OVEszujS",
+        "name": "Simone Michel Lévy.png"
       },
       "documents": [
         {
@@ -3687,8 +3692,8 @@
       "nom_affiche": "Jacqueline Fleury-Marié",
       "categorie": "ravensbruck",
       "photo": {
-        "id": "1dhVUE5-5btBv6Nqwqs3MA5Gnt69pqk95",
-        "name": "Affiche des élèves – Jacqueline Fleury"
+        "id": "10-PAkTMf064tcezKBBLCA3stnvhnFtp8",
+        "name": "Jaqueline Fleury.png"
       },
       "documents": [
         {
@@ -3730,8 +3735,8 @@
       "nom_affiche": "Marie Dubois",
       "categorie": "ravensbruck",
       "photo": {
-        "id": "1yqgSsFlriUdecBQ4t8pmnud1wRyqIjC0",
-        "name": "Affiche des élèves – Marie Dubois"
+        "id": "1fZtRQJ5DyeL_tk6N8tXmlGfJnLrfngw3",
+        "name": "Marie Dubois.png"
       },
       "documents": [
         {
@@ -3772,11 +3777,13 @@
       "nom": "SUZANNE GUYOTAT",
       "nom_affiche": "Suzanne Guyotat",
       "categorie": "ravensbruck",
-      "photo": {
-        "id": "1Uaqh8R-cBDi2bXI614DS66Ga33p8Js1c",
-        "name": "Texte des élèves – Suzanne Guyotat"
-      },
+      "photo": null,
       "documents": [
+        {
+          "id": "146ZQAG__U3xhjg4GhPimI4T-_jJr60CHGNK57nvaaOk",
+          "name": "Affiche des élèves – Suzanne Guyotat",
+          "mime": "application/vnd.google-apps.document"
+        },
         {
           "id": "1Uaqh8R-cBDi2bXI614DS66Ga33p8Js1c",
           "name": "Texte des élèves – Suzanne Guyotat",
@@ -3802,46 +3809,12 @@
       "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange"
     },
     {
-      "nom": "SUZANNE ORTS",
-      "nom_affiche": "Suzanne Orts (née Pic)",
-      "categorie": "ravensbruck",
-      "photo": {
-        "id": "1XbdQX2jbbzwUjPYAgk-Ax2EZArYueHpH",
-        "name": "Texte des élèves – Suzanne Orts"
-      },
-      "documents": [
-        {
-          "id": "1XbdQX2jbbzwUjPYAgk-Ax2EZArYueHpH",
-          "name": "Texte des élèves – Suzanne Orts",
-          "mime": "application/pdf"
-        }
-      ],
-      "biographie": {
-        "matricules": null,
-        "naissance": "Suzanne Pic, dite « Suzon », lycéenne à Mâcon en 1943.",
-        "deces": null,
-        "engagement": "À 14 ans, avec sa mère, elle rejoint le réseau Marco Polo : tracts gaullistes, liaisons pour le maquis de Beaubery, puis renseignement sur les défenses allemandes du Sud et liaisons Mâcon–Perpignan.",
-        "deportation": "Arrêtée sur dénonciation le 21 mai 1944 à 17 ans, isolée à la citadelle de Perpignan, transférée à Romainville, elle est déportée avec sa mère à Neue Bremm puis à Ravensbrück (fin juin 1944) et au kommando HASAG de Leipzig (Buchenwald), où elle est gravement blessée. Marche de la mort en avril 1945, rapatriée le 18 mai.",
-        "memoire": "Les objets confectionnés au camp sont conservés au musée de la Résistance et de la Déportation de Castelnau-le-Lez (Hérault)."
-      },
-      "sources_biographiques": [
-        {
-          "label": "Notice encyclopédique (Wikipédia)",
-          "url": "https://fr.wikipedia.org/wiki/Suzanne_Orts"
-        }
-      ],
-      "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
-      "source_eleves": "Affiche et texte réalisés par des élèves du collège Jean Giono d’Orange",
-      "reseau_affiche": "Marco Polo"
-    },
-    {
       "nom": "BERTY ALBRECHT",
       "nom_affiche": "Berty Albrecht",
       "categorie": "engagees",
       "photo": {
-        "id": "1G9O56YckwjCat2ZiH7idtLSqRBCQ6EgC",
-        "name": "Affiche des élèves – Berty Albrecht"
+        "id": "1rhbjThgJZTcv6qb4vM1H0pcdvzTPcWIg",
+        "name": "Berty Albrecht.png"
       },
       "documents": [
         {
@@ -3882,8 +3855,8 @@
       "nom_affiche": "Gilberte Brossolette",
       "categorie": "engagees",
       "photo": {
-        "id": "10UrYF9-hlUSc5wB7CGkHxnags44GodeX",
-        "name": "Affiche des élèves – Gilberte Brossolette"
+        "id": "10oSbZJCzz8F6CDEpM7s0-dgAXwJ7lOla",
+        "name": "Gilberte Brossolette .png"
       },
       "documents": [
         {
@@ -3920,8 +3893,8 @@
       "nom_affiche": "Joséphine Baker",
       "categorie": "engagees",
       "photo": {
-        "id": "1Km5wZmWV4OKw2cp-K1raMPCDCWQ6CP7y",
-        "name": "Affiche des élèves – Joséphine Baker"
+        "id": "15l9gzs2ZrBORKgnstFdg4acZafTXidAr",
+        "name": "BAKER.png"
       },
       "documents": [
         {
@@ -3962,8 +3935,8 @@
       "nom_affiche": "Suzanne Noël",
       "categorie": "engagees",
       "photo": {
-        "id": "16annYT9QXBtvtz4MMe6zYYGKRYztI7cp",
-        "name": "Affiche des élèves – Suzanne Noël"
+        "id": "1wt74aUgjeouWPIZFlKXLxmJehEdWcvjf",
+        "name": "Suzanne Noel.png"
       },
       "documents": [
         {
@@ -4000,8 +3973,8 @@
       "nom_affiche": "Thérèse Papillon",
       "categorie": "engagees",
       "photo": {
-        "id": "1MMyU6FzbFbhdGJYDpH9pMR3POy3zAH4t",
-        "name": "Affiche des élèves – Thérèse Papillon"
+        "id": "1f4UwCFmJm2Iwl3vZ84sIis9CtrkX1SaL",
+        "name": "Thérèse Papillon.png"
       },
       "documents": [
         {
@@ -4042,8 +4015,8 @@
       "nom_affiche": "Germaine Ribière",
       "categorie": "engagees",
       "photo": {
-        "id": "1b5OqFEtDMXcSidIejXkunm4KQWmw1er2",
-        "name": "Affiche des élèves – Germaine Ribière"
+        "id": "1RCJOoKcWpQcJu5kSa05wmbk1rqprKCKY",
+        "name": "Germaine Ribière.png"
       },
       "documents": [
         {
@@ -4083,15 +4056,17 @@
       "nom": "ISAURE LUZET",
       "nom_affiche": "Isaure Luzet",
       "categorie": "engagees",
-      "photo": {
-        "id": "1zLzZrwi9kAISwZqU-Rd5hUWouJXQ8kJO",
-        "name": "Affiche des élèves – Isaure Luzet"
-      },
+      "photo": null,
       "documents": [
         {
           "id": "1zLzZrwi9kAISwZqU-Rd5hUWouJXQ8kJO",
           "name": "Affiche des élèves – Isaure Luzet",
           "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "id": "11iV2IZIRFD-RlcFhFtJvKq1qZB6i_ge-gSM4IqluJbk",
+          "name": "Texte des élèves – Isaure Luzet",
+          "mime": "application/vnd.google-apps.document"
         }
       ],
       "biographie": {
@@ -4121,8 +4096,8 @@
       "nom_affiche": "Marie Hackin",
       "categorie": "engagees",
       "photo": {
-        "id": "1AgodVTDNaOgLUtJg9pI6z1-Wm7y5zxgi",
-        "name": "Affiche des élèves – Marie Hackin"
+        "id": "1HVxlChL4olKNv44_zw7_mjRANrF-R39M",
+        "name": "Marie Hackin.png"
       },
       "documents": [
         {
@@ -4158,8 +4133,8 @@
       "nom_affiche": "Marie-Madeleine Fourcade",
       "categorie": "engagees",
       "photo": {
-        "id": "1XyY_AElXFTL10k8SklfSrXhPjbZmVb_s",
-        "name": "Affiche des élèves – Marie-Madeleine Fourcade"
+        "id": "1Z0gNKIAI6L6J1cYdqwUytroco-cFWfMt",
+        "name": "Marie Madeleine Fourcade.png"
       },
       "documents": [
         {
@@ -4195,8 +4170,8 @@
       "nom_affiche": "Danielle Casanova (Vincentella Perini)",
       "categorie": "engagees",
       "photo": {
-        "id": "1CJ4RTT47dfvKpSA3Ge1ClKdFe3kmR2pR",
-        "name": "Affiche des élèves – Vincentella Perini"
+        "id": "14WSCBlDe3cdkkpgBkGWsUoSafK0bAv2N",
+        "name": "Vincentella Perini.png"
       },
       "documents": [
         {
@@ -4237,8 +4212,8 @@
       "nom_affiche": "Simone Veil",
       "categorie": "engagees",
       "photo": {
-        "id": "1Uamh5A_MklZ8Nyt6MHhTCPNeO1Q6orFj",
-        "name": "Affiche des élèves – Simone Veil"
+        "id": "1MVQMzNLNqXzFSInsm37BUvYeQZyDkl5W",
+        "name": "Simone Veil.png"
       },
       "documents": [
         {
@@ -4275,8 +4250,8 @@
       "nom_affiche": "Françoise Seligmann (née Claudine Jullien)",
       "categorie": "engagees",
       "photo": {
-        "id": "1hDa8-UlnqJqXDb2w4o1vMssl7T-a6Xp3",
-        "name": "Affiche des élèves – Claudine Jullien"
+        "id": "1H8EhGRqA-TWoy4y5NaIqW0nx_s3X1Kot",
+        "name": "Claudine Renée Josette Jullien.png"
       },
       "documents": [
         {
@@ -4313,8 +4288,8 @@
       "nom_affiche": "Élisabeth Risler-François",
       "categorie": "engagees",
       "photo": {
-        "id": "1DrIprFPzR6vDNEmo4xVU2cto4hQhSOT3",
-        "name": "Affiche des élèves – Élisabeth Risler-François"
+        "id": "1EWf99Wt4-QAPngDKtCK8GUxCe8IZyKaq",
+        "name": "Elisabeth Risler-Francois.png"
       },
       "documents": [
         {
@@ -4351,8 +4326,8 @@
       "nom_affiche": "Élisabeth (Lisbeth) Dussauze",
       "categorie": "engagees",
       "photo": {
-        "id": "1KcYR3y-Q0ZFeyrujKgMbfpyhIi6lN4xo",
-        "name": "Affiche des élèves – Élisabeth Dussauze"
+        "id": "1GP63MQIzsx5PJMiRaIBKayPf9cqjG0g9",
+        "name": "Elisabeth Dussauze.png"
       },
       "documents": [
         {
@@ -4389,8 +4364,8 @@
       "nom_affiche": "Émilienne Moreau-Evrard",
       "categorie": "engagees",
       "photo": {
-        "id": "1d6R9Pyn_lxckvb2jOPXyZDNElJA4QdcS",
-        "name": "Affiche des élèves – Émilienne Moreau-Evrard"
+        "id": "1wqHIdVJLn10vHQU9hOJ4mq2R3l5P-uI-",
+        "name": "Emilienne Moureau-Evrard.png"
       },
       "documents": [
         {
@@ -4436,8 +4411,8 @@
       "nom_affiche": "Lucie Aubrac",
       "categorie": "engagees",
       "photo": {
-        "id": "1ZFg8um8H9ZDD7mTumm4OXPI3Vrnag9R5",
-        "name": "Affiche des élèves – Lucie Aubrac"
+        "id": "1kQqPhMEYxvZQjsuiFDc5PK4ocXUDpgEk",
+        "name": "Lucie Aubrac.png"
       },
       "documents": [
         {
@@ -4478,8 +4453,8 @@
       "nom_affiche": "Marie Curie",
       "categorie": "engagees",
       "photo": {
-        "id": "1zQuBKa-27fzY4f5yaTEZbsoxf8ozKd5K",
-        "name": "Affiche des élèves – Marie Curie"
+        "id": "1Sc_7gvLH36LS7_tX8pt_aYOiA2ZD0nL_",
+        "name": "MARIE CURIE.png"
       },
       "documents": [
         {
