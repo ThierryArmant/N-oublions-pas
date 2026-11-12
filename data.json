@@ -1412,12 +1412,12 @@
       ],
       "prenom": "Suzanne",
       "matricule": "93875",
-      "naissance": "17/03/1927",
+      "naissance": "?",
       "lieu": "Halsou (64)",
       "parcours": "Da,Ra,Ham",
       "situation": "R",
       "nom_affiche": "Suzanne CAZAUX",
-      "complement_historique": "Date de naissance à vérifier : le tableau du projet indique le 17/03/1927 ; le Livre-Mémorial indique le 08/08/1908 pour le même nom et matricule. Le rapprochement reste à confirmer.",
+      "complement_historique": "Date de naissance : ?",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -1582,12 +1582,12 @@
       ],
       "prenom": "Louise",
       "matricule": "93892",
-      "naissance": "22/06/1901",
+      "naissance": "?",
       "lieu": "Poyanne (40)",
       "parcours": "Da,Ra, Pertrix",
       "situation": "R",
       "nom_affiche": "Louise DEYRIS",
-      "complement_historique": "Date de naissance à vérifier : le tableau du projet indique le 22/06/1901 ; le Livre-Mémorial indique le 22/07/1901 pour le même nom et matricule.",
+      "complement_historique": "Date de naissance : ?",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -2053,7 +2053,7 @@
       "nom_affiche": "Violette Szabo",
       "biographie": {
         "naissance": "26 juin 1921, Levallois-Perret",
-        "deces": "Exécutée à Ravensbrück au début de 1945 ; le jour exact reste incertain.",
+        "deces": "Exécutée à Ravensbrück au début de 1945  ; date exacte : ?.",
         "engagement": "Agente du Special Operations Executive britannique, section française, elle effectue une première mission en France en avril 1944. Elle est de nouveau parachutée dans la région de Limoges en juin pour soutenir les liaisons avec la Résistance.",
         "deportation": "Capturée le 10 juin 1944, elle est emprisonnée puis déportée en août 1944. Son parcours passe par Ravensbrück et des lieux de travail forcé. Elle est exécutée avec d’autres agentes du SOE.",
         "memoire": "La George Cross lui est attribuée à titre posthume ; sa fille reçoit cette décoration en 1947.",
@@ -2164,7 +2164,7 @@
         "deces": "24 avril 1945, Paris",
         "engagement": "Fonctionnaire au ministère du Travail, elle participe à la diffusion de textes clandestins, à l’hébergement de personnes recherchées et à une filière d’évasion liée au réseau VIC du BCRA.",
         "deportation": "Arrêtée le 4 juillet 1944, détenue à Fresnes, elle est déportée de Pantin le 15 août 1944. Elle passe par Ravensbrück puis Torgau, avant de revenir à Ravensbrück. Évacuée par la Croix-Rouge le 9 avril 1945, elle est rapatriée très affaiblie.",
-        "memoire": "Elle meurt peu après son retour et est nommée Compagnon de la Libération à titre posthume le 27 avril 1945.",
+        "memoire": "Elle décède peu après son retour et est nommée Compagnon de la Libération à titre posthume le 27 avril 1945.",
         "matricules": "Ravensbrück : 57547"
       },
       "sources_biographiques": [
@@ -2268,8 +2268,8 @@
       ],
       "nom_affiche": "Jeanne Goupille",
       "biographie": {
-        "naissance": "22 mai 1896, Paris, selon Yad Vashem ; le Livre-Mémorial indique le 20 mai",
-        "deces": "1987 ; les sources consultées divergent sur le jour du décès.",
+        "naissance": "Mai 1896, Paris ; jour : ?",
+        "deces": "1987 ; date exacte : ? ; lieu : ?",
         "engagement": "Avec son mari André, leurs enfants et Odette Métais, elle accueille et aide des personnes juives, des prisonniers évadés et des aviateurs alliés. La famille participe à des passages clandestins et à des hébergements.",
         "deportation": "Arrêtée en février 1944, elle est déportée à Ravensbrück avec sa fille Élisabeth par le transport du 18 avril 1944. Le Livre-Mémorial mentionne également Beendorf dans son parcours. Elle survit à la déportation.",
         "memoire": "La famille Goupille et Odette Métais sont reconnues Justes parmi les Nations en 2000. Le dossier de Yad Vashem rassemble des témoignages des personnes aidées.",
@@ -2313,7 +2313,7 @@
       "nom_affiche": "Yvonne de Komornicka",
       "biographie": {
         "naissance": "13 juillet 1898, Saulxures-sur-Moselotte, née Roeschlin",
-        "deces": "1994 ; divergence entre le 13 octobre et le 3 novembre selon les notices.",
+        "deces": "1994 ; date exacte : ? ; lieu : ?",
         "engagement": "Engagée à Avignon dans Combat, elle prend des responsabilités dans la Résistance du Vaucluse, puis dans les Mouvements unis de la Résistance, sous le nom de capitaine Kléber.",
         "deportation": "Arrêtée le 23 octobre 1943 à la mairie d’Avignon, elle arrive à Ravensbrück le 17 mars 1944. La notice des Archives départementales souligne la solidarité entre détenues et les activités culturelles clandestines.",
         "memoire": "Libérée en avril 1945, elle revient dans le Vaucluse. Des portraits réalisés en déportation par Simone Auburtin sont conservés aux Archives départementales : 1 J 345. Dossiers signalés : SHD GR 16 P 517097 et AC 21 P 581326.",
@@ -2368,7 +2368,7 @@
       "nom_affiche": "Jeanne, dite Jane Sivadon",
       "biographie": {
         "naissance": "26 juin 1901, Toulouse",
-        "deces": "31 août 1995",
+        "deces": "31 août 1995 ; lieu : ?.",
         "engagement": "Sous le nom de Jacqueline Simon, elle participe à Combat Zone Nord : secrétariat, diffusion de la propagande clandestine et recrutement.",
         "deportation": "Arrêtée le 2 février 1942, elle est détenue à la Santé puis transférée en Allemagne en juin 1942. Après plusieurs prisons, elle arrive à Ravensbrück en novembre 1944, puis à Mauthausen en mars 1945. Elle est libérée par la Croix-Rouge en avril.",
         "memoire": "Elle devient la première présidente de l’Association nationale des anciennes déportées et internées de la Résistance, de 1945 à 1949. Dossier de résistante : SHD GR 16 P 551023.",
@@ -2432,7 +2432,7 @@
         "deces": "19 avril 2008, Saint-Mandé",
         "engagement": "Ethnologue, elle participe dès 1940 à un groupe lié au réseau du Musée de l’Homme : secours aux prisonniers, évasions et renseignement.",
         "deportation": "Arrêtée le 13 août 1942, elle est déportée à Ravensbrück à l’automne 1943. Elle observe et analyse le fonctionnement concentrationnaire et compose clandestinement Le Verfügbar aux Enfers. Sa mère Émilie est assassinée au camp en 1945.",
-        "memoire": "Évacuée par la Croix-Rouge le 23 avril 1945, elle consacre ensuite ses recherches à la déportation et combat la torture. Elle entre au Panthéon en 2015. Attention : le Livre-Mémorial porte une année de naissance erronée, 1909 au lieu de 1907.",
+        "memoire": "Évacuée par la Croix-Rouge le 23 avril 1945, elle consacre ensuite ses recherches à la déportation et combat la torture. Elle entre au Panthéon en 2015.",
         "matricules": "Ravensbrück : 24588"
       },
       "sources_biographiques": [
@@ -2522,10 +2522,10 @@
       "nom_affiche": "Fernande Servagnat",
       "biographie": {
         "naissance": "14 juin 1913, Ixelles, née Nieuwenhuys",
-        "deces": "22 décembre 2006, selon le document biographique du projet",
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Avec Pierre Servagnat, elle participe à la Résistance dans la Marne, au mouvement Ceux de la Résistance et aux activités de liaison. Elle contribue à l’hébergement d’aviateurs alliés et au passage du courrier clandestin.",
         "deportation": "Arrêtée le 6 décembre 1943, elle est détenue à Laon puis à Romainville. Elle est déportée vers Ravensbrück le 18 avril 1944, où elle subit le travail forcé.",
-        "memoire": "Elle est évacuée par la Croix-Rouge en avril 1945. La graphie Servagnat, confirmée par les sources, remplace Savagnat dans le titre de cette fiche.",
+        "memoire": "Elle est évacuée par la Croix-Rouge en avril 1945.",
         "matricules": "Ravensbrück : 35286"
       },
       "sources_biographiques": [
@@ -2686,8 +2686,8 @@
       ],
       "nom_affiche": "Jacqueline Péry d’Alincourt",
       "biographie": {
-        "naissance": "20 décembre 1919",
-        "deces": "21 avril 2009",
+        "naissance": "Née Jacqueline de La Rochebrochard le 20 décembre 1919 à Prissé-la-Charrière (Deux-Sèvres).",
+        "deces": "Décédée le 21 avril 2009 à Paris ; inhumée dans son village natal.",
         "engagement": "Elle participe à la Résistance en fournissant des faux papiers, des logements et une aide matérielle à des agents clandestins liés à Londres.",
         "deportation": "Arrêtée à Paris le 24 septembre 1943, elle est détenue à Fresnes puis Romainville. Déportée vers Ravensbrück le 18 avril 1944, elle y partage l’épreuve et les solidarités des détenues. Le Livre-Mémorial la recense sous De Lorne d’Alincourt / Péry.",
         "memoire": "Libérée par la Croix-Rouge en avril 1945, elle témoigne auprès des jeunes. Son témoignage personnel, recueilli par l’AFMD, est accessible dans les sources.",
@@ -2697,6 +2697,10 @@
         {
           "label": "Notice biographique / source de référence",
           "url": "https://afmd.org/jacqueline-pery-dalincourt.html"
+        },
+        {
+          "label": "Fondation de la Résistance – Jacqueline Péry d’Alincourt",
+          "url": "https://www.fondationresistance.org/recherche-et-documentation/ressources/portrait/jacqueline-pery-alincourt/"
         }
       ],
       "archives_deportation": [
@@ -2855,7 +2859,7 @@
       "nom_affiche": "Marie-José Chombart de Lauwe",
       "biographie": {
         "naissance": "31 mai 1923, Paris, née Wilborts",
-        "deces": "Aucun décès établi dans les sources consultées ; la FMD lui rend hommage pour ses 103 ans le 31 mai 2026.",
+        "deces": "?",
         "engagement": "Avec ses parents, elle participe au réseau Georges France 31, notamment au renseignement sur les installations côtières et aux liaisons clandestines.",
         "deportation": "Arrêtée à Rennes le 22 mai 1942, elle passe par plusieurs prisons, puis est déportée en juillet 1943 à Ravensbrück sous le régime Nacht und Nebel. Elle travaille notamment au contact des nouveau-nés. Transférée à Mauthausen en mars 1945, elle est libérée par la Croix-Rouge le 22 avril.",
         "memoire": "Chercheuse et témoin, elle préside la Fondation pour la mémoire de la déportation de 1997 à 2018, puis en devient présidente d’honneur. Le décès en 1989 suggéré par le nom d’un ancien fichier est erroné.",
@@ -2896,7 +2900,7 @@
       "nom_affiche": "Élisabeth Goupille",
       "biographie": {
         "naissance": "5 mars 1924, La Haye-Descartes, aujourd’hui Descartes",
-        "deces": "Date de décès non établie dans les sources consultées.",
+        "deces": "?",
         "engagement": "Elle participe avec ses parents et ses frères aux secours clandestins organisés par la famille : accueil, liaisons et aide aux personnes juives, aux évadés et aux aviateurs alliés.",
         "deportation": "Arrêtée en février 1944, elle est déportée avec sa mère vers Ravensbrück le 18 avril 1944. Le Livre-Mémorial mentionne Beendorf dans son parcours. Elle survit à la déportation.",
         "memoire": "Elle contribue ensuite à la transmission de l’histoire familiale, notamment sous le nom d’Élisabeth Lamaignère. Reconnue Juste parmi les Nations avec sa famille en 2000. Le PDF anciennement associé porte surtout sur André Goupille : c’est un document familial, et non sa fiche de camp personnelle. Aucun portrait individuel authentifié n’a encore été rattaché.",
@@ -2952,7 +2956,7 @@
         "naissance": "9 avril 1895, Villers-lès-Nancy",
         "deces": "23 mars 1945, Ravensbrück",
         "engagement": "Infirmière volontaire, veuve Barré de Saint-Venant, elle aide dès 1940 des prisonniers à s’évader. Sous le nom de Marie-Odile Laroche, elle dirige un réseau d’évasion et d’entraide.",
-        "deportation": "Son organisation assure hébergements, liaisons et acheminements de personnes recherchées, notamment vers l’Angleterre. Arrêtée puis déportée, elle meurt à Ravensbrück. Le dossier du ministère des Armées est lié ci-dessous ; les dates précises d’arrestation et de transport ne sont pas présentées comme établies ici.",
+        "deportation": "Son organisation assure hébergements, liaisons et acheminements de personnes recherchées, notamment vers l’Angleterre. Arrêtée puis déportée, elle décède à Ravensbrück.",
         "memoire": "Son engagement est reconnu après son décès. Les documents du projet et le dossier individuel permettent de poursuivre l’étude de son réseau.",
         "matricules": null
       },
@@ -3031,7 +3035,7 @@
         "deces": "29 décembre 2016, Pompey",
         "engagement": "Adolescente, elle devient agente de liaison des FTP sous le nom d’Annick. Ses parents, juifs, sont déportés à Auschwitz en 1944.",
         "deportation": "Arrêtée à son tour en 1944, elle est déportée depuis Belfort le 1er septembre vers Ravensbrück, puis envoyée au kommando de Schlieben, rattaché à Buchenwald. Le Livre-Mémorial indique sa libération le 28 avril 1945.",
-        "memoire": "Elle témoigne ensuite de nombreuses années auprès des élèves et participe au travail des associations de mémoire. La notice de l’UNADIF retrace son parcours et son engagement de témoin.",
+        "memoire": "Elle témoigne ensuite de nombreuses années auprès des élèves et participe au travail des associations de mémoire.",
         "matricules": "Ravensbrück : 62870"
       },
       "sources_biographiques": [
@@ -3080,7 +3084,7 @@
         "deces": "24 mai 2020, Paris",
         "engagement": "Agente de renseignement, elle participe au réseau Gloria et recueille des informations militaires destinées aux Alliés.",
         "deportation": "Arrêtée le 15 août 1942 alors qu’elle transporte un rapport sur Le Havre, elle est emprisonnée puis déportée vers Ravensbrück à l’automne 1943. Elle est évacuée par la Croix-Rouge le 23 avril 1945.",
-        "memoire": "Elle s’engage dans l’ADIR, soutient les victimes des expérimentations médicales et contribue aux recherches de Germaine Tillion. Son témoignage Vivre paraît en 2015. Son dossier individuel est accessible sur Mémoire des hommes.",
+        "memoire": "Elle s’engage dans l’ADIR, soutient les victimes des expérimentations médicales et contribue aux recherches de Germaine Tillion. Son témoignage Vivre paraît en 2015.",
         "matricules": "Ravensbrück : 24562"
       },
       "sources_biographiques": [
@@ -3710,7 +3714,7 @@
       "biographie": {
         "matricules": null,
         "naissance": "Née Jacqueline Marié le 12 décembre 1923 à Wiesbaden (Allemagne), fille d’un ingénieur militaire.",
-        "deces": "À vérifier : le texte des élèves indique un décès en 2022, ce que les notices consultées ne confirment pas.",
+        "deces": "?",
         "engagement": "À 17 ans, elle diffuse le journal Défense de la France, puis agit avec ses parents et son frère dans le réseau de renseignement Mithridate ; le domicile familial de Versailles accueille réunions et jeunes recherchés.",
         "deportation": "Arrêtée avec sa famille en juillet 1944, torturée, internée à Fresnes, elle est déportée avec sa mère par le convoi du 15 août 1944 à Ravensbrück, puis envoyée dans des kommandos dépendant de Buchenwald (Torgau, Markkleeberg). Évadée d’une marche de la mort fin avril 1945, rapatriée fin mai.",
         "memoire": "Présidente de l’ADIR (association des déportées et internées de la Résistance) après Geneviève de Gaulle-Anthonioz ; témoin infatigable auprès des élèves ; auteure de Résistante (2019, avec Jérôme Cordelier). Grand-croix de la Légion d’honneur."
@@ -3827,7 +3831,7 @@
         "naissance": "Née Berthie Wild le 15 février 1893 à Marseille.",
         "deces": "Décédée le 31 mai 1943 à la prison de Fresnes, dans des circonstances restées obscures.",
         "engagement": "Surintendante d’usine et militante féministe, elle cofonde avec Henri Frenay le Mouvement de libération nationale puis Combat ; elle crée le service social du mouvement et participe au journal clandestin.",
-        "deportation": "Arrêtée une première fois en 1942, internée, elle s’évade ; reprise par la Gestapo à Mâcon le 28 mai 1943, elle est transférée à Fresnes où elle meurt quelques jours plus tard. Elle n’a pas été déportée.",
+        "deportation": "Arrêtée une première fois en 1942, internée, elle s’évade ; reprise par la Gestapo à Mâcon le 28 mai 1943, elle est transférée à Fresnes où elle décède quelques jours plus tard. Elle n’a pas été déportée.",
         "memoire": "Compagnon de la Libération (26 août 1943) ; l’une des deux femmes inhumées au Mémorial de la France combattante du Mont-Valérien."
       },
       "sources_biographiques": [
@@ -4016,8 +4020,8 @@
       ],
       "biographie": {
         "matricules": null,
-        "naissance": "Née le 21 avril 1917 à Limoges.",
-        "deces": "Décédée en 1999.",
+        "naissance": "Née le 13 avril 1917 à Limoges (Haute-Vienne).",
+        "deces": "Décédée le 20 novembre 1999 à Paris.",
         "engagement": "Étudiante catholique à Lyon, elle participe aux Cahiers du Témoignage chrétien et à l’Amitié chrétienne ; elle cache et fait passer des familles juives, et alerte avant la rafle du Vél d’Hiv et les rafles de zone sud.",
         "deportation": "Non déportée.",
         "memoire": "L’une des premières Françaises reconnues Justes parmi les Nations (1967) ; devenue ensuite assistante sociale."
@@ -4030,6 +4034,10 @@
         {
           "label": "Yad Vashem – base des Justes parmi les Nations",
           "url": "https://collections.yadvashem.org/fr/righteous"
+        },
+        {
+          "label": "FranceArchives – Germaine Ribière",
+          "url": "https://francearchives.gouv.fr/fr/pages_histoire/26288056"
         }
       ],
       "archives_deportation": [],
@@ -4174,7 +4182,7 @@
         "naissance": "Née Vincentella Perini le 9 janvier 1909 à Ajaccio (Corse).",
         "deces": "Décédée du typhus le 9 mai 1943 à Auschwitz-Birkenau.",
         "engagement": "Chirurgienne-dentiste, militante communiste, fondatrice de l’Union des jeunes filles de France ; dans la clandestinité, elle organise les comités féminins et la presse clandestine.",
-        "deportation": "Arrêtée en février 1942, internée à Romainville, elle est déportée à Auschwitz par le convoi du 24 janvier 1943 (« convoi des 31 000 ») avec Charlotte Delbo et Marie-Claude Vaillant-Couturier ; dentiste au Revier, elle y meurt du typhus. Déportée à Auschwitz et non à Ravensbrück.",
+        "deportation": "Arrêtée en février 1942, internée à Romainville, elle est déportée à Auschwitz par le convoi du 24 janvier 1943 (« convoi des 31 000 ») avec Charlotte Delbo et Marie-Claude Vaillant-Couturier ; dentiste au Revier, elle y décède du typhus. Déportée à Auschwitz et non à Ravensbrück.",
         "memoire": "Légion d’honneur à titre posthume ; de nombreuses rues et écoles portent son nom."
       },
       "sources_biographiques": [
@@ -4248,7 +4256,7 @@
       "biographie": {
         "matricules": null,
         "naissance": "Née Claudine Jullien le 9 juin 1919 à Marseille.",
-        "deces": "Décédée le 27 février 2013 à Neuilly-sur-Seine (l’affiche indique 2017).",
+        "deces": "Décédée le 27 février 2013 à Neuilly-sur-Seine.",
         "engagement": "Avec le pasteur Roland de Pury, elle organise dès 1941 une filière d’évasion vers la Suisse (Archamps) et fait passer une centaine de juifs et de réfugiés ; membre de Combat (service social, NAP), puis des MUR ; elle participe en 1944 à l’évasion d’une résistante à Blois.",
         "deportation": "Non déportée.",
         "memoire": "Directrice du service social du MLN (1944), militante de la Ligue des droits de l’Homme, opposante à la torture en Algérie, sénatrice des Hauts-de-Seine (1992-1995)."
@@ -4320,7 +4328,7 @@
       "biographie": {
         "matricules": null,
         "naissance": "Née le 29 décembre 1914 à Londres, dans une famille protestante.",
-        "deces": "Décédée en 1983 (selon l’affiche des élèves).",
+        "deces": "Décédée le 29 décembre 1983 à Paris.",
         "engagement": "Surintendante d’usine, membre du groupe Ricou puis du comité directeur de Combat Zone Nord (janvier 1942). Son frère Paul, résistant, est guillotiné le 7 janvier 1944.",
         "deportation": "Arrêtée dans la nuit du 3 au 4 février 1942, détenue à la Santé, transférée en Allemagne (Sarrebruck, Cologne), condamnée à mort le 12 octobre 1943 ; peine non exécutée. Détenue dans des prisons et bagnes du Reich, elle s’évade pendant une marche de la mort en 1945 et rentre en France en mai 1945.",
         "memoire": "Commandeur de la Légion d’honneur, croix de guerre 1939-1945, médaille de la Résistance avec rosette. Notice à compléter à partir des archives (SHD, Vincennes)."
@@ -4329,6 +4337,10 @@
         {
           "label": "Texte de recherche des élèves (Drive du projet)",
           "url": "https://drive.google.com/file/d/1k1QOMHl0GjucAHKZD3Bs2nzPuB53X9oP/view"
+        },
+        {
+          "label": "Musée de la Résistance en ligne – Élisabeth Dussauze",
+          "url": "https://museedelaresistanceenligne.org/media10339-Elisabeth-Dussauze"
         }
       ],
       "archives_deportation": [],
@@ -4400,7 +4412,7 @@
       ],
       "biographie": {
         "matricules": null,
-        "naissance": "Née Lucie Bernard le 29 juin 1912 à Paris (Mâcon selon certaines notices).",
+        "naissance": "Née Lucie Bernard le 29 juin 1912 ; lieu : ?.",
         "deces": "Décédée le 14 mars 2007 à Issy-les-Moulineaux.",
         "engagement": "Professeure d’histoire, cofondatrice de Libération-Sud avec son mari Raymond ; elle organise en octobre 1943 à Lyon l’attaque d’un camion allemand pour libérer Raymond Aubrac et d’autres résistants.",
         "deportation": "Non déportée ; elle gagne Londres en février 1944.",
@@ -4498,7 +4510,7 @@
       "biographie": {
         "matricules": "Ravensbrück 79996 ; Flossenbürg 58382",
         "naissance": "Née le 14 mars 1927 à Avignon (Vaucluse) ; sténodactylo.",
-        "deces": null,
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Résistante FTP dès janvier 1943, à 15 ans : rédaction et distribution de tracts à Avignon.",
         "deportation": "Arrêtée à Avignon le 12 février 1944 ; prisons Sainte-Anne (Avignon), Baumettes (Marseille), Fresnes, puis prisons de Lauban et Breslau dans le Reich. Classée « NN ». Internée à Ravensbrück le 25 octobre 1944 (matricule 79996), transférée aux kommandos de Graslitz puis de Zwodau (Flossenbürg, matricule 58382). Libérée par les Américains le 7 mai 1945, rapatriée le 18 mai."
       },
@@ -4522,7 +4534,7 @@
       "documents": [],
       "biographie": {
         "matricules": "Ravensbrück 27216 ; Flossenbürg 50346",
-        "naissance": "Née le 10 novembre 1903 à Paris selon l’Association Flossenbürg (le Musée de la Résistance en ligne indique le 12 décembre 1903 : à vérifier) ; divorcée, deux enfants, ouvrière à Marseille.",
+        "naissance": "Née en 1903 à Paris ; date exacte : ?. Divorcée, mère de deux enfants, ouvrière à Marseille.",
         "deces": "Décédée le 20 octobre 2011, à 108 ans.",
         "engagement": "Agente P1 du réseau « Abbé Blanc » : renseignement, hébergement, distribution de journaux clandestins.",
         "deportation": "Arrêtée à Marseille le 27 août 1943, détenue aux forts Saint-Nicolas et Saint-Pierre puis à Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février (matricule 27216), envoyée le 11 avril au kommando d’Holleischen (Flossenbürg, matricule 50346). Libérée début mai 1945, rapatriée le 20 mai.",
@@ -4555,7 +4567,7 @@
       "biographie": {
         "matricules": "Ravensbrück 35306 ; Flossenbürg 50757",
         "naissance": "Née le 29 septembre 1903 à Marseille ; mariée, un enfant, domiciliée au Puy-en-Velay (Haute-Loire).",
-        "deces": null,
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Aide apportée à la Résistance en Haute-Loire.",
         "deportation": "Arrêtée le 18 mars 1944 à Chadrac (Haute-Loire), internée à Vichy puis Romainville. Partie de Paris-Est le 18 avril 1944, arrivée à Ravensbrück le 22 avril (matricule 35306), envoyée au kommando d’Holleischen (Flossenbürg, matricule 50757). Libérée début mai 1945, rapatriée le 20 mai 1945."
       },
@@ -4614,7 +4626,7 @@
       "biographie": {
         "matricules": null,
         "naissance": "Née le 17 juillet 1916 à Toulon (Var), fille d’Édouard Maurel, pionnier de la radio dans le Var.",
-        "deces": "Décédée en 2009.",
+        "deces": "Décédée en 2009 ; lieu : ?.",
         "engagement": "Membre du réseau de renseignement Marco Polo (services secrets de la France libre).",
         "deportation": "Arrêtée en 1943, déportée en Allemagne en août 1943 : un mois de quarantaine à Ravensbrück, puis vingt mois au kommando de Neubrandenburg (usine d’armement), annexe de Ravensbrück. Libérée par l’Armée rouge en avril 1945.",
         "memoire": "Auteure d’Un camp très ordinaire (Minuit, 1957, préface de François Mauriac, prix des Critiques), témoignage majeur sur la vie des déportées."
@@ -4645,7 +4657,7 @@
       "biographie": {
         "matricules": "Ravensbrück 27180 ; Flossenbürg 50333",
         "naissance": "Née le 6 mars 1901 à Paris ; mariée, mère de quatre enfants, domiciliée à Marseille.",
-        "deces": null,
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Agente du réseau de renseignement « Abbé Blanc » à Marseille.",
         "deportation": "Arrêtée à Marseille le 1er août 1943, détenue aux forts Saint-Nicolas et Saint-Pierre puis à Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février (matricule 27180), envoyée le 11 avril au kommando d’Holleischen (Flossenbürg, matricule 50333). Libérée début mai 1945, rapatriée par Longuyon."
       },
@@ -4667,7 +4679,7 @@
       "biographie": {
         "matricules": "Ravensbrück 35247 ; Flossenbürg 50732",
         "naissance": "Née le 5 juin 1922 à Gap (Hautes-Alpes) ; cultivatrice.",
-        "deces": null,
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Avec son père Joseph Martin, elle ravitaille le camp de réfractaires (maquis) de Serre-des-Joncs à Sigoyer ; ils sont dénoncés à la Gestapo.",
         "deportation": "Arrêtée à Gap le 30 novembre 1943 ; prisons de Gap, des Baumettes (Marseille), Compiègne et Romainville. Partie de Paris-Est le 18 avril 1944, arrivée à Ravensbrück le 22 avril (matricule 35247), envoyée le 4 juin au kommando d’Holleischen (Flossenbürg, matricule 50732). Libérée début mai 1945, rapatriée le 20 mai."
       },
@@ -4721,7 +4733,7 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Née vers 1924.",
+        "naissance": "Née vers 1924 ; lieu : ?.",
         "deces": "Décédée le 14 février 2023 à Toulon (Var), dans sa 99e année.",
         "engagement": "Résistante, classée « Nacht und Nebel » (NN).",
         "deportation": "Déportée à Ravensbrück le 2 janvier 1944. Libérée le 23 avril 1945 lors de l’opération des « bus blancs » de la Croix-Rouge suédoise ; elle ne pesait plus que 25 kg.",
@@ -4744,17 +4756,21 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Née en 1908.",
-        "deces": "Décédée en septembre 1945, des suites de sa déportation.",
-        "engagement": "Épouse de Pierre Doize, organisateur des premiers groupes de Francs-tireurs et partisans des Bouches-du-Rhône ; militante communiste marseillaise.",
-        "deportation": "Déportée à Ravensbrück. Parcours exact à rechercher (archives des Bouches-du-Rhône, SHD Caen).",
+        "naissance": "Née Petra Folch, dite Pierrette, le 31 décembre 1897 à Castellfort (Espagne).",
+        "deces": "Décédée le 9 décembre 1945 à son domicile à Marseille (Bouches-du-Rhône), après son retour de déportation.",
+        "engagement": "Militante communiste à Marseille, Miramas et Salon-de-Provence, elle assure des liaisons entre les FTPF et les détenus politiques de Nîmes dans la préparation d’une évasion.",
+        "deportation": "Écrouée à Nîmes le 12 février 1944, puis à Montluc le 20 juin. Déportée le 11 juillet 1944 via Neue Bremm, elle arrive à Ravensbrück le 26 juillet, puis est transférée à Helmstedt-Beendorf, dépendant de Neuengamme. Libération : ?.",
         "memoire": null,
-        "matricules": null
+        "matricules": "Ravensbrück : 46854"
       },
       "sources_biographiques": [
         {
           "label": "Musée de la Résistance en ligne – notice Pierre Doize",
           "url": "https://museedelaresistanceenligne.org/media1764-Pierre-Doize"
+        },
+        {
+          "label": "AFMD du Gard – Petra, dite Pierrette, Doize née Folch",
+          "url": "https://afmdgard.org/doize-petra-dite-pierrette-nee-folch/"
         }
       ],
       "archives_deportation": [],
@@ -4825,8 +4841,8 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Âgée de 22 ans en 1944.",
-        "deces": null,
+        "naissance": "Âgée de 22 ans en 1944 ; lieu : ?.",
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "À Antibes, elle cache des pilotes britanniques abattus ; à Paris, elle devient agent de liaison du réseau Brutus.",
         "deportation": "Arrêtée par la Gestapo le 4 juillet 1944 devant les locaux de Brutus, déportée par le dernier convoi de la région parisienne (août 1944) à Ravensbrück. En avril 1945, elle s’évade de la marche de la mort avec huit camarades et rejoint les Américains.",
         "memoire": "Restée à Colditz pour aider les réfugiés. L’évasion des neuf jeunes femmes a été racontée dans le livre Nous rentrerons ensemble.",
@@ -4848,8 +4864,8 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Âgée de 24 ans en 1944 ; chimiste.",
-        "deces": null,
+        "naissance": "Âgée de 24 ans en 1944 ; chimiste ; lieu : ?.",
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Entrée en résistance en mai 1943, agent de renseignement chargée de repérer des terrains de parachutage.",
         "deportation": "Arrêtée le 4 février 1944 en Bretagne, prison d’Angers, arrivée à Ravensbrück le 14 juin 1944. Elle conduit l’évasion de neuf camarades pendant la marche de la mort d’avril 1945.",
         "memoire": "Elle reste à Colditz pour aider les réfugiés.",
@@ -4870,8 +4886,8 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Née en 1907.",
-        "deces": "Décédée en 2007.",
+        "naissance": "Née en 1907 ; lieu : ?.",
+        "deces": "Décédée en 2007 ; lieu : ?.",
         "engagement": "Résistante du réseau Buckmaster (services britanniques).",
         "deportation": "Déportée le 31 janvier 1944 avec sa mère Marguerite, depuis Compiègne, à Ravensbrück (matricule 27459), puis au kommando d’Holleischen (Flossenbürg, matricule 50412).",
         "memoire": "Au camp, elle dessine en cachette ses camarades : ses portraits sont aujourd’hui des documents historiques (musée de Besançon).",
@@ -4892,8 +4908,8 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Née le 29 avril 1922.",
-        "deces": "Décédée le 13 décembre 2014.",
+        "naissance": "Née le 29 avril 1922 à Pérenchies (Nord).",
+        "deces": "Décédée le 13 décembre 2014 à Loos (Nord).",
         "engagement": "Résistante dans le Nord.",
         "deportation": "Déportée à Ravensbrück, puis au kommando d’Holleischen.",
         "memoire": "Présidente du musée de la Résistance de Denain, membre du comité national de l’Amicale de Ravensbrück.",
@@ -4903,6 +4919,10 @@
         {
           "label": "Notice encyclopédique (Wikipédia)",
           "url": "https://fr.wikipedia.org/wiki/Yvonne_Abbas"
+        },
+        {
+          "label": "Relevé du fichier des décès de l’INSEE – Yvonne Clémence Abbas",
+          "url": "https://www.acte-deces.fr/recherche-deces-famille-abbas"
         }
       ],
       "archives_deportation": [],
@@ -4966,8 +4986,8 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Née le 7 octobre 1921.",
-        "deces": "Décédée le 12 août 2016.",
+        "naissance": "Née le 7 octobre 1921 ; lieu : ?.",
+        "deces": "Décédée le 12 août 2016 ; lieu : ?.",
         "engagement": "Membre du réseau Confrérie Notre-Dame.",
         "deportation": "Arrêtée avec sa sœur par la Gestapo en 1942, détenue à Vannes, Compiègne et Romainville, déportée à Ravensbrück en 1944 ; libérée par l’Armée rouge en avril 1945.",
         "memoire": null,
@@ -4991,8 +5011,8 @@
       },
       "documents": [],
       "biographie": {
-        "naissance": "Née en 1916.",
-        "deces": "Décédée le 3 novembre 2019, à 103 ans.",
+        "naissance": "Née le 22 avril 1916 à Oger (Marne).",
+        "deces": "Décédée le 3 novembre 2019 à Épernay (Marne).",
         "engagement": "Institutrice et secrétaire de mairie à Gionges (Marne), elle fournit de faux papiers à des familles juives et aide des aviateurs alliés (réseau d’évasion Possum).",
         "deportation": "Prisons de Châlons, camp de Neue Bremm, puis Ravensbrück (matricule 47360) et un kommando près de Weimar ; libérée le 21 avril 1945.",
         "memoire": "Témoin infatigable auprès des élèves ; auteure du Fil de l’araignée ; grand officier de la Légion d’honneur (2017).",
@@ -5006,6 +5026,10 @@
         {
           "label": "Notice encyclopédique (Wikipédia)",
           "url": "https://fr.wikipedia.org/wiki/Yvette_Lundy"
+        },
+        {
+          "label": "Commune de Blancs-Coteaux – Gionges, Yvette Lundy",
+          "url": "https://blancs-coteaux.fr/la-commune/decouvrir-la-commune/histoire-et-patrimoine-0/gionges"
         }
       ],
       "archives_deportation": [],
@@ -5026,7 +5050,7 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 14 juillet 1909 à Nantes.",
-        "deces": "Décédée en 2011.",
+        "deces": "Décédée en 2011 ; lieu : ?.",
         "engagement": "Militante communiste dès juin 1940, agente de liaison puis responsable régionale des FTP.",
         "deportation": "Arrêtée par la police française en mars 1944, torturée, transférée à Romainville, déportée à Ravensbrück le 13 mai 1944 (matricule 38773), puis au kommando de Zwodau.",
         "memoire": null,
@@ -5077,8 +5101,8 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "—",
-        "deces": "Décédée en 1945 des suites de sa déportation.",
+        "naissance": "— ; lieu : ?.",
+        "deces": "Décédée en 1945 des suites de sa déportation ; lieu : ?.",
         "engagement": "Résistante dans la Nièvre.",
         "deportation": "Torturée puis relâchée en 1943, arrêtée de nouveau le 6 décembre 1943, déportée de Romainville par le convoi du 13 mai 1944 à Ravensbrück (matricule 39299).",
         "memoire": null,
@@ -5124,8 +5148,8 @@
       },
       "documents": [],
       "biographie": {
-        "naissance": "Née en 1919.",
-        "deces": "Décédée en 2020.",
+        "naissance": "Née en 1919 ; lieu : ?.",
+        "deces": "Décédée en 2020 ; lieu : ?.",
         "engagement": "Résistante angevine.",
         "deportation": "Déportée à Ravensbrück.",
         "memoire": "Après la guerre, elle demande et obtient du général de Gaulle la grâce du collaborateur responsable de sa déportation : un geste de pardon devenu célèbre.",
@@ -5155,8 +5179,8 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Née en 1922.",
-        "deces": "Décédée en 2013.",
+        "naissance": "Née en 1922 ; lieu : ?.",
+        "deces": "Décédée en 2013 ; lieu : ?.",
         "engagement": "Résistante communiste en Normandie (FTP).",
         "deportation": "Condamnée à mort, peine commuée, déportée à Ravensbrück puis Mauthausen.",
         "memoire": "Auteure de Résistante : mémoires d’une femme, de la Résistance à la déportation (2009).",
@@ -5177,7 +5201,7 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "—",
+        "naissance": "— ; lieu : ?.",
         "deces": "Décédée à Ravensbrück le 28 janvier 1945.",
         "engagement": "Membre de Libération-Nord à Reims avec son mari André.",
         "deportation": "Internée à Reims, Laon et Romainville, déportée le 19 juin 1944 à Neue Bremm puis à Ravensbrück (matricule 44608).",
@@ -5199,7 +5223,7 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "—",
+        "naissance": "— ; lieu : ?.",
         "deces": "Décédée à Ravensbrück en 1944.",
         "engagement": "Institutrice du quartier Plaisance (Paris XIVe), membre du réseau franco-polonais F2.",
         "deportation": "Déportée à Ravensbrück.",
@@ -5222,7 +5246,7 @@
       "documents": [],
       "biographie": {
         "naissance": "Née en 1923 à Bonn.",
-        "deces": "Décédée le 1er juillet 2019.",
+        "deces": "Décédée le 1er juillet 2019 ; lieu : ?.",
         "engagement": "Résistante.",
         "deportation": "À Ravensbrück du 3 février 1944 au 23 avril 1945 ; le commandant du camp la retient en otage avec Jacqueline Péry d’Alincourt, puis elle est libérée par la Croix-Rouge suédoise.",
         "memoire": "Représentante de l’ADIR au Comité international de Ravensbrück.",
@@ -5243,10 +5267,10 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "—",
-        "deces": null,
+        "naissance": "— ; lieu : ?.",
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Membre du réseau Prosper (services britanniques) ; mariée, mère de cinq enfants.",
-        "deportation": "Déportée de juillet 1943 à mai 1945 : Ravensbrück puis Holleischen. Son mari Alain meurt à Flossenbürg en 1945.",
+        "deportation": "Déportée de juillet 1943 à mai 1945 : Ravensbrück puis Holleischen. Son mari Alain décède à Flossenbürg en 1945.",
         "memoire": "Elle a témoigné de la fraternité entre prisonnières.",
         "matricules": null
       },
@@ -5266,7 +5290,7 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 12 juillet 1903 à Marseille ; mariée, commerçante à Marseille.",
-        "deces": null,
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Agente P2 du réseau britannique Buckmaster (« Roger ») depuis février 1942 : hébergement de parachutistes, recrutement.",
         "deportation": "Arrêtée à Marseille le 18 octobre 1943, détenue à Marseille puis Compiègne, déportée le 31 janvier 1944 à Ravensbrück (matricule 27300), puis aux kommandos de Graslitz et Zwodau (Flossenbürg, matricule 51834). Évacuée le 13 avril 1945, libérée à Zwodau par les Américains le 7 mai, rapatriée le 19 mai 1945.",
         "memoire": null,
@@ -5289,7 +5313,7 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 4 août 1898 à Belgentier (Var) ; mariée, manœuvre, domiciliée à Talence (Gironde).",
-        "deces": null,
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Agente de liaison des FTP de Gironde depuis mai 1941.",
         "deportation": "Arrêtée à Talence le 26 avril 1943 ; fort du Hâ, Romainville, Compiègne. Arrivée à Ravensbrück le 29 avril 1943 (matricule 19246), puis kommando d’Holleischen (Flossenbürg, matricule 50268). Libérée début mai 1945, rapatriée le 20 mai.",
         "memoire": null,
@@ -5312,8 +5336,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 18 mai 1925 à Graveson (Bouches-du-Rhône).",
-        "deces": null,
-        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée à Ravensbrück (matricule 24285). Le Livre-Mémorial indique une libération le 29 septembre 1944.",
         "memoire": null,
         "matricules": "Ravensbrück 24285"
@@ -5335,8 +5359,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 31 octobre 1912 à Cannes (Alpes-Maritimes).",
-        "deces": null,
-        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée à Ravensbrück, puis au kommando de Neurohlau (Flossenbürg). Rentrée en France.",
         "memoire": null,
         "matricules": null
@@ -5358,8 +5382,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 16 février 1921 à Marseille.",
-        "deces": null,
-        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Passée par Kassel (kommando de Buchenwald) et Ravensbrück. Rentrée en France.",
         "memoire": null,
         "matricules": null
@@ -5381,8 +5405,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 17 janvier 1921 à Nice (Alpes-Maritimes).",
-        "deces": null,
-        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée à Ravensbrück puis à Altenburg. Sort final à établir.",
         "memoire": null,
         "matricules": null
@@ -5403,9 +5427,9 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "À rechercher (pays d’Arles).",
-        "deces": null,
-        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "naissance": "?",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée à Ravensbrück.",
         "memoire": "Son témoignage audiovisuel est conservé par l’association pour un musée de la Résistance et de la Déportation d’Arles.",
         "matricules": null
@@ -5426,9 +5450,9 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "À rechercher (pays d’Arles).",
-        "deces": null,
-        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "naissance": "?",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée à Ravensbrück.",
         "memoire": "Son témoignage audiovisuel est conservé par l’association pour un musée de la Résistance et de la Déportation d’Arles.",
         "matricules": null
@@ -5449,9 +5473,9 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "À rechercher ; un article de presse du Gard la présente comme une « porteuse de mémoire » nîmoise : origine à vérifier (Gard ou pays d’Arles).",
-        "deces": null,
-        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "naissance": "?",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Arrêtée sur dénonciation, incarcérée à Nîmes, à Marseille puis à Rennes ; déportée au camp de Neue Bremm (Sarrebruck), puis transférée en 1944 à Ravensbrück.",
         "memoire": "Son témoignage audiovisuel est conservé par l’association pour un musée de la Résistance et de la Déportation d’Arles.",
         "matricules": null
@@ -5476,9 +5500,9 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "À rechercher (pays d’Arles).",
-        "deces": null,
-        "engagement": "À rechercher : réseau ou mouvement, circonstances de l’arrestation (archives départementales, SHD Caen et Vincennes).",
+        "naissance": "?",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée à Ravensbrück.",
         "memoire": "Son témoignage audiovisuel est conservé par l’association pour un musée de la Résistance et de la Déportation d’Arles.",
         "matricules": null
@@ -5503,7 +5527,7 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 18 octobre 1897 à Comines (Nord).",
-        "deces": "Morte le 30 novembre 1982 à Évenos (Var).",
+        "deces": "Décédée le 30 novembre 1982 à Évenos (Var).",
         "engagement": "Syndicaliste CGT et militante communiste, organisatrice de la Résistance dans le Nord (grève des mineurs de 1941).",
         "deportation": "Arrêtée le 26 août 1941, déportée à Ravensbrück en mars 1942 ; libérée par la Croix-Rouge en avril 1945.",
         "memoire": "Déléguée des déportés à l’Assemblée consultative provisoire en 1945, l’une des premières femmes parlementaires. Elle a fini sa vie dans le Var.",
@@ -5531,7 +5555,7 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 9 septembre 1913 à Avignon (Vaucluse) ; mariée, un enfant, domiciliée à Arles (Bouches-du-Rhône).",
-        "deces": null,
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Membre du réseau « Mesnard et Lucien », rattaché au réseau britannique Buckmaster (« Mesnard » était le pseudonyme de Jean Méjan).",
         "deportation": "Arrêtée par la Gestapo à son domicile d’Arles le 23 avril 1943 vers 4 heures du matin ; détenue à Marseille (Saint-Pierre puis Baumettes) et à Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février, transférée le 11 avril 1944 au kommando d’Holleischen (Flossenbürg). Libérée le 3 mai 1945 par des partisans polonais, prise en charge par les Américains le 5 mai, rapatriée par Longuyon le 20 mai 1945.",
         "memoire": null,
@@ -5554,7 +5578,7 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 3 juillet 1911 à Saint-Vaast-la-Hougue (Manche) ; mariée, deux enfants, domiciliée à Marseille.",
-        "deces": null,
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Membre du réseau britannique Buckmaster (« Jean-Marie ») depuis le 1er décembre 1942 : liaisons, hébergement, renseignement.",
         "deportation": "Arrêtée à Marseille le 17 avril 1943 ; détenue à Marseille, Fresnes, Romainville et Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février, transférée le 11 avril 1944 au kommando d’Holleischen (Flossenbürg). Libérée le 3 mai 1945, rapatriée par Longuyon.",
         "memoire": null,
@@ -5577,7 +5601,7 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 21 mai 1914 à Ambert (Puy-de-Dôme) ; secrétaire, célibataire au moment de son arrestation.",
-        "deces": null,
+        "deces": "Date : ? ; lieu : ?",
         "engagement": "Se réclamait de l’Armée des Volontaires ; arrêtée à Marseille alors qu’elle effectuait une liaison.",
         "deportation": "Prise dans une souricière de la Gestapo à Marseille le 23 avril 1943 ; détenue à Marseille, Fresnes et Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février, puis kommandos de Graslitz et de Zwodau (Flossenbürg). Libérée à Zwodau par les Américains le 7 mai 1945, rapatriée par Mézières.",
         "memoire": "Lien avec la région : arrêtée et emprisonnée à Marseille.",
@@ -5626,22 +5650,39 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Fille de républicains espagnols exilés en France.",
-        "deces": "À rechercher.",
-        "engagement": "Entrée dans la Résistance à 18 ans ; travaille aux services sociaux de Combat à Cannes, puis à Marseille pour les Mouvements unis de la Résistance (MUR), où elle distribue des colis aux familles qui cachent des enfants juifs.",
-        "deportation": "Arrêtée le 1er mars 1944, interrogée au siège de la Gestapo, 425 rue Paradis à Marseille ; détenue aux Baumettes puis à Romainville ; déportée vers Ravensbrück le 23 juin 1944. Elle fait partie des neuf jeunes femmes qui s’évadent ensemble pendant la marche de la mort d’avril 1945.",
-        "memoire": null,
-        "matricules": null
+        "naissance": "Née Joséphine Bordonava (également orthographié Bordanava), le 28 mars 1924 à l’hôpital civil de Vichy (Allier). Ses parents résident à Bellerive-sur-Allier.",
+        "deces": "Décédée le 29 juin 2014 à Cannes (Alpes-Maritimes).",
+        "engagement": "Sous le pseudonyme « Séverine », elle travaille au service social de Combat à Cannes dès septembre 1942, puis devient responsable du service social des MUR à Marseille : colis aux prisonniers et soutien aux familles.",
+        "deportation": "Arrêtée le 1er mars 1944 à Marseille ; Baumettes, puis Romainville. Déportée le 14 juin 1944 par le convoi I.227 via Neue Bremm, elle rejoint Ravensbrück le 23 juin, puis Leipzig-Schönefeld le 22 août. Évacuée le 13 avril 1945, elle s’évade le 15 et rejoint les Américains le 21. Rapatriée le 20 mai.",
+        "memoire": "Dossier de Résistance : SHD GR 16 P 73933. Carte de Déporté résistant n° 2.001.28330 attribuée en 1955. L’AFMD reproduit des documents d’Arolsen et des archives familiales.",
+        "matricules": "Ravensbrück : 43220 ; Leipzig-Schönefeld / Buchenwald : 4065."
       },
       "sources_biographiques": [
         {
           "label": "Fondation Auschwitz – Neuf jeunes femmes à Ravensbrück (2025)",
           "url": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        },
+        {
+          "label": "AFMD de l’Allier – Joséphine Bordonava / Bordanava",
+          "url": "https://www.afmd-allier.com/PBCPPlayer.asp?ID=1532755"
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Document individuel de déportation – Arolsen 7529401",
+          "nature": "Document d’archives original reproduit et référencé par l’AFMD de l’Allier.",
+          "url": "https://www.afmd-allier.com/Files/31743/Img/01/BORDONAVA-Arolsen-1.jpg"
+        },
+        {
+          "label": "Document individuel de déportation – Arolsen 7529398",
+          "nature": "Document d’archives original reproduit et référencé par l’AFMD de l’Allier.",
+          "url": "https://www.afmd-allier.com/Files/31743/Img/14/BORDONAVA-Arolsen-2.jpg"
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "ordre_reseau": "Combat ; MUR",
+      "reseau_affiche": "Combat ; MUR"
     },
     {
       "nom": "NICOLE CLARENCE",
@@ -5649,22 +5690,28 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "À rechercher.",
-        "deces": "À rechercher.",
-        "engagement": "Membre des Éclaireurs de France en 1942, elle recueille à Marseille des renseignements sur les positions allemandes et sert d’agente de liaison ; elle rejoint ensuite le secrétariat national du mouvement Franc-Tireur à Lyon.",
-        "deportation": "Arrêtée le 4 août 1944, probablement sur dénonciation, détenue à Fresnes ; arrivée à Ravensbrück le 21 août 1944 sous le nom de Nicole Audibert. Elle fait partie des neuf jeunes femmes qui s’évadent pendant la marche de la mort d’avril 1945.",
-        "memoire": null,
+        "naissance": "Née le 3 août 1922 à Paris. Sa famille se réfugie à Nice puis à Marseille en 1940.",
+        "deces": "Décédée en 2007.  ; lieu : ?.",
+        "engagement": "Cheftaine des Éclaireurs de France, elle rejoint Franc-Tireur après sa rencontre avec Eugène Claudius-Petit. Elle participe ensuite aux activités du réseau Buckmaster Acolyte : transports d’armes, parachutages et sabotages, puis travaille à Paris pour les MUR et le MLN.",
+        "deportation": "Arrêtée le 4 août 1944 place de Breteuil à Paris, torturée rue de la Pompe, puis emprisonnée à Fresnes. Déportée à Ravensbrück le 15 août 1944, elle est affectée à Schönefeld, près de Leipzig. Pendant l’évacuation d’avril 1945, elle s’évade avec huit compagnes et rejoint les Américains.",
+        "memoire": "Elle retrouve sa famille à Paris le 21 mai 1945. Après la guerre, elle travaille comme journaliste pour Magnum, Elle et Le Figaro Madame, puis se consacre à la peinture. Son témoignage a été enregistré le 16 février 1996.",
         "matricules": null
       },
       "sources_biographiques": [
         {
           "label": "Fondation Auschwitz – Neuf jeunes femmes à Ravensbrück (2025)",
           "url": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        },
+        {
+          "label": "USC Shoah Foundation – Biographie issue de son témoignage",
+          "url": "https://sfi.usc.edu/sites/default/files/videos/docs/Nicole%20Clarence%20bio.pdf"
         }
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "ordre_reseau": "Franc-Tireur ; Buckmaster Acolyte ; MUR / MLN",
+      "reseau_affiche": "Franc-Tireur ; Buckmaster Acolyte ; MUR / MLN"
     },
     {
       "nom": "NICOLE RAMBURE",
@@ -5672,22 +5719,32 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Née le 26 octobre 1920 ; elle a vécu à Marseille.",
-        "deces": "À vérifier.",
-        "engagement": "Agente de liaison, arrêtée plusieurs fois en deux ans.",
-        "deportation": "Déportée un an, à Ravensbrück puis en Tchécoslovaquie.",
-        "memoire": "Un tableau lui ayant appartenu est présenté par le Musée de la Résistance en ligne.",
-        "matricules": null
+        "naissance": "Née Nicole Joubert en octobre 1920 à Thiers (Puy-de-Dôme) ; jour : ?.",
+        "deces": "Décédée le 7 février 2019 à Martigues (Bouches-du-Rhône), après avoir vécu à Marseille.",
+        "engagement": "Étudiante militante communiste à Clermont-Ferrand, elle entre dans la Résistance en 1940. Après une première incarcération, elle rejoint les FTPF et contribue au recrutement et aux liaisons d’un maquis de Haute-Loire.",
+        "deportation": "Arrêtée le 28 novembre 1940, libérée le 30 novembre 1942, puis arrêtée de nouveau le 23 mai 1943. Condamnée à quatre ans de réclusion, elle passe par plusieurs prisons françaises et Romainville. Déportée le 13 mai 1944 à Ravensbrück, puis transférée à Zwodau, où elle est affectée au contrôle de pièces dans une usine Siemens.",
+        "memoire": "Rentrée de déportation en mai 1945. Son témoignage, enregistré le 29 janvier 2005 à Marseille, insiste sur l’entraide entre détenues. L’université de Poitiers conserve un fonds de correspondance familiale donné par sa fille.",
+        "matricules": "Ravensbrück : 39105 ; Zwodau : 51570."
       },
       "sources_biographiques": [
         {
           "label": "Musée de la Résistance en ligne – tableau appartenant à Nicole Rambure",
           "url": "https://museedelaresistanceenligne.org/media.php?media=1993"
+        },
+        {
+          "label": "AFMD DT 13 – Témoignage de Nicole Rambure née Joubert",
+          "url": "https://mvr.asso.fr/nicole-rambure-nee-joubert-temoignage-de-resistante-deportee-propos-recueillis-par-renee-lopez-thery-pour-lafmd-dt-13/"
+        },
+        {
+          "label": "Université de Poitiers – Inventaire de la correspondance Camille Joubert",
+          "url": "https://bu.univ-poitiers.fr/wp-content/uploads/sites/135/2025/10/Joubert_inventaire_public.pdf"
         }
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "ordre_reseau": "FTPF",
+      "reseau_affiche": "FTPF"
     },
     {
       "nom": "LUCIENNE VANUCCI",
@@ -5696,8 +5753,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 28 octobre 1925 à Nice (Alpes-Maritimes).",
-        "deces": "Morte en déportation le 9 mai 1944 à Ravensbrück.",
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Décédée en déportation le 9 mai 1944 à Ravensbrück.",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.126 parti de Paris le 29 août 1943, matricule 22464 à Ravensbrück.",
         "memoire": null,
         "matricules": "Ravensbrück 22464"
@@ -5708,7 +5765,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.126."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.126."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5719,8 +5782,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 2 mars 1895 à Marseille (Bouches-du-Rhône).",
-        "deces": "Morte en déportation le 30 mars 1945 à Ravensbrück.",
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Assassinée dans la chambre à gaz de Ravensbrück le 30 mars 1945.",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.175 parti de Compiègne le 31 janvier 1944, matricule 27630 à Ravensbrück. Parcours : Ravensbrück.",
         "memoire": null,
         "matricules": "Ravensbrück 27630"
@@ -5731,7 +5794,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5742,8 +5811,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 18 avril 1892 à L’Isle-sur-la-Sorgue (Vaucluse).",
-        "deces": "Morte en déportation.",
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Décédée le 20 mars 1945 à Ravensbrück.",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.235 parti de Paris le 30 juin 1944, matricule 44730 à Ravensbrück. Parcours : Ravensbrück.",
         "memoire": null,
         "matricules": "Ravensbrück 44730"
@@ -5754,7 +5823,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.235."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.235."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5765,8 +5840,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 20 novembre 1921 à Gap (Hautes-Alpes).",
-        "deces": "Morte en déportation.",
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Décédée le 28 mars 1945 à Ravensbrück (Allemagne).",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.264 parti de Paris-Pantin le 15 août 1944 (dernier grand convoi de la région parisienne), matricule 57775 à Ravensbrück. Parcours : Torgau, Ravensbrück.",
         "memoire": null,
         "matricules": "Ravensbrück 57775"
@@ -5775,9 +5850,19 @@
         {
           "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.264",
           "url": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "label": "MémorialGenWeb – Déportés des Hautes-Alpes, Georgette Marcelle Simone Berthet",
+          "url": "https://www.memorialgenweb.org/memorial3/deportes/resultlieux.php?dept=05"
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.264."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5788,8 +5873,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 26 avril 1901 à Marseille (Bouches-du-Rhône).",
-        "deces": "Morte en déportation.",
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Décédée en déportation ; lieu : ?.",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.264 parti de Paris-Pantin le 15 août 1944 (dernier grand convoi de la région parisienne), matricule 57558 à Ravensbrück. Parcours : Torgau.",
         "memoire": null,
         "matricules": "Ravensbrück 57558"
@@ -5800,7 +5885,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.264."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.264."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5811,9 +5902,9 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 31 juillet 1918 à Marseille (Bouches-du-Rhône).",
-        "deces": "Morte en déportation.",
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
-        "deportation": "Déportée par le transport I.264 parti de Paris-Pantin le 15 août 1944 (dernier grand convoi de la région parisienne). Parcours : Torgau, Ravensbrück. Prénom suivi d’un point d’interrogation dans le Livre-Mémorial : à confirmer.",
+        "deces": "Décédée en déportation ; lieu : ?.",
+        "engagement": "?",
+        "deportation": "Déportée par le transport I.264 parti de Paris-Pantin le 15 août 1944 (dernier grand convoi de la région parisienne). Parcours : Torgau, Ravensbrück.",
         "memoire": null,
         "matricules": null
       },
@@ -5823,7 +5914,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.264."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.264."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5834,8 +5931,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 21 mars 1903 à Tallard (Hautes-Alpes).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.146 parti le 21 octobre 1943, matricule 24578 à Ravensbrück. Parcours : Ravensbrück, Mauthausen. Rentrée de déportation (22 avril 1945, Mauthausen). Libérée par la Croix-Rouge.",
         "memoire": null,
         "matricules": "Ravensbrück 24578"
@@ -5846,7 +5943,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.146."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.146."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5857,8 +5960,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 30 décembre 1902 à Bayons (Basses-Alpes).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.175 parti de Compiègne le 31 janvier 1944, matricule 27208 à Ravensbrück. Parcours : Ravensbrück, Watenstedt, Ravensbrück. Rentrée de déportation. Libérée par la Croix-Rouge.",
         "memoire": null,
         "matricules": "Ravensbrück 27208"
@@ -5869,7 +5972,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5880,8 +5989,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 17 février 1893 à Saint-Firmin (Hautes-Alpes).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.189 parti de Paris le 16 mars 1944 via Aix-la-Chapelle, matricule 34109 à Ravensbrück. Parcours : Ravensbrück, Mauthausen. Rentrée de déportation.",
         "memoire": null,
         "matricules": "Ravensbrück 34109"
@@ -5892,7 +6001,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.189."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.189."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5903,9 +6018,9 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 31 mai 1907 à Guillestre (Hautes-Alpes).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
-        "deportation": "Déportée par le transport I.230 parti de Paris le 19 juin 1944, matricule 44661 à Ravensbrück. Parcours : Ravensbrück (kommando Schönefeld). Rentrée de déportation. Domiciliée à Buis-les-Baronnies (Drôme) en 1940, FTPF selon le Musée de la Résistance en ligne.",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
+        "deportation": "Déportée par le transport I.230 parti de Paris le 19 juin 1944, matricule 44661 à Ravensbrück. Parcours : Ravensbrück (kommando Schönefeld). Rentrée de déportation. Domiciliée à Buis-les-Baronnies (Drôme) en 1940, FTPF.",
         "memoire": null,
         "matricules": "Ravensbrück 44661"
       },
@@ -5915,7 +6030,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.230."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.230."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5926,8 +6047,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 25 janvier 1911 à Briançon (Hautes-Alpes).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.235 parti de Paris le 30 juin 1944, matricule 44734 à Ravensbrück. Parcours : Ravensbrück. Rentrée de déportation. Libérée par la Croix-Rouge.",
         "memoire": null,
         "matricules": "Ravensbrück 44734"
@@ -5938,7 +6059,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.235."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.235."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5949,8 +6076,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 28 mars 1922 à Briançon (Hautes-Alpes).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.235 parti de Paris le 30 juin 1944, matricule 44797 à Ravensbrück. Parcours : Ravensbrück. Rentrée de déportation.",
         "memoire": null,
         "matricules": "Ravensbrück 44797"
@@ -5961,7 +6088,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.235."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.235."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5972,8 +6105,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 13 mai 1918 à Cannes (Alpes-Maritimes).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.175 parti de Compiègne le 31 janvier 1944, matricule 27831 à Ravensbrück. Parcours : Ravensbrück. Rentrée de déportation. Libérée par la Croix-Rouge.",
         "memoire": null,
         "matricules": "Ravensbrück 27831"
@@ -5984,7 +6117,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -5995,8 +6134,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 6 mars 1882 à Toulon (Var).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.175 parti de Compiègne le 31 janvier 1944, matricule 27987 à Ravensbrück. Parcours : Ravensbrück. Rentrée de déportation. Libérée par la Croix-Rouge.",
         "memoire": null,
         "matricules": "Ravensbrück 27987"
@@ -6007,7 +6146,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6018,8 +6163,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 23 novembre 1897 à Menton (Alpes-Maritimes).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.175 parti de Compiègne le 31 janvier 1944, matricule 27653 à Ravensbrück. Parcours : Ravensbrück (kommando Rechlin). Rentrée de déportation (avril 1945, Rechlin).",
         "memoire": null,
         "matricules": "Ravensbrück 27653"
@@ -6030,7 +6175,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6041,8 +6192,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 22 septembre 1908 à Nice (Alpes-Maritimes).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.224 parti de Paris le 6 juin 1944, matricule 43108 à Ravensbrück. Parcours : Ravensbrück, Leipzig. Rentrée de déportation.",
         "memoire": null,
         "matricules": "Ravensbrück 43108"
@@ -6053,7 +6204,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.224."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.224."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6064,8 +6221,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 25 juillet 1914 à Marseille (Bouches-du-Rhône).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.264 parti de Paris-Pantin le 15 août 1944 (dernier grand convoi de la région parisienne), matricule 57803 à Ravensbrück. Parcours : Torgau, Abteroda. Rentrée de déportation.",
         "memoire": null,
         "matricules": "Ravensbrück 57803"
@@ -6076,7 +6233,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.264."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.264."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6087,8 +6250,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 24 juin 1898 à Marseille (Bouches-du-Rhône).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.175 parti de Compiègne le 31 janvier 1944, matricule 27687 à Ravensbrück. Parcours : Ravensbrück, Limmer. Rentrée de déportation. Déportée dans le même convoi que Paulette Floiras (épouse Alfieri), née en 1927 à Marseille.",
         "memoire": null,
         "matricules": "Ravensbrück 27687"
@@ -6099,7 +6262,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6110,8 +6279,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 25 janvier 1927 à Marseille (Bouches-du-Rhône).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.175 parti de Compiègne le 31 janvier 1944, matricule 27686 à Ravensbrück. Parcours : Ravensbrück, Limmer. Rentrée de déportation. Nom d’épouse : Alfieri. Déportée à 17 ans dans le même convoi que Thérèse Floiras, née en 1898.",
         "memoire": null,
         "matricules": "Ravensbrück 27686"
@@ -6122,7 +6291,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6133,8 +6308,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 3 février 1905 à Marseille (Bouches-du-Rhône).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.216 parti de Paris fin mai 1944 (condamnées de la centrale de Rennes), matricule 42165 à Ravensbrück. Parcours : Ravensbrück, Leipzig, Schönefeld. Rentrée de déportation. Condamnée par une juridiction de Vichy, détenue à la centrale de Rennes avant d’être livrée aux Allemands.",
         "memoire": null,
         "matricules": "Ravensbrück 42165"
@@ -6145,7 +6320,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.216."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.216."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6156,8 +6337,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 2 décembre 1920 à Marseille (Bouches-du-Rhône).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.216 parti de Paris fin mai 1944 (condamnées de la centrale de Rennes), matricule 42166 à Ravensbrück. Parcours : Ravensbrück, Leipzig. Rentrée de déportation. Condamnée par une juridiction de Vichy, détenue à la centrale de Rennes avant d’être livrée aux Allemands.",
         "memoire": null,
         "matricules": "Ravensbrück 42166"
@@ -6168,7 +6349,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.216."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.216."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6179,8 +6366,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 26 novembre 1919 à Nice (Alpes-Maritimes).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.216 parti de Paris fin mai 1944 (condamnées de la centrale de Rennes), matricule 42175 à Ravensbrück. Parcours : Ravensbrück, Leipzig. Rentrée de déportation. Condamnée par une juridiction de Vichy, détenue à la centrale de Rennes avant d’être livrée aux Allemands.",
         "memoire": null,
         "matricules": "Ravensbrück 42175"
@@ -6191,7 +6378,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.216."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.216."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6202,8 +6395,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 9 avril 1920 à Marseille (Bouches-du-Rhône).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.216 parti de Paris fin mai 1944 (condamnées de la centrale de Rennes), matricule 42190 à Ravensbrück. Parcours : Ravensbrück, Leipzig. Rentrée de déportation. Condamnée par une juridiction de Vichy, détenue à la centrale de Rennes avant d’être livrée aux Allemands.",
         "memoire": null,
         "matricules": "Ravensbrück 42190"
@@ -6214,7 +6407,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.216."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.216."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6225,8 +6424,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 13 décembre 1919 à Marseille (Bouches-du-Rhône).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.216 parti de Paris fin mai 1944 (condamnées de la centrale de Rennes), matricule 42219 à Ravensbrück. Parcours : Ravensbrück, Leipzig. Rentrée de déportation. Condamnée par une juridiction de Vichy, détenue à la centrale de Rennes avant d’être livrée aux Allemands.",
         "memoire": null,
         "matricules": "Ravensbrück 42219"
@@ -6237,7 +6436,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.216."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.216."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6248,8 +6453,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 20 septembre 1902 à Avignon (Vaucluse).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.215 parti de Paris le 25 mai 1944, matricule 42091 à Ravensbrück. Parcours : Ravensbrück, Leipzig. Rentrée de déportation.",
         "memoire": null,
         "matricules": "Ravensbrück 42091"
@@ -6260,7 +6465,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.215."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.215."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6271,8 +6482,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 13 mai 1916 à Avignon (Vaucluse).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.224 parti de Paris le 6 juin 1944, matricule 43100 à Ravensbrück. Parcours : Ravensbrück. Rentrée de déportation.",
         "memoire": null,
         "matricules": "Ravensbrück 43100"
@@ -6283,7 +6494,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.224."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.224."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6294,8 +6511,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 22 août 1918 à Toulon (Var).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.118 parti de Paris le 26 juillet 1943, matricule 21661 à Ravensbrück. Parcours : Ravensbrück, Mauthausen. Rentrée de déportation (22 avril 1945, Mauthausen). Libérée par la Croix-Rouge.",
         "memoire": null,
         "matricules": "Ravensbrück 21661"
@@ -6306,7 +6523,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.118."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.118."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6317,8 +6540,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 18 septembre 1909 à Hyères (Var).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.204 parti de Paris le 18 avril 1944, matricule 35163 à Ravensbrück. Parcours : Ravensbrück. Rentrée de déportation. Libérée par la Croix-Rouge.",
         "memoire": null,
         "matricules": "Ravensbrück 35163"
@@ -6329,7 +6552,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.204."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.204."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6340,8 +6569,8 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 26 janvier 1923 à Saint-Raphaël (Var).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "?",
         "deportation": "Déportée par le transport I.212 parti de Paris le 13 mai 1944, matricule 39032 à Ravensbrück. Parcours : Ravensbrück, Zwodau. Rentrée de déportation.",
         "memoire": null,
         "matricules": "Ravensbrück 39032"
@@ -6352,7 +6581,13 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.212."
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.212."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     },
@@ -6362,20 +6597,30 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Née le 16 juillet 1917 à Marseille (Bouches-du-Rhône).",
-        "deces": null,
-        "engagement": "À rechercher par l’élève : réseau ou mouvement, lieu et circonstances de l’arrestation (dossier au Service historique de la Défense, Caen et Vincennes ; archives départementales ; Mémoire des hommes).",
-        "deportation": "Déportée par le transport I.74 parti de Compiègne le 24 janvier 1943 (convoi dit « des 31000 »), matricule 31642 à Auschwitz. Parcours : Auschwitz (kommando Rajsko), Ravensbrück, Beendorf. Rentrée de déportation (3 mai 1945, Beendorf). Libérée par la Croix-Rouge. Elle appartient au convoi des « 31000 », parti pour Auschwitz avec Danielle Casanova et Charlotte Delbo.",
-        "memoire": null,
+        "naissance": "Née Lucienne Serre, dite « Lulu », le 16 juillet 1917 à Marseille (Bouches-du-Rhône). Secrétaire ; mariée en 1939 à Georges Thévenin, prisonnier de guerre en 1940.",
+        "deces": "Date : ? ; lieu : ?",
+        "engagement": "Militante des Jeunesses communistes, elle participe à la diffusion clandestine de tracts. En 1941, elle confie son jeune fils à sa belle-mère pour reprendre ses activités. Responsable de secteurs parisiens, elle recrute pour les FTP et transporte des armes.",
+        "deportation": "Arrêtée avec sa sœur Jeanne Serre le 19 juin 1942 avenue Trudaine à Paris. Internée à Romainville, elle est déportée le 24 janvier 1943 à Auschwitz, matricule 31642, puis passe par Rajsko, Ravensbrück et Beendorf. Les deux sœurs traversent ensemble la déportation.",
+        "memoire": "Après un séjour en Suède, elle est rapatriée le 23 juin 1945. Elle retrouve son mari et son fils, reprend son engagement militant et est homologuée sergent de la Résistance intérieure française.",
         "matricules": "Auschwitz 31642"
       },
       "sources_biographiques": [
         {
           "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.74",
           "url": "https://www.bddm.org/liv/details.php?id=I.74."
+        },
+        {
+          "label": "Mémoire Vive – Lucienne Thévenin, d’après Charlotte Delbo, Le convoi du 24 janvier",
+          "url": "https://www.memoirevive.org/lucienne-dite-lulu-thevenin-nee-serre-31642/"
         }
       ],
-      "archives_deportation": [],
+      "archives_deportation": [
+        {
+          "label": "Livre-Mémorial de la FMD – Liste du transport",
+          "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
+          "url": "https://www.bddm.org/liv/details.php?id=I.74."
+        }
+      ],
       "recherche_mise_a_jour": "2026-11-12",
       "region": "Provence-Alpes-Côte d'Azur"
     }
@@ -9664,7 +9909,7 @@
       "date_sortie": "24/08/1944",
       "lieu_sortie": "Montigny-le-Roi (52)",
       "observations": "* Lors du transport",
-      "histoire": "Membre de la Résistance FTP-MOI, il est arrêté le 11 avril 1944 puis détenu à Toulouse. Il s’évade du Train fantôme en Haute-Marne ; la date varie selon les sources : 24 août dans le tableau du projet, 25 août selon l’AFMD du Gard.",
+      "histoire": "Membre de la Résistance FTP-MOI, il est arrêté le 11 avril 1944 puis détenu à Toulouse. Il s’évade du Train fantôme en Haute-Marne  ; date exacte : ?.",
       "sources": [
         {
           "label": "AFMD du Gard · notice biographique",
@@ -13403,7 +13648,7 @@
       "date_sortie": "08/05/1945",
       "lieu_sortie": "Mauthausen",
       "observations": "* Avant le rapatriement",
-      "histoire": "Arrêté par la Gestapo en raison de son activité de résistant, il est incarcéré à Toulouse, puis déporté à Dachau et transféré à Mauthausen et Gusen II. Il décède avant son rapatriement ; le mémorial indique que les sources divergent sur la date de son décès.",
+      "histoire": "Arrêté par la Gestapo en raison de son activité de résistant, il est incarcéré à Toulouse, puis déporté à Dachau et transféré à Mauthausen et Gusen II. Il décède avant son rapatriement  ; date du décès : ?.",
       "sources": [
         {
           "label": "Mémorial de Mauthausen · notice et portrait",
@@ -14221,7 +14466,7 @@
       "date_sortie": "?",
       "lieu_sortie": "?",
       "observations": "—",
-      "histoire": "Cordonnier interné au camp du Vernet, il est déporté par le Train fantôme et arrive à Dachau sous le matricule 94096. L’AFMD indique son décès à Dachau, avec deux dates différentes dans sa notice ; cette date reste à vérifier.",
+      "histoire": "Cordonnier interné au camp du Vernet, il est déporté par le Train fantôme et arrive à Dachau sous le matricule 94096. Décédé à Dachau ; date : ?.",
       "sources": [
         {
           "label": "AFMD du Gard · notice biographique",
