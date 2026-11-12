@@ -4572,7 +4572,10 @@
     {
       "nom": "RAYMONDE TILLON",
       "nom_affiche": "Raymonde Tillon-Nédelec",
-      "photo": null,
+      "photo": {
+        "id": "1L7pDGFlRbPZpce--BOAgLCOXSjL2HKdi",
+        "name": "Raymonde Tillon.jpg"
+      },
       "documents": [],
       "biographie": {
         "matricules": null,
@@ -4594,12 +4597,19 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "photo_source": {
+        "label": "Assemblée nationale, base Sycomore, notice 5522 : Raymonde Nédelec née Barbé, épouse Tillon. Image réduite.",
+        "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/5522"
+      }
     },
     {
       "nom": "MICHELINE MAUREL",
       "nom_affiche": "Micheline Maurel",
-      "photo": null,
+      "photo": {
+        "id": "19fD53Vi6nxXKqnql0fDdpByItWOtJmkS",
+        "name": "Micheline Maurel.jpg"
+      },
       "documents": [],
       "biographie": {
         "matricules": null,
@@ -4621,7 +4631,11 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "photo_source": {
+        "label": "Portrait publié par Les Éditions de Minuit sur la notice de Micheline Maurel ; photographe non précisé. Image réduite.",
+        "url": "https://www.leseditionsdeminuit.fr/auteur-Micheline_Maurel-1613-1-1-0-1.html"
+      }
     },
     {
       "nom": "MARIE JOUFFRON NÉE MARTIN",
@@ -4670,7 +4684,10 @@
     {
       "nom": "YVONNE ODDON",
       "nom_affiche": "Yvonne Oddon",
-      "photo": null,
+      "photo": {
+        "id": "1GopCA9ILJCN8vHQdtW3vp2UgW8xbPJxk",
+        "name": "Yvonne Oddon.jpg"
+      },
       "documents": [],
       "biographie": {
         "matricules": null,
@@ -4692,7 +4709,11 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "photo_source": {
+        "label": "© Service historique de la Défense, GR 16 P 448886 — Musée de la Résistance en ligne, média 10456. Image réduite.",
+        "url": "https://www.museedelaresistanceenligne.org/media10456-Yvonne-Oddon"
+      }
     },
     {
       "nom": "ANDRÉE LAURENT NÉE MASSIP",
@@ -4890,7 +4911,10 @@
     {
       "nom": "ANNETTE CHALUT",
       "nom_affiche": "Annette Chalut",
-      "photo": null,
+      "photo": {
+        "id": "1tyd4Ljdn04OrrWcNB7D7cXdHvoCCU6xx",
+        "name": "Annette Chalut.jpg"
+      },
       "documents": [],
       "biographie": {
         "naissance": "Née Annette Weill le 29 avril 1924 à Paris.",
@@ -4907,7 +4931,12 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12"
+      "recherche_mise_a_jour": "2026-11-12",
+      "photo_source": {
+        "label": "Tim Rademacher, Wikimedia Commons, CC BY-SA 4.0. Annette Chalut à Hanovre, 22 mai 2012 ; image réduite.",
+        "url": "https://commons.wikimedia.org/wiki/File:2012-05-22_112733_Annette_Chalut.jpg",
+        "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
     },
     {
       "nom": "GILBERTE CHAMPION",
@@ -4956,7 +4985,10 @@
     {
       "nom": "YVETTE LUNDY",
       "nom_affiche": "Yvette Lundy",
-      "photo": null,
+      "photo": {
+        "id": "1x9cgyy6DlgHYPzFh-4OIUwgxmso6OHGH",
+        "name": "Yvette Lundy.jpg"
+      },
       "documents": [],
       "biographie": {
         "naissance": "Née en 1916.",
@@ -4977,12 +5009,20 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12"
+      "recherche_mise_a_jour": "2026-11-12",
+      "photo_source": {
+        "label": "G. Garitan, Wikimedia Commons, CC BY-SA 4.0. Portrait de 2014, version recadrée disponible sur Commons ; image réduite.",
+        "url": "https://commons.wikimedia.org/wiki/File:Yvette_Lundy_07520_(cropped).JPG",
+        "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
     },
     {
       "nom": "MARCELLE BARON",
       "nom_affiche": "Marcelle Baron (née Le Bail)",
-      "photo": null,
+      "photo": {
+        "id": "1PoWNdqdpSQT4ym7Wrf1gjNmK8A975I2B",
+        "name": "Marcelle Baron.jpg"
+      },
       "documents": [],
       "biographie": {
         "naissance": "Née le 14 juillet 1909 à Nantes.",
@@ -5003,7 +5043,11 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12"
+      "recherche_mise_a_jour": "2026-11-12",
+      "photo_source": {
+        "label": "Photographie de Marcelle Baron dans son jardin de La Halvêque, 1950, extraite de la biographie AFMD 44, page 5 ; image réduite. Source : album familial présenté dans le document.",
+        "url": "https://afmd44.org/wp-content/publications/Marcelle-Baron-1909-2011.pdf"
+      }
     },
     {
       "nom": "MARIE REYNOARD",
@@ -5074,7 +5118,10 @@
     {
       "nom": "NOËLLA ROUGET",
       "nom_affiche": "Noëlla Rouget",
-      "photo": null,
+      "photo": {
+        "id": "1CiptAWOUekbo-NHW8nVLEFF3Gn6WOO_i",
+        "name": "Noëlla Rouget.jpg"
+      },
       "documents": [],
       "biographie": {
         "naissance": "Née en 1919.",
@@ -5095,7 +5142,12 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12"
+      "recherche_mise_a_jour": "2026-11-12",
+      "photo_source": {
+        "label": "Collection personnelle de Noëlla Rouget, photographe inconnu ; photographie en uniforme de guide, 1934. Wikimedia Commons, CC BY-SA 4.0 ; image réduite.",
+        "url": "https://commons.wikimedia.org/wiki/File:Noella-Rouget_guide_scoutisme-1934.jpg",
+        "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
     },
     {
       "nom": "GISÈLE GUILLEMOT",
@@ -5444,7 +5496,10 @@
     {
       "nom": "MARTHA DESRUMAUX",
       "nom_affiche": "Martha Desrumaux",
-      "photo": null,
+      "photo": {
+        "id": "1j5Wn3NrJYUdrQCANvrzex2dnQ8dDsJxU",
+        "name": "Martha Desrumaux.jpg"
+      },
       "documents": [],
       "biographie": {
         "naissance": "Née le 18 octobre 1897 à Comines (Nord).",
@@ -5462,7 +5517,12 @@
       ],
       "archives_deportation": [],
       "recherche_mise_a_jour": "2026-11-12",
-      "region": "Provence-Alpes-Côte d'Azur"
+      "region": "Provence-Alpes-Côte d'Azur",
+      "photo_source": {
+        "label": "Femmes Françaises, 26 avril 1945 ; Gallica / BnF. Recadrage Benoît Prieur, Wikimedia Commons, CC BY-SA 4.0 ; image réduite.",
+        "url": "https://commons.wikimedia.org/wiki/File:Martha_Desrumaux_a_la_une_de_femmes_francaises_26-4-1945_(cropped).png",
+        "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
     },
     {
       "nom": "MICHELINE MÉJEAN NÉE TARDIEU",
