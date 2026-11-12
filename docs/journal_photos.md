@@ -192,3 +192,14 @@ Fiches régionales créées le 12 novembre, biographies terminées, photos à tr
 - **Raymonde Tillon** : Assemblée nationale, base Sycomore, notice 5522 : Raymonde Nédelec née Barbé, épouse Tillon. Image réduite. Source : https://www2.assemblee-nationale.fr/sycomore/fiche/5522 — fichier PHOTO RESISTANTES : `1L7pDGFlRbPZpce--BOAgLCOXSjL2HKdi` — **déposée et reliée**.
 
 Portraits vérifiés visuellement avant ajout. Image du logo d’Aubervilliers écartée pour Raymonde Tillon ; portrait retenu provenant de Sycomore. Pour Yvonne Oddon, la photographie de la plaque a été écartée et le portrait du dossier SHD retenu. Pour Marcelle Baron, page 5 du PDF AFMD44, datée de 1950. Aucune biographie modifiée.
+
+
+## 12 novembre 2026 — Compléments biographiques, nettoyage et onglet régional
+
+- Demande utilisateur : retirer les annotations éditoriales publiques (« selon l’affiche des élèves », demandes de vérification, divergences détaillées). Afficher « ? » pour les informations incertaines ; conserver les liens bibliographiques et les crédits des travaux.
+- 13 notices enrichies ou corrigées : Jacqueline Péry d’Alincourt, Germaine Ribière, Élisabeth Dussauze, Yvette Lundy, Yvonne Abbas, Pierrette Doize, Émilie Haffenbach, Georgette Berthet, Jeanne Clavet, Lucienne Thévenin, Nicole Clarence, Nicole Rambure et Joséphine Bordanava/Bordonava.
+- Pierrette Doize : correction à partir de la notice AFMD du Gard (31/12/1897 Castellfort, 09/12/1945 Marseille, matricule 46854). Ce sont des écarts avec notre fiche antérieure, pas des erreurs imputées à l’AFMD.
+- Nicole Rambure : divergence interne 23/26 octobre 1920 dans la publication du témoignage ; jour affiché « ? », Thiers conservé. Décès à Martigues le 07/02/2019 confirmé par l’inventaire universitaire de Poitiers.
+- Joséphine Bordanava : deux documents individuels d’Arolsen, 7529401 et 7529398, accessibles en images via l’AFMD Allier. Aucun original de détenue inventé ; les 30 liens de transports ajoutés sont explicitement identifiés comme listes reconstituées.
+- Troisième onglet « Femmes résistantes de la région » : 61 portraits actuellement étiquetés PACA, liens par naissance, engagement ou vie. Quatre profils à rattachement territorial non établi restent dans la liste générale, hors filtre régional. Les deux premiers onglets restent accessibles.
+- Toutes les photos et tous les documents des élèves ont été préservés. Données : 187 portraits, 660 hommes. JavaScript validé par node --check. Les dossiers restent incomplets lorsque les pièces et lieux manquent ; aucune prétention à l’exhaustivité.
