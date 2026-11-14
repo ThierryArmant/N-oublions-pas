@@ -8325,7 +8325,13 @@
           "label": "Amicale — témoignage de Marc Brafman (7 février 1991)",
           "url": "https://www.lesdeportesdutrainfantome.org/ville_sorgues.htm"
         }
-      ]
+      ],
+      "photo_archive": {
+        "url": "https://lesresistantsdutrainfantome.blogspot.com/",
+        "label": "Photographie légendée « Marc Brafman en 1944 »",
+        "etat": "identification nominative",
+        "reproduction": "Consulter le fonds source avant publication de l'image"
+      }
     },
     {
       "nom": "BRESOVETZ",
@@ -9171,7 +9177,13 @@
           "url": "https://www.lesdeportesdutrainfantome.org/"
         }
       ],
-      "histoire": "Résistant et prisonnier du Train fantôme, Christian de Roquemaurel relate dans les témoignages du convoi l’évasion d’Ange Alvarez à Sainte-Bazeille. Il est ensuite lié à l’action mémorielle de l’Amicale, dont le site présente plusieurs photographies légendées à son nom et le désigne comme ancien deuxième président."
+      "histoire": "Résistant et prisonnier du Train fantôme, Christian de Roquemaurel relate dans les témoignages du convoi l’évasion d’Ange Alvarez à Sainte-Bazeille. Il est ensuite lié à l’action mémorielle de l’Amicale, dont le site présente plusieurs photographies légendées à son nom et le désigne comme ancien deuxième président.",
+      "photo_archive": {
+        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm",
+        "label": "Portraits légendés de Christian de Roquemaurel",
+        "etat": "identification nominative",
+        "reproduction": "Consulter le fonds source avant publication de l'image"
+      }
     },
     {
       "nom": "DE SAN MARTIN BALDUQUE",
@@ -10970,7 +10982,13 @@
           "label": "Amicale — portrait légendé de Meyer Kokine",
           "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
         }
-      ]
+      ],
+      "photo_archive": {
+        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm",
+        "label": "Portrait légendé « Meyer Kokine — président fondateur »",
+        "etat": "identification nominative",
+        "reproduction": "Consulter le fonds source avant publication de l'image"
+      }
     },
     {
       "nom": "KORNUS",
@@ -11101,7 +11119,13 @@
           "label": "Amicale — photographies de René Lafond lors de commémorations",
           "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
         }
-      ]
+      ],
+      "photo_archive": {
+        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm",
+        "label": "Photographie légendée de René Lafond avec Cayuola",
+        "etat": "identification nominative",
+        "reproduction": "Consulter le fonds source avant publication de l'image"
+      }
     },
     {
       "nom": "LAFOSSE",
@@ -11344,7 +11368,13 @@
           "url": "https://fondationshoah.org/memoire/les-resistants-du-train-fantome-jorge-amat-et-guy-scarpetta"
         }
       ],
-      "histoire": "Raymond Lévy fait partie des résistants liés à la Main-d’œuvre immigrée (MOI) de Toulouse dont le parcours est évoqué dans le documentaire consacré au Train fantôme. Les archives de l’Amicale comportent une photographie légendée « Raymond Lévy — Toulouse ». La source photographique doit être consultée pour identifier précisément la date et le contexte du cliché."
+      "histoire": "Raymond Lévy fait partie des résistants liés à la Main-d’œuvre immigrée (MOI) de Toulouse dont le parcours est évoqué dans le documentaire consacré au Train fantôme. Les archives de l’Amicale comportent une photographie légendée « Raymond Lévy — Toulouse ». La source photographique doit être consultée pour identifier précisément la date et le contexte du cliché.",
+      "photo_archive": {
+        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm",
+        "label": "Photographie légendée « Raymond Lévy — Toulouse »",
+        "etat": "identification nominative",
+        "reproduction": "Consulter le fonds source avant publication de l'image"
+      }
     },
     {
       "nom": "LÉVY",
@@ -12710,7 +12740,13 @@
           "label": "Amicale — référence au matricule 94257 de Guido Palmino",
           "url": "https://www.lesdeportesdutrainfantome.org/amicale.htm"
         }
-      ]
+      ],
+      "photo_archive": {
+        "url": "https://lesresistantsdutrainfantome.blogspot.com/",
+        "label": "Documents photographiques familiaux liés au parcours de Guido Palmino (portrait à confirmer)",
+        "etat": "documents contextuels",
+        "reproduction": "Consulter le fonds source avant publication de l'image"
+      }
     },
     {
       "nom": "PANISSI",
@@ -12940,7 +12976,13 @@
           "label": "Archives du film — photographie de Noël Peyre-Vidal et récit du 14 juillet 1944",
           "url": "https://lesresistantsdutrainfantome.blogspot.com/"
         }
-      ]
+      ],
+      "photo_archive": {
+        "url": "https://lesresistantsdutrainfantome.blogspot.com/",
+        "label": "Photographie de groupe avec Noël Peyre-Vidal identifié au centre",
+        "etat": "identification nominative",
+        "reproduction": "Consulter le fonds source avant publication de l'image"
+      }
     },
     {
       "nom": "PIERRACINI",
@@ -14103,7 +14145,13 @@
           "url": "https://www.licra.org/wp-content/uploads/DDV682-SD-complet.pdf"
         }
       ],
-      "histoire": "Jacques Simonet est arrêté en juin 1944, emprisonné à Bordeaux puis intégré au Train fantôme. À son arrivée à Dachau, il reçoit le matricule 93980. Les archives de l’Amicale présentent une photographie légendée « Bâtonnier Jacques Simonet » et reprennent ce numéro. Les souvenirs familiaux sont également évoqués dans un article consacré à Vincent Simonet et à une œuvre de transmission mémorielle."
+      "histoire": "Jacques Simonet est arrêté en juin 1944, emprisonné à Bordeaux puis intégré au Train fantôme. À son arrivée à Dachau, il reçoit le matricule 93980. Les archives de l’Amicale présentent une photographie légendée « Bâtonnier Jacques Simonet » et reprennent ce numéro. Les souvenirs familiaux sont également évoqués dans un article consacré à Vincent Simonet et à une œuvre de transmission mémorielle.",
+      "photo_archive": {
+        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm",
+        "label": "Portrait légendé « Bâtonnier Jacques Simonet — Dachau 93980 »",
+        "etat": "identification nominative",
+        "reproduction": "Consulter le fonds source avant publication de l'image"
+      }
     },
     {
       "nom": "SIURANA ANDREU",
@@ -14302,7 +14350,13 @@
           "label": "Mémorial de Mauthausen · notice et portrait",
           "url": "https://raumdernamen.mauthausen-memorial.org/?L=2&id=4&p=104616"
         }
-      ]
+      ],
+      "photo_archive": {
+        "url": "https://raumdernamen.mauthausen-memorial.org/?L=2&id=4&p=104616",
+        "label": "Photographie du Mémorial de Mauthausen « 99143_GERMAIN_SUBRA_PORTRAIT.jpg »",
+        "etat": "identification nominative",
+        "reproduction": "Consulter le fonds source avant publication de l'image"
+      }
     },
     {
       "nom": "SUBSOL",
