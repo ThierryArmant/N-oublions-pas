@@ -6952,6 +6952,77 @@
         "departement": "13",
         "lien": "Naissance"
       }
+    },
+    {
+      "nom": "MARIE DAMIANI",
+      "nom_affiche": "Marie Damiani (née Remérand)",
+      "region": "Gard — Occitanie",
+      "provenance_region": {
+        "commune": "Rémoulins",
+        "departement": "30",
+        "lien": "Résistance et secours aux déportés du Train fantôme"
+      },
+      "ordre_reseau": "00 Marie Damiani",
+      "reseau_affiche": "Libération-Sud · Rémoulins (Gard)",
+      "photo_url": "assets/temoignages/marie-damiani.png",
+      "photo_source": {
+        "label": "Portrait familial transmis par Loïc Damiani",
+        "url": "assets/temoignages/marie-damiani.png"
+      },
+      "documents": [
+        {
+          "name": "Photographie de Marie Damiani (archives familiales)",
+          "mime": "image/png",
+          "preview_url": "assets/temoignages/marie-damiani.png",
+          "url": "assets/temoignages/marie-damiani.png"
+        },
+        {
+          "name": "Lettre de la Croix-Rouge française du 16 août 1944",
+          "mime": "image/png",
+          "preview_url": "assets/marie-damiani/croix-rouge-16-aout-1944.png",
+          "url": "assets/marie-damiani/croix-rouge-16-aout-1944.png"
+        },
+        {
+          "name": "Témoignage de Marie Damiani, partie 1 (1987)",
+          "mime": "image/png",
+          "preview_url": "assets/marie-damiani/temoignage-1.png",
+          "url": "assets/marie-damiani/temoignage-1.png"
+        },
+        {
+          "name": "Témoignage de Marie Damiani, partie 2 (1987)",
+          "mime": "image/png",
+          "preview_url": "assets/marie-damiani/temoignage-2.png",
+          "url": "assets/marie-damiani/temoignage-2.png"
+        },
+        {
+          "id": "1R6KofXldfxKFiphW3ifCHIjpsP7ZiNp6",
+          "name": "Témoignage intégral recueilli en 1987 — fichier Word",
+          "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "biographie": {
+        "naissance": "1903, née Remérand ; résistante établie à Rémoulins (Gard).",
+        "deces": "1988.",
+        "engagement": "Membre du mouvement Libération-Sud. Elle raconte avoir ravitaillé le maquis de Valliguières avec son fils Pierrot. Le 13 août 1944, alertée par les cris de déportés à bord d’un train arrêté près de la villa Les Roses à Rémoulins, elle exige d’intervenir. Après le refus du responsable local de la Croix-Rouge, elle se rend à la délégation départementale de Nîmes et obtient l’autorisation de distribuer des vivres. Son témoignage relate la distribution de pain, fruits, légumes et eau, l’organisation des obsèques d’un prisonnier décédé et l’aide à un déporté évadé.",
+        "memoire": "Témoignage recueilli le 27 mai 1987 par son fils Jacques Damiani. Les élèves des classes CDSG du collège Jean Giono d’Orange ont retrouvé son petit-fils Loïc Damiani, qui leur a transmis en 2024 des archives familiales. Dans son récit, Marie conclut : « C’est juste la solidarité. C’est tout. »"
+      },
+      "complement_historique": "La lettre de la Croix-Rouge datée du 16 août 1944 atteste des démarches de ravitaillement concernant quelque 700 internés civils. Elle ne cite pas Marie Damiani personnellement : sa participation est documentée dans son témoignage recueilli en 1987. Ce sont deux sources distinctes.",
+      "sources_biographiques": [
+        {
+          "label": "Fiche complète de Marie Damiani : récit intégral et archives",
+          "url": "marie-damiani.html"
+        },
+        {
+          "label": "Témoignage familial (1987), fichier Word",
+          "url": "https://drive.google.com/file/d/1R6KofXldfxKFiphW3ifCHIjpsP7ZiNp6/view"
+        }
+      ],
+      "sources_complementaires": [
+        {
+          "label": "Consulter la fiche documentaire complète et toutes les reproductions",
+          "url": "marie-damiani.html"
+        }
+      ]
     }
   ],
   "hommes": [
