@@ -8250,7 +8250,22 @@
       "situation": "R",
       "date_sortie": "29/04/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Résistant juif d’origine polonaise, Marc Brafman appartient à la 35e brigade FTP-MOI de Toulouse. Déporté par le Train fantôme, il atteint Dachau, où il survit notamment grâce à son activité à l’infirmerie du camp (Revier). Après la guerre, il séjourne en Pologne avant de revenir en France. Ses témoignages ont contribué à la transmission de l’histoire du convoi. La documentation du film présente une photographie explicitement légendée « Marc Brafman en 1944 ».",
+      "sources": [
+        {
+          "label": "Archives du documentaire — Marc Brafman en 1944 et son témoignage",
+          "url": "https://lesresistantsdutrainfantome.blogspot.com/"
+        },
+        {
+          "label": "Amicale — photographies nominatives de Marc Brafman",
+          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        },
+        {
+          "label": "Amicale — témoignage de Marc Brafman (7 février 1991)",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_sorgues.htm"
+        }
+      ]
     },
     {
       "nom": "BRESOVETZ",
@@ -9090,8 +9105,13 @@
         {
           "label": "Amicale du Train fantôme — photographies de Christian de Roquemaurel",
           "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        },
+        {
+          "label": "Amicale — témoignage de Christian de Roquemaurel et évasion d’Ange Alvarez",
+          "url": "https://www.lesdeportesdutrainfantome.org/"
         }
-      ]
+      ],
+      "histoire": "Résistant et prisonnier du Train fantôme, Christian de Roquemaurel relate dans les témoignages du convoi l’évasion d’Ange Alvarez à Sainte-Bazeille. Il est ensuite lié à l’action mémorielle de l’Amicale, dont le site présente plusieurs photographies légendées à son nom et le désigne comme ancien deuxième président."
     },
     {
       "nom": "DE SAN MARTIN BALDUQUE",
@@ -9835,7 +9855,18 @@
       "situation": "DCD *",
       "date_sortie": "01/08/1944",
       "lieu_sortie": "Souge (33)",
-      "observations": "* Fusillé"
+      "observations": "* Fusillé",
+      "histoire": "Commissaire de police et résistant, Pierre Fournera figure dans les recherches et documents associés au Train fantôme. Wikimedia Commons possède un fonds thématique à son nom, réunissant des pièces d’archives photographiques et documentaires, notamment des documents sur la répression à Bordeaux. Les documents doivent être distingués d’un portrait individuel : une reproduction d’archive ne constitue pas nécessairement une photographie de la personne.",
+      "sources": [
+        {
+          "label": "Wikimedia Commons — fonds documentaire Pierre Fournera",
+          "url": "https://commons.wikimedia.org/wiki/Category:Pierre_Fournera"
+        },
+        {
+          "label": "Wikimedia Commons — catégorie documentaire Train fantôme",
+          "url": "https://commons.wikimedia.org/wiki/Category:Train_fant%C3%B4me_(d%C3%A9portation)"
+        }
+      ]
     },
     {
       "nom": "FRADELLA",
@@ -10570,7 +10601,7 @@
       "date_sortie": "19/08/1944",
       "lieu_sortie": "Montélimar (26)",
       "observations": "* Lors du transport",
-      "histoire": "Jacob Insel (1909–1944), dit Jacques, militant antifasciste d’origine polonaise, participe aux Brigades internationales pendant la guerre d’Espagne puis à la Résistance toulousaine dans la 35e brigade FTP-MOI, aux côtés de Marcel Langer. Arrêté en décembre 1943 et détenu à la prison Saint-Michel sous une fausse identité, il est embarqué dans le Train fantôme en juillet 1944. Il meurt le 19 août 1944 à Pierrelatte, lors du mitraillage du convoi par l’aviation alliée qui ignorait la présence de prisonniers. Son portrait est publié et identifié comme issu de la collection des Archives départementales de la Haute-Garonne sur le site du Mémorial François Verdier.",
+      "histoire": "Résistant antifasciste d’origine polonaise, Jacob Insel appartient aux combattants de la FTP-MOI de Toulouse évoqués dans le documentaire « Les Résistants du train fantôme ». Les archives de l’Amicale mentionnent également les hommages et l’inauguration d’une rue à son nom à Toulouse. Ces documents éclairent sa mémoire, sans constituer à eux seuls la preuve d’un portrait photographique individuel.",
       "sources": [
         {
           "label": "Mémorial François Verdier — hommage à Jacob Insel et portrait d’archive (ADHG)",
@@ -10579,6 +10610,14 @@
         {
           "label": "Mémorial François Verdier — résistants de la 35e brigade FTP-MOI",
           "url": "https://francoisverdier-liberationsud.fr/tag/marcel-langer/"
+        },
+        {
+          "label": "Fondation pour la Mémoire de la Shoah — Jacob Insel et les FTP-MOI",
+          "url": "https://fondationshoah.org/memoire/les-resistants-du-train-fantome-jorge-amat-et-guy-scarpetta"
+        },
+        {
+          "label": "Amicale — hommages et documents autour de Jacob Insel",
+          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
         }
       ]
     },
@@ -10856,7 +10895,22 @@
       "situation": "E *",
       "date_sortie": "20/08/1944",
       "lieu_sortie": "Sorgues (84)",
-      "observations": "* Lors du transport"
+      "observations": "* Lors du transport",
+      "histoire": "Résistant du mouvement « Libérer et Fédérer », Meyer Kokine participe aux activités clandestines en France, notamment avec Alice Bessou. Le 18 août 1944, il parvient à s’évader du Train fantôme à Sorgues. Le récit recueilli auprès de Juliette Combe décrit l’accueil de prisonniers évadés dans sa ferme ; l’Amicale rappelle qu’Alice Bessou, enceinte, reste dans le convoi et ne revient pas. Meyer Kokine devient le président fondateur de l’Amicale des déportés du Train fantôme.",
+      "sources": [
+        {
+          "label": "Amicale — biographie de Meyer Kokine",
+          "url": "https://www.lesdeportesdutrainfantome.org/historique.htm"
+        },
+        {
+          "label": "Amicale — Sorgues, témoignages et photographie légendée avec Juliette Combe",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_sorgues.htm"
+        },
+        {
+          "label": "Amicale — portrait légendé de Meyer Kokine",
+          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        }
+      ]
     },
     {
       "nom": "KORNUS",
@@ -10976,7 +11030,18 @@
       "situation": "R",
       "date_sortie": "29/04/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "René Lafond, ancien instructeur militaire, participe à l’organisation d’un maquis dans le Médoc. Arrêté par la Gestapo en juillet 1944 puis détenu au fort du Hâ à Bordeaux, il est intégré au Train fantôme. Selon les archives documentaires du film, il tente de s’évader à Valence, est repris, puis survit à Dachau, où l’aide du docteur Vicente Parra est évoquée.",
+      "sources": [
+        {
+          "label": "Archives du documentaire — parcours de René Lafond",
+          "url": "https://lesresistantsdutrainfantome.blogspot.com/"
+        },
+        {
+          "label": "Amicale — photographies de René Lafond lors de commémorations",
+          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        }
+      ]
     },
     {
       "nom": "LAFOSSE",
@@ -11213,8 +11278,13 @@
         {
           "label": "Amicale du Train fantôme — photographie légendée Raymond Lévy",
           "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        },
+        {
+          "label": "Fondation pour la Mémoire de la Shoah — résistants juifs du Train fantôme",
+          "url": "https://fondationshoah.org/memoire/les-resistants-du-train-fantome-jorge-amat-et-guy-scarpetta"
         }
-      ]
+      ],
+      "histoire": "Raymond Lévy fait partie des résistants liés à la Main-d’œuvre immigrée (MOI) de Toulouse dont le parcours est évoqué dans le documentaire consacré au Train fantôme. Les archives de l’Amicale comportent une photographie légendée « Raymond Lévy — Toulouse ». La source photographique doit être consultée pour identifier précisément la date et le contexte du cliché."
     },
     {
       "nom": "LÉVY",
@@ -12569,7 +12639,18 @@
       "situation": "DCD",
       "date_sortie": "01/02/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Résistant antifasciste d’origine italienne, Guido Palmino est interné au camp du Vernet avant d’être déporté par le Train fantôme. Il reçoit le matricule 94257 à Dachau et y meurt le 1er février 1945, d’après le témoignage de son petit-fils Guy Scarpetta, dont le roman « Guido » et le documentaire consacré au convoi ont contribué à retracer l’histoire familiale.",
+      "sources": [
+        {
+          "label": "Guy Scarpetta — enquête familiale et film, archives de production",
+          "url": "https://lesresistantsdutrainfantome.blogspot.com/"
+        },
+        {
+          "label": "Amicale — référence au matricule 94257 de Guido Palmino",
+          "url": "https://www.lesdeportesdutrainfantome.org/amicale.htm"
+        }
+      ]
     },
     {
       "nom": "PANISSI",
@@ -12605,7 +12686,14 @@
       "situation": "R",
       "date_sortie": "?",
       "lieu_sortie": "?",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Médecin espagnol, Vicente Parra a exercé des fonctions sanitaires au camp du Vernet avant sa déportation. À Dachau, il intervient à l’infirmerie (Revier) et contribue à protéger plusieurs prisonniers du Train fantôme, notamment Marc Brafman. Son parcours est évoqué dans les témoignages recueillis pour le film « Les Résistants du train fantôme ».",
+      "sources": [
+        {
+          "label": "Archives et témoignages du documentaire — Vicente Parra et le Revier",
+          "url": "https://lesresistantsdutrainfantome.blogspot.com/"
+        }
+      ]
     },
     {
       "nom": "PATALACCI",
@@ -12785,7 +12873,14 @@
       "situation": "DCD *",
       "date_sortie": "01/08/1944",
       "lieu_sortie": "Souge (33)",
-      "observations": "* Fusillé"
+      "observations": "* Fusillé",
+      "histoire": "Responsable de la Résistance en Ariège, Noël Peyre-Vidal prend part à une cérémonie patriotique organisée le 14 juillet 1944 par les prisonniers retenus dans la synagogue de Bordeaux. Il est ensuite choisi parmi des otages et fusillé à Souge. Les archives du film publient une photographie de groupe explicitement légendée « Noël Peyre-Vidal (au centre) ».",
+      "sources": [
+        {
+          "label": "Archives du film — photographie de Noël Peyre-Vidal et récit du 14 juillet 1944",
+          "url": "https://lesresistantsdutrainfantome.blogspot.com/"
+        }
+      ]
     },
     {
       "nom": "PIERRACINI",
@@ -13942,8 +14037,13 @@
         {
           "label": "Amicale du Train fantôme — photographie légendée Jacques Simonet, Dachau n° 93980",
           "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        },
+        {
+          "label": "Revue LICRA, mars 2021 — Jacques Simonet et transmission familiale (PDF)",
+          "url": "https://www.licra.org/wp-content/uploads/DDV682-SD-complet.pdf"
         }
-      ]
+      ],
+      "histoire": "Jacques Simonet est arrêté en juin 1944, emprisonné à Bordeaux puis intégré au Train fantôme. À son arrivée à Dachau, il reçoit le matricule 93980. Les archives de l’Amicale présentent une photographie légendée « Bâtonnier Jacques Simonet » et reprennent ce numéro. Les souvenirs familiaux sont également évoqués dans un article consacré à Vincent Simonet et à une œuvre de transmission mémorielle."
     },
     {
       "nom": "SIURANA ANDREU",
@@ -14136,7 +14236,7 @@
       "date_sortie": "08/05/1945",
       "lieu_sortie": "Mauthausen",
       "observations": "* Avant le rapatriement",
-      "histoire": "Arrêté par la Gestapo en raison de son activité de résistant, il est incarcéré à Toulouse, puis déporté à Dachau et transféré à Mauthausen et Gusen II. Il décède avant son rapatriement  ; date du décès : ?.",
+      "histoire": "Résistant arrêté par la Gestapo, Germain Subra fait partie du Train fantôme. Immatriculé 94312 à Dachau, il est ensuite transféré à Mauthausen (matricule 99143), puis à Gusen II. Le Mémorial de Mauthausen propose une notice nominative, une pièce photographique intitulée « 99143_GERMAIN_SUBRA_PORTRAIT.jpg » et des précisions sur les dates de son décès, signalées comme incertaines.",
       "sources": [
         {
           "label": "Mémorial de Mauthausen · notice et portrait",
