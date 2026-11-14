@@ -11415,18 +11415,7 @@
       "situation": "E *",
       "date_sortie": "24/08/1944",
       "lieu_sortie": "Montigny-le-Roi (52)",
-      "observations": "* Lors du transport",
-      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/05-2016/Raymond-Levy-Toulouse-2.jpg",
-      "photo_source": {
-        "label": "Amicale du Train fantôme — photographie légendée Raymond Lévy, Toulouse",
-        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
-      },
-      "sources": [
-        {
-          "label": "Amicale du Train fantôme — photographie légendée Raymond Lévy, Toulouse",
-          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
-        }
-      ]
+      "observations": "* Lors du transport"
     },
     {
       "nom": "LEVY",
@@ -11450,11 +11439,10 @@
         }
       ],
       "histoire": "Raymond Lévy fait partie des résistants liés à la Main-d’œuvre immigrée (MOI) de Toulouse dont le parcours est évoqué dans le documentaire consacré au Train fantôme. Les archives de l’Amicale comportent une photographie légendée « Raymond Lévy — Toulouse ». La source photographique doit être consultée pour identifier précisément la date et le contexte du cliché.",
-      "photo_archive": {
-        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm",
-        "label": "Photographie légendée « Raymond Lévy — Toulouse »",
-        "etat": "identification nominative",
-        "reproduction": "Consulter le fonds source avant publication de l'image"
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/05-2016/Raymond-Levy-Toulouse-2.jpg",
+      "photo_source": {
+        "label": "Amicale du Train fantôme — photographie légendée Raymond Lévy, Toulouse",
+        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
       }
     },
     {
