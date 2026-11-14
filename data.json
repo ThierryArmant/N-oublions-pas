@@ -931,7 +931,7 @@
       "parcours": "Da,Ra",
       "situation": "R",
       "nom_affiche": "Elvira BELETA",
-      "complement_historique": "Rentrée de déportation.",
+      "complement_historique": "Rentrée de déportation. L’étude espagnole de 2025 identifie Elvira Ibarz sous le nom de déportation Elvira Beleta : matricule 62478 à Ravensbrück (p. 321).",
       "reference_archives": "AC 21 P 705716 — BELETA, Elvire / IBARS (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
         {
@@ -941,6 +941,10 @@
         {
           "label": "Inventaire SHD — dossiers de déportés et internés résistants",
           "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+        },
+        {
+          "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
         }
       ]
     },
@@ -974,11 +978,15 @@
       "parcours": "Da,Ra,BB,Ra, Kdo Ng",
       "situation": "R *",
       "nom_affiche": "Marie FERRER",
-      "complement_historique": "Rentrée de déportation. DCD peu après le retour.",
+      "complement_historique": "Rentrée de déportation. DCD peu après le retour. L’étude espagnole de 2025 rapproche María Ferrer Ibarz de Marie Castelló : matricule 62479 à Ravensbrück (p. 321).",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
         }
       ]
     },
@@ -1032,11 +1040,15 @@
       "parcours": "Da,Ra",
       "situation": "R",
       "nom_affiche": "Maria SANTOS GISBERT",
-      "complement_historique": "Rentrée de déportation. Date indiquée : 30/04/1945. Lieu indiqué : Ravensbrück.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 30/04/1945. Lieu indiqué : Ravensbrück. Marie Santos Gisbert : matricule 62484 à Ravensbrück selon l’étude espagnole de 2025 (p. 321).",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
         }
       ]
     },
@@ -1075,8 +1087,15 @@
         {
           "label": "Inventaire SHD — dossiers de déportés et internés résistants",
           "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+        },
+        {
+          "label": "Région Nouvelle-Aquitaine — Marie Bartette (notice et portrait dessiné par Rafael Ortiz)",
+          "url": "https://www.culture-nouvelle-aquitaine.fr/patrimoine-et-inventaire/resistantes-marie-bartette/"
         }
-      ]
+      ],
+      "biographie": {
+        "engagement": "Marie Bartette, mercière à Arcachon, participe aux premières actions de Résistance avec Robert Duchez et l’abbé Brunet. Sous le pseudonyme « L’Hirondelle », elle rejoint le réseau de renseignement Jove et transmet notamment des informations sur les installations militaires allemandes. Arrêtée le 30 juin 1944, elle revient de déportation en 1945 et poursuit son engagement dans la presse et la vie publique locales."
+      }
     },
     {
       "nom": "BAUDON Yvonne Déportée du TF n°93846",
@@ -1401,11 +1420,15 @@
       "parcours": "Da,Ra,Or,Sa",
       "situation": "R",
       "nom_affiche": "Nicolasa OLIVA GARCIA",
-      "complement_historique": "Rentrée de déportation.",
+      "complement_historique": "Rentrée de déportation. L’étude espagnole de 2025 rapproche Nicolasa García Chicharro de Nicolasa Oliva García : matricule 62483 à Ravensbrück (p. 321).",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
         }
       ]
     },
@@ -3343,14 +3366,22 @@
       "lieu": "Anzanigo (E)",
       "parcours": "Da,Ra",
       "situation": "NC",
-      "nom_affiche": "Justina FAU",
+      "nom_affiche": "Justina Julia FAU ESPAÑOL",
       "photo": null,
       "documents": [],
-      "complement_historique": "Sort non renseigné.",
+      "complement_historique": "Justina Julia Fau Español : identité confirmée auprès de l’état civil de Caldearenas par Juan M. Calvo. Matricule 62477 à Ravensbrück selon sa notice de 2015. L’étude d’Amalia Rosado Orquín (2025, p. 210 et 230) indique un décès à Ravensbrück le 20 septembre 1944, alors que la notice de 2015 la disait disparue. Le tableau initial « NC » est conservé comme donnée d’origine ; cette recherche récente précise son devenir.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "Juan M. Calvo — Justina Julia Fau Español (2015)",
+          "url": "https://aragonesesexilioydeportacion.blogspot.com/2015/04/fau-espanol-justina-julia.html"
+        },
+        {
+          "label": "Amalia Rosado Orquín — Los triángulos rojos, Instituto de las Mujeres, 2025, p. 210, 228, 230",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
         }
       ]
     },
@@ -3665,7 +3696,7 @@
       "nom_affiche": "Mila TAPIA ESTEBAN",
       "photo": null,
       "documents": [],
-      "complement_historique": "Rentrée de déportation. Date indiquée : 03/05/1945. Lieu indiqué : Neustadt.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 03/05/1945. Lieu indiqué : Neustadt. Mila Tapia Esteban : matricule 62476 à Ravensbrück selon l’étude espagnole de 2025 (p. 321).",
       "reference_archives": "AC 21 P 680209 — TAPIA-ESTEBAN, Mila (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
         {
@@ -3679,6 +3710,10 @@
         {
           "label": "Amicale du Train fantôme — rafle de Figeac, 12 mai 1944 : listes et contexte",
           "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
+        },
+        {
+          "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
         }
       ]
     },
@@ -8326,11 +8361,10 @@
           "url": "https://www.lesdeportesdutrainfantome.org/ville_sorgues.htm"
         }
       ],
-      "photo_archive": {
-        "url": "https://lesresistantsdutrainfantome.blogspot.com/",
-        "label": "Photographie légendée « Marc Brafman en 1944 »",
-        "etat": "identification nominative",
-        "reproduction": "Consulter le fonds source avant publication de l'image"
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/05-2016/Marc-Brafman.jpg",
+      "photo_source": {
+        "label": "Amicale du Train fantôme — photographie légendée Marc Brafman",
+        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
       }
     },
     {
@@ -8391,7 +8425,18 @@
       "situation": "E *",
       "date_sortie": "18/08/1944",
       "lieu_sortie": "Sorgues (84)",
-      "observations": "* Lors du transport"
+      "observations": "* Lors du transport",
+      "histoire": "Félix Burguete García, né à Luesia le 22 février 1918, est recensé parmi les déportés des Cinco Villas. Le document publié par la municipalité d’Ejea confirme son évasion à Sorgues le 18 août 1944. Le fonds « Cuando los maquis » présente plusieurs photographies de sa vie, dont un portrait de jeunesse au béret, des photographies au pénitencier de Burgos et un cliché de 1962. La page précise que plusieurs images ont été transmises par Jean Burguete.",
+      "sources": [
+        {
+          "label": "Ejea — Déportés des Cinco Villas (tableau nominatif, PDF)",
+          "url": "https://st1.ejea.es/media/2022/05/DEPORTADOS-A-LOS-CAMPOS-NAZIS-DE-LA-COMARCA-DE-LAS-CINCO-VILLAS.pdf"
+        },
+        {
+          "label": "Cuando los maquis — photographies de Félix Burguete García",
+          "url": "https://www.cuandolosmaquis.com/2019/08/09/felix-burguete-garcia/"
+        }
+      ]
     },
     {
       "nom": "BUSSI",
@@ -9178,11 +9223,10 @@
         }
       ],
       "histoire": "Résistant et prisonnier du Train fantôme, Christian de Roquemaurel relate dans les témoignages du convoi l’évasion d’Ange Alvarez à Sainte-Bazeille. Il est ensuite lié à l’action mémorielle de l’Amicale, dont le site présente plusieurs photographies légendées à son nom et le désigne comme ancien deuxième président.",
-      "photo_archive": {
-        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm",
-        "label": "Portraits légendés de Christian de Roquemaurel",
-        "etat": "identification nominative",
-        "reproduction": "Consulter le fonds source avant publication de l'image"
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/Christian-De-Roquemaurel2.jpg",
+      "photo_source": {
+        "label": "Amicale du Train fantôme — photographie légendée Christian de Roquemaurel",
+        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
       }
     },
     {
@@ -9519,7 +9563,14 @@
       "situation": "E *",
       "date_sortie": "24/08/1944",
       "lieu_sortie": "Neuville-sur-Saône (69)",
-      "observations": "* Lors du transport"
+      "observations": "* Lors du transport",
+      "histoire": "Le Centre d’histoire de la Résistance et de la Déportation de Lyon conserve un dossier documentaire sur Joachim Duch, né le 15 novembre 1911 à Barcelone. Ces éléments correspondent à Joaquin Duch Roquer dans la liste du convoi. Le catalogue précise son évasion du Train fantôme le 24 août 1944 à la gare de Neuville-sur-Saône. Référence : fonds Ar. 2191, dossier n° 27 ; le dossier intégral n’a pas été consulté.",
+      "sources": [
+        {
+          "label": "CHRD Lyon — fonds Ar. 2191, dossier 27 : Joachim Duch",
+          "url": "https://collections.chrd.lyon.fr/Detail/objects/16433"
+        }
+      ]
     },
     {
       "nom": "DUDEZ",
@@ -10245,7 +10296,19 @@
       "situation": "E *",
       "date_sortie": "18/08/1944",
       "lieu_sortie": "Sorgues (84)",
-      "observations": "* Lors du transport"
+      "observations": "* Lors du transport",
+      "histoire": "Demetrio Gimeno Timoneda, dit « Bigotes », est barbier et militant de la CNT et des Jeunesses libertaires à Massalió/Mazaleón. Après la guerre d’Espagne, il se réfugie en France et est interné au Vernet. Engagé dans la Résistance puis arrêté, il s’évade du Train fantôme le 18 août 1944 et rejoint la lutte antinazie. Il exerce ensuite comme barbier à Tarascon. L’Ateneu Llibertari Estel Negre publie son portrait photographique de 1943 et un dessin de Teixidor réalisé au Vernet. Divergence à vérifier : la liste du convoi indique une naissance le 22 février 1912, cette notice le 22 décembre 1912. Elle situe son décès au 18 octobre 1982.",
+      "sources": [
+        {
+          "label": "Estel Negre — Demetrio Gimeno Timoneda, biographie et trois documents",
+          "url": "https://www.estelnegre.org/documents/demetriogimeno/demetriogimeno.html"
+        }
+      ],
+      "photo_url": "https://www.estelnegre.org/documents/demetriogimeno/demetriogimeno02.jpg",
+      "photo_source": {
+        "label": "Ateneu Llibertari Estel Negre — Demetrio Gimeno Timoneda, 1943",
+        "url": "https://www.estelnegre.org/documents/demetriogimeno/demetriogimeno.html"
+      }
     },
     {
       "nom": "GIORDANA FORNOLS",
@@ -10983,11 +11046,10 @@
           "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
         }
       ],
-      "photo_archive": {
-        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm",
-        "label": "Portrait légendé « Meyer Kokine — président fondateur »",
-        "etat": "identification nominative",
-        "reproduction": "Consulter le fonds source avant publication de l'image"
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/Meyer-Kokine-President-Fond.jpg",
+      "photo_source": {
+        "label": "Amicale du Train fantôme — Meyer Kokine, président fondateur",
+        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
       }
     },
     {
@@ -11109,7 +11171,7 @@
       "date_sortie": "29/04/1945",
       "lieu_sortie": "Dachau",
       "observations": "—",
-      "histoire": "René Lafond, ancien instructeur militaire, participe à l’organisation d’un maquis dans le Médoc. Arrêté par la Gestapo en juillet 1944 puis détenu au fort du Hâ à Bordeaux, il est intégré au Train fantôme. Selon les archives documentaires du film, il tente de s’évader à Valence, est repris, puis survit à Dachau, où l’aide du docteur Vicente Parra est évoquée.",
+      "histoire": "René Lafond, ancien instructeur militaire, participe à l’organisation d’un maquis dans le Médoc. Arrêté par la Gestapo en juillet 1944 puis détenu au fort du Hâ à Bordeaux, il est intégré au Train fantôme. Selon les archives documentaires du film, il tente de s’évader à Valence, est repris, puis survit à Dachau, où l’aide du docteur Vicente Parra est évoquée. La notice de Marine Charbonneau (2024) l’identifie sous le nom de Jean-René Lafond, avec la même date et le même lieu de naissance. Couvreur et instructeur de mécaniciens d’aviation, il participe à la fabrication de faux documents et au secours de pilotes alliés. Après les tortures subies à Bordeaux et sa déportation, il connaît de longues périodes de maladie à Dachau. Rentré en France, il reprend son métier et organise des commémorations. Il meurt le 14 juin 1999.",
       "sources": [
         {
           "label": "Archives du documentaire — parcours de René Lafond",
@@ -11118,6 +11180,14 @@
         {
           "label": "Amicale — photographies de René Lafond lors de commémorations",
           "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        },
+        {
+          "label": "Gedächtnisbuch — Jean-René Lafond, Marine Charbonneau, 2024",
+          "url": "https://www.gedaechtnisbuch.org/gedaechtnisblaetter/?f=L&gb=13554"
+        },
+        {
+          "label": "Jean-René Lafond — biographie illustrée française (PDF)",
+          "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2024/06/Lafond-GB-A4-300-F.pdf"
         }
       ],
       "photo_archive": {
@@ -11345,7 +11415,18 @@
       "situation": "E *",
       "date_sortie": "24/08/1944",
       "lieu_sortie": "Montigny-le-Roi (52)",
-      "observations": "* Lors du transport"
+      "observations": "* Lors du transport",
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/05-2016/Raymond-Levy-Toulouse-2.jpg",
+      "photo_source": {
+        "label": "Amicale du Train fantôme — photographie légendée Raymond Lévy, Toulouse",
+        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+      },
+      "sources": [
+        {
+          "label": "Amicale du Train fantôme — photographie légendée Raymond Lévy, Toulouse",
+          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        }
+      ]
     },
     {
       "nom": "LEVY",
@@ -11996,8 +12077,17 @@
         {
           "label": "Photographie d'identité extraite de sa carte de déporté résistant (domaine public, Wikimedia Commons)",
           "url": "https://commons.wikimedia.org/wiki/File:Abdelkader_Mesli_(photo_d%27identit%C3%A9_de_sa_carte_de_d%C3%A9port%C3%A9_r%C3%A9sistant).jpg"
+        },
+        {
+          "label": "Gedächtnisbuch — Abdelkader Mesli, Gerhard Bökel (2017)",
+          "url": "https://www.gedaechtnisbuch.org/category/gedaechtnisblaetter/page/13/"
+        },
+        {
+          "label": "Abdelkader Mesli — dossier illustré (PDF)",
+          "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2017/09/mesli_abdelkader.pdf"
         }
-      ]
+      ],
+      "histoire": "Imam à Paris puis à Bordeaux, Abdelkader Mesli rejoint l’Organisation de résistance de l’armée (ORA). Il secourt des travailleurs nord-africains en fuite et leur procure de faux papiers. Arrêté avec Roger Valroff, emprisonné au fort du Hâ et torturé, il est déporté par le Train fantôme et enregistré à Dachau sous le matricule 94020. Il survit ensuite à sa détention dans le système concentrationnaire de Mauthausen. Après la guerre, il reprend ses fonctions religieuses et s’établit à Bobigny, où il meurt en 1961. La notice allemande présente des dates d’arrestation contradictoires (juillet/août) : ce point reste à vérifier."
     },
     {
       "nom": "MICHALAK",
@@ -12477,7 +12567,14 @@
       "situation": "E *",
       "date_sortie": "24/08/1944",
       "lieu_sortie": "? (52)",
-      "observations": "* Lors du transport"
+      "observations": "* Lors du transport",
+      "histoire": "L’Amicale du camp du Vernet consacre un parcours documentaire à Francesco Nitti, engagé dans la guerre d’Espagne, interné au Vernet et témoin du Train fantôme. Son récit constitue une source de première main sur cette déportation. La page donne accès à plusieurs panneaux illustrés consacrés à son parcours.",
+      "sources": [
+        {
+          "label": "Amicale du camp du Vernet — parcours illustré de Francesco Nitti",
+          "url": "https://campduvernet.fr/francesco-nitti"
+        }
+      ]
     },
     {
       "nom": "NODON *",
@@ -14146,11 +14243,10 @@
         }
       ],
       "histoire": "Jacques Simonet est arrêté en juin 1944, emprisonné à Bordeaux puis intégré au Train fantôme. À son arrivée à Dachau, il reçoit le matricule 93980. Les archives de l’Amicale présentent une photographie légendée « Bâtonnier Jacques Simonet » et reprennent ce numéro. Les souvenirs familiaux sont également évoqués dans un article consacré à Vincent Simonet et à une œuvre de transmission mémorielle.",
-      "photo_archive": {
-        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm",
-        "label": "Portrait légendé « Bâtonnier Jacques Simonet — Dachau 93980 »",
-        "etat": "identification nominative",
-        "reproduction": "Consulter le fonds source avant publication de l'image"
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/05-2016/Batonnier-Jacques-Simonet-pere-de-Jean--Daniel-Dachau-93980.jpg",
+      "photo_source": {
+        "label": "Amicale du Train fantôme — Jacques Simonet, légende et matricule 93980",
+        "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
       }
     },
     {
@@ -14584,7 +14680,18 @@
       "situation": "R",
       "date_sortie": "29/04/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Étudiant en médecine engagé dans le renseignement de la Résistance, Philippe Toureille est arrêté le 22 juillet 1944 et emprisonné au fort du Hâ. Déporté depuis Bordeaux par le Train fantôme en août 1944, il arrive à Dachau le 28 août et travaille au Revier, l’infirmerie du camp. Sa notice du Gedächtnisbuch a été rédigée par Tamara Seybold à partir de recherches et d’une rencontre avec lui. Un entretien filmé réalisé en 2004 a ensuite été numérisé pour les archives du mémorial.",
+      "sources": [
+        {
+          "label": "Gedächtnisbuch de Dachau — Philippe Toureille, notice biographique",
+          "url": "https://www.gedaechtnisbuch.org/gedaechtnisblaetter/?f=T&gb=1481"
+        },
+        {
+          "label": "Biographie illustrée en français — Tamara Seybold, 2005 (PDF)",
+          "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2015/07/toureille_philippe.pdf"
+        }
+      ]
     },
     {
       "nom": "TOUYON",
@@ -14800,7 +14907,14 @@
       "situation": "R",
       "date_sortie": "29/04/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Roger Valroff participe à la Résistance aux côtés de l’imam Abdelkader Mesli : il aide à cacher et à soutenir des réfugiés. Selon le Gedächtnisbuch de Dachau, il est arrêté le 5 juillet 1944 puis déporté par le Train fantôme. Gerhard Bökel et l’historienne Bénédicte Penn ont consacré une notice biographique à son parcours, présentée en 2019.",
+      "sources": [
+        {
+          "label": "Gedächtnisbuch de Dachau — présentation de la biographie de Roger Valroff (2019)",
+          "url": "https://www.gedaechtnisbuch.org/jahrespraesentation-zehn-neue-gedaechtnisblaetter/"
+        }
+      ]
     },
     {
       "nom": "VAN DYK MARTINEZ",
