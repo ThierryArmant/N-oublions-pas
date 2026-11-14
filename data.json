@@ -10537,7 +10537,18 @@
       "situation": "DCD *",
       "date_sortie": "19/08/1944",
       "lieu_sortie": "Montélimar (26)",
-      "observations": "* Lors du transport"
+      "observations": "* Lors du transport",
+      "histoire": "Jacob Insel (1909–1944), dit Jacques, militant antifasciste d’origine polonaise, participe aux Brigades internationales pendant la guerre d’Espagne puis à la Résistance toulousaine dans la 35e brigade FTP-MOI, aux côtés de Marcel Langer. Arrêté en décembre 1943 et détenu à la prison Saint-Michel sous une fausse identité, il est embarqué dans le Train fantôme en juillet 1944. Il meurt le 19 août 1944 à Pierrelatte, lors du mitraillage du convoi par l’aviation alliée qui ignorait la présence de prisonniers. Son portrait est publié et identifié comme issu de la collection des Archives départementales de la Haute-Garonne sur le site du Mémorial François Verdier.",
+      "sources": [
+        {
+          "label": "Mémorial François Verdier — hommage à Jacob Insel et portrait d’archive (ADHG)",
+          "url": "https://francoisverdier-liberationsud.fr/tag/jacob-insel/"
+        },
+        {
+          "label": "Mémorial François Verdier — résistants de la 35e brigade FTP-MOI",
+          "url": "https://francoisverdier-liberationsud.fr/tag/marcel-langer/"
+        }
+      ]
     },
     {
       "nom": "IRIMIA BALAGUER",
@@ -11041,7 +11052,14 @@
       "situation": "DCD *",
       "date_sortie": "01/08/1944",
       "lieu_sortie": "Souge (33)",
-      "observations": "* Fusillé"
+      "observations": "* Fusillé",
+      "histoire": "Albert Lautman, philosophe et mathématicien engagé dans la Résistance, rejoint les réseaux d’évasion Pat O’Leary et Françoise dans la région toulousaine. Arrêté en mai 1944, il figure dans le convoi du Train fantôme. Il est exécuté par les nazis dans la région de Bordeaux pendant l’été 1944, avant l’arrivée du train à Dachau. Le Mémorial François Verdier publie une notice biographique et un portrait identifié, distinct des photographies des autres membres de la 35e brigade.",
+      "sources": [
+        {
+          "label": "Mémorial François Verdier — Albert Lautman, biographie et portrait",
+          "url": "https://francoisverdier-liberationsud.fr/tag/marcel-langer/"
+        }
+      ]
     },
     {
       "nom": "LAVIGNE",
