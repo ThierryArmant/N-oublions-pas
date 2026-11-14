@@ -9053,7 +9053,13 @@
       "situation": "E *",
       "date_sortie": "20/08/1944",
       "lieu_sortie": "Montélimar (26)",
-      "observations": "* Lors du transport"
+      "observations": "* Lors du transport",
+      "sources": [
+        {
+          "label": "Amicale du Train fantôme — photographies de Christian de Roquemaurel",
+          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        }
+      ]
     },
     {
       "nom": "DE SAN MARTIN BALDUQUE",
@@ -11143,7 +11149,13 @@
       "situation": "E *",
       "date_sortie": "24/08/1944",
       "lieu_sortie": "Montigny-le-Roi (52)",
-      "observations": "* Lors du transport"
+      "observations": "* Lors du transport",
+      "sources": [
+        {
+          "label": "Amicale du Train fantôme — photographie légendée Raymond Lévy",
+          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        }
+      ]
     },
     {
       "nom": "LÉVY",
@@ -13855,7 +13867,13 @@
       "situation": "R",
       "date_sortie": "29/04/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—"
+      "observations": "—",
+      "sources": [
+        {
+          "label": "Amicale du Train fantôme — photographie légendée Jacques Simonet, Dachau n° 93980",
+          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        }
+      ]
     },
     {
       "nom": "SIURANA ANDREU",
