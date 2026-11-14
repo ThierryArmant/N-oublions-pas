@@ -11090,8 +11090,17 @@
         {
           "label": "Mémorial François Verdier — Albert Lautman, biographie et portrait",
           "url": "https://francoisverdier-liberationsud.fr/tag/marcel-langer/"
+        },
+        {
+          "label": "Portrait d’Albert Lautman (Fernando Zalamea Traba, CC BY 4.0, Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:Albert_Lautman_(Philosopher).jpg"
         }
-      ]
+      ],
+      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Lautman_(Philosopher).jpg",
+      "photo_source": {
+        "label": "Portrait d’Albert Lautman (Fernando Zalamea Traba, CC BY 4.0, Wikimedia Commons)",
+        "url": "https://commons.wikimedia.org/wiki/File:Albert_Lautman_(Philosopher).jpg"
+      }
     },
     {
       "nom": "LAVIGNE",
@@ -11817,7 +11826,18 @@
       "situation": "R",
       "date_sortie": "06/05/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abdelkader_Mesli_(photo_d%27identit%C3%A9_de_sa_carte_de_d%C3%A9port%C3%A9_r%C3%A9sistant).jpg",
+      "photo_source": {
+        "label": "Photographie d'identité extraite de sa carte de déporté résistant (domaine public, Wikimedia Commons)",
+        "url": "https://commons.wikimedia.org/wiki/File:Abdelkader_Mesli_(photo_d%27identit%C3%A9_de_sa_carte_de_d%C3%A9port%C3%A9_r%C3%A9sistant).jpg"
+      },
+      "sources": [
+        {
+          "label": "Photographie d'identité extraite de sa carte de déporté résistant (domaine public, Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:Abdelkader_Mesli_(photo_d%27identit%C3%A9_de_sa_carte_de_d%C3%A9port%C3%A9_r%C3%A9sistant).jpg"
+        }
+      ]
     },
     {
       "nom": "MICHALAK",
