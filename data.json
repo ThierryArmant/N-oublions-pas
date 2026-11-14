@@ -624,6 +624,19 @@
           "label": "Inventaire SHD — dossiers de déportés et internés résistants",
           "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
         }
+      ],
+      "biographie": {
+        "engagement": "Résistante du réseau « Andalousie », Renée Bisserier, épouse Lacoude, collecte et transmet des informations ferroviaires à la Résistance. Arrêtée en juin 1944 à Bègles, elle est détenue au fort du Hâ à Bordeaux, puis déportée par le Train fantôme vers Dachau et Ravensbrück. Survivante, elle devient une figure importante de l’Amicale et témoigne auprès des jeunes générations."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Histoire locale de Saint-Médard-en-Jalles — Renée Lacoude et le Train fantôme",
+          "url": "https://portedumedoc.com/fr/les-communes/saint-medard-en-jalles/histoire/histoire-contemporaine/1207-gare-saint-jean-l-histoire-du-train-fantome"
+        },
+        {
+          "label": "Amicale — galerie de photographies de Renée Lacoude",
+          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        }
       ]
     },
     {
@@ -753,6 +766,19 @@
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
         }
+      ],
+      "biographie": {
+        "engagement": "Alice Bessou, épouse Kokine, résiste avec Meyer Kokine dans le réseau « Libérer et Fédérer ». Elle participe notamment à la fourniture de papiers aux personnes recherchées. Enceinte lors du passage du Train fantôme à Sorgues, elle demeure captive tandis que Meyer parvient à s’évader. Elle est déportée et ne revient pas. Cette situation est rapportée dans le témoignage historique publié par l’Amicale."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Amicale — biographie de Meyer Kokine et engagement d’Alice Bessou",
+          "url": "https://www.lesdeportesdutrainfantome.org/historique.htm"
+        },
+        {
+          "label": "Amicale — Sorgues, évasion de Meyer et sort d’Alice",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_sorgues.htm"
+        }
       ]
     },
     {
@@ -796,6 +822,23 @@
           "label": "Inventaire SHD — dossiers de déportés et internés résistants",
           "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
         }
+      ],
+      "biographie": {
+        "engagement": "Ginette Baudy, épouse Vincent, résistante et déportée du Train fantôme, est transférée de Dachau à Ravensbrück. Elle survit à la déportation puis témoigne sur les conditions du convoi et les étapes de la vallée du Rhône ; un récit d’elle daté du 17 mai 1990 figure dans les archives de l’Amicale. Sa photographie et des éléments biographiques sont également reproduits dans un travail scolaire diffusé par l’académie de Bordeaux."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Amicale — portrait légendé de Ginette Vincent",
+          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        },
+        {
+          "label": "Académie de Bordeaux — dossier scolaire, témoignage et photographie de Ginette Vincent",
+          "url": "https://www.ac-bordeaux.fr/media/39815/download"
+        },
+        {
+          "label": "Amicale — témoignage de Ginette Vincent, 17 mai 1990",
+          "url": "https://www.lesdeportesdutrainfantome.org/"
+        }
       ]
     },
     {
@@ -838,6 +881,23 @@
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        }
+      ],
+      "biographie": {
+        "engagement": "Conchita Grangé, dite Conchita Ramos (1925–2019), quitte l’Espagne avec sa famille et s’engage très jeune dans la Résistance en France comme agente de liaison, sous les pseudonymes « Nina » et « la Neboudo ». Arrêtée en 1944, elle est déportée par le Train fantôme et transférée à Ravensbrück. Elle survit aux camps et consacre ensuite une grande partie de sa vie à la transmission de cette mémoire auprès des élèves."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Conseil départemental de Haute-Garonne — biographie et hommage",
+          "url": "https://espace-presse.haute-garonne.fr/deces-de-la-resistante-conchita-ramos-reaction-de-georges-meric-president-du-conseil-departemental/"
+        },
+        {
+          "label": "Amical de Mauthausen (Espagne) — transport de Bordeaux, photographie dans l'étude sur Ravensbrück",
+          "url": "https://projecteravensbruck.amical-mauthausen.org/wp-content/uploads/2023/01/Ravensbruck-opuscle-2.pdf"
+        },
+        {
+          "label": "Wikimedia Commons — photographie documentée de Conxita Grangé",
+          "url": "https://commons.wikimedia.org/wiki/Category:Conxita_Grang%C3%A9_i_Beleta"
         }
       ]
     },
