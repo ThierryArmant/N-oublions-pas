@@ -21545,12 +21545,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BORIOS%20Robert"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux, la synagogue : récit de Francesco F. Nitti",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Le 31 juillet 1944, il fait partie des dix détenus emmenés hors de la synagogue de Bordeaux, avec notamment Robert Borios, José Figueras, Pierre Fournera, Albert Lautman, David Litman-Nadler, Noël Peyrevidal et Meyer Rosner : selon le récit de Francesco F. Nitti, ils « marchaient sans le savoir au sacrifice suprême »."
     },
     {
       "nom": "BORRANI",
@@ -21621,12 +21626,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BOUDAULT%20France"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux : récit de France Boudault (1990)",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Témoignage de 1990 (rescapé de Mauthausen) : l’embarquement à Bordeaux se fait par ordre alphabétique ; à 22 ans, il se retrouve avec des camarades plus âgés, Bazot, Bigorre, Birot, Campet, Concaret, qu’il décrit comme « presque des pères »."
     },
     {
       "nom": "BOUISSET",
@@ -23310,12 +23320,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DANTIN%20L%C3%A9on"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Montélimar : note sur les morts déclarés",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_montelimar.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Une note de l’Amicale sur les morts de Montélimar (avril 1945) précise que Léon Dantin, Dachau n° 94299, mort à Melk, y avait été inscrit par erreur."
     },
     {
       "nom": "DARD",
@@ -23768,12 +23783,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DELANNOY%20Jacques"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Livron : témoignage de Jacques Delannoy (1999)",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_livron.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Témoignage recueilli en novembre 1999 : à Livron, pendant le transbordement au-dessus de la Drôme, il profite du passage d’une file de voyageurs civils pour prendre d’autorité leurs valises, monter sur leur charrette et s’éloigner avec eux, un soldat allemand assis à l’arrière ; son ami Roger Dureuil l’accompagne."
     },
     {
       "nom": "DELETTRE",
@@ -23896,8 +23916,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DESZ%C3%94%20%2A%20Jasz"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Le Vernet : notice de Jàsz Deszö",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_levernet.htm"
         }
-      ]
+      ],
+      "histoire": "Dit « Jean de Pablo ». Ancien combattant des Brigades internationales devenu résistant, interné au camp du Vernet de juillet 1943 à juin 1944, il y dirige l’organisation militaire internationale clandestine du camp. Il s’évade du train en Haute-Marne. En 1947, il préside l’amicale des anciens internés du camp du Vernet."
     },
     {
       "nom": "DEYRIS",
@@ -24510,12 +24535,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DUREUIL%20Roger"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Livron : témoignage de Jacques Delannoy (1999)",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_livron.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Selon le témoignage de son ami Jacques Delannoy (1999), il s’évade avec lui à Livron, lors du transbordement au-dessus de la Drôme."
     },
     {
       "nom": "DURO",
@@ -25009,12 +25039,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=FIGUERAS%20Jos%C3%A9"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux, la synagogue : récit de Francesco F. Nitti",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
         }
       ],
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "histoire": "Le 31 juillet 1944, il fait partie des dix détenus emmenés hors de la synagogue de Bordeaux, avec notamment Robert Borios, José Figueras, Pierre Fournera, Albert Lautman, David Litman-Nadler, Noël Peyrevidal et Meyer Rosner : selon le récit de Francesco F. Nitti, ils « marchaient sans le savoir au sacrifice suprême »."
     },
     {
       "nom": "FILARDI",
@@ -25053,12 +25088,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=FISCHER%20Wilhem"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Sorgues : témoignages d’évasion",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_sorgues.htm"
         }
       ],
       "pays_naissance": {
         "code": "at",
         "nom": "Autriche"
-      }
+      },
+      "histoire": "À Sorgues, son évasion est racontée dans un témoignage : il suit à une vingtaine de mètres Joseph Cortés-y-Marti, parti à vélo, en ayant pour consigne de ne pas se retourner."
     },
     {
       "nom": "FLATTOT",
@@ -25152,12 +25192,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=FONTAN%20PEREZ%20Jos%C3%A9"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Livron : récits d’évasion",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_livron.htm"
         }
       ],
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "histoire": "Un témoignage publié par l’Amicale raconte une évasion du wagon à Livron, pendant une attaque aérienne alors que le train est bloqué par un pont endommagé, « avec mon ami Fontan », à travers un petit bois, un canal d’irrigation et des vergers."
     },
     {
       "nom": "FORTIN",
@@ -25196,12 +25241,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=FOULON%20Andr%C3%A9"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux : témoignage d’André Foulon",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Résistant d’Arcachon, rescapé de Dachau. Dans son témoignage, il raconte que les détenus étaient appelés d’après une liste par le fils Goupil, agent de la Gestapo à Arcachon."
     },
     {
       "nom": "FOURNERA",
@@ -27161,12 +27211,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=JEAN-LOUIS%20Marcel"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux, la synagogue : récit de Francesco F. Nitti",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Le 31 juillet 1944, il fait partie des dix détenus emmenés hors de la synagogue de Bordeaux, avec notamment Robert Borios, José Figueras, Pierre Fournera, Albert Lautman, David Litman-Nadler, Noël Peyrevidal et Meyer Rosner : selon le récit de Francesco F. Nitti, ils « marchaient sans le savoir au sacrifice suprême »."
     },
     {
       "nom": "JENDRZEJEWSKI",
@@ -27205,12 +27260,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=JIMENA%20TELLIO%20Rafael"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Pierrelatte : récit d’Hélène Jaume (1990)",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_pierrelatte.htm"
         }
       ],
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "histoire": "À Pierrelatte, blessé, il est sauvé ; le récit d’Hélène Jaume (1990) raconte comment il parvient à prononcer son nom, Raphaël Jimena."
     },
     {
       "nom": "JOBART",
@@ -27732,12 +27792,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LAFOSSE%20Maurice"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Dachau : lettre communiquée par Maurice Lafosse",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_dachau.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Évadé du Train fantôme à Valence ; l’Amicale publie une lettre qu’il a communiquée."
     },
     {
       "nom": "LAIGNEL",
@@ -29239,12 +29304,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MARTINS%20Casimiro"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Parcoul-Médillac : notice de Ramiro Arcas-Javierre",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_parcoulmedillac.htm"
         }
       ],
       "pays_naissance": {
         "code": "pt",
         "nom": "Portugal"
-      }
+      },
+      "histoire": "Arrêté le 10 juin 1944 avec le groupe de résistants de Bigorre de Ramiro Arcas-Javierre (six Espagnols, un Français, un Portugais). Arcas meurt après le mitraillage de Parcoul ; selon l’Amicale, trois membres du groupe seulement, dont José Montaner, José Taracena et Alfred Lavigne-de-Cadet, retrouvent leur famille en 1945."
     },
     {
       "nom": "MARTOS FERNANDEZ",
@@ -29610,12 +29680,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MICHALAK%20Sevec"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Merrey : récit des évasions ; Toulouse : souvenirs de Claude Urman",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_merrey.htm"
         }
       ],
       "pays_naissance": {
         "code": "pl",
         "nom": "Pologne"
-      }
+      },
+      "histoire": "Militant de la MOI à Toulouse, dit « Charles ». Lors de l’arrêt de Merrey, il reste suspendu par les poignets à l’essieu d’un wagon pendant l’inspection des feldgendarmes."
     },
     {
       "nom": "MICHELET",
@@ -29811,12 +29886,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MONTANER%20Jos%C3%A9"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Parcoul-Médillac : notice de Ramiro Arcas-Javierre",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_parcoulmedillac.htm"
         }
       ],
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "histoire": "Arrêté le 10 juin 1944 avec le groupe de résistants de Bigorre de Ramiro Arcas-Javierre (six Espagnols, un Français, un Portugais). Arcas meurt après le mitraillage de Parcoul ; selon l’Amicale, trois membres du groupe seulement, dont José Montaner, José Taracena et Alfred Lavigne-de-Cadet, retrouvent leur famille en 1945."
     },
     {
       "nom": "MONTERDE BADIOLA",
@@ -30195,8 +30275,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=NADLER%20David"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux, la synagogue : récit de Francesco F. Nitti",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
         }
-      ]
+      ],
+      "histoire": "Le 31 juillet 1944, il fait partie des dix détenus emmenés hors de la synagogue de Bordeaux, avec notamment Robert Borios, José Figueras, Pierre Fournera, Albert Lautman, David Litman-Nadler, Noël Peyrevidal et Meyer Rosner : selon le récit de Francesco F. Nitti, ils « marchaient sans le savoir au sacrifice suprême »."
     },
     {
       "nom": "NARDONNE",
@@ -33221,12 +33306,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ROSNER%20Meyer"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux, la synagogue : récit de Francesco F. Nitti",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Le 31 juillet 1944, il fait partie des dix détenus emmenés hors de la synagogue de Bordeaux, avec notamment Robert Borios, José Figueras, Pierre Fournera, Albert Lautman, David Litman-Nadler, Noël Peyrevidal et Meyer Rosner : selon le récit de Francesco F. Nitti, ils « marchaient sans le savoir au sacrifice suprême »."
     },
     {
       "nom": "ROTHAN",
@@ -34300,12 +34390,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SLOWINSKI%20Stanislas"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Merrey : récit des évasions",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_merrey.htm"
         }
       ],
       "pays_naissance": {
         "code": "pl",
         "nom": "Pologne"
-      }
+      },
+      "histoire": "Grièvement blessé lors des évasions de Merrey (les deux jambes sectionnées), il est transporté d’urgence à l’hôpital de Neufchâteau."
     },
     {
       "nom": "SOLE SEDO",
@@ -35331,8 +35426,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=UNSERKY%20ou%20UNSERSKI%20Jean"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Montélimar : note sur les morts déclarés",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_montelimar.htm"
         }
-      ]
+      ],
+      "histoire": "Attention : selon l’Amicale, « Unserki » est le nom de guerre de Jacob Insel ; une confusion a fait inscrire ce nom parmi les morts de Montélimar. Cette fiche pourrait faire double emploi avec celle de Jacob Insel."
     },
     {
       "nom": "URCELAY",
@@ -35592,12 +35692,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=VALLS%20LLOPIS%20Plinio"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Livron : témoignage de Plinio Valls",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_livron.htm"
         }
       ],
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "histoire": "Témoin publié par l’Amicale : évadé à Livron, il est accueilli par les maquisards qui gardaient le pont."
     },
     {
       "nom": "VALROFF",
