@@ -23286,6 +23286,10 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Crusat"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » — fiche de Victor Crusat Centelles",
+          "url": "https://republicanosdeportados.org/deportados/victor-crusat-centella/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CRUSAT CENTELLES, Víctor », avec pour commune « Barcelona ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Victor Crusat Centelles » : mort à Dachau le 05/02/1945 (né à Barcelona, profession : comptable).",
@@ -24171,11 +24175,21 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DIAZ%20TENDERO%20Y%20MERCHIAN%20Eleuterio"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » — fiche de Eleuterio Diaz Tendero Y Merchian",
+          "url": "https://republicanosdeportados.org/deportados/eleuterio-diaz-tendero-merchan/"
         }
       ],
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/ELEUTERIO-DIAZ-TENDERO-MERCHAN-CONSUEGRA-EDITADA.jpg",
+      "photo_alt": "Portrait de Eleuterio Diaz Tendero Y Merchian",
+      "photo_source": {
+        "label": "Base « Republicanos deportados » — photographie de la fiche",
+        "url": "https://republicanosdeportados.org/deportados/eleuterio-diaz-tendero-merchan/"
       }
     },
     {
@@ -24751,6 +24765,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ENCUENTRA%20CAMORA%20Salvador"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » — fiche de Salvador Encuentra Camora",
+          "url": "https://republicanosdeportados.org/deportados/salvador-encuentra-cambra/"
         }
       ],
       "pays_naissance": {
@@ -24835,6 +24853,10 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » — fiche de Joan Esteve Llusa",
+          "url": "https://republicanosdeportados.org/deportados/joan-esteve-llussa/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ESTEVE LLUSA, Juan », avec pour commune « Borges Blanques (Les) ».",
@@ -25283,6 +25305,10 @@
         {
           "label": "Amicale des déportés du Train fantôme — Livron : récits d’évasion",
           "url": "https://www.lesdeportesdutrainfantome.org/ville_livron.htm"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » — fiche de José Fontan Perez",
+          "url": "https://republicanosdeportados.org/deportados/jose-fontan-perez/"
         }
       ],
       "pays_naissance": {
@@ -28587,11 +28613,21 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LOPEZ%20BARTILLERO%20Isidro"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » — fiche de Isidro Lopez Bartillero",
+          "url": "https://republicanosdeportados.org/deportados/isidoro-lopez-bartinero/"
         }
       ],
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/LOPEZ-BARQUINERO-2.jpg",
+      "photo_alt": "Portrait de Isidro Lopez Bartillero",
+      "photo_source": {
+        "label": "Base « Republicanos deportados » — photographie de la fiche",
+        "url": "https://republicanosdeportados.org/deportados/isidoro-lopez-bartinero/"
       }
     },
     {
@@ -28987,12 +29023,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MANZANARES%20BARRELA%20Eusebio"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » — fiche de Eusebio Manzanares Barrela",
+          "url": "https://republicanosdeportados.org/deportados/eusebio-manzanares-barrera/"
         }
       ],
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "histoire": "Selon la base « Republicanos deportados », il est interné au camp du Vernet, puis à la caserne Caffarelli de Toulouse, avant d’être déporté par le Train fantôme."
     },
     {
       "nom": "MANZATI",
@@ -30392,6 +30433,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MUZAS%20CAMAS%20Vicente"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » — fiche de Vicente Muzas Camas",
+          "url": "https://republicanosdeportados.org/deportados/vicente-muzas-cama/"
         }
       ],
       "pays_naissance": {
@@ -34077,6 +34122,10 @@
         {
           "label": "Mémorial de Mauthausen — Salle des noms : biographie de Martin SARROCA LLAQUET",
           "url": "https://raumdernamen.mauthausen-memorial.org/?id=4&p=17952&L=1"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » — fiche de Martin Sarroca Llaquet",
+          "url": "https://republicanosdeportados.org/deportados/martin-sarroca-llaquet/"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -36510,6 +36559,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=VILLELLAS%20CAMBRA%20Gregorio"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » — fiche de Gregorio Villellas Cambra",
+          "url": "https://republicanosdeportados.org/deportados/gregorio-villellas-cambra/"
         }
       ],
       "pays_naissance": {
@@ -36633,6 +36686,10 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Viu"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » — fiche de Angel Viu Bascots",
+          "url": "https://republicanosdeportados.org/deportados/angel-viu-bescos/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VIU BASCOTS, Ángel », avec pour commune « Casbas de Huesca ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Ángel Viu Bascots » : mort à Dachau le 18/02/1945 (né à Casbas de Huesca, domicilié à Huesca, profession : ouvrier agricole). Son devenir n’était pas connu jusqu’ici dans nos fiches.",
