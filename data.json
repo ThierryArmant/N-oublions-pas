@@ -19275,6 +19275,10 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Aborruza"
+        },
+        {
+          "label": "AFMD du Gard — notice biographique",
+          "url": "https://afmdgard.org/aborruza-ibargueren-domingo/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ABORRUZA IBARGUREN, Domingo », avec pour commune « Albante-Cervantes ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Domingo Aborruza Ibarguren » : mort à Dachau le 09/12/1944 (né à Albante Cervantes, domicilié à Beaucaire (France), profession : chauffeur). Nos fiches indiquaient le 10/12/1944 : écart à vérifier.",
@@ -22439,6 +22443,10 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "AFMD du Gard — notice biographique",
+          "url": "https://afmdgard.org/carceller-jose/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CARCELLER GARCÍA, José », avec pour commune « Cinctorres ».",
@@ -26545,6 +26553,10 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Hanerlak"
+        },
+        {
+          "label": "AFMD du Gard — notice biographique (« Hamerlak »)",
+          "url": "https://afmdgard.org/hamerlak-wladislas/"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Wladislaus Hanerlak » : mort à Dachau le 31/01/1945 (né à Jawicgeriwce, domicilié à Blaye-les-Mines (Tarn), profession : mineur). Son devenir n’était pas connu jusqu’ici dans nos fiches.",
@@ -28507,11 +28519,22 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LEYRIS%20Jean"
+        },
+        {
+          "label": "AFMD du Gard — notice biographique",
+          "url": "https://afmdgard.org/leyris-jean-alias-leroy/"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "histoire": "Né à Nîmes en 1911, docteur en droit, magistrat. Président d’audience au tribunal civil de Carpentras, il est arrêté le 6 avril 1944 par la Gestapo et la Milice, accusé d’avoir prêté son appartement à la Résistance (réunions, dépôt d’explosifs et d’armes) et d’avoir participé à des sabotages, dont la destruction de 18 locomotives au dépôt d’Avignon le 19 février 1944. Il s’évade du Train fantôme ; il meurt en 1991 (notice de l’AFMD du Gard, dit « Leroy »).",
+      "photo_url": "https://afmdgard.org/wp-content/uploads/2025/03/LEYRIS-Jean.jpg",
+      "photo_alt": "Portrait de Jean Leyris",
+      "photo_source": {
+        "label": "AFMD du Gard — portrait publié dans la notice",
+        "url": "https://afmdgard.org/leyris-jean-alias-leroy/"
       }
     },
     {
@@ -28764,12 +28787,22 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Lumia"
+        },
+        {
+          "label": "AFMD du Gard — notice biographique",
+          "url": "https://afmdgard.org/lumia-diego/"
         }
       ],
-      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Diego Lumia » : mort à Dachau le 21/01/1945 (né à San Cataldo, domicilié à (Gard), profession : ouvrier).",
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Diego Lumia » : mort à Dachau le 21/01/1945 (né à San Cataldo, domicilié à (Gard), profession : ouvrier). Émigré en France en 1924 avec sa femme et leur premier enfant, mineur à La Grand-Combe puis aux mines de pyrite de Saint-Martin-de-Valgalgues (Gard), naturalisé français en 1934, père de huit enfants. Dans ce bassin minier où le Parti communiste clandestin est très actif (tracts, grèves de 1942, attentats), il est arrêté à son domicile d’Alès le 6 octobre 1943. Il meurt à Dachau en 1945 (notice de l’AFMD du Gard).",
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
+      },
+      "photo_url": "https://afmdgard.org/wp-content/uploads/2025/03/LUMIA-Diego.jpg",
+      "photo_alt": "Portrait de Diego Lumia",
+      "photo_source": {
+        "label": "AFMD du Gard — portrait publié dans la notice",
+        "url": "https://afmdgard.org/lumia-diego/"
       }
     },
     {
@@ -29246,6 +29279,10 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Mart%C3%AD"
+        },
+        {
+          "label": "AFMD du Gard — notice biographique",
+          "url": "https://afmdgard.org/marti-pons-juan/"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Joan Martí Pons » : mort à Dachau le 08/02/1945 (né à Xerta, profession : agriculteur). Nos fiches indiquaient le 09/02/1945 : écart à vérifier.",
@@ -33987,12 +34024,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SANTI%20Pellegrino"
+        },
+        {
+          "label": "AFMD du Gard — notice biographique",
+          "url": "https://afmdgard.org/santi-pellegrino-2/"
         }
       ],
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "histoire": "Né à Santa Fiora (Toscane), mineur à Alès. Il s’évade du Train fantôme à Lecourt (Haute-Marne) le 25 août 1944, avec une soixantaine de compagnons dont plusieurs sont blessés ou tués, et rentre chez lui (notice de l’AFMD du Gard)."
     },
     {
       "nom": "SANTOS MORENO",
@@ -34450,11 +34492,22 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SEVESTRE%20Bernard"
+        },
+        {
+          "label": "AFMD du Gard — notice biographique",
+          "url": "https://afmdgard.org/sevestre-bernard/"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "histoire": "Élève de classe préparatoire à l’École coloniale, engagé dans les combats de la Résistance où il est blessé à la main, il est arrêté le 16 mars 1944, emprisonné aux Baumettes à Marseille puis à la prison militaire allemande de Montpellier, où il subit des sévices. Il s’évade du Train fantôme (notice de l’AFMD du Gard).",
+      "photo_url": "https://afmdgard.org/wp-content/uploads/2025/02/SEVESTRE-Bernard.jpg",
+      "photo_alt": "Portrait de Bernard Sevestre en uniforme",
+      "photo_source": {
+        "label": "AFMD du Gard — portrait publié dans la notice",
+        "url": "https://afmdgard.org/sevestre-bernard/"
       }
     },
     {
@@ -34472,12 +34525,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SICARI%20Francesco"
+        },
+        {
+          "label": "AFMD du Gard — notice biographique",
+          "url": "https://afmdgard.org/sicari-francesco/"
         }
       ],
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "histoire": "Né à Oppido Mamertino (Calabre), soldat de 1914-1918, installé en France en 1921, mineur à La Grand-Combe puis restaurateur à Alès. Fiché comme communiste par Vichy, bien qu’il déclare n’avoir aucune activité politique, il est arrêté à Alès le 30 septembre 1943 (internement administratif des étrangers) et interné au camp du Vernet à partir du 1er octobre 1943 ; il fait partie des derniers internés évacués vers Toulouse le 30 juin 1944. Mort à Dachau fin août 1944 (notice de l’AFMD du Gard)."
     },
     {
       "nom": "SILBERFELD",
@@ -34729,6 +34787,10 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "AFMD du Gard — notice biographique",
+          "url": "https://afmdgard.org/soler-penela-jesus/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SOLER PENELA, Jesús », avec pour commune « Cuevas ».",
@@ -35394,12 +35456,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=TOFFALOTI%20Giovanni"
+        },
+        {
+          "label": "AFMD du Gard — notice biographique",
+          "url": "https://afmdgard.org/toffalori-giovanni/"
         }
       ],
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "histoire": "La notice de l’AFMD du Gard l’écrit « Toffalori » : né à Sant’Ambrogio di Valpolicella (Vérone), ouvrier, veuf et père de deux enfants, domicilié à Alès ; date et motif de l’arrestation inconnus. Dachau 94319 ; mort à Dachau le 2 avril 1945."
     },
     {
       "nom": "TOLLET",
@@ -36151,12 +36218,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=VEDOVATI%20Jules"
+        },
+        {
+          "label": "ANED Brescia — notice de Giulio (Jules) Vedovati",
+          "url": "https://www.deportatibrescia.it/deportato-bresciano/vedovati-giulio-jules/"
         }
       ],
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "histoire": "Né à Desenzano del Garda, il vit à Saint-Jean-de-Maurienne (Savoie), célibataire, employé et magasinier. Dachau (matricule 94120), classé « Schutz » ; libéré le 29 avril 1945 par les Alliés ; mort à Saint-Jean-de-Maurienne à une date inconnue (notice de l’ANED de Brescia, qui indique une arrestation le 13 août 1944 : date à vérifier, le convoi ayant quitté Bordeaux le 9 août)."
     },
     {
       "nom": "VEGA VIEGO",
@@ -36918,11 +36990,22 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ZANONI%20Arthur"
+        },
+        {
+          "label": "« Da Verona ai Lager » (ANED Vérone) — notice d’Arturo Zanoni",
+          "url": "https://daveronaailager.com/zanoni-arturo/"
         }
       ],
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
+      },
+      "histoire": "Agriculteur à Grépiac (Haute-Garonne), marié, il est arrêté au Vernet le 30 juin 1944 ; à Dachau (matricule 94098), il est classé « détenu de protection » et enregistré comme Espagnol ; il est libéré à Dachau (notice de l’ANED de Vérone).",
+      "photo_url": "https://daveronaailager.com/wp-content/uploads/2021/04/001-59.jpg",
+      "photo_alt": "Fiche personnelle de détenu d’Arturo Zanoni au camp de Dachau (document, pas un portrait)",
+      "photo_source": {
+        "label": "Document d’archives (pas un portrait) : fiche de détenu de Dachau reproduite par « Da Verona ai Lager » (ANED Vérone), d’après les Arolsen Archives",
+        "url": "https://daveronaailager.com/zanoni-arturo/"
       }
     },
     {
