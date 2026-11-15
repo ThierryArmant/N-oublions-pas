@@ -30889,7 +30889,16 @@
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "photo_url": "https://digital-library.cdec.it/cdec-opac/iiif/2/IT;CDEC;FT0001;0000058392;IT.CDEC.FT0001.0000058392.0001.jpg/full/full/0/default.jpg",
+      "photo_alt": "Photographie de groupe : de gauche à droite Francesco Fausto Nitti, Carlo Rosselli et Emilio Lussu, selon la notice du CDEC",
+      "photo_legende": "Photo de groupe · Nitti à gauche, selon le CDEC",
+      "photo_source": {
+        "label": "Fondazione CDEC, Fototeca, inventaire 141-s357-003 : de gauche à droite Fausto Nitti, Carlo Rosselli et Emilio Lussu. Photographe anonyme ; image intégrale. Manifest IIIF : CC BY-NC 4.0, attribution CDEC. La date 1937 de la notice est discordante avec la fuite de Lipari en 1929 ; photographie laissée non datée ici.",
+        "url": "https://digital-library.cdec.it/cdec-opac/photo/detail/IT-CDEC-FT0001-0000058392/fausto-nitti-carlo-rosselli-ed-emilio-lussu"
+      },
+      "photo_verifie_le": "2026-11-15",
+      "photo_identification": "identification_nominative"
     },
     {
       "nom": "NODON *",
@@ -31460,7 +31469,16 @@
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "photo_url": "https://www.comune.moruzzo.ud.it/wp-content/uploads/2026/01/Per-non-dimenticare-Guy-Scarpetta.jpg",
+      "photo_alt": "Affiche de la commune de Moruzzo présentant le livre Guido de Guy Scarpetta et reproduisant le portrait de Guido Palmino sur sa couverture",
+      "photo_legende": "Affiche de Moruzzo · portrait sur la couverture de Guido",
+      "photo_source": {
+        "label": "Comune di Moruzzo, affiche de la présentation du 24 janvier 2026, Guy Scarpetta, Guido, Kappa Vu Edizioni. Affiche intégrale comprenant le portrait de couverture ; photographe et date du portrait non précisés. Aucune licence libre affirmée.",
+        "url": "https://www.comune.moruzzo.ud.it/vivere-il-comune/eventi/presentazione-della-traduzione-italiana-del-libro-guido-dedicato-al-partigiano-friulano-guido-palamino/"
+      },
+      "photo_verifie_le": "2026-11-15",
+      "photo_identification": "identification_nominative"
     },
     {
       "nom": "PANISSI",
@@ -34695,7 +34713,16 @@
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "photo_url": "https://bibliotecafrancoserantini.archiui.com/cataloga/media/bibliotecafrancoserantini/images/1/1/2/12850_ca_object_representations_media_11250_large.jpg",
+      "photo_alt": "Portrait de Bixio Sorbi, notice nominative de la Biblioteca Franco Serantini",
+      "photo_legende": "Portrait · Biblioteca Franco Serantini",
+      "photo_source": {
+        "label": "Biblioteca Franco Serantini, notice « SORBI, Bixio », représentation 11250. Photographe et date non précisés ; aucune licence libre indiquée. Image intégrale liée au fonds d’origine.",
+        "url": "https://www.bfscollezionidigitali.org/entita/14778-sorbi-bixio"
+      },
+      "photo_verifie_le": "2026-11-15",
+      "photo_identification": "identification_nominative"
     },
     {
       "nom": "SORDO ARDINES",
