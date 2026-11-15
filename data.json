@@ -1005,6 +1005,14 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Lejard%20Jeannine"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Jeanine Lejard alias « Jacqueline » »",
+          "url": "https://drive.google.com/file/d/1pkwLhfbvt6o5dIOoDRI5OdzCRVvIjpn6/view"
+        },
+        {
+          "label": "Maitron — notice Jeannine Lejard",
+          "url": "https://maitron.fr/spip.php?article117479"
         }
       ],
       "nom_tri": "Lejard",
@@ -1028,6 +1036,13 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "reseau_affiche": "FTPF (Francs-tireurs et partisans français) et FUJP",
+      "pseudonyme_resistance": "Jacqueline",
+      "biographie": {
+        "engagement": "Fille de Gabriel Lejard, syndicaliste communiste déporté à Auschwitz, elle s’engage à quinze ans, encore lycéenne à Dijon, aux Jeunesses communistes puis aux Forces unies de la jeunesse patriotique. Elle tape et diffuse des tracts, recrute des jeunes en Côte-d’Or, devient agente de liaison interrégionale des FTPF fin 1943, puis sous-lieutenant FTP dans la région de Bordeaux en mars 1944.",
+        "deportation": "Dénoncée, elle est arrêtée par la Gestapo à Paris le 18 juin 1944 avec son responsable Paul Rochet ; torturée, elle ne livre aucun nom. Isolée au fort du Hâ, elle part de Bordeaux le 9 août 1944 dans le train fantôme, qui s’arrête en gare de Dijon les 23 et 24 août, tout près de chez elle.",
+        "memoire": "Morte à Ravensbrück le 15 avril 1945, à dix-sept ans, elle reçoit à titre posthume la Légion d’honneur et la Croix de guerre avec palme. Une caserne de Dijon porte son nom depuis le 9 juin 1946 ; une plaque marque la maison familiale, 10 rue du Creux-d’Enfer."
       }
     },
     {
@@ -1082,6 +1097,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Lasserre%20Marie-Louise"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Marie-Louise Davancens Lasserre, d’après les travaux scolaires du Pays de Soule »",
+          "url": "https://drive.google.com/file/d/1Dyij7VgPZLrDF2vEKe8m1W6fg19rx4je/view"
         }
       ],
       "nom_tri": "Lasserre",
@@ -1105,6 +1124,12 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "reseau_affiche": "Maquis de L’Hôpital-Saint-Blaise (corps franc Pommiès)",
+      "biographie": {
+        "engagement": "Femme de chambre à Paris, elle revient à L’Hôpital-Saint-Blaise (Soule) tenir l’auberge familiale. L’auberge devient un lieu de rassemblement du maquis où s’engage son frère François ; elle sert d’agent de liaison et guide les maquisards.",
+        "deportation": "Le 27 juin 1944 à l’aube, les Allemands encerclent le village après une trahison : Marie-Louise et sa mère sont battues puis arrêtées. Détenues à la « maison blanche » de Biarritz, puis au fort du Hâ, elles partent dans le train fantôme. À Ravensbrück, Marie-Louise reçoit le matricule 62466. Elle travaille ensuite avec sa mère dans une usine d’aviation du kommando d’Oranienburg, près de Berlin, sous les bombardements, puis creuse des tranchées. Évacuées, elles subissent une marche d’environ 350 km avant d’être libérées par les Soviétiques.",
+        "memoire": "Rapatriée par Lille puis Bordeaux, elle ne pèse plus que 30 kg à son retour à Mauléon. Elle se marie (nom d’épouse : Davancens), a des enfants et reste liée à Ginette Vincent."
       }
     },
     {
@@ -1258,10 +1283,16 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Baudy%20Ginette"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Ginette Vincent Baudy »",
+          "url": "https://drive.google.com/file/d/1Cat8_5QO5-f6ODZKHbjbN_Li25ni-D4p/view"
         }
       ],
       "biographie": {
-        "engagement": "Ginette Baudy, épouse Vincent, résistante et déportée du Train fantôme, est transférée de Dachau à Ravensbrück. Elle survit à la déportation puis témoigne sur les conditions du convoi et les étapes de la vallée du Rhône ; un récit d’elle daté du 17 mai 1990 figure dans les archives de l’Amicale. Sa photographie et des éléments biographiques sont également reproduits dans un travail scolaire diffusé par l’académie de Bordeaux."
+        "engagement": "Ginette Baudy, épouse Vincent, résistante et déportée du Train fantôme, est transférée de Dachau à Ravensbrück. Elle survit à la déportation puis témoigne sur les conditions du convoi et les étapes de la vallée du Rhône ; un récit d’elle daté du 17 mai 1990 figure dans les archives de l’Amicale. Sa photographie et des éléments biographiques sont également reproduits dans un travail scolaire diffusé par l’académie de Bordeaux.",
+        "deportation": "Sage-femme à Eysines (Gironde), elle sert de boîte aux lettres à l’OCM, réseau très touché par les arrestations. Elle est arrêtée à son domicile le 29 juin 1944, où des documents compromettants sont trouvés, puis déportée par le train fantôme et Ravensbrück.",
+        "memoire": "De retour à Bordeaux, elle reçoit parmi ses premiers visiteurs l’inspecteur qui l’avait arrêtée."
       },
       "sources_biographiques": [
         {
@@ -1314,7 +1345,8 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reseau_affiche": "OCM (Organisation civile et militaire)"
     },
     {
       "nom": "CONCHITA GRANGÉ Déportée du train fantôme n°93887 nom ramos",
@@ -1372,12 +1404,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Grange%20Conchita"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Conchita Ramos »",
+          "url": "https://drive.google.com/file/d/1BAOkL2S8dCW1qDd2kuYFXjWm0O-1RSjZ/view"
         }
       ],
       "biographie": {
-        "engagement": "Conchita Grangé, dite Conchita Ramos (1925–2019), quitte l’Espagne avec sa famille et s’engage très jeune dans la Résistance en France comme agente de liaison, sous les pseudonymes « Nina » et « la Neboudo ». Arrêtée en 1944, elle est déportée par le Train fantôme et transférée à Ravensbrück. Elle survit aux camps et consacre ensuite une grande partie de sa vie à la transmission de cette mémoire auprès des élèves.",
+        "engagement": "Conchita Grangé, dite Conchita Ramos (1925–2019), quitte l’Espagne avec sa famille et s’engage très jeune dans la Résistance en France comme agente de liaison, sous les pseudonymes « Nina » et « la Neboudo ». Arrêtée en 1944, elle est déportée par le Train fantôme et transférée à Ravensbrück. Elle survit aux camps et consacre ensuite une grande partie de sa vie à la transmission de cette mémoire auprès des élèves. Née Conception Grangé Beleta le 6 août 1925 à Torre de Capdella (Lérida), élevée à Toulouse par son oncle et sa tante Jaime et Elvira Beleta, elle s’installe en 1942 à Pény (Gudas, Ariège). La famille aide les maquis espagnols cachés dans les chantiers forestiers.",
         "deces": "Décédée le 27 août 2019, selon l’hommage de l’Amicale des anciens guérilleros espagnols en France.",
-        "deportation": "La brochure de Josep Calvet donne une arrestation commune avec sa tante Elvira et sa cousine María le 24 mai 1944, suivie de la déportation par le Train fantôme. L’étude d’Amalia Rosado Orquín croise leurs parcours au kommando Pertrix, à Berlin, dans le système de Sachsenhausen : passage depuis Ravensbrück rapporté par Conchita."
+        "deportation": "La brochure de Josep Calvet donne une arrestation commune avec sa tante Elvira et sa cousine María le 24 mai 1944, suivie de la déportation par le Train fantôme. L’étude d’Amalia Rosado Orquín croise leurs parcours au kommando Pertrix, à Berlin, dans le système de Sachsenhausen : passage depuis Ravensbrück rapporté par Conchita. Le 24 mai 1944, la Milice attaque la maison : Conchita, Elvira Beleta et Marie Ferrer sont arrêtées, torturées à la villa Lauquié de Foix, puis incarcérées à la prison Saint-Michel de Toulouse, où Conchita ne parle pas malgré sept interrogatoires. Après le train fantôme, elle arrive à Ravensbrück le 9 septembre 1944, puis passe au système d’Oranienburg-Sachsenhausen ; elle subit les marches de la mort avant d’être secourue par l’armée soviétique.",
+        "memoire": "Elle épouse à Toulouse le guérillero Josep Ramos et témoigne sans relâche auprès des jeunes jusqu’à sa mort en 2009 ; elle est commandeur de l’ordre national du Mérite (2008)."
       },
       "sources_biographiques": [
         {
@@ -1473,7 +1510,8 @@
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reseau_affiche": "Résistance espagnole en Ariège (soutien aux guérilleros)"
     },
     {
       "nom": "ELVIRA BELETA Déportée du train fantôme n°93885",
@@ -1593,7 +1631,8 @@
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reseau_affiche": "Résistance espagnole en Ariège (soutien aux guérilleros)"
     },
     {
       "nom": "MARIE FERRER déporté du train fantôme n°93886",
@@ -1715,7 +1754,8 @@
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reseau_affiche": "Résistance espagnole en Ariège (soutien aux guérilleros)"
     },
     {
       "nom": "MARIE SANTOS Déporté du train fantôme n°93891",
@@ -1780,6 +1820,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Santos%20Gisbert%20Maria"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Famille Santos Gisbert »",
+          "url": "https://drive.google.com/file/d/1RKEFZScggHMpIT3owzxrBiZoHqrx8Qb7/view"
         }
       ],
       "nom_tri": "Santos Gisbert",
@@ -1806,7 +1850,8 @@
       "biographie": {
         "deportation": " L’étude d’Amalia Rosado Orquín croise leurs parcours au kommando Pertrix, à Berlin, dans le système de Sachsenhausen : passage depuis Ravensbrück rapporté par Conchita.",
         "matricules": "Dachau : 93891 ; Ravensbrück : 62484.",
-        "memoire": "Le livret CNRD du musée de Tarbes (p. 13) réunit María, son époux César et leur fils Gaspar. Déportés vers des camps différents, ils se retrouvent à Toulouse après la guerre. Gaspar et María ont enregistré un témoignage commun conservé au musée ; Gaspar est passé par Buchenwald, il ne doit pas être confondu avec un immatriculé du Train fantôme à Dachau."
+        "memoire": "Le livret CNRD du musée de Tarbes (p. 13) réunit María, son époux César et leur fils Gaspar. Déportés vers des camps différents, ils se retrouvent à Toulouse après la guerre. Gaspar et María ont enregistré un témoignage commun conservé au musée ; Gaspar est passé par Buchenwald, il ne doit pas être confondu avec un immatriculé du Train fantôme à Dachau.",
+        "engagement": "Madrilène, elle s’exile en France avec son mari César et leur fils Gaspar pendant la guerre d’Espagne ; la famille est internée dans des camps français, dont le Vernet."
       },
       "sources_biographiques": [
         {
@@ -1844,7 +1889,8 @@
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reseau_affiche": "Républicaine espagnole exilée"
     },
     {
       "nom": "MARIE BARTETTE déportée du train fantôme n°93867",
@@ -1897,11 +1943,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Bartette%20Marie"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Marie Bartette »",
+          "url": "https://drive.google.com/file/d/1BIUWxCeRhO1dpaPQxcFm2ajNN2XKKNGe/view"
         }
       ],
       "biographie": {
         "engagement": "Marie Bartette, mercière à Arcachon, participe aux premières actions de Résistance avec Robert Duchez et l’abbé Brunet. Sous le pseudonyme « L’Hirondelle », elle rejoint le réseau de renseignement Jove et transmet notamment des informations sur les installations militaires allemandes. Arrêtée le 30 juin 1944, elle revient de déportation en 1945 et poursuit son engagement dans la presse et la vie publique locales.",
-        "deces": "Décédée le 27 novembre 1961 à Saint-Séverin (Charente)."
+        "deces": "Décédée le 27 novembre 1961 à Saint-Séverin (Charente).",
+        "deportation": "Fille d’officier, employée de banque à Paris puis Bordeaux, elle tient depuis 1940 une mercerie place de la Mairie à Arcachon. Arrêtée le 30 juin 1944, interrogée par le lieutenant SS Dohse, elle passe par les cachots du fort du Hâ et du Bouscat (siège de la Gestapo), puis par Dachau et Ravensbrück ; elle est libérée par les troupes américaines.",
+        "memoire": "De retour à Arcachon en mai 1945, elle meurt le 27 novembre 1961 à Saint-Séverin (Charente)."
       },
       "nom_tri": "Bartette",
       "identite_fiche": {
@@ -1991,6 +2043,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Baudon%20Yvonne"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Texte Yvonne Baudon »",
+          "url": "https://drive.google.com/file/d/1a-YquoPWiug6XBiGaIjFOxyyh05vqMda/view"
         }
       ],
       "nom_tri": "Baudon",
@@ -2011,12 +2067,20 @@
         ]
       },
       "points_a_verifier": [
-        "Décès : 26/09/1944 à Köpenick selon le Livre-Mémorial ; 25/09/1944 à Ravensbrück, de maladie, à 45 ans, selon la ville d'Eysines."
+        "Décès : 26/09/1944 à Köpenick selon le Livre-Mémorial ; 25/09/1944 à Ravensbrück, de maladie, à 45 ans, selon la ville d'Eysines.",
+        "Naissance : le dossier de la classe indique le 18 mars 1899, le Livre-Mémorial le 10/03/1899.",
+        "Décès : le dossier de la classe indique le 25 septembre 1944 à Ravensbrück, le Livre-Mémorial le 26/09/1944 à Köpenick."
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "reseau_affiche": "Résistance à Eysines (dépôt d’armes, accueil de parachutistes)",
+      "biographie": {
+        "engagement": "Née Yvonne Dupain, épouse d’André Baudon, employé de la Banque de France, mère d’un fils, Guy. Le couple d’Eysines cache des armes, héberge des parachutistes et diffuse les nouvelles de Radio Londres.",
+        "deportation": "Arrêtée avec son mari le 25 juillet 1944, lors d’une descente allemande visant un dépôt d’armes chez eux, elle est emprisonnée au fort du Hâ, puis déportée par le train fantôme parti de Bordeaux le 9 août 1944. Elle meurt de maladie en septembre 1944, à 45 ans.",
+        "memoire": "Leur fils est élevé par sa grand-mère. Eysines a donné le nom de « place André et Yvonne Baudon » à la place devant leur ancien domicile."
       }
     },
     {
@@ -2137,6 +2201,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Tillet%2C%20n%C3%A9e%20Pezet%20Odette"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Lettre de la famille Tillet sur la rafle de Figeac (27 mai 1991) »",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
       ],
       "nom_tri": "Tillet",
@@ -2149,8 +2217,8 @@
         "naissance": "Née Odette Pezet le 12 avril 1921 à Figeac.",
         "matricules": "Dachau : 93862 ; matricule de Ravensbrück non établi dans les pièces consultées.",
         "deces": "Décédée le 19 janvier 2011 à Figeac, selon le relevé de décès ; hommage dans La Dépêche du 22 janvier 2011.",
-        "deportation": "Arrêtée lors de la rafle du 12 mai 1944. La lettre d’Albert décrit Toulouse, Bordeaux puis le Train fantôme. La pièce Arolsen conservée dans le projet porte le matricule 93862, une entrée au 28 août 1944 et un transfert au 29 août. La FMD indique Dachau puis Ravensbrück.",
-        "memoire": "Albert Tillet, son mari, raconte en 1991 qu’elle aurait pu fuir dans les vignes mais aurait refusé d’abandonner sa mère et sa tante à lui. Il la situe à Ravensbrück avec sa cousine Hélène et Suzanne Cayrel et rapporte une évacuation vers la Suède. Après-guerre, Odette et Albert exploitent l’hôtel des Carmes, repris par leur fils Jean-Louis."
+        "deportation": "Arrêtée lors de la rafle du 12 mai 1944. La lettre d’Albert décrit Toulouse, Bordeaux puis le Train fantôme. La pièce Arolsen conservée dans le projet porte le matricule 93862, une entrée au 28 août 1944 et un transfert au 29 août. La FMD indique Dachau puis Ravensbrück. Arrêtée lors de la rafle de Figeac du 12 mai 1944 avec les femmes de la famille Tillet et des employées de l’hôtel des Carmes, elle est détenue à Toulouse (caserne Caffarelli puis prison Saint-Michel), transférée à Bordeaux (fort du Hâ puis synagogue), avant le départ du train fantôme. Pendant le transbordement de Sorgues, la population leur distribue des fruits.",
+        "memoire": "Albert Tillet, son mari, raconte en 1991 qu’elle aurait pu fuir dans les vignes mais aurait refusé d’abandonner sa mère et sa tante à lui. Il la situe à Ravensbrück avec sa cousine Hélène et Suzanne Cayrel et rapporte une évacuation vers la Suède. Après-guerre, Odette et Albert exploitent l’hôtel des Carmes, repris par leur fils Jean-Louis. À Ravensbrück avec sa cousine Hélène Rescoussié et Suzanne Cayrel, elle est libérée le 22 avril 1945 grâce à un échange organisé par la Croix-Rouge suédoise. Pendant le transbordement de Sorgues, elle aurait pu s’évader mais refuse d’abandonner sa belle-mère et sa tante."
       },
       "recherche_mise_a_jour": "2026-11-15",
       "sources_biographiques": [
@@ -2292,7 +2360,8 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reseau_affiche": "Rafle de Figeac (12 mai 1944)"
     },
     {
       "nom": "BOUDOU MATHILDE Déportée du train fantôme n°93856",
@@ -2702,6 +2771,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Cayrel%20Suzanne"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Suzanne Cayra Peyrel (article de presse) »",
+          "url": "https://drive.google.com/file/d/1Oq0lthQu6MSuhbio9IEJnvvfW1GV_rD6/view"
         }
       ],
       "nom_tri": "Cayrel",
@@ -2712,8 +2785,10 @@
       "convois_documentes": [],
       "biographie": {
         "naissance": "26/04/1919 — Figeac (46)",
-        "matricules": "Dachau : 93866 ; matricule de Ravensbrück non établi dans les pièces consultées.",
-        "memoire": "Albert Tillet la désigne comme une amie de Figeac et la situe à Ravensbrück avec Odette et sa cousine Hélène. Ce lien est rapporté dans sa lettre familiale de 1991."
+        "matricules": "Dachau : 93866 ; matricule de Ravensbrück non établi dans les pièces consultées. Dachau : 93866 ; Ravensbrück : 62459.",
+        "memoire": "Albert Tillet la désigne comme une amie de Figeac et la situe à Ravensbrück avec Odette et sa cousine Hélène. Ce lien est rapporté dans sa lettre familiale de 1991. Libérée le 22 avril 1945 par la Croix-Rouge suédoise avec Odette Tillet, elle ne pèse plus que 27 kg ; après deux mois en Suède, elle retrouve Figeac le 14 juillet 1945. Chevalier (1980) puis officier de la Légion d’honneur, elle témoigne sur Ravensbrück.",
+        "engagement": "Employée de la mairie de Figeac, elle fournit de faux papiers et de faux tampons aux maquisards ; deux de ses frères sont au maquis.",
+        "deportation": "Le 12 mai 1944, elle est arrêtée par un ancien maquisard passé à l’ennemi, surnommé « l’Hercule ». Emmenée en camion avec sept autres Figeacoises, elle est emprisonnée à Saint-Michel (Toulouse), puis déportée par le train fantôme. À Ravensbrück (matricule 62459), elle est employée à des travaux de terrassement très durs."
       },
       "recherche_mise_a_jour": "2026-11-15",
       "sources_biographiques": [
@@ -2781,7 +2856,8 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reseau_affiche": "Résistance à Figeac (faux papiers pour les maquis)"
     },
     {
       "nom": "NICOLASA GARCIA CHICHARO déportée du TF n°93890",
@@ -2825,6 +2901,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Oliva%20Garcia%20Nicolasa"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Nicolasa García Chicharro »",
+          "url": "https://drive.google.com/file/d/1Nx71dHW514svn-WklaTaubgNM8ZV2rHM/view"
         }
       ],
       "nom_tri": "Oliva Garcia",
@@ -2855,7 +2935,7 @@
       "biographie": {
         "engagement": "Ana García Santamaría identifie Nicolasa Oliva García sous l’alias María Linares, résistante dans l’Aude et internée au Vernet.",
         "naissance": "L’étude donne le 17 janvier 1905 à Bilbao ; le tableau du projet porte une autre date. Cette divergence ne permet pas une correction silencieuse.",
-        "deportation": "Dachau, matricule 93890, puis Ravensbrück, 62483, et le système de Sachsenhausen. L’auteure évoque un fils de dix-neuf ans séparé de sa mère, sans pouvoir l’identifier : aucun nom ne lui est attribué ici.",
+        "deportation": "Dachau, matricule 93890, puis Ravensbrück, 62483, et le système de Sachsenhausen. L’auteure évoque un fils de dix-neuf ans séparé de sa mère, sans pouvoir l’identifier : aucun nom ne lui est attribué ici. Arrêtée, elle est écrouée à la caserne Caffarelli de Toulouse le 30 juin 1944. Son fils, âgé de dix-neuf ans, interné avec elle au camp de Noé, est envoyé dans un camp d’hommes. Ensuite, sa trace se perd.",
         "matricules": "Dachau : 93890 ; Ravensbrück : 62483."
       },
       "pseudonyme_resistance": "María Linares",
@@ -2869,7 +2949,8 @@
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reseau_affiche": "Résistance antinazie dans l’Aude"
     },
     {
       "nom": "GENEROSA CORTINA ROIG déportée du TF n°93882",
@@ -2918,6 +2999,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Soldevila%20Germaine"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Generosa Cortina Roig »",
+          "url": "https://drive.google.com/file/d/1D7JiXPE6fEEjj7ImS0jEEzuz0mcyPDxj/view"
         }
       ],
       "nom_tri": "Soldevila",
@@ -2943,12 +3028,18 @@
       },
       "points_a_verifier": [
         "Fin de détention : 30/04/1945 à Ravensbrück selon le Livre-Mémorial ; les sources catalanes la placent alors dans un kommando de Sachsenhausen.",
-        "Matricule de Ravensbrück : 62475 (« Les oblidades ») ; une autre source donne 65475."
+        "Matricule de Ravensbrück : 62475 (« Les oblidades ») ; une autre source donne 65475.",
+        "Matricule de Ravensbrück : l’article recueilli par la classe indique « 65.475 », la fiche retient 62475, cohérent avec les autres femmes du convoi ; probable erreur de transcription."
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "reseau_affiche": "Réseau d’évasion Françoise, réseau belge Jean, ligne Sol",
+      "biographie": {
+        "deportation": "Après l’arrestation d’un agent belge le 13 avril 1944, la ligne Sol tombe ; elle est arrêtée par la Gestapo le 15 mai 1944. À Ravensbrück, elle travaille dans une usine de guerre ; pendant l’évacuation à pied, ses compagnes la soutiennent. Elle est libérée par les troupes soviétiques le 3 mai 1945.",
+        "memoire": "Surnommée « Gracieuse » par ses camarades pour son dévouement, elle reçoit la Medal of Freedom américaine et la Légion d’honneur ; elle meurt à Toulouse le 30 décembre 1987. Son village natal de Son lui a rendu hommage en 2020."
       }
     },
     {
@@ -3574,6 +3665,14 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Etcheverria%20Marie"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Certificat Eisenhower et documents de Marie-Jeanne Etcheverria »",
+          "url": "https://drive.google.com/file/d/1fsuK8SGHBLNsvlRMVrpWYt1beSBzIw-C/view"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Une amitié née en camp — Félicie Virto »",
+          "url": "https://drive.google.com/file/d/1u9HVfa6Dznv0EJkJvKkD8Op6gLay_h60/view"
         }
       ],
       "nom_tri": "Etcheverria",
@@ -3596,6 +3695,12 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "reseau_affiche": "Filière d’évasion des aviateurs alliés (Pays basque)",
+      "biographie": {
+        "engagement": "Elle aide à l’évasion de soldats alliés : un certificat signé par le général Eisenhower lui exprime la gratitude du peuple américain.",
+        "deportation": "Au moment de l’évacuation d’Oranienburg-Sachsenhausen, en 1945, elle est grièvement blessée par un éclat d’obus ; son amie Félicie Virto la porte sur son dos. Toutes deux survivent à la marche de la mort, échappent à leurs gardiens et sont recueillies par l’armée américaine.",
+        "memoire": "Elle reçoit la Medal of Freedom et des remerciements du général de Gaulle ; officier de la Légion d’honneur, elle refuse d’être promue commandeur par solidarité avec Félicie, restée sans distinction. Installée à Biarritz, elle reste liée à son amie jusqu’à la fin de sa vie."
       }
     },
     {
@@ -3651,6 +3756,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Nicolas%20Maria"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Maria Sansberro — certificat de 1956 »",
+          "url": "https://drive.google.com/file/d/1CEeVEqVMtehSV1exuMvxfp-fvMPYQbXs/view"
         }
       ],
       "nom_tri": "Nicolas",
@@ -3677,6 +3786,9 @@
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "biographie": {
+        "memoire": "En 1956, l’armée valide ses services de déportée et homologue ses blessures de guerre : le certificat est adressé à Lucien Nicolas, hôtel de la Poste, à Sare (Basses-Pyrénées)."
       }
     },
     {
@@ -3718,6 +3830,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Martinez%20F%C3%A9licie"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Une amitié née en camp — Félicie Virto »",
+          "url": "https://drive.google.com/file/d/1u9HVfa6Dznv0EJkJvKkD8Op6gLay_h60/view"
         }
       ],
       "nom_tri": "Martinez",
@@ -3740,6 +3856,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "biographie": {
+        "deportation": "Pendant l’évacuation d’Oranienburg-Sachsenhausen, elle porte sur son dos son amie Marie-Jeanne Etcheverria, grièvement blessée, et lui sauve la vie ; elles survivent ensemble à la marche de la mort et sont recueillies par l’armée américaine.",
+        "memoire": "Elle ne reçoit aucune distinction ; Marie-Jeanne Etcheverria refusera une promotion dans la Légion d’honneur par solidarité avec elle."
       }
     },
     {
@@ -3957,6 +4077,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Lafage%20Antoinette"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Lettre de la famille Tillet sur la rafle de Figeac (27 mai 1991) »",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
       ],
       "nom_tri": "Lafage",
@@ -3968,7 +4092,8 @@
       "biographie": {
         "naissance": "08/03/1915 — St-Céré (46)",
         "matricules": "Dachau : 93879 ; matricule de Ravensbrück non établi dans les pièces consultées.",
-        "engagement": "La lettre d’Albert Tillet du 27 mai 1991 nomme Antoinette Lafage comme une employée de l’hôtel, parmi les femmes arrêtées. Elle ne donne ni réseau ni pseudonyme."
+        "engagement": "La lettre d’Albert Tillet du 27 mai 1991 nomme Antoinette Lafage comme une employée de l’hôtel, parmi les femmes arrêtées. Elle ne donne ni réseau ni pseudonyme.",
+        "deportation": "Arrêtée lors de la rafle de Figeac du 12 mai 1944 avec les femmes de la famille Tillet et des employées de l’hôtel des Carmes, elle est détenue à Toulouse (caserne Caffarelli puis prison Saint-Michel), transférée à Bordeaux (fort du Hâ puis synagogue), avant le départ du train fantôme. Pendant le transbordement de Sorgues, la population leur distribue des fruits."
       },
       "recherche_mise_a_jour": "2026-11-15",
       "sources_biographiques": [
@@ -4032,7 +4157,8 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reseau_affiche": "Rafle de Figeac (12 mai 1944)"
     },
     {
       "nom": "Laurent Raymonde deportée du train fantome n°93895",
@@ -4135,6 +4261,14 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Hart%C3%A9%20Lucienne"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Lucienne (épouse Harté) Turgaut »",
+          "url": "https://drive.google.com/file/d/17bus0D9iMY9JxcTmIUn5T55UqIUEICrR/view"
+        },
+        {
+          "label": "Arolsen Archives — registre d’entrée de Dachau (extrait du dossier de la classe)",
+          "url": "https://drive.google.com/file/d/1obRORoZ7JgOZ-ks9ohpHrn8y9yC3EKnG/view"
         }
       ],
       "nom_tri": "Harté",
@@ -4161,7 +4295,17 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reseau_affiche": "Libération-Nord",
+      "biographie": {
+        "engagement": "Agente de renseignement du mouvement Libération-Nord, elle est auxiliaire des PTT à Mont-de-Marsan (Landes).",
+        "deportation": "Arrêtée le 9 juin 1944, elle est interrogée par la Gestapo à la villa Mathilde (Landes), puis emprisonnée au fort du Hâ à Bordeaux avant le départ du train fantôme. Arrivée à Ravensbrück le 1er septembre 1944, elle est envoyée le 15 septembre dans un kommando de Berlin, puis transférée à Oranienburg le 17 avril 1945. Elle est libérée par l’Armée rouge.",
+        "memoire": "Après la guerre, elle revient dans les Landes ; elle meurt le 22 mai 1992 à Mont-de-Marsan."
+      },
+      "points_a_verifier": [
+        "Date de libération : le dossier de la classe indique le 13 mai 1945 (par l’Armée rouge), le Livre-Mémorial le 03/05/1945 : à vérifier.",
+        "Le dossier de la classe cite aussi l’OCM et le réseau landais de Charles Lamarque-Cando et Léonce Dussarat : l’appartenance exacte reste à préciser."
+      ]
     },
     {
       "nom": "HELENE RESCOUSSIE déportée du train fantôme n°93863 nom Monguilan",
@@ -4211,6 +4355,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Bullio%20H%C3%A9l%C3%A8ne"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Lettre de la famille Tillet sur la rafle de Figeac (27 mai 1991) »",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
       ],
       "nom_tri": "Bullio",
@@ -4222,7 +4370,8 @@
       "biographie": {
         "naissance": "24/03/1920 — Livinhac-le-Haut (12)",
         "matricules": "Dachau : 93863 ; matricule de Ravensbrück non établi dans les pièces consultées.",
-        "memoire": "Dans sa lettre de 1991, Albert Tillet nomme Hélène Rescoussi comme sa cousine et la situe à Ravensbrück auprès d’Odette et Suzanne Cayrel. Cette lettre documente le lien familial ; les variantes patronymiques de la fiche restent à vérifier."
+        "memoire": "Dans sa lettre de 1991, Albert Tillet nomme Hélène Rescoussi comme sa cousine et la situe à Ravensbrück auprès d’Odette et Suzanne Cayrel. Cette lettre documente le lien familial ; les variantes patronymiques de la fiche restent à vérifier.",
+        "deportation": "Arrêtée lors de la rafle de Figeac du 12 mai 1944 avec les femmes de la famille Tillet et des employées de l’hôtel des Carmes, elle est détenue à Toulouse (caserne Caffarelli puis prison Saint-Michel), transférée à Bordeaux (fort du Hâ puis synagogue), avant le départ du train fantôme. Pendant le transbordement de Sorgues, la population leur distribue des fruits."
       },
       "recherche_mise_a_jour": "2026-11-15",
       "sources_biographiques": [
@@ -4302,7 +4451,8 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reseau_affiche": "Rafle de Figeac (12 mai 1944)"
     },
     {
       "nom": "VIOLETTE SZABO",
@@ -6563,6 +6713,10 @@
         {
           "label": "Regards sur la Seconde Guerre mondiale en Pays basque",
           "url": "https://www.google.com/search?tbm=bks&q=Sahouret%20Lasserre%20Ravensbr%C3%BCck"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Marie-Louise Davancens Lasserre, d’après les travaux scolaires du Pays de Soule »",
+          "url": "https://drive.google.com/file/d/1Dyij7VgPZLrDF2vEKe8m1W6fg19rx4je/view"
         }
       ],
       "nom_tri": "Lasserre",
@@ -6588,11 +6742,16 @@
       },
       "recherche_mise_a_jour": "2026-11-15",
       "points_a_verifier": [
-        "Deux femmes nommées Marie Lasserre (93872 et 93873) figurent dans le convoi : vérifier à laquelle se rapporte ce passage."
+        "Le dossier de la classe appelle la mère « Louise » ; le Livre-Mémorial enregistre les deux femmes sous le prénom Marie."
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "reseau_affiche": "Maquis de L’Hôpital-Saint-Blaise (corps franc Pommiès)",
+      "biographie": {
+        "deportation": "Déportée avec sa fille Marie-Louise ; à Ravensbrück, elle reçoit le matricule 62465. Malgré son âge, elle passe la sélection et travaille avec sa fille dans une usine d’aviation du kommando d’Oranienburg, puis survit à la marche d’évacuation.",
+        "memoire": "Rentrée très affaiblie (34 kg), elle retrouve son mari, qui avait échappé à la déportation. Elle garde toute sa vie de lourdes séquelles de la déportation."
       }
     },
     {
@@ -6837,6 +6996,10 @@
         {
           "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 242",
           "url": "https://www.google.com/search?tbm=bks&q=%22Alida%20Pradels%22%20Tillet"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Lettre de la famille Tillet sur la rafle de Figeac (27 mai 1991) »",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
       ],
       "nom_tri": "Pradels",
@@ -6849,8 +7012,8 @@
         "naissance": "29/04/1898 — Figeac (46)",
         "matricules": "Dachau : 93835 ; matricule de Ravensbrück non établi dans les pièces consultées.",
         "engagement": "Alida Destruel épouse Pradels est répertoriée dans les dossiers d’homologation du SHD sous la cote GR 16 P 181240 ; réseau non établi ici.",
-        "deportation": "Albert Tillet la désigne comme sa tante, arrêtée le 12 mai 1944 avec sa mère et son épouse. Il la situe avec Jeanne à Oranienburg, puis rapporte leur libération par les troupes soviétiques. La FMD indique Dachau, Ravensbrück et Sachsenhausen.",
-        "memoire": "Le témoignage de Jeanne Tillet et Alida Pradel est également signalé parmi les pièces 72AJ/333, dossier A.II, des Archives nationales par le répertoire Un certain voyage. La transcription n’a pas été consultée."
+        "deportation": "Albert Tillet la désigne comme sa tante, arrêtée le 12 mai 1944 avec sa mère et son épouse. Il la situe avec Jeanne à Oranienburg, puis rapporte leur libération par les troupes soviétiques. La FMD indique Dachau, Ravensbrück et Sachsenhausen. Arrêtée lors de la rafle de Figeac du 12 mai 1944 avec les femmes de la famille Tillet et des employées de l’hôtel des Carmes, elle est détenue à Toulouse (caserne Caffarelli puis prison Saint-Michel), transférée à Bordeaux (fort du Hâ puis synagogue), avant le départ du train fantôme. Pendant le transbordement de Sorgues, la population leur distribue des fruits.",
+        "memoire": "Le témoignage de Jeanne Tillet et Alida Pradel est également signalé parmi les pièces 72AJ/333, dossier A.II, des Archives nationales par le répertoire Un certain voyage. La transcription n’a pas été consultée. Envoyées ensuite au kommando d’Oranienburg, Jeanne Tillet et sa sœur Alida Pradels sont libérées par les Soviétiques. Le mari de Jeanne, Cyprien Tillet, mutilé de 14-18, arrêté le 23 avril 1944, meurt en déportation à Hambourg en décembre 1944."
       },
       "recherche_mise_a_jour": "2026-11-15",
       "sources_biographiques": [
@@ -6950,7 +7113,8 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reseau_affiche": "Rafle de Figeac (12 mai 1944)"
     },
     {
       "nom": "PUGNET-WARTZ",
@@ -7271,6 +7435,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Tapia%20Esteban%20Mila"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Lettre de la famille Tillet sur la rafle de Figeac (27 mai 1991) »",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
       ],
       "nom_tri": "Tapia Esteban",
@@ -7283,7 +7451,9 @@
         "La lettre d’Albert nomme une employée oubliée ; une annotation au crayon porte « Mila Tapia ». L’auteur et la date de cette annotation ne sont pas établis : l’emploi à l’hôtel n’est pas présenté comme confirmé."
       ],
       "biographie": {
-        "matricules": "Dachau : 93883 ; Ravensbrück : 62476 (étude espagnole déjà citée dans la fiche)."
+        "matricules": "Dachau : 93883 ; Ravensbrück : 62476 (étude espagnole déjà citée dans la fiche).",
+        "deportation": "Arrêtée lors de la rafle de Figeac du 12 mai 1944 avec les femmes de la famille Tillet et des employées de l’hôtel des Carmes, elle est détenue à Toulouse (caserne Caffarelli puis prison Saint-Michel), transférée à Bordeaux (fort du Hâ puis synagogue), avant le départ du train fantôme. Pendant le transbordement de Sorgues, la population leur distribue des fruits.",
+        "engagement": "Employée de l’hôtel des Carmes, à Figeac, selon la lettre de la famille Tillet."
       },
       "etat_vital": {
         "statut": "non_confirme",
@@ -7311,7 +7481,8 @@
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reseau_affiche": "Rafle de Figeac (12 mai 1944)"
     },
     {
       "nom": "TAUZIN",
@@ -7396,6 +7567,10 @@
         {
           "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 242",
           "url": "https://www.google.com/search?tbm=bks&q=%22Jeanne%20Tillet%22%20Pradels"
+        },
+        {
+          "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Lettre de la famille Tillet sur la rafle de Figeac (27 mai 1991) »",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
       ],
       "nom_tri": "Tillet",
@@ -7408,8 +7583,8 @@
         "naissance": "Née Jeanne Marie Rose Destruel le 9 mai 1896 à Figeac, selon le répertoire GR 16 P et la FMD. Le répertoire AC 21 P indique le 3 mai : divergence signalée.",
         "matricules": "Dachau : 93865 ; matricule de Ravensbrück non établi dans les pièces consultées.",
         "engagement": "Hôtelière à l’hôtel des Carmes de Figeac avec Cyprien Tillet. Un dossier d’homologation de ses services est signalé au SHD ; aucun réseau ni pseudonyme n’est déduit de cette seule référence.",
-        "deportation": "Selon la lettre de son fils Albert du 27 mai 1991, arrêtée le 12 mai 1944 avec les femmes de la famille et des employées de l’hôtel. Internements à Toulouse puis Bordeaux ; déportation par le Train fantôme. Matricule 93865 à Dachau. La FMD indique ensuite Ravensbrück, Oranienburg et Sachsenhausen.",
-        "memoire": "Albert rapporte sa libération avec sa tante par les troupes soviétiques. Jeanne est la mère d’Albert et la belle-mère d’Odette. La lettre conserve le souvenir des secours reçus à Sorgues. Aucun portrait de Jeanne n’a été identifié dans les documents familiaux examinés."
+        "deportation": "Selon la lettre de son fils Albert du 27 mai 1991, arrêtée le 12 mai 1944 avec les femmes de la famille et des employées de l’hôtel. Internements à Toulouse puis Bordeaux ; déportation par le Train fantôme. Matricule 93865 à Dachau. La FMD indique ensuite Ravensbrück, Oranienburg et Sachsenhausen. Arrêtée lors de la rafle de Figeac du 12 mai 1944 avec les femmes de la famille Tillet et des employées de l’hôtel des Carmes, elle est détenue à Toulouse (caserne Caffarelli puis prison Saint-Michel), transférée à Bordeaux (fort du Hâ puis synagogue), avant le départ du train fantôme. Pendant le transbordement de Sorgues, la population leur distribue des fruits.",
+        "memoire": "Albert rapporte sa libération avec sa tante par les troupes soviétiques. Jeanne est la mère d’Albert et la belle-mère d’Odette. La lettre conserve le souvenir des secours reçus à Sorgues. Aucun portrait de Jeanne n’a été identifié dans les documents familiaux examinés. Envoyées ensuite au kommando d’Oranienburg, Jeanne Tillet et sa sœur Alida Pradels sont libérées par les Soviétiques. Le mari de Jeanne, Cyprien Tillet, mutilé de 14-18, arrêté le 23 avril 1944, meurt en déportation à Hambourg en décembre 1944."
       },
       "recherche_mise_a_jour": "2026-11-15",
       "sources_biographiques": [
@@ -7514,7 +7689,8 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reseau_affiche": "Rafle de Figeac (12 mai 1944)"
     },
     {
       "nom": "VACHER",
