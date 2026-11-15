@@ -49,3 +49,20 @@ Base « Les victimes du camp de concentration de Dachau 1933–1945 » (KZ-Geden
 - Écarts de date de décès de plus de deux jours, à vérifier : BAREL Lorenzo, CHIAPPONI (28/08/1944, jour de l'arrivée du convoi, contre 11/02/1945), CORONAS PUJADAS, FANDOS RIOS, GARZENA, IBANEZ IZCO, PALMINO, VASSICH.
 - Plusieurs dates de naissance divergent d'un jour ou d'une année (DICHARRY, EDO PUMARETA, JANTSON, ROCA CAMPILLO, VISCONTI, etc.) : signalé sur chaque fiche.
 - La recherche du site est sensible aux accents (« García » et non « Garcia ») : pour vérifier une fiche, taper le nom avec ses accents espagnols.
+
+## Femmes — ouvrages imprimés (recherche dans les livres numérisés)
+
+Recherche nom par nom dans les livres numérisés (extraits consultables en ligne). Aucun portrait n'a été trouvé par ce biais : les extraits ne montrent que du texte.
+
+Ouvrages utiles pour la classe (à consulter en bibliothèque, au CDI ou au centre de documentation départemental) :
+- Laurent Lutaud et Patricia Di Scala, *Les naufragés et les rescapés du « train fantôme »*, L'Harmattan, 2003 : cite de nombreuses femmes du convoi (p. 50-53, 81-82, 186, 208).
+- Jürg Altwegg, *L'odyssée du train fantôme. 3 juillet 1944 : une page de notre histoire*, Robert Laffont.
+- Francesco Fausto Nitti, *Le train fantôme* (témoignage publié dès 1944-1945) ; traduction anglaise *The Phantom Train* (Pen & Sword, 2025).
+- Bärbel Schindler-Saefkow (dir.), *Gedenkbuch für die Opfer des Konzentrationslagers Ravensbrück*, 2005 : liste des victimes du camp.
+- Fondation pour la mémoire de la déportation, *Livre-Mémorial*, 2004 (liste du convoi I.261, p. 59).
+- Laurence Thibault (dir.), *Les femmes et la Résistance*, 2006.
+- Diego Conte, *Enemigos del Reich. Los deportados españoles del tren fantasma* (Espagne).
+
+Ajouts aux fiches : BOUDOU (Gedenkbuch de Ravensbrück), BONNET (kommando Siemens en avril 1945), CONSTANTIN (circonstances de l'arrestation), DUBREUIL (kommando de Neu Rohlau), LABARTHE et DE MARQUEISSAC (présentes dans le Gedenkbuch de Ravensbrück : contradiction avec nos fiches, à vérifier), LASSERRE.
+
+La recherche a été interrompue au bout de 26 noms par le moteur de recherche (trop de requêtes) ; il reste à faire : Lezian, Majeau, Monmarin, Parade, Pradels, Pugnet-Wartz, Reiss, Sahuqué, Sicard, Sourgens, Tapia Esteban, Tauzin, Tillet, Vacher, Verge, Fau Español.

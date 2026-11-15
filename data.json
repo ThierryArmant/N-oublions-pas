@@ -2009,7 +2009,7 @@
       "parcours": "Da,Ra",
       "situation": "DCD",
       "nom_affiche": "Mathilde BOUDOU",
-      "complement_historique": "Décédée en déportation. Date indiquée : 04/01/1945. Lieu indiqué : Ravensbrück.",
+      "complement_historique": "Décédée en déportation. Date indiquée : 04/01/1945. Lieu indiqué : Ravensbrück. Son nom figure dans le livre mémorial des victimes de Ravensbrück (Gedenkbuch, 2005, p. 115), ce qui confirme sa mort en déportation.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -2022,6 +2022,14 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Boudou%20Mathilde"
+        },
+        {
+          "label": "Bärbel Schindler-Saefkow (dir.), Gedenkbuch für die Opfer des Konzentrationslagers Ravensbrück 1939–1945, 2005 — p. 115",
+          "url": "https://www.google.com/search?tbm=bks&q=Gedenkbuch%20Ravensbr%C3%BCck%20%22Boudou%2C%20Mathilde%22"
+        },
+        {
+          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 82",
+          "url": "https://www.google.com/search?tbm=bks&q=%22Mathilde%20Boudou%22%20%22train%20fant%C3%B4me%22"
         }
       ],
       "nom_tri": "Boudou",
@@ -2112,7 +2120,7 @@
       "parcours": "Da,Ra",
       "situation": "R *",
       "nom_affiche": "Mauricette BONNET",
-      "complement_historique": "Rentrée de déportation. Date indiquée : 23/04/1945. Lieu indiqué : Ravensbrück. Libérée par la Croix-Rouge.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 23/04/1945. Lieu indiqué : Ravensbrück. Libérée par la Croix-Rouge. Selon l’ouvrage de Laurent Lutaud et Patricia Di Scala (2003, p. 208), Mauricette Bonnet se trouve encore en avril 1945 aux abords de Ravensbrück, au kommando Siemens.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -2121,6 +2129,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Bonnet%20Mauricette"
+        },
+        {
+          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 208",
+          "url": "https://www.google.com/search?tbm=bks&q=%22Mauricette%20Bonnet%22%20Siemens"
         }
       ],
       "nom_tri": "Bonnet",
@@ -2733,7 +2745,7 @@
       "parcours": "Da,Ra,Kpn,Sa",
       "situation": "R",
       "nom_affiche": "Arlette CONSTANTIN",
-      "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945. Arlette Françoise Constantin, fille d'Albert Constantin et d'Irma Marchout, réside à Gond-Pontouvre. Résistante dès 1941 dans le réseau d'évasion Marie-Claire (Ruffec), qui convoie aviateurs et parlementaires vers Bagnères-de-Bigorre ; elle travaille aussi pour le réseau Béarn. Arrêtée par la Gestapo le 22 mars 1944 dans le train Paris–Pau, incarcérée à la prison Saint-Michel de Toulouse, puis à Biarritz et au fort du Hâ. Matricule 62486 à Ravensbrück ; affectée le 21 septembre 1944 au camp d'Oranienburg, puis le 15 mars 1945 à Sachsenhausen. Libérée début mai 1945, rapatriée le 19 mai 1945 par Hazebrouck. Décédée le 4 avril 1972 à Argelès-sur-Mer.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945. Arlette Françoise Constantin, fille d'Albert Constantin et d'Irma Marchout, réside à Gond-Pontouvre. Résistante dès 1941 dans le réseau d'évasion Marie-Claire (Ruffec), qui convoie aviateurs et parlementaires vers Bagnères-de-Bigorre ; elle travaille aussi pour le réseau Béarn. Arrêtée par la Gestapo le 22 mars 1944 dans le train Paris–Pau, incarcérée à la prison Saint-Michel de Toulouse, puis à Biarritz et au fort du Hâ. Matricule 62486 à Ravensbrück ; affectée le 21 septembre 1944 au camp d'Oranienburg, puis le 15 mars 1945 à Sachsenhausen. Libérée début mai 1945, rapatriée le 19 mai 1945 par Hazebrouck. Décédée le 4 avril 1972 à Argelès-sur-Mer. L’historienne Laurence Thibault (Les femmes et la Résistance, 2006, p. 31) précise qu’elle est arrêtée le 22 mars 1944 dans le train Paris–Toulouse alors qu’elle accompagne des aviateurs.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -2746,6 +2758,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Constantin%20Arlette"
+        },
+        {
+          "label": "Laurence Thibault (dir.), Les femmes et la Résistance, La Documentation française, 2006 — p. 31",
+          "url": "https://www.google.com/search?tbm=bks&q=%22Arlette%20Constantin%22%20aviateurs"
         }
       ],
       "biographie": {
@@ -3456,7 +3472,7 @@
       "parcours": "Da,Ra, Pertrix",
       "situation": "DCD",
       "nom_affiche": "Jeanne LABARTHE",
-      "complement_historique": "Décédée en déportation. Date indiquée : ??/04/1945. Lieu indiqué : Hamburg.",
+      "complement_historique": "Décédée en déportation. Date indiquée : ??/04/1945. Lieu indiqué : Hamburg. Son nom figure dans le livre mémorial des victimes de Ravensbrück (Gedenkbuch, 2005, p. 363).",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -3465,6 +3481,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Labarthe%20Jeanne"
+        },
+        {
+          "label": "Bärbel Schindler-Saefkow (dir.), Gedenkbuch für die Opfer des Konzentrationslagers Ravensbrück 1939–1945, 2005 — p. 363",
+          "url": "https://www.google.com/search?tbm=bks&q=Gedenkbuch%20Ravensbr%C3%BCck%20%22Labarthe%2C%20Jeanne%22"
         }
       ],
       "nom_tri": "Labarthe",
@@ -3483,7 +3503,10 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.261."
           }
         ]
-      }
+      },
+      "points_a_verifier": [
+        "L’extrait du Livre-Mémorial imprimé (2004, p. 59) consulté en ligne semble indiquer « DCD 29/08/1944 Ravensbrück », alors que nos fiches donnent avril 1945 à Hambourg : à vérifier sur l’ouvrage."
+      ]
     },
     {
       "nom": "Lafage Antoinette deportée du train fantome n°93879",
@@ -3940,7 +3963,8 @@
             "url": "https://www.nam.ac.uk/explore/special-operations-executive"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ADELAIDE HAUTVAL",
@@ -4001,7 +4025,8 @@
             "url": "https://wwv.yadvashem.org/yv/fr/expositions/justes-auschwitz/hautval.asp"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARCELLE HENRI",
@@ -4082,7 +4107,8 @@
             "url": "https://www.ordredelaliberation.fr/fr/compagnons/marcelle-henry"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "YVONNE PAGNIEZ",
@@ -4158,7 +4184,8 @@
             "url": "https://www.academie-francaise.fr/yvonne-pagniez"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JEANNE GOUPILLE",
@@ -4224,7 +4251,8 @@
             "url": "https://yadvashem-france.org/dossier/nom/8823/"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "YVONNE DE KOMORNICKA",
@@ -4391,7 +4419,8 @@
             "url": "https://museedelaresistanceenligne.org/media.php?expo=&media=10338"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "GERMAINE TILLON",
@@ -4474,7 +4503,8 @@
             "url": "https://www.mnhn.fr/fr/germaine-tillion-1907-2008"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARIE CLAUDE VAILLANT COUTURIER",
@@ -4535,7 +4565,8 @@
             "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/7202?legislature=51"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "FERNANDE ADELE SAVAGNAT",
@@ -4596,7 +4627,8 @@
             "url": "https://www.histoire-et-memoire51.fr/pdf2022/Servagnat%20Pierre%20et%20Fernande.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "CHARLOTTE DELBO",
@@ -4657,7 +4689,8 @@
             "url": "https://www.cheminsdememoire.gouv.fr/fr/hommage-charlotte-delbo"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "LAURE DIEBOLD",
@@ -4708,7 +4741,8 @@
             "url": "https://www.ordredelaliberation.fr/fr/compagnons/laure-diebold"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "LISE LONDON",
@@ -4769,7 +4803,8 @@
             "url": "https://www.memoresist.org/resistant/lise-london/"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JACQUELINE PERY D'ALINCOURT",
@@ -4838,7 +4873,8 @@
             "url": "https://www.fondationresistance.org/recherche-et-documentation/ressources/portrait/jacqueline-pery-alincourt/"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MIREILLE LAUZE",
@@ -5141,7 +5177,8 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "MARIE JOSÉ CHOMBART DE LAUWE",
@@ -5218,7 +5255,8 @@
             "url": "https://fondationmemoiredeportation.com/2026/05/31/joyeux-anniversaire-marie-jo/"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ELISABETH GOUPILLE",
@@ -5276,7 +5314,8 @@
             "url": "https://yadvashem-france.org/dossier/nom/8823/"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "PAULINE GABRIELLE GAILLARD",
@@ -5348,7 +5387,8 @@
             "url": "https://www.memoiredeshommes.defense.gouv.fr/fichier/6819694/14462638"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "DENISE VERNAY",
@@ -5413,7 +5453,8 @@
             "url": "https://www.memorialdelashoah.org/exposition-simone-veil-biographie-famille-jacob.html"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "GINETTE LION CLEMENT",
@@ -5475,7 +5516,8 @@
             "url": "https://www.unadif.fr/fr/actualites/nos-peines/ginette-clement.html"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ANISE POSTEL VINAY",
@@ -5546,7 +5588,8 @@
             "url": "https://www.memoiredeshommes.defense.gouv.fr/fichier/6819694/14462166"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "SUZANNE ORTS",
@@ -5614,7 +5657,8 @@
             "url": "https://mur34.fr/index.php/2023/07/17/suzanne-orts/"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "CAUBET",
@@ -5707,7 +5751,7 @@
       "nom_affiche": "Marie-Louise DE MARQUEISSAC",
       "photo": null,
       "documents": [],
-      "complement_historique": "Rentrée de déportation.",
+      "complement_historique": "Rentrée de déportation. Son nom figure dans le livre mémorial des victimes de Ravensbrück (Gedenkbuch, 2005, p. 159).",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -5716,6 +5760,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=de%20Marqueissac%20Marie-Louise"
+        },
+        {
+          "label": "Bärbel Schindler-Saefkow (dir.), Gedenkbuch für die Opfer des Konzentrationslagers Ravensbrück 1939–1945, 2005 — p. 159",
+          "url": "https://www.google.com/search?tbm=bks&q=Gedenkbuch%20Ravensbr%C3%BCck%20Marqueissac"
         }
       ],
       "nom_tri": "de Marqueissac",
@@ -5736,7 +5784,8 @@
         ]
       },
       "points_a_verifier": [
-        "Une ancienne version du classeur indiquait une mort le 06/08/1944 : c'est impossible, puisqu'elle reçoit le matricule 93896 à Dachau le 28/08/1944."
+        "Une ancienne version du classeur indiquait une mort le 06/08/1944 : c'est impossible, puisqu'elle reçoit le matricule 93896 à Dachau le 28/08/1944.",
+        "Le Gedenkbuch de Ravensbrück, qui ne recense que des femmes mortes au camp, dans ses kommandos ou peu après la libération, cite « Marqueissac, Marie Louise », alors que nos fiches la disent rentrée : à vérifier (consulter la page 159)."
       ],
       "recherche_mise_a_jour": "2026-11-15"
     },
@@ -5751,7 +5800,7 @@
       "nom_affiche": "Geneviève DUBREUIL",
       "photo": null,
       "documents": [],
-      "complement_historique": "Rentrée de déportation. Lieu indiqué : Dresde.",
+      "complement_historique": "Rentrée de déportation. Lieu indiqué : Dresde. Une étude allemande sur les femmes en camp (Frauen im KZ, p. 47) indique qu’elle est transférée fin novembre 1944 de Ravensbrück au kommando de Neu Rohlau (dépendant de Flossenbürg).",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -5764,6 +5813,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Dubreuil%20Genevi%C3%A8ve"
+        },
+        {
+          "label": "Frauen im KZ : Möglichkeiten und Grenzen der historischen Forschung — p. 47",
+          "url": "https://www.google.com/search?tbm=bks&q=%22Genevi%C3%A8ve%20Dubreuil%22%20Rohlau"
         }
       ],
       "reference_archives": "Fonds Teissier, 228 J : dossier signalé au carton 4 par l’inventaire provisoire. Contenu du dossier non consulté.",
@@ -5787,7 +5840,10 @@
             "url": "https://earchives.vaucluse.fr/file/misc/00_Repnum_228J_ocr.pdf"
           }
         ]
-      }
+      },
+      "points_a_verifier": [
+        "Le Livre-Mémorial imprimé (2004, p. 59) semble porter la mention « D » pour Geneviève Dubreuil alors que nos fiches la disent rentrée : à vérifier sur l’ouvrage."
+      ]
     },
     {
       "nom": "FAU",
@@ -5945,7 +6001,7 @@
       "nom_affiche": "Marie LASSERRE",
       "photo": null,
       "documents": [],
-      "complement_historique": "Rentrée de déportation. Date indiquée : 03/05/1945. Née Candau. Arrêtée le 27/06/1944 à L'Hôpital-Saint-Blaise lors de l'opération allemande contre le maquis du corps franc Pommiès, elle est déportée avec sa fille Marie-Louise ; toutes deux reviennent.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 03/05/1945. Née Candau. Arrêtée le 27/06/1944 à L'Hôpital-Saint-Blaise lors de l'opération allemande contre le maquis du corps franc Pommiès, elle est déportée avec sa fille Marie-Louise ; toutes deux reviennent. Un ouvrage sur la Seconde Guerre mondiale en Pays basque évoque la déportation d’Aimée Sahouret, de Marie et de Marie-Louise Lasserre à Dachau puis à Ravensbrück, et précise que seules Marie Lasserre et sa fille en revinrent.",
       "reference_archives": "AC 21 P 586713 — LASSERRE, Marie / CANDAU (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
         {
@@ -5963,6 +6019,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Lasserre%20Marie"
+        },
+        {
+          "label": "Regards sur la Seconde Guerre mondiale en Pays basque",
+          "url": "https://www.google.com/search?tbm=bks&q=Sahouret%20Lasserre%20Ravensbr%C3%BCck"
         }
       ],
       "nom_tri": "Lasserre",
@@ -5986,7 +6046,10 @@
           }
         ]
       },
-      "recherche_mise_a_jour": "2026-11-15"
+      "recherche_mise_a_jour": "2026-11-15",
+      "points_a_verifier": [
+        "Deux femmes nommées Marie Lasserre (93872 et 93873) figurent dans le convoi : vérifier à laquelle se rapporte ce passage."
+      ]
     },
     {
       "nom": "LEZIAN / DANTHEZ",
@@ -6974,7 +7037,8 @@
             "url": "https://fr.wikipedia.org/wiki/Simone_Michel-Lévy"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JACQUELINE FLEURY-MARIÉ",
@@ -7037,7 +7101,8 @@
             "url": "https://smlh78.com/DiffuseLiens/CV131jan26.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARIE DUBOIS",
@@ -7099,7 +7164,8 @@
             "url": "https://maitron.fr/"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "SUZANNE GUYOTAT",
@@ -7150,7 +7216,8 @@
             "url": "https://fr.wikipedia.org/wiki/Suzanne_Guyotat"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "BERTY ALBRECHT",
@@ -7290,7 +7357,8 @@
             "url": "https://fr.wikipedia.org/wiki/Gilberte_Brossolette"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JOSÉPHINE BAKER",
@@ -7352,7 +7420,8 @@
             "url": "https://fr.wikipedia.org/wiki/Joséphine_Baker"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "SUZANNE NOËL",
@@ -7405,7 +7474,8 @@
             "url": "https://fr.wikipedia.org/wiki/Suzanne_Noël"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "THÉRÈSE PAPILLON",
@@ -7467,7 +7537,8 @@
             "url": "https://collections.yadvashem.org/fr/righteous"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "GERMAINE RIBIÈRE",
@@ -7537,7 +7608,8 @@
             "url": "https://francearchives.gouv.fr/fr/pages_histoire/26288056"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ISAURE LUZET",
@@ -7603,7 +7675,8 @@
             "url": "https://collections.yadvashem.org/fr/righteous"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARIE HACKIN",
@@ -7660,7 +7733,8 @@
             "url": "https://fr.wikipedia.org/wiki/Marie_Hackin"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARIE-MADELEINE FOURCADE",
@@ -7729,7 +7803,8 @@
         "departement": "13",
         "lien": "Naissance et engagement",
         "source": "https://museedelaresistanceenligne.org/media9328-Marie-Madeleine-Fourcade-chef-du-rseau-Alliance"
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "DANIELLE CASANOVA",
@@ -7790,7 +7865,8 @@
             "url": "https://www.museedelaresistanceenligne.org/personnedetail_pdf.php?id=11819"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "SIMONE VEIL",
@@ -7843,7 +7919,8 @@
             "url": "https://fr.wikipedia.org/wiki/Simone_Veil"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "FRANÇOISE SELIGMANN",
@@ -7908,7 +7985,8 @@
         "departement": "13",
         "lien": "Naissance, scolarité et activité sociale",
         "source": "https://www.senat.fr/senateur/seligmann_francoise59581a.html"
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ÉLISABETH RISLER-FRANÇOIS",
@@ -7961,7 +8039,8 @@
             "url": "https://collections.yadvashem.org/fr/righteous"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ÉLISABETH DUSSAUZE",
@@ -8023,7 +8102,8 @@
             "url": "https://museedelaresistanceenligne.org/media10339-Elisabeth-Dussauze"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ÉMILIENNE MOREAU-EVRARD",
@@ -8090,7 +8170,8 @@
             "url": "https://fr.wikipedia.org/wiki/Émilienne_Moreau-Evrard"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "LUCIE AUBRAC",
@@ -8159,7 +8240,8 @@
         "departement": "13",
         "lien": "Séjour à la Libération (1944–janvier 1945)",
         "source": "https://www.cheminsdememoire.gouv.fr/fr/lucie-aubrac"
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARIE CURIE",
@@ -8212,7 +8294,8 @@
             "url": "https://fr.wikipedia.org/wiki/Marie_Curie"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MADELEINE CROSET",
@@ -8618,7 +8701,8 @@
             "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/ANTETOMASO-nee-TARTAT-Emilienne.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "RAYMONDE TILLON",
@@ -8687,7 +8771,8 @@
             "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MICHELINE MAUREL",
@@ -8748,7 +8833,8 @@
             "url": "https://www.mollat.com/livre-9782707343000.aspx"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARIE JOUFFRON NÉE MARTIN",
@@ -8923,7 +9009,8 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "ÉGLANTINE MARTIN ÉPOUSE PELLOUX",
@@ -9120,7 +9207,8 @@
             "url": "https://asso-flossenburg.com/wp-content/uploads/2023/09/ASSOCIATION-FLOSSENBURG-KOMMANDOS-CREATION-BULLETIN-MESSAGE-N%C2%B091-6-PAGES-2023070079-_BAT.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "PIERRETTE DOIZE",
@@ -9174,7 +9262,8 @@
             "url": "https://afmdgard.org/doize-petra-dite-pierrette-nee-folch/"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "CATHERINE DIOR",
@@ -9418,7 +9507,8 @@
             "url": "https://media.electre-ng.com/extraits/extrait-id/446d6653e04a53eca92bf5a325df76e6d7ed1046e33ba2f41e48fad978518694.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JOSETTE MOLLAND-ILINSKY",
@@ -9495,7 +9585,8 @@
             "url": "https://theatrum-belli.com/in-memoriam-josette-molland-ilinsky-resistante-deportee-decedee-le-17-fevrier-2024/"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JACQUELINE AUBÉRY DU BOULLEY",
@@ -9620,7 +9711,8 @@
           "credit": "Photographie de Jacky : collection Michel Lévy ; montage BBC, repris par La Nación",
           "description": "Jacky est en haut à droite. En tournant dans le sens horaire : Jacky, Madelon Verstijnen (« Lon »), Yvonne Le Guillou (« Mena »), Guillemette Daendels (« Guigui »). Le montage complet est conservé pour éviter une confusion entre les quatre personnes."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "HÉLÈNE PODLIASKY",
@@ -9659,7 +9751,8 @@
             "url": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JEANNETTE L'HERMINIER",
@@ -9699,7 +9792,8 @@
             "url": "https://asso-flossenburg.com/wp-content/uploads/2021/03/ASSOCIATION-FLOSSENBURG-KOMMANDOS-BULLETIN-N%C2%B0-86-FLIP-BOOK.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "YVONNE ABBAS",
@@ -9746,7 +9840,8 @@
             "url": "https://www.acte-deces.fr/recherche-deces-famille-abbas"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ANNETTE CHALUT",
@@ -9793,7 +9888,8 @@
             "url": "https://fr.wikipedia.org/wiki/Annette_Chalut"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "GILBERTE CHAMPION",
@@ -9833,7 +9929,8 @@
             "url": "https://fr.wikipedia.org/wiki/Gilberte_Champion"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MADELEINE CESTARI",
@@ -9873,7 +9970,8 @@
             "url": "https://fr.wikipedia.org/wiki/Madeleine_Cestari"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "YVETTE LUNDY",
@@ -9937,7 +10035,8 @@
             "url": "https://blancs-coteaux.fr/la-commune/decouvrir-la-commune/histoire-et-patrimoine-0/gionges"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARCELLE BARON",
@@ -9992,7 +10091,8 @@
             "url": "https://musee-resistance-chateaubriant.fr/wp-content/uploads/2024/01/BARON_Marcelle_V20231214.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARIE REYNOARD",
@@ -10032,7 +10132,8 @@
             "url": "https://theatrum-belli.com/in-memoriam-marie-reynoard-resistante-deportee-decedee-en-janvier-1945/?pdf=361164"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "LUCETTE SALLÉ",
@@ -10071,7 +10172,8 @@
             "url": "https://archives.nievre.fr/document/deportations---exemple-de-lucette-salle"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MÈRE MARIE SKOBTSOV",
@@ -10110,7 +10212,8 @@
             "url": "https://fr.wikipedia.org/wiki/Marie_Skobtsov"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "NOËLLA ROUGET",
@@ -10165,7 +10268,8 @@
             "url": "https://fr.wikipedia.org/wiki/Noëlla_Rouget"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "GISÈLE GUILLEMOT",
@@ -10205,7 +10309,8 @@
             "url": "https://fr.wikipedia.org/wiki/Gisèle_Guillemot"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "BERTHE AUBERT",
@@ -10245,7 +10350,8 @@
             "url": "https://museedelaresistanceenligne.org/media2239-Andr-et-Berthe-Aubert"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JEANNE GRIMAUD",
@@ -10285,7 +10391,8 @@
             "url": "https://museedelaresistanceenligne.org/media5391-Plaque-en-hommage-A"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "CHRISTIANE RÈME",
@@ -10324,7 +10431,8 @@
             "url": "https://irk-cir.org/en/members/72"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARIE DE ROBIEN",
@@ -10364,7 +10472,8 @@
             "url": "https://asso-flossenburg.com/wp-content/uploads/2021/03/ASSOCIATION-FLOSSENBURG-KOMMANDOS-BULLETIN-N%C2%B0-86-FLIP-BOOK.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "PIERRETTE VIAN NÉE IVALDI",
@@ -10549,7 +10658,8 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "MARIE-LOUISE SOUQUE NÉE RIPERT",
@@ -10595,7 +10705,8 @@
             "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/SOUQUE-nee-RIPERT-Marie-Louise.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JULIETTE EYRAUD",
@@ -10640,7 +10751,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=IV.2."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "LAURENCE CAILA",
@@ -10685,7 +10797,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=IV.2."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "RAYMONDE TEMMERMANN",
@@ -10730,7 +10843,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=IV.2."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "THÉRÉSA WASILEWSKA",
@@ -10775,7 +10889,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=IV.2."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JEANNETTE CASTELLANO",
@@ -10820,7 +10935,8 @@
             "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "CHRISTIANE FAMERY",
@@ -10865,7 +10981,8 @@
             "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ANDRÉE JULIEN",
@@ -10918,7 +11035,8 @@
             "url": "https://www.objectifgard.com/gard/nimes/nimes-la-porteuse-de-memoire-andree-julien-157559.php"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "COLETTE LAFFINEUR",
@@ -10963,7 +11081,8 @@
             "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARTHA DESRUMAUX",
@@ -11016,7 +11135,8 @@
             "url": "https://fr.wikipedia.org/wiki/Martha_Desrumaux"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MICHELINE MÉJEAN NÉE TARDIEU",
@@ -11224,7 +11344,8 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "MARIE DORANGE NÉE LECOUTEY",
@@ -11287,7 +11408,8 @@
       },
       "points_a_verifier": [
         "Contrôle du transport I.175 : le matricule Ravensbrück 27671 porté dans cette fiche est attribué par la liste FMD à Jeannette Doireau, née le 28 octobre 1915 à Mareuil-sur-Arnon. Le matricule et le convoi de Marie Dorange doivent être vérifiés dans les documents originaux ; aucun rapprochement avec I.175 n’est créé sur ce seul numéro."
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "HENRIETTE DUVERT NÉE DEPAILLET",
@@ -11470,7 +11592,8 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "ODETTE FABIUS NÉE SCHMOLL",
@@ -11548,7 +11671,8 @@
             "url": "https://commons.wikimedia.org/wiki/File:Odette_Fabius_recevant_la_l%C3%A9gion_d%27honneur_du_Pr%C3%A9sident_Pompidou.jpg"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JOSÉPHINE BORDANAVA",
@@ -11807,7 +11931,8 @@
         "label": "© USC Shoah Foundation — portrait reproduit dans la biographie de son témoignage",
         "url": "https://sfi.usc.edu/sites/default/files/videos/docs/Biographie_Nicole%20Clarence.pdf"
       },
-      "photo_alt": "Photographie identifiée de Nicole Clarence"
+      "photo_alt": "Photographie identifiée de Nicole Clarence",
+      "complement_historique": ""
     },
     {
       "nom": "NICOLE RAMBURE",
@@ -11902,7 +12027,8 @@
             "url": "https://www.museedelaresistanceenligne.org/media1992-Portrait-de-Nicole-Rambure"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "LUCIENNE VANUCCI",
@@ -11955,7 +12081,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.126."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "JEANNE CLAVET",
@@ -12154,7 +12281,8 @@
             "url": "https://www.ordredelaliberation.fr/fr/medailles-biographies?page=18"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ÉMILIE HAFFENBACH",
@@ -12221,7 +12349,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.235."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "GEORGETTE BERTHET",
@@ -12345,7 +12474,8 @@
             "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_BA-BJ.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "AGNÈS KIRMANN",
@@ -12444,7 +12574,8 @@
             "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000001975201"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "AUGUSTINE VALETTE",
@@ -12535,7 +12666,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.264."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ROSE NIELSEN",
@@ -12958,7 +13090,8 @@
       },
       "points_a_verifier": [
         "Une étude de Fuensanta Escudero Andújar nomme Lucienne Tagnard, alias Eva, dans les arrestations de Clermont-Ferrand ; la notice Drôme présente un alias tronqué « ra ». L’alias complet et le rapprochement détaillé restent à confirmer avant fusion."
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "ADRIENNE LAGÈRE",
@@ -13102,7 +13235,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.235."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ANNE-MARIE SPOERRY",
@@ -13291,7 +13425,8 @@
             "url": "https://www.acte-deces.fr/acte-de-deces-pays-kenya"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "YVONNE LE ROUX",
@@ -13742,7 +13877,8 @@
           "recherche": "PIERRETTE VIAN NÉE IVALDI",
           "vue": "region"
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "TATIANA DE FLEURIEU",
@@ -13932,7 +14068,8 @@
             "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2019-12/SHDAC_21P_DIR.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "HENRIETTE BARDI DE FOURTOU",
@@ -13993,7 +14130,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.224."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "LOUISE DE GIRAUD D’AGAY",
@@ -14084,7 +14222,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.264."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "THÉRÈSE FLOIRAS",
@@ -14281,7 +14420,8 @@
             "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/28/dans-l-ombre-de-jean-moulin-les-femmes-oubliees-de-caluire_6660493_4500056.html"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "PAULETTE FLOIRAS",
@@ -14462,7 +14602,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.175."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ELVIRE BEZIAS",
@@ -14541,7 +14682,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.216."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARIE BONNIEU",
@@ -14620,7 +14762,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.216."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MICHELINE FARAUT",
@@ -14699,7 +14842,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.216."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "PAULETTE LAUGERY",
@@ -14806,7 +14950,8 @@
         "Paulette Emmanuelli",
         "Paulette Chastan",
         "Paulou"
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "JOSETTE REIBAUT",
@@ -14885,7 +15030,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.216."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ARMANDINE DELYS",
@@ -14938,7 +15084,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.215."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "DENISE MAUGENDRE",
@@ -15087,7 +15234,8 @@
             "url": "https://www.saint-mammes.com/wp-content/uploads/PV_CM_30_mars_2022.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "CHARLOTTE ABONNEN",
@@ -15154,7 +15302,8 @@
       "photo_source": {
         "label": "Charlotte Abonnen avec Muriel Ferrari, fin des années 1950 — archives personnelles de Muriel Ferrari, photographie légendée dans Expressions, droits réservés.",
         "url": "https://www.expressions-venissieux.fr/2019-09-24-quand-la-mere-ferrari-cuisine-sa-grand-mere/amp/"
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "EVELYNE WILKINSON",
@@ -15207,7 +15356,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.212."
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "LUCIENNE THÉVENIN",
@@ -15278,7 +15428,8 @@
             "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "MARIE DAMIANI",
@@ -15429,7 +15580,8 @@
             "url": "https://archives.vaucluse.fr/fileadmin/Minisites/Archives/00_AD_PDF_DOCX_XLS_PPT/C_nos_offres/histoires_d_archives/ONACVG_Derniers_resistants.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "FRÉDÉRIQUE DURAN",
@@ -15486,7 +15638,8 @@
             "url": "https://archives.vaucluse.fr/fileadmin/Minisites/Archives/00_AD_PDF_DOCX_XLS_PPT/C_nos_offres/histoires_d_archives/ONACVG_Derniers_resistants.pdf"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "WANDA DE KOMORNICKA ÉPOUSE HUDAULT",
@@ -15561,7 +15714,8 @@
             "url": "https://www.museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka"
           }
         ]
-      }
+      },
+      "complement_historique": ""
     },
     {
       "nom": "ESTHER POGGIO",
@@ -15639,7 +15793,8 @@
           "precision": "Même lieu et même date d’exécution ; réseaux de résistance distincts.",
           "source": "https://fr.wikipedia.org/wiki/Fusill%C3%A9s_de_l%27Ariane"
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "HÉLÈNE VAGLIANO",
@@ -15717,7 +15872,8 @@
           "precision": "Le lieu et la date d’exécution sont communs. Cette concordance ne prouve pas une amitié ni l’appartenance au même réseau.",
           "source": "https://fr.wikipedia.org/wiki/Fusill%C3%A9s_de_l%27Ariane"
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "GERMAINE POINSO-CHAPUIS",
@@ -15782,7 +15938,8 @@
       "photo_alt": "Photographie identifiée de Germaine Poinso-Chapuis",
       "points_a_verifier": [
         "L’en-tête de la notice Sycomore affiche le 20 février 1981, mais sa biographie détaillée et le document de la Ville de Paris indiquent le 18 février. La fiche retient le 18 février et conserve cette divergence."
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "GÉNIA EUGÉNIE ROSOFF",
@@ -15989,7 +16146,8 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "LOUISE MACAULT",
@@ -16198,7 +16356,8 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "ÉLISABETH BARBIER CAMPBELL",
@@ -16393,7 +16552,8 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "HUBERTE BOURGOIN NÉE TIGNOLET",
@@ -16571,7 +16731,8 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "CLAIRE MOTTUEL NÉE FRANC",
@@ -16756,7 +16917,8 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "YVONNE DUBOIN NÉE JAUBERT",
@@ -16937,7 +17099,8 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "complement_historique": ""
     },
     {
       "nom": "EUGÉNIE HAMERLAK",
@@ -17012,7 +17175,8 @@
         "Portrait photographique non retrouvé dans les sources consultées.",
         "La rubrique générique « Interné résistant, fusillé » de la notice SHD n’est pas un constat individuel de décès : la notice biographique atteste son retour."
       ],
-      "recherche_mise_a_jour": "2026-11-15"
+      "recherche_mise_a_jour": "2026-11-15",
+      "complement_historique": ""
     }
   ],
   "hommes": [
