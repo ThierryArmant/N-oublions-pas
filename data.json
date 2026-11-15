@@ -19797,11 +19797,22 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ARCAS%20JAVIERRE%20Ramiro"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Parcoul-Médillac : notice et portrait de Ramiro Arcas-Javierre",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_parcoulmedillac.htm"
         }
       ],
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "histoire": "Réfugié espagnol (retirada de février 1939, interné à Argelès), il s’engage en septembre 1939 dans l’armée française ; prisonnier en juin 1940 (Stalag IV C), il est rapatrié en 1942 pour raison de santé et s’installe à Esquièze-Sère (Hautes-Pyrénées). Résistant en Bigorre dans un groupe de six Espagnols, un Français et un Portugais, il est arrêté avec eux le 10 juin 1944, interrogé et torturé à Tarbes, puis isolé à la prison Saint-Michel de Toulouse. Grièvement blessé au ventre lors du mitraillage du train à Parcoul, il est soigné sur le quai puis transporté à l’hôpital militaire Robert-Picqué de Villenave-d’Ornon, où il meurt le 19 juillet 1944. Il est inhumé au cimetière Saint-Bris de Bordeaux.",
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/parcoul/arcas-ramiro.jpg",
+      "photo_alt": "Portrait de Ramiro Arcas-Javierre",
+      "photo_source": {
+        "label": "Amicale des déportés du Train fantôme — photographie publiée sur la page « ville_parcoulmedillac.htm »",
+        "url": "https://www.lesdeportesdutrainfantome.org/ville_parcoulmedillac.htm"
       }
     },
     {
@@ -20709,11 +20720,22 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BARRIERE%20Eloi"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Merrey : récit d’évasion et portrait d’Éloi Barrière",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_merrey.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "histoire": "L’Amicale publie son portrait dans le récit de l’évasion de Merrey ; le témoignage cité le rattache à la brigade d’Ustaritz (Basses-Pyrénées).",
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/merrey/Eloi-Barriere.jpg",
+      "photo_alt": "Portrait d’Éloi Barrière",
+      "photo_source": {
+        "label": "Amicale des déportés du Train fantôme — photographie publiée sur la page « ville_merrey.htm »",
+        "url": "https://www.lesdeportesdutrainfantome.org/ville_merrey.htm"
       }
     },
     {
@@ -21123,7 +21145,7 @@
       "date_sortie": "27/03/1945",
       "lieu_sortie": "Melk",
       "observations": "—",
-      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à St-Hilaire, mort le 27/03/1945 à Melk.",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à St-Hilaire, mort le 27/03/1945 à Melk. L’Amicale le présente comme dirigeant de Résistance-Fer, sous-chef de gare à Bordeaux-Bastide, arrêté le 12 juillet 1944 et mort à Melk (Mauthausen). Une rue de Bordeaux porte son nom.",
       "sources": [
         {
           "label": "Mémorial de Mauthausen — Salle des noms",
@@ -21132,13 +21154,18 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BIGORRE%20Roger"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux : notice et plaque de rue « Rue Roger Bigorre »",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reseau_affiche": "Résistance-Fer"
     },
     {
       "nom": "BILLON",
@@ -21390,7 +21417,7 @@
       "date_sortie": "03/01/1945",
       "lieu_sortie": "Melk",
       "observations": "—",
-      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Bordeaux, mort le 03/01/1945 à Melk.",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Bordeaux, mort le 03/01/1945 à Melk. L’Amicale rappelle qu’il a dirigé, jusqu’au 30 mai 1944, une grande partie de la Résistance du Sud-Ouest ; arrêté sur trahison, déporté par le Train fantôme, il meurt le 3 janvier 1945 au camp de Melk, en Autriche. Une rue de Bordeaux porte son nom.",
       "sources": [
         {
           "label": "Mémorial de Mauthausen — Salle des noms",
@@ -21399,6 +21426,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BONNAC%20Georges"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux : notice et plaque de rue « Rue Georges Bonnac »",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -22860,7 +22891,7 @@
       "date_sortie": "17/08/1944",
       "lieu_sortie": "Remoulins (30)",
       "observations": "* Lors du transport",
-      "histoire": "Résistant et directeur de la Banque de France à Arcachon, Léon Cigarroa est arrêté le 5 juillet 1944 puis incarcéré au Fort du Hâ. Il meurt pendant le transport, près de Remoulins, en août 1944.",
+      "histoire": "Résistant et directeur de la Banque de France à Arcachon, Léon Cigarroa est arrêté le 5 juillet 1944 puis incarcéré au Fort du Hâ. Il meurt pendant le transport, près de Remoulins, en août 1944. L’Amicale publie son portrait (« Léon Cigarroa 1894-1944 ») dans la page consacrée à l’arrêt du train à Remoulins ; une plaque lui rend hommage à Arcachon.",
       "sources": [
         {
           "label": "AFMD du Gard · notice biographique",
@@ -22869,11 +22900,25 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CIGARROA%20L%C3%A9on"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Remoulins : portrait de Léon Cigarroa",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_remoulins.htm"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Arcachon : plaque commémorative",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_arcachon.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/remoulins/leon-cigarroa.jpg",
+      "photo_alt": "Portrait de Léon Cigarroa",
+      "photo_source": {
+        "label": "Amicale des déportés du Train fantôme — photographie publiée sur la page « ville_remoulins.htm »",
+        "url": "https://www.lesdeportesdutrainfantome.org/ville_remoulins.htm"
       }
     },
     {
@@ -22909,7 +22954,7 @@
       "date_sortie": "02/01/1945",
       "lieu_sortie": "Melk",
       "observations": "—",
-      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à La Rochelle, mort le 02/01/1945 à Melk.",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à La Rochelle, mort le 02/01/1945 à Melk. L’Amicale publie son portrait, la plaque qui lui rend hommage et un article de Sud-Ouest du 12 juillet 1945 le concernant.",
       "sources": [
         {
           "label": "Mémorial de Mauthausen — Salle des noms",
@@ -22918,12 +22963,26 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=COHADES%20Yves"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux : portrait et plaque d’Yves Cohades",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Annexes : article de Sud-Ouest, 12 juillet 1945",
+          "url": "https://www.lesdeportesdutrainfantome.org/annexes.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/bordeaux2/yves-cohades.jpg",
+      "photo_alt": "Portrait d’Yves Cohades",
+      "photo_source": {
+        "label": "Amicale des déportés du Train fantôme — photographie publiée sur la page « ville_bordeaux2.htm »",
+        "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
       }
     },
     {
@@ -27993,11 +28052,15 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LEVY%20Claude"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Pierrelatte : photographie de Claude Lévy",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_pierrelatte.htm"
         }
       ],
       "reseau_affiche": "35e brigade FTP-MOI, Toulouse",
       "pseudonyme_resistance": "Paul Cabanel (fausse identité lors de l’arrestation)",
-      "histoire": "Claude Lévy rejoint la 35e brigade FTP-MOI à Toulouse et rencontre Jacob Insel en 1943. Arrêté sous l’identité Paul Cabanel, incarcéré à Saint-Michel, il s’évade avec Raymond et sept autres détenus le 25 août 1944, près de Lecourt. Il devient ensuite médecin biologiste.",
+      "histoire": "Claude Lévy rejoint la 35e brigade FTP-MOI à Toulouse et rencontre Jacob Insel en 1943. Arrêté sous l’identité Paul Cabanel, incarcéré à Saint-Michel, il s’évade avec Raymond et sept autres détenus le 25 août 1944, près de Lecourt. Il devient ensuite médecin biologiste. L’Amicale publie sa photographie (portrait de face et de profil) dans la page consacrée à Pierrelatte.",
       "recherche_mise_a_jour": "2026-11-15",
       "relations_documentees": [
         {
@@ -28020,6 +28083,12 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/pierrelatte/claude-levy.jpg",
+      "photo_alt": "Photographie de Claude Lévy, de face et de profil",
+      "photo_source": {
+        "label": "Amicale des déportés du Train fantôme — photographie publiée sur la page « ville_pierrelatte.htm »",
+        "url": "https://www.lesdeportesdutrainfantome.org/ville_pierrelatte.htm"
       }
     },
     {
@@ -30491,12 +30560,28 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=NODON%20%2A%20Jean"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Valence : photographie de Jean Nodon",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_valence.htm"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Sorgues : Jean Nodon avec Marcel Vézolles",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_sorgues.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "L’Amicale publie plusieurs photographies de Jean Nodon prises après la guerre, notamment à Sorgues où il explique aux visiteurs le ravitaillement en eau de la locomotive.",
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/valence/jean-Nodon.jpg",
+      "photo_alt": "Jean Nodon, photographie d’après-guerre",
+      "photo_source": {
+        "label": "Amicale des déportés du Train fantôme — photographie publiée sur la page « ville_valence.htm »",
+        "url": "https://www.lesdeportesdutrainfantome.org/ville_valence.htm"
+      },
+      "photo_identification": "attribution_a_confirmer"
     },
     {
       "nom": "NOURICKI",
@@ -31509,7 +31594,7 @@
       "date_sortie": "01/08/1944",
       "lieu_sortie": "Souge (33)",
       "observations": "* Fusillé",
-      "histoire": "Responsable de la Résistance en Ariège, Noël Peyre-Vidal prend part à une cérémonie patriotique organisée le 14 juillet 1944 par les prisonniers retenus dans la synagogue de Bordeaux. Il est ensuite choisi parmi des otages et fusillé à Souge. Les archives du film publient une photographie de groupe explicitement légendée « Noël Peyre-Vidal (au centre) ».",
+      "histoire": "Responsable de la Résistance en Ariège, Noël Peyre-Vidal prend part à une cérémonie patriotique organisée le 14 juillet 1944 par les prisonniers retenus dans la synagogue de Bordeaux. Il est ensuite choisi parmi des otages et fusillé à Souge. Les archives du film publient une photographie de groupe explicitement légendée « Noël Peyre-Vidal (au centre) ». À la synagogue de Bordeaux, il prend la parole devant ses camarades pour affirmer sa foi dans la victoire. Le 31 juillet 1944, il fait partie des dix détenus emmenés hors de la synagogue pour être exécutés, avec notamment Robert Borios, José Figueras, Pierre Fournera, Albert Lautman, David Litman-Nadler et Meyer Rosner (récit de Francesco F. Nitti). Le monument aux morts de Foix porte son nom.",
       "sources": [
         {
           "label": "Archives du film — photographie de Noël Peyre-Vidal et récit du 14 juillet 1944",
@@ -31518,6 +31603,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=PEYREVIDAL%20No%C3%ABl"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux, la synagogue : récit, portrait de Noël Peyrevidal et monument de Foix",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
         }
       ],
       "photo_archive": {
@@ -31529,6 +31618,12 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/bordeaux2/Peyre-Vidal.jpg",
+      "photo_alt": "Portrait de Noël Peyrevidal",
+      "photo_source": {
+        "label": "Amicale des déportés du Train fantôme — photographie publiée sur la page « ville_bordeaux2.htm »",
+        "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
       }
     },
     {
@@ -32533,12 +32628,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=RENAUD%20Gilbert"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Figeac : témoignage de Robert Robinet (1990)",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Selon le témoignage de Robert Robinet (1990), il est arrêté avec lui dans la nuit du 22 mai 1944 près de Decazeville, lors d’une embuscade, alors qu’ils se rendaient à une réception de parachutage vers Fumel."
     },
     {
       "nom": "RETES DE LLANTONC RESPALDIZA",
@@ -32689,12 +32789,24 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ROBINET%20Robert"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Figeac : témoignage de Robert Robinet (1990) et photographie devant le mémorial",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Témoignage de 1990 publié par l’Amicale : surnommé « Dudule », il est arrêté dans la nuit du 22 mai 1944 près de Decazeville avec cinq camarades, dont Henri Vayssettes, chef départemental des MUR, le capitaine Renaud, chef des maquis MUR, et Isidore Zavan, alors qu’ils se rendaient à une réception de parachutage vers Fumel ; ils tombent dans une embuscade. De Dachau (matricule 94369), il est envoyé à Mauthausen (matricule 99001) et arrive au kommando d’Ebensee le 19 septembre 1944, le jour de ses vingt ans.",
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/figeac/robert-robinet.jpg",
+      "photo_alt": "Robert Robinet devant le mémorial de Figeac, après la guerre",
+      "photo_source": {
+        "label": "Amicale des déportés du Train fantôme — photographie publiée sur la page « ville_figeac.htm »",
+        "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
+      },
+      "reseau_affiche": "MUR (Mouvements unis de la Résistance)"
     },
     {
       "nom": "ROBLES AGEN",
@@ -35112,12 +35224,28 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=VAJDA%20Emile"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Valence : témoignage d’Émile Vajda (« Wajda »)",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_valence.htm"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Historique : photographie d’Émile Vajda",
+          "url": "https://www.lesdeportesdutrainfantome.org/historique.htm"
         }
       ],
       "pays_naissance": {
         "code": "ro",
         "nom": "Roumanie"
-      }
+      },
+      "histoire": "Témoignage enregistré, publié par l’Amicale : le 20 août 1944, le train s’arrête avant Valence devant une ferme ; une femme passe la palissade pour lui tendre un panier de fruits et de vivres, qu’il partage avec ses camarades et le gendarme allemand. Le train repart avant qu’il ait pu rendre le panier ; il pense alors avoir manqué une occasion de s’évader.",
+      "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/chalon/emile-vajda.jpg",
+      "photo_alt": "Émile Vajda, photographie d’après-guerre",
+      "photo_source": {
+        "label": "Amicale des déportés du Train fantôme — photographie publiée sur la page « historique.htm »",
+        "url": "https://www.lesdeportesdutrainfantome.org/historique.htm"
+      },
+      "photo_identification": "attribution_a_confirmer"
     },
     {
       "nom": "VALADE",
@@ -35451,12 +35579,18 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=VAYSSETTES%20Henri"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Figeac : témoignage de Robert Robinet (1990)",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Selon le témoignage de Robert Robinet (1990), il est arrêté avec lui dans la nuit du 22 mai 1944 près de Decazeville, lors d’une embuscade, alors qu’ils se rendaient à une réception de parachutage vers Fumel.",
+      "reseau_affiche": "MUR — chef départemental (selon R. Robinet)"
     },
     {
       "nom": "VEDOVATI",
@@ -36246,7 +36380,7 @@
       "date_sortie": "19/02/1945",
       "lieu_sortie": "Ebensee",
       "observations": "—",
-      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Udine, mort le 19/02/1945 à Ebensee.",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Udine, mort le 19/02/1945 à Ebensee. Selon le témoignage de Robert Robinet (1990), il est arrêté avec lui dans la nuit du 22 mai 1944 près de Decazeville, lors d’une embuscade, alors qu’ils se rendaient à une réception de parachutage vers Fumel.",
       "sources": [
         {
           "label": "Mémorial de Mauthausen — Salle des noms",
@@ -36255,6 +36389,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ZAVAN%20Isidore"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Figeac : témoignage de Robert Robinet (1990)",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
