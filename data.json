@@ -613,7 +613,7 @@
       "parcours": "Da,Ra",
       "situation": "R *",
       "nom_affiche": "Renée BISSERIER",
-      "complement_historique": "Rentrée de déportation. Date indiquée : 23/04/1945. Lieu indiqué : Ravensbrück. Libérée par la Croix-Rouge.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 23/04/1945. Lieu indiqué : Ravensbrück. Libérée par la Croix-Rouge. Renée Lacoude reçoit le matricule 62440 à Ravensbrück, où elle arrive le 1er septembre 1944 ; elle y travaille au camp puis dans une usine Siemens. Arrêtée le 14/06/1944 (réseau Andalousie, FFI), elle est présidente d'honneur de l'Amicale des déportés du train fantôme.",
       "reference_archives": "AC 21 P 710189 — BISSERIER, Renée / DUFAU (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.\nFonds Teissier, 228 J : dossier signalé au carton 6 par l’inventaire provisoire. Contenu du dossier non consulté. Une photographie est expressément mentionnée ; le cliché n’est pas reproduit dans cet inventaire.",
       "sources_complementaires": [
         {
@@ -631,6 +631,14 @@
         {
           "label": "AD84 · 11 AV 10 et 28–29 — entretien recensé (enregistrement non consulté)",
           "url": "https://memento.vaucluse.fr/assets/n/02591e60/art_mem_marche_trainfantome_11av.docx"
+        },
+        {
+          "label": "Porte du Médoc — témoignage de Renée Lacoude",
+          "url": "https://portedumedoc.com/index.php/fr/les-communes/saint-medard-en-jalles/histoire/histoire-contemporaine/1207-gare-saint-jean-l-histoire-du-train-fantome"
+        },
+        {
+          "label": "Amicale des déportés du train fantôme — étape de Bordeaux",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
         }
       ],
       "biographie": {
@@ -683,7 +691,8 @@
             "url": "https://memento.vaucluse.fr/assets/n/02591e60/art_mem_marche_trainfantome_11av.docx"
           }
         ]
-      }
+      },
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "JEANINE LEJEARD Déportée du TF n° 93849",
@@ -715,11 +724,19 @@
       "parcours": "Da,Ra",
       "situation": "DCD",
       "nom_affiche": "Jeannine LEJARD",
-      "complement_historique": "Décédée en déportation. Date indiquée : 15/04/1945. Lieu indiqué : Ravensbrück.",
+      "complement_historique": "Décédée en déportation. Date indiquée : 15/04/1945. Lieu indiqué : Ravensbrück. « Jacqueline » dans la Résistance, agente de liaison interrégionale des FTPF. Arrêtée à Paris le 18/06/1944, torturée au fort du Hâ. Matricule 62442 à Ravensbrück, où elle est la plus jeune déportée, au block 11. Un portrait mortuaire au crayon, dessiné par Aat Breur le jour de sa mort, est conservé avec son ourson en laine au Musée de la Résistance et de la Déportation de Besançon. Une plaque lui rend hommage à Dijon.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "Le Maitron — notice LEJARD Jeannine, Marie",
+          "url": "https://maitron.fr/spip.php?article229997"
+        },
+        {
+          "label": "CHRD Lyon — portrait mortuaire et ourson en laine de Jeannine Lejard",
+          "url": "https://www.chrd.lyon.fr/chrd/objet-phare-musee/portrait-mortuaire-et-ourson-en-laine-de-jeannine-lejard"
         }
       ],
       "nom_tri": "Lejard",
@@ -738,7 +755,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.261."
           }
         ]
-      }
+      },
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "MARIE LOUISE DAVANCENS LASSERRE déportée du TF n°93873",
@@ -775,11 +793,19 @@
       "parcours": "Da,Ra, Pertrix,Sa",
       "situation": "R",
       "nom_affiche": "Marie-Louise LASSERRE ",
-      "complement_historique": "Rentrée de déportation. Date indiquée : 03/05/1945.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 03/05/1945. Fille de Marie Lasserre (née Candau), arrêtée avec elle le 27/06/1944 à L'Hôpital-Saint-Blaise lors de l'opération contre le maquis du corps franc Pommiès. Son témoignage est repris dans un travail CNRD du lycée du Pays de Soule.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "Corps franc Pommiès (BPSGM) — L'Hôpital-Saint-Blaise, 27 juin 1944",
+          "url": "https://www.bpsgm.fr/combats-de-lete-1944-lhopital-saint-blaise-27-juin-1944/"
+        },
+        {
+          "label": "Lycée du Pays de Soule — travail CNRD sur les femmes du train fantôme",
+          "url": "https://www.dropbox.com/scl/fi/3q1dutoy8hhpauuxh4l1u/t-l-charger-le-travail-collectif-du-lyc-e-du-pays-de-soule-cnrd-39815-1.pdf?rlkey=fd9zsql57ooyrrotf2xcj3ku9&dl=0"
         }
       ],
       "nom_tri": "Lasserre",
@@ -798,7 +824,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.261."
           }
         ]
-      }
+      },
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "ALICE BESSOU KOKINE Déportée du train fantôme n°93881 nom besson",
@@ -917,7 +944,7 @@
       "parcours": "Da,Ra(Sim),Ra",
       "situation": "R *",
       "nom_affiche": "Ginette BAUDY / VINCENT",
-      "complement_historique": "Rentrée de déportation. Date indiquée : 23/04/1945. Lieu indiqué : Ravensbrück. Libérée par la Croix-Rouge.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 23/04/1945. Lieu indiqué : Ravensbrück. Libérée par la Croix-Rouge. Ginette Vincent est vice-présidente de l'Amicale des déportés du train fantôme. Son témoignage décrit le départ du fort du Hâ, le wagon des femmes de Bordeaux, le mitraillage de Pierrelatte le 19/08/1944 et l'arrivée de nuit à Ravensbrück.",
       "reference_archives": "AC 21 P 659565 — VINCENT, Ginette / BAUDY (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
         {
@@ -927,6 +954,14 @@
         {
           "label": "Inventaire SHD — dossiers de déportés et internés résistants",
           "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+        },
+        {
+          "label": "Amicale des déportés du train fantôme — étape de Bordeaux",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
+        },
+        {
+          "label": "Amicale des déportés du train fantôme — étape de Dachau",
+          "url": "https://lesdeportesdutrainfantome.org/ville_dachau.htm"
         }
       ],
       "biographie": {
@@ -978,7 +1013,8 @@
             "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
           }
         ]
-      }
+      },
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "CONCHITA GRANGÉ Déportée du train fantôme n°93887 nom ramos",
@@ -1015,7 +1051,7 @@
       "parcours": "Da,Ra,Or,Sa",
       "situation": "R",
       "nom_affiche": "Conchita GRANGE / RAMOS",
-      "complement_historique": "Rentrée de déportation. Date indiquée : 03/05/1945.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 03/05/1945. Matricule 62480 à Ravensbrück. Arrêtée le 24/05/1944 avec Elvira Ibarz et María Castelló, elle est détenue à Foix, à la caserne Caffarelli puis à la prison Saint-Michel de Toulouse. Après un kommando à Berlin et une marche de la mort, elle est libérée le 3 mai 1945. Décédée à Toulouse le 27/08/2019.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -1024,6 +1060,14 @@
         {
           "label": "AD84 · 11 AV 23 — entretien recensé (enregistrement non consulté)",
           "url": "https://memento.vaucluse.fr/assets/n/02591e60/art_mem_marche_trainfantome_11av.docx"
+        },
+        {
+          "label": "Universitat Autònoma de Barcelona — Conxita Grangé Beleta",
+          "url": "https://ddd.uab.cat/pub/pagweb/dones-ravensbruck/conxita-grange-beleta"
+        },
+        {
+          "label": "Míriam Roma — « Les oblidades : lleidatanes als camps de concentració nazis »",
+          "url": "https://bd.alpicat.cat/continguts/asset/44d099c0-cda7-4549-96cc-59882b63b9ef/Les+oblidades%2C+lleidatanes+als+camps+de+concentracio+nazi_818.pdf"
         }
       ],
       "biographie": {
@@ -1153,7 +1197,7 @@
       "parcours": "Da,Ra",
       "situation": "R",
       "nom_affiche": "Elvira Ibarz Ibarz, dite Beleta",
-      "complement_historique": "Rentrée de déportation. L’étude espagnole de 2025 identifie Elvira Ibarz sous le nom de déportation Elvira Beleta : matricule 62478 à Ravensbrück (p. 321).",
+      "complement_historique": "Rentrée de déportation. L’étude espagnole de 2025 identifie Elvira Ibarz sous le nom de déportation Elvira Beleta : matricule 62478 à Ravensbrück (p. 321). D'après l'Université autonome de Barcelone : née en 1891 dans la province de Saragosse, morte à Toulouse en 1953. Veuve de Josep Castelló, compagne de Jaume Beleta. Après Ravensbrück, elle est envoyée en kommando avec Conxita Grangé et participe à des actes de sabotage ; elle rentre à Toulouse en mai 1945, après un passage par l'hôtel Lutetia.",
       "reference_archives": "AC 21 P 705716 — BELETA, Elvire / IBARS (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
         {
@@ -1167,6 +1211,14 @@
         {
           "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
           "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+        },
+        {
+          "label": "Universitat Autònoma de Barcelona — Femmes à Ravensbrück : Elvira Ibarz et Maria Castelló",
+          "url": "https://mirades.uab.cat/sites/s/dones-ravensbruck/page/elvira-ibarz-i-maria-castello"
+        },
+        {
+          "label": "Míriam Roma — « Les oblidades : lleidatanes als camps de concentració nazis »",
+          "url": "https://bd.alpicat.cat/continguts/asset/44d099c0-cda7-4549-96cc-59882b63b9ef/Les+oblidades%2C+lleidatanes+als+camps+de+concentracio+nazi_818.pdf"
         }
       ],
       "nom_tri": "Beleta",
@@ -1257,7 +1309,7 @@
       "parcours": "Da,Ra,BB,Ra, Kdo Ng",
       "situation": "R *",
       "nom_affiche": "María Castelló Ibarz, épouse Ferrer",
-      "complement_historique": "Rentrée de déportation. DCD peu après le retour. L’étude espagnole de 2025 rapproche María Ferrer Ibarz de Marie Castelló : matricule 62479 à Ravensbrück (p. 321).",
+      "complement_historique": "Rentrée de déportation. DCD peu après le retour. L’étude espagnole de 2025 rapproche María Ferrer Ibarz de Marie Castelló : matricule 62479 à Ravensbrück (p. 321). D'après l'Université autonome de Barcelone : épouse de Joseph Ferrer, lui-même déporté à Mauthausen et rescapé. Tombée malade, elle est transférée à Bergen-Belsen ; rapatriée, elle meurt du typhus à l'hôpital de la Pitié-Salpêtrière à Paris en 1945, à 31 ans, laissant trois enfants.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -1266,6 +1318,14 @@
         {
           "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
           "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+        },
+        {
+          "label": "Universitat Autònoma de Barcelona — Femmes à Ravensbrück : Elvira Ibarz et Maria Castelló",
+          "url": "https://mirades.uab.cat/sites/s/dones-ravensbruck/page/elvira-ibarz-i-maria-castello"
+        },
+        {
+          "label": "Míriam Roma — « Les oblidades : lleidatanes als camps de concentració nazis »",
+          "url": "https://bd.alpicat.cat/continguts/asset/44d099c0-cda7-4549-96cc-59882b63b9ef/Les+oblidades%2C+lleidatanes+als+camps+de+concentracio+nazi_818.pdf"
         }
       ],
       "nom_tri": "Ferrer",
@@ -1328,6 +1388,9 @@
           "precision": "Lien familial et arrestation commune attestés.",
           "source": "https://memoria.gencat.cat/.content/00_agenda/MD/2019/img/20190726_Homenatge_Conxita_Grange_v7_FR_baixa.pdf"
         }
+      ],
+      "points_a_verifier": [
+        "Lieu du décès : à l'hôpital de la Pitié-Salpêtrière (Paris) selon l'UAB ; « sur le chemin du retour » selon l'étude « Les oblidades »."
       ]
     },
     {
@@ -1476,7 +1539,7 @@
       "parcours": "Da,Ra, Kdo Ng,Mün",
       "situation": "R",
       "nom_affiche": "Marie BARTETTE",
-      "complement_historique": "Rentrée de déportation. Date indiquée : 27/04/1945. Lieu indiqué : München.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 27/04/1945. Lieu indiqué : München. Selon la SHAAPB : Marie Jeanne Claire Bartette, arrêtée par la Gestapo le 30/06/1944, détenue au fort du Hâ puis au Bouscat, libérée le 1er mai 1945. Chevalier de la Légion d'honneur (1955), Croix de guerre avec palme ; décédée le 27/11/1961 à Saint-Séverin (Charente). Un collège d'Arcachon porte son nom.",
       "reference_archives": "AC 21 P 703193 — BARTETTE, Marie (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.\nFonds Teissier, 228 J : dossier signalé au carton 3 par l’inventaire provisoire. Contenu du dossier non consulté.",
       "sources_complementaires": [
         {
@@ -1494,6 +1557,10 @@
         {
           "label": "AD84 · fonds Teissier 228 J — carton 3 (inventaire provisoire)",
           "url": "https://earchives.vaucluse.fr/file/misc/00_Repnum_228J_ocr.pdf"
+        },
+        {
+          "label": "Société historique et archéologique d'Arcachon et du Pays de Buch — fiche Marie Bartette",
+          "url": "https://www.shaapb.fr/wp-content/uploads/2025/02/Bartette-Marie-relu-D-pour-arbre-3.pdf"
         }
       ],
       "biographie": {
@@ -1540,7 +1607,11 @@
             "url": "https://earchives.vaucluse.fr/file/misc/00_Repnum_228J_ocr.pdf"
           }
         ]
-      }
+      },
+      "points_a_verifier": [
+        "Date de libération : 27/04/1945 à München selon le Livre-Mémorial, 1er mai 1945 selon la SHAAPB."
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BAUDON Yvonne Déportée du TF n°93846",
@@ -1567,11 +1638,15 @@
       "parcours": "Da,Ra,Kpn",
       "situation": "DCD",
       "nom_affiche": "Yvonne BAUDON",
-      "complement_historique": "Décédée en déportation. Date indiquée : 26/09/1944. Lieu indiqué : Köpenick.",
+      "complement_historique": "Décédée en déportation. Date indiquée : 26/09/1944. Lieu indiqué : Köpenick. Épouse d'André Baudon ; tous deux sont emprisonnés au fort du Hâ. Une place André et Yvonne Baudon porte leur nom à Eysines (Gironde).",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "Ville d'Eysines — histoire des rues (place André et Yvonne Baudon)",
+          "url": "https://www.eysines.fr/ma-mairie/decouvrir-eysines/patrimoine-et-histoire/lhistoire-des-rues-deysines/"
         }
       ],
       "nom_tri": "Baudon",
@@ -1590,7 +1665,11 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.261."
           }
         ]
-      }
+      },
+      "points_a_verifier": [
+        "Décès : 26/09/1944 à Köpenick selon le Livre-Mémorial ; 25/09/1944 à Ravensbrück, de maladie, à 45 ans, selon la ville d'Eysines."
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BARSAC IRENE Déportée du Train Fantôme n°93850",
@@ -2042,11 +2121,19 @@
       "parcours": "Da,Ra,Ham",
       "situation": "R",
       "nom_affiche": "Jesusa LESBURGERES",
-      "complement_historique": "Rentrée de déportation. Lieu indiqué : Hamburg.",
+      "complement_historique": "Rentrée de déportation. Lieu indiqué : Hamburg. Micaela Jesusa del Campo Goñi, née à Eugi (vallée d'Esteribar, Navarre). Détenue à la prison de Biarritz (25/05–10/06/1944) puis au fort du Hâ (13/06–09/08/1944). Ravensbrück du 02/09/1944 au 31/01/1945, puis Neuengamme, où elle est libérée.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "Fonds documentaire de la mémoire historique en Navarre (UPNA) — fiche 2247",
+          "url": "https://memoria-oroimena.unavarra.es/pdf-ficha/2247"
+        },
+        {
+          "label": "Amical de Neuengamme — Jesusa Micaela del Campo Goñi",
+          "url": "https://amicaldeneuengammesp.org/jesusa-micaela-del-campo-goni-gracieuse-jesusa-lesburgueres/"
         }
       ],
       "nom_tri": "Lesburgeres",
@@ -2065,7 +2152,11 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.261."
           }
         ]
-      }
+      },
+      "points_a_verifier": [
+        "Lieu de naissance : « Egui-Navarre » dans le Livre-Mémorial, Eugi (Esteribar) selon le fonds de l'UPNA."
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BOYESEN EUGÉNIE Déportée du train fantôme n°93837",
@@ -2373,7 +2464,7 @@
       "parcours": "Da,Ra",
       "situation": "R",
       "nom_affiche": "Germaine SOLDEVILA",
-      "complement_historique": "Rentrée de déportation. Date indiquée : 30/04/1945. Lieu indiqué : Ravensbrück.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 30/04/1945. Lieu indiqué : Ravensbrück. Germaine Soldevila est Generosa Cortina Roig, née à Son (Alt Àneu, province de Lérida), épouse de Jaume Soldevila Pich. Avec lui, elle participe au réseau d'évasion Françoise, au réseau belge Jean et à la ligne SOL entre Toulouse et Barcelone. Matricule 62475 à Ravensbrück, puis kommando dépendant de Sachsenhausen. Medal of Freedom (1947), Légion d'honneur (1962) ; décédée à Toulouse le 30/12/1987.",
       "reference_archives": "AC 21 P 676413 — SOLDEVILA, Germaine (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
         {
@@ -2383,6 +2474,14 @@
         {
           "label": "Inventaire SHD — dossiers de déportés et internés résistants",
           "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+        },
+        {
+          "label": "Míriam Roma — « Les oblidades : lleidatanes als camps de concentració nazis »",
+          "url": "https://bd.alpicat.cat/continguts/asset/44d099c0-cda7-4549-96cc-59882b63b9ef/Les+oblidades%2C+lleidatanes+als+camps+de+concentracio+nazi_818.pdf"
+        },
+        {
+          "label": "Wikipédia (en) — Generosa Cortina Roig",
+          "url": "https://en.wikipedia.org/wiki/Generosa_Cortina_Roig"
         }
       ],
       "nom_tri": "Soldevila",
@@ -2405,7 +2504,12 @@
             "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
           }
         ]
-      }
+      },
+      "points_a_verifier": [
+        "Fin de détention : 30/04/1945 à Ravensbrück selon le Livre-Mémorial ; les sources catalanes la placent alors dans un kommando de Sachsenhausen.",
+        "Matricule de Ravensbrück : 62475 (« Les oblidades ») ; une autre source donne 65475."
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DESME Odette deportée du train fantome n°93874",
@@ -3162,6 +3266,10 @@
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "Musée de la Résistance en ligne — fiche Fernande Deville",
+          "url": "https://www.museedelaresistanceenligne.org/personnedetail_pdf.php?id=8199"
         }
       ],
       "nom_tri": "Herbert",
@@ -3180,7 +3288,11 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.261."
           }
         ]
-      }
+      },
+      "points_a_verifier": [
+        "Une fiche « Fernande Deville » du Musée de la Résistance en ligne (CD-ROM La Résistance en Charente) la dit née Herbert en Vendée en 1899 (1905 dans le Livre-Mémorial), arrêtée le 26/07/1944, détenue au fort du Hâ et libérée le 08/05/1945 : identification à confirmer."
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "Labarthe Jeanne deportée du train fantome n°93843\n",
@@ -5445,7 +5557,11 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.261."
           }
         ]
-      }
+      },
+      "points_a_verifier": [
+        "Une ancienne version du classeur indiquait une mort le 06/08/1944 : c'est impossible, puisqu'elle reçoit le matricule 93896 à Dachau le 28/08/1944."
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DUBREUIL",
@@ -5636,7 +5752,7 @@
       "nom_affiche": "Marie LASSERRE",
       "photo": null,
       "documents": [],
-      "complement_historique": "Rentrée de déportation. Date indiquée : 03/05/1945.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 03/05/1945. Née Candau. Arrêtée le 27/06/1944 à L'Hôpital-Saint-Blaise lors de l'opération allemande contre le maquis du corps franc Pommiès, elle est déportée avec sa fille Marie-Louise ; toutes deux reviennent.",
       "reference_archives": "AC 21 P 586713 — LASSERRE, Marie / CANDAU (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
         {
@@ -5646,6 +5762,10 @@
         {
           "label": "Inventaire SHD — dossiers de déportés et internés résistants",
           "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+        },
+        {
+          "label": "Corps franc Pommiès (BPSGM) — L'Hôpital-Saint-Blaise, 27 juin 1944",
+          "url": "https://www.bpsgm.fr/combats-de-lete-1944-lhopital-saint-blaise-27-juin-1944/"
         }
       ],
       "nom_tri": "Lasserre",
@@ -5668,7 +5788,8 @@
             "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
           }
         ]
-      }
+      },
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "LEZIAN / DANTHEZ",
@@ -6062,11 +6183,15 @@
       "nom_affiche": "Aimée SAHOURET",
       "photo": null,
       "documents": [],
-      "complement_historique": "Décédée en déportation. Date indiquée : ??/02/1945. Lieu indiqué : Ravensbrück. Gazée.",
+      "complement_historique": "Décédée en déportation. Date indiquée : ??/02/1945. Lieu indiqué : Ravensbrück. Gazée. Née Larlus. Arrêtée le 27/06/1944 à L'Hôpital-Saint-Blaise lors de l'opération contre le maquis du corps franc Pommiès. Reconnue « Mort pour la France », son nom figure sur la plaque de l'église de L'Hôpital-Saint-Blaise et au mémorial de Castelnau-Magnoac.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "Corps franc Pommiès (BPSGM) — L'Hôpital-Saint-Blaise, 27 juin 1944",
+          "url": "https://www.bpsgm.fr/combats-de-lete-1944-lhopital-saint-blaise-27-juin-1944/"
         }
       ],
       "nom_tri": "Sahouret",
@@ -6085,7 +6210,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.261."
           }
         ]
-      }
+      },
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "SAHUQUÉ",
