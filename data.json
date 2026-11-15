@@ -29005,12 +29005,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BAPTISTE%20Joseph"
+        },
+        {
+          "label": "Le Maitron — notice « BAPTISTE Joseph »",
+          "url": "https://maitron.fr/baptiste-joseph/"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Né à Niort en 1914, manœuvre domicilié à Bordeaux, résistant. Il s’évade du Train fantôme en Haute-Marne le soir du 25 août 1944 ; avec quelques camarades, il se présente le lendemain à Provenchères-sur-Meuse, puis il est exécuté le 2 septembre 1944 à Lavilleneuve (Haute-Marne) (notice du Maitron, d’après le témoignage de l’abbé René Viry)."
     },
     {
       "nom": "BARBE",
@@ -29793,7 +29798,7 @@
       "date_sortie": "29/11/1944",
       "lieu_sortie": "Melk",
       "observations": "—",
-      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Cinq-Mars-la-Pile, mort le 29/11/1944 à Melk.",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Cinq-Mars-la-Pile, mort le 29/11/1944 à Melk. Né en 1885 à Cinq-Mars-la-Pile, comptable puis entrepreneur au Bouscat, président de l’Union mutualiste de la Gironde et fondateur de l’Amicale tourangelle de Bordeaux. Mort déporté à Mauthausen le 29 novembre 1944 (notice du Maitron).",
       "sources": [
         {
           "label": "Mémorial de Mauthausen — Salle des noms",
@@ -29802,6 +29807,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BILLON%20Victor"
+        },
+        {
+          "label": "Le Maitron — notice « BILLON Victor Pierre »",
+          "url": "https://maitron.fr/billon-victor-pierre/"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -30126,6 +30135,10 @@
         {
           "label": "Amicale des déportés du Train fantôme — Bordeaux, la synagogue : récit de Francesco F. Nitti",
           "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
+        },
+        {
+          "label": "Le Maitron — notice « BORIOS Robert, pseudonyme Blanchard »",
+          "url": "https://maitron.fr/borios-robert-pierre-leon-pseudonyme-blanchard/"
         }
       ],
       "pays_naissance": {
@@ -35887,6 +35900,10 @@
         {
           "label": "Amicale des déportés du Train fantôme — Bordeaux, la synagogue : récit de Francesco F. Nitti",
           "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
+        },
+        {
+          "label": "Le Maitron — notice « JEAN-LOUIS Marcel Jean »",
+          "url": "https://maitron.fr/jean-louis-marcel-jean/"
         }
       ],
       "pays_naissance": {
@@ -42133,6 +42150,10 @@
         {
           "label": "Amicale des déportés du Train fantôme — Bordeaux, la synagogue : récit de Francesco F. Nitti",
           "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
+        },
+        {
+          "label": "Le Maitron — notice « ROSNER Meyer, pseudonyme Pierre Emily »",
+          "url": "https://maitron.fr/rosner-meyer-pseudonyme-dans-la-resistance-pierre-emily/"
         }
       ],
       "pays_naissance": {

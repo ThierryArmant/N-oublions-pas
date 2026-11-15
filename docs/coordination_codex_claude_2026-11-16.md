@@ -1,0 +1,11 @@
+# Claude — reprise du 16/11 (à poursuivre)
+- Fait : notices Maitron reliées (Baptiste, Billon, Borios, Jean-Louis, Rosner).
+- Pistes repérées, non encore traitées (recherche par nom des ~250 hommes sans photo) :
+  - museelorris.fr/resistants : Pierre Arnaud, Henri Aupert, Henri Marteau (fiches, photos probables) ;
+  - lauragais-patrimoine.fr : Henri Laurent, Roger Reynis (témoignage) ;
+  - police-actionsolidaire.fr/memorial : Robert Borios, Guy Fauvel (policiers, photos probables) ;
+  - La Dépêche : Fernand Labarthe (Barcelonne-du-Gers), Louis Mauroux, Henri Vayssettes, Louis Bouisset ;
+  - La Voix du Nord : Lucien Grosperrin ; Ouest-France : Marcel Levasseur, Victor Billon ;
+  - Midi Libre : Damien Macone (hommage de Sète) ; Sud Ouest : plaque de Pierre Lavigne ;
+  - homonymes à écarter : Pierre Bordas (éditeur), Antoine Pons (footballeur), Jacques Delannoy (footballeur), notices « déportés politiques Auschwitz » (Lavigne, Pelletier).
+- Casellario Politico Centrale (Italiens) inaccessible le 16/11 vers 0 h 30.
