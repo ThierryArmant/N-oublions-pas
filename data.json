@@ -21635,11 +21635,22 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BORRANI%20Charles"
+        },
+        {
+          "label": "QuiAntella — « La celebrazione della Liberazione di Bagno a Ripoli nel ricordo del martire Carlo Borrani » (2018)",
+          "url": "https://www.quiantella.it/la-celebrazione-della-liberazione-di-bagno-a-ripoli-nel-ricordo-del-martire-carlo-borrani"
         }
       ],
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
+      },
+      "histoire": "Né en 1899 à Grassina (Bagno a Ripoli, près de Florence), socialiste puis communiste à partir de 1921, exilé à Cannes pour fuir les persécutions fascistes. Arrêté par la police française le 10 décembre 1941 comme « suspect », détenu à la caserne Gazan d’Antibes, il est interné au camp du Vernet le 18 janvier 1942. Déporté par le Train fantôme (Dachau 94370), il serait mort vers le 30 juillet 1944, mais un jugement a fixé son décès au 12 février 1945. En 1949, il est homologué sergent des Forces françaises de l’intérieur ; « mort pour la France » en 1951. Bagno a Ripoli honore sa mémoire.",
+      "photo_url": "https://www.quiantella.it/wp-content/uploads/2018/07/Carlo_Borrani-225x300.jpg",
+      "photo_alt": "Portrait de Carlo Borrani",
+      "photo_source": {
+        "label": "QuiAntella (Bagno a Ripoli) — portrait publié dans l’article de 2018",
+        "url": "https://www.quiantella.it/la-celebrazione-della-liberazione-di-bagno-a-ripoli-nel-ricordo-del-martire-carlo-borrani"
       }
     },
     {
@@ -25948,12 +25959,22 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Gessi"
+        },
+        {
+          "label": "Alfonsine mon amour — « Giacomo “Mino” Gessi, un uomo di carattere » (L. Lucci, d’après E. Strada, Mino Gessi : l’idea e la forza, 2000)",
+          "url": "https://www.alfonsinemonamour.it/alfonsine/Alfonsine/mon-amour1_gessi.htm"
         }
       ],
-      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Giacomo Gessi » : mort à Dachau le 06/02/1945 (né à Alfonsine, domicilié à Cagnes-sur-Mer (Alpes-Maritimes), profession : ouvrier agricole). Nos fiches indiquaient le 07/02/1945 : écart à vérifier.",
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Giacomo Gessi » : mort à Dachau le 06/02/1945 (né à Alfonsine, domicilié à Cagnes-sur-Mer (Alpes-Maritimes), profession : ouvrier agricole). Nos fiches indiquaient le 07/02/1945 : écart à vérifier. Dit « Mino ». Issu d’une famille républicaine de propriétaires d’Alfonsine (Ravenne), il affronte seul les fascistes locaux dès 1923 ; blessé lors d’un affrontement, il se cache chez un paysan puis s’enfuit en France, où il poursuit la lutte antifasciste, tandis que sa famille subit des violences (ferme incendiée). Mort à Dachau le 6 février 1945 (site Alfonsine mon amour).",
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
+      },
+      "photo_url": "https://www.alfonsinemonamour.it/alfonsine/Alfonsine/immagini/mino_gessi.jpg",
+      "photo_alt": "Giacomo « Mino » Gessi en 1924, à 34 ans",
+      "photo_source": {
+        "label": "Alfonsine mon amour — photographie de 1924 publiée dans l’article",
+        "url": "https://www.alfonsinemonamour.it/alfonsine/Alfonsine/mon-amour1_gessi.htm"
       }
     },
     {
@@ -31727,12 +31748,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=PEDRINI%20Adelmo"
+        },
+        {
+          "label": "Biblioteca Libertaria Armando Borghi — notice d’Adelmo Pedrini (N. S. Onofri)",
+          "url": "https://www.bibliotecaborghi.org/wp-content/uploads/2024/10/PEDRINI-Adelmo.pdf"
         }
       ],
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "histoire": "Né à Minerbio (Bologne), ouvrier agricole, socialiste puis anarchiste, syndicaliste (secrétaire de la Chambre du travail de Cerignola puis de Mirandola en 1912). Son parcours est complexe : interventionniste en 1915, il participe en 1919 à la fondation des Faisceaux de combat de Bologne, dans leur aile hostile à Mussolini, et à l’expédition de Fiume, avant de rompre avec le fascisme. Menacé, il s’exile à Toulouse en 1923, y dirige la Ligue italienne des droits de l’homme et est déchu de la nationalité italienne en 1926. Il combat en 1936 en Espagne dans les unités anarchistes, devient français en 1939, est interné au Vernet puis déporté à Dachau et Mauthausen. Il survit, rentre en Italie en 1946 et meurt à Bologne en 1947 (notice de N. S. Onofri, Biblioteca Borghi, qui date son arrestation par la Gestapo du 9 novembre 1942 : date à vérifier)."
     },
     {
       "nom": "PEINADO DE LA CRUZ",
