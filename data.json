@@ -6102,7 +6102,7 @@
       "nom_affiche": "Yvette MAJEAU",
       "photo": null,
       "documents": [],
-      "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945. Le Journal officiel la mentionne, sous son nom d’épouse Majeau, avec le grade de caporal de la Résistance intérieure française (homologation après-guerre).",
       "reference_archives": "AC 21 P 568506 — MAJEAU, Yvette (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
         {
@@ -6116,6 +6116,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Majeau%20Yvette"
+        },
+        {
+          "label": "Journal officiel de la République française — homologation des grades de la Résistance intérieure française",
+          "url": "https://www.google.com/search?tbm=bks&q=%22%C3%A9pouse%20Majeau%22%20%22R%C3%A9sistance%20int%C3%A9rieure%22"
         }
       ],
       "nom_tri": "Majeau",
@@ -6251,7 +6255,7 @@
           "mime": "image/jpeg"
         }
       ],
-      "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945. L’ouvrage de Laurent Lutaud et Patricia Di Scala (p. 242) rappelle qu’Alida Pradels et sa sœur Jeanne Tillet, mère et tante de M. Tillet, furent déportées ensemble.",
       "reference_archives": "AC 21 P 659537 — PRADELS, Alida / DESTRUEL (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
         {
@@ -6269,6 +6273,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Pradels%20Alida"
+        },
+        {
+          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 242",
+          "url": "https://www.google.com/search?tbm=bks&q=%22Alida%20Pradels%22%20Tillet"
         }
       ],
       "nom_tri": "Pradels",
@@ -6431,7 +6439,7 @@
       "nom_affiche": "Renée REISS",
       "photo": null,
       "documents": [],
-      "complement_historique": "Rentrée de déportation. Date indiquée : 09/04/1945. Lieu indiqué : Frontière germano-suisse. Libérée par la Croix-Rouge.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 09/04/1945. Lieu indiqué : Frontière germano-suisse. Libérée par la Croix-Rouge. Une étude sur le travail forcé pour Siemens à Ravensbrück la cite parmi les déportées françaises affectées aux ateliers Siemens du camp.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -6440,6 +6448,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Reiss%20Ren%C3%A9e"
+        },
+        {
+          "label": "Forced Labor for Siemens in the Women’s Concentration Camp Ravensbrück (étude)",
+          "url": "https://www.google.com/search?tbm=bks&q=%22Ren%C3%A9e%20Reiss%22%20Siemens"
         }
       ],
       "nom_tri": "Reiss",
@@ -6596,7 +6608,7 @@
       "nom_affiche": "Georgette SOURGENS",
       "photo": null,
       "documents": [],
-      "complement_historique": "Rentrée de déportation. Date indiquée : 09/04/1945. Lieu indiqué : Ravensbrück. Libérée par la Croix-Rouge.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : 09/04/1945. Lieu indiqué : Ravensbrück. Libérée par la Croix-Rouge. Une étude sur le travail forcé pour Siemens à Ravensbrück la cite parmi les déportées françaises affectées aux ateliers Siemens du camp.",
       "reference_archives": "AC 21 P 677053 — SOURGENS, Georgette (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
         {
@@ -6610,6 +6622,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Sourgens%20Georgette"
+        },
+        {
+          "label": "Forced Labor for Siemens in the Women’s Concentration Camp Ravensbrück (étude)",
+          "url": "https://www.google.com/search?tbm=bks&q=%22Georgette%20Sourgens%22%20Siemens"
         }
       ],
       "nom_tri": "Sourgens",
@@ -6767,7 +6783,7 @@
           "mime": "image/jpeg"
         }
       ],
-      "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945. L’ouvrage de Laurent Lutaud et Patricia Di Scala (p. 242) rappelle que Jeanne Tillet et sa sœur Alida Pradels, mère et tante de M. Tillet, furent déportées ensemble.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
@@ -6780,6 +6796,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Tillet%2C%20n%C3%A9e%20Destruel%20Jeanne"
+        },
+        {
+          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 242",
+          "url": "https://www.google.com/search?tbm=bks&q=%22Jeanne%20Tillet%22%20Pradels"
         }
       ],
       "nom_tri": "Tillet",

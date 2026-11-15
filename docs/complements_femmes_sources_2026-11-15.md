@@ -65,4 +65,4 @@ Ouvrages utiles pour la classe (à consulter en bibliothèque, au CDI ou au cent
 
 Ajouts aux fiches : BOUDOU (Gedenkbuch de Ravensbrück), BONNET (kommando Siemens en avril 1945), CONSTANTIN (circonstances de l'arrestation), DUBREUIL (kommando de Neu Rohlau), LABARTHE et DE MARQUEISSAC (présentes dans le Gedenkbuch de Ravensbrück : contradiction avec nos fiches, à vérifier), LASSERRE.
 
-La recherche a été interrompue au bout de 26 noms par le moteur de recherche (trop de requêtes) ; il reste à faire : Lezian, Majeau, Monmarin, Parade, Pradels, Pugnet-Wartz, Reiss, Sahuqué, Sicard, Sourgens, Tapia Esteban, Tauzin, Tillet, Vacher, Verge, Fau Español.
+Deuxième passage : MAJEAU (Journal officiel, grade RIF), PRADELS et TILLET (Lutaud p. 242), REISS et SOURGENS (étude sur le travail forcé pour Siemens à Ravensbrück). Le moteur de recherche a de nouveau bloqué la recherche ; restent à chercher : Sahuqué, Sicard, Tapia Esteban, Tauzin, Vacher, Verge, Fau Español, Sahouret.
