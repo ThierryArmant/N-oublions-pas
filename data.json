@@ -2405,11 +2405,11 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=Boudou%20Mathilde"
         },
         {
-          "label": "Bärbel Schindler-Saefkow (dir.), Gedenkbuch für die Opfer des Konzentrationslagers Ravensbrück 1939–1945, 2005 — p. 115",
+          "label": "Bärbel Schindler-Saefkow (dir.), Gedenkbuch für die Opfer des Konzentrationslagers Ravensbrück 1939–1945, 2005 — p. 115 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=Gedenkbuch%20Ravensbr%C3%BCck%20%22Boudou%2C%20Mathilde%22"
         },
         {
-          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 82",
+          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 82 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=%22Mathilde%20Boudou%22%20%22train%20fant%C3%B4me%22"
         }
       ],
@@ -2516,7 +2516,7 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=Bonnet%20Mauricette"
         },
         {
-          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 208",
+          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 208 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=%22Mauricette%20Bonnet%22%20Siemens"
         }
       ],
@@ -2653,6 +2653,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Boyesen%20Eug%C3%A9nie"
+        },
+        {
+          "label": "Arolsen Archives — document n° 10621247 repéré par la classe (capture « boyesen ginette » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/10621247"
         }
       ],
       "nom_tri": "Boyesen",
@@ -2675,7 +2679,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Prénom : les index d’Arolsen consultés par la classe enregistrent le matricule 93837 sous le prénom « Ginette » (avec des mentions de lieu abrégées « Angl… » et « Biar… », sans doute Anglet ou Biarritz), alors que la fiche porte « Eugénie » : vérifier sur le registre."
+      ]
     },
     {
       "nom": "BRUNAUD SOLANGE Déportée du train fantôme n°93861",
@@ -3068,6 +3075,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Desme%20Odette"
+        },
+        {
+          "label": "Arolsen Archives — document n° 130432163 repéré par la classe (capture « desme » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/130432163"
         }
       ],
       "nom_tri": "Desme",
@@ -3122,6 +3133,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Cazaux%20Suzanne"
+        },
+        {
+          "label": "Arolsen Archives — document n° 70047096 repéré par la classe (capture « suzanne cazaux » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/70047096"
         }
       ],
       "photo_data": "data:image/jpeg;base64,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",
@@ -3203,8 +3218,12 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=Constantin%20Arlette"
         },
         {
-          "label": "Laurence Thibault (dir.), Les femmes et la Résistance, La Documentation française, 2006 — p. 31",
+          "label": "Laurence Thibault (dir.), Les femmes et la Résistance, La Documentation française, 2006 — p. 31 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=%22Arlette%20Constantin%22%20aviateurs"
+        },
+        {
+          "label": "Arolsen Archives — document n° 96334991 repéré par la classe (capture « constantin arlette » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/96334991"
         }
       ],
       "biographie": {
@@ -3270,6 +3289,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Chaubard%20Marie-Louise"
+        },
+        {
+          "label": "Arolsen Archives — document n° 10627128 repéré par la classe (capture « chaubard marie louise » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/10627128"
         }
       ],
       "nom_tri": "Chaubard",
@@ -3325,6 +3348,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Croner%20Jeanne"
+        },
+        {
+          "label": "Arolsen Archives — document n° 10629257 repéré par la classe (capture « croner jeanne » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/10629257"
         }
       ],
       "nom_tri": "Croner",
@@ -3389,6 +3416,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Dapere%20Marie"
+        },
+        {
+          "label": "Arolsen Archives — document n° 10630926 repéré par la classe (capture « Dapere Marie » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/10630926"
         }
       ],
       "nom_tri": "Dapere",
@@ -3448,6 +3479,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=de%20Puniet%20de%20Parry%20Sophie"
+        },
+        {
+          "label": "Arolsen Archives — document n° 10731847 repéré par la classe (capture « De puniet de parry sophie » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/10731847"
         }
       ],
       "nom_tri": "de Puniet de Parry",
@@ -3498,6 +3533,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Deyris%20Louise"
+        },
+        {
+          "label": "Arolsen Archives — document n° 130432163 repéré par la classe (capture « Deyris Louise » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/130432163"
         }
       ],
       "nom_tri": "Deyris",
@@ -3520,7 +3559,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Naissance : l’index d’Arolsen (registre d’entrée de Dachau) donne un lieu abrégé « Poya… » (Poyanne, Landes ?) et un jour en « 06/… » : à compléter sur le registre."
+      ]
     },
     {
       "nom": "Estrade Marie Alexandrine deportée du train fantome n°93839",
@@ -3558,6 +3600,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Estrade%20Marie"
+        },
+        {
+          "label": "Arolsen Archives — document n° 10638850 repéré par la classe (capture « Estrade Marie Alexandrine » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/10638850"
         }
       ],
       "nom_tri": "Estrade",
@@ -3888,6 +3934,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Fort%20Raymonde"
+        },
+        {
+          "label": "Arolsen Archives — document n° 10643057 repéré par la classe (capture « fort raymonde » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/10643057"
         }
       ],
       "nom_tri": "Fort",
@@ -3910,7 +3960,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Nom : les index d’Arolsen associent le matricule 93894 à une « Raymonde LOIN » : nom de naissance ou d’épouse à vérifier."
+      ]
     },
     {
       "nom": "Herbert Ferdinande deportée du train fantome n°93870",
@@ -3947,6 +4000,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Herbert%20Ferdinande"
+        },
+        {
+          "label": "Arolsen Archives — document n° 10660339 repéré par la classe (capture « Herbert Ferdinande » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/10660339"
         }
       ],
       "nom_tri": "Herbert",
@@ -4003,8 +4060,12 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=Labarthe%20Jeanne"
         },
         {
-          "label": "Bärbel Schindler-Saefkow (dir.), Gedenkbuch für die Opfer des Konzentrationslagers Ravensbrück 1939–1945, 2005 — p. 363",
+          "label": "Bärbel Schindler-Saefkow (dir.), Gedenkbuch für die Opfer des Konzentrationslagers Ravensbrück 1939–1945, 2005 — p. 363 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=Gedenkbuch%20Ravensbr%C3%BCck%20%22Labarthe%2C%20Jeanne%22"
+        },
+        {
+          "label": "Arolsen Archives — document n° 10690810 repéré par la classe (capture « labarthe jeanne » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/10690810"
         }
       ],
       "nom_tri": "Labarthe",
@@ -4081,6 +4142,10 @@
         {
           "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Lettre de la famille Tillet sur la rafle de Figeac (27 mai 1991) »",
           "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Arolsen Archives — document n° 10691142 repéré par la classe (capture « lafage antoinette » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/10691142"
         }
       ],
       "nom_tri": "Lafage",
@@ -4186,6 +4251,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Laurent%20Raymonde"
+        },
+        {
+          "label": "Arolsen Archives — document n° 10692590 repéré par la classe (capture « laurent raymonde » du dossier élève ; scan non transcrit ici)",
+          "url": "https://collections.arolsen-archives.org/fr/document/10692590"
         }
       ],
       "nom_tri": "Laurent",
@@ -6432,7 +6501,7 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=de%20Marqueissac%20Marie-Louise"
         },
         {
-          "label": "Bärbel Schindler-Saefkow (dir.), Gedenkbuch für die Opfer des Konzentrationslagers Ravensbrück 1939–1945, 2005 — p. 159",
+          "label": "Bärbel Schindler-Saefkow (dir.), Gedenkbuch für die Opfer des Konzentrationslagers Ravensbrück 1939–1945, 2005 — p. 159 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=Gedenkbuch%20Ravensbr%C3%BCck%20Marqueissac"
         }
       ],
@@ -6489,7 +6558,7 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=Dubreuil%20Genevi%C3%A8ve"
         },
         {
-          "label": "Frauen im KZ : Möglichkeiten und Grenzen der historischen Forschung — p. 47",
+          "label": "Frauen im KZ : Möglichkeiten und Grenzen der historischen Forschung — p. 47 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=%22Genevi%C3%A8ve%20Dubreuil%22%20Rohlau"
         }
       ],
@@ -6711,7 +6780,7 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=Lasserre%20Marie"
         },
         {
-          "label": "Regards sur la Seconde Guerre mondiale en Pays basque",
+          "label": "Regards sur la Seconde Guerre mondiale en Pays basque — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=Sahouret%20Lasserre%20Ravensbr%C3%BCck"
         },
         {
@@ -6825,7 +6894,7 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=Majeau%20Yvette"
         },
         {
-          "label": "Journal officiel de la République française — homologation des grades de la Résistance intérieure française",
+          "label": "Journal officiel de la République française — homologation des grades de la Résistance intérieure française — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=%22%C3%A9pouse%20Majeau%22%20%22R%C3%A9sistance%20int%C3%A9rieure%22"
         }
       ],
@@ -6994,7 +7063,7 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=Pradels%20Alida"
         },
         {
-          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 242",
+          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 242 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=%22Alida%20Pradels%22%20Tillet"
         },
         {
@@ -7182,7 +7251,7 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=Reiss%20Ren%C3%A9e"
         },
         {
-          "label": "Forced Labor for Siemens in the Women’s Concentration Camp Ravensbrück (étude)",
+          "label": "Forced Labor for Siemens in the Women’s Concentration Camp Ravensbrück (étude) — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=%22Ren%C3%A9e%20Reiss%22%20Siemens"
         }
       ],
@@ -7372,7 +7441,7 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=Sourgens%20Georgette"
         },
         {
-          "label": "Forced Labor for Siemens in the Women’s Concentration Camp Ravensbrück (étude)",
+          "label": "Forced Labor for Siemens in the Women’s Concentration Camp Ravensbrück (étude) — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=%22Georgette%20Sourgens%22%20Siemens"
         }
       ],
@@ -7565,7 +7634,7 @@
           "url": "https://collections.arolsen-archives.org/fr/search?s=Tillet%2C%20n%C3%A9e%20Destruel%20Jeanne"
         },
         {
-          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 242",
+          "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 242 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=%22Jeanne%20Tillet%22%20Pradels"
         },
         {
