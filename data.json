@@ -651,7 +651,8 @@
         "nom": "Bisserier",
         "prenom": "Renée"
       },
-      "reseau_affiche": "Andalousie"
+      "reseau_affiche": "Andalousie",
+      "convois_documentes": []
     },
     {
       "nom": "JEANINE LEJEARD Déportée du TF n° 93849",
@@ -694,7 +695,8 @@
       "identite_fiche": {
         "nom": "Lejard",
         "prenom": "Jeannine"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MARIE LOUISE DAVANCENS LASSERRE déportée du TF n°93873",
@@ -742,7 +744,8 @@
       "identite_fiche": {
         "nom": "Lasserre",
         "prenom": "Marie-Louise"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "ALICE BESSOU KOKINE Déportée du train fantôme n°93881 nom besson",
@@ -809,7 +812,8 @@
         "nom": "Kokine",
         "prenom": "Alice"
       },
-      "reseau_affiche": "Libérer et Fédérer"
+      "reseau_affiche": "Libérer et Fédérer",
+      "convois_documentes": []
     },
     {
       "nom": "GINETTE BAUDY (VINCENT) Déportée du train fantôme n°93844",
@@ -874,7 +878,8 @@
       "identite_fiche": {
         "nom": "Baudy",
         "prenom": "Ginette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "CONCHITA GRANGÉ Déportée du train fantôme n°93887 nom ramos",
@@ -944,7 +949,8 @@
         "nom": "Grange",
         "prenom": "Conchita"
       },
-      "pseudonyme_resistance": "Nina · la Neboudo"
+      "pseudonyme_resistance": "Nina · la Neboudo",
+      "convois_documentes": []
     },
     {
       "nom": "ELVIRA BELETA Déportée du train fantôme n°93885",
@@ -996,7 +1002,8 @@
       "identite_fiche": {
         "nom": "Beleta",
         "prenom": "Elvira"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MARIE FERRER déporté du train fantôme n°93886",
@@ -1043,7 +1050,8 @@
       "identite_fiche": {
         "nom": "Ferrer",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MARIE SANTOS Déporté du train fantôme n°93891",
@@ -1110,7 +1118,8 @@
       "identite_fiche": {
         "nom": "Santos Gisbert",
         "prenom": "Maria"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MARIE BARTETTE déportée du train fantôme n°93867",
@@ -1166,7 +1175,8 @@
         "prenom": "Marie"
       },
       "reseau_affiche": "Jove",
-      "pseudonyme_resistance": "L’Hirondelle"
+      "pseudonyme_resistance": "L’Hirondelle",
+      "convois_documentes": []
     },
     {
       "nom": "BAUDON Yvonne Déportée du TF n°93846",
@@ -1204,7 +1214,8 @@
       "identite_fiche": {
         "nom": "Baudon",
         "prenom": "Yvonne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "BARSAC IRENE Déportée du Train Fantôme n°93850",
@@ -1246,7 +1257,8 @@
       "identite_fiche": {
         "nom": "Barsacq",
         "prenom": "Irène"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "ODETTE TILLET déportée du TF n° 93862",
@@ -1293,7 +1305,8 @@
       "identite_fiche": {
         "nom": "Tillet",
         "prenom": "Odette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "BOUDOU MATHILDE Déportée du train fantôme n°93856",
@@ -1332,7 +1345,8 @@
       "identite_fiche": {
         "nom": "Boudou",
         "prenom": "Mathilde"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "BONNET MAURICETTE Déportée du train fantôme n°93855",
@@ -1362,7 +1376,8 @@
       "identite_fiche": {
         "nom": "Bonnet",
         "prenom": "Mauricette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "JESUSA LESBURGIERE (née Del Campo) Déportée du TF n°93876",
@@ -1415,7 +1430,8 @@
       "identite_fiche": {
         "nom": "Lesburgeres",
         "prenom": "Jesusa"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "BOYESEN EUGÉNIE Déportée du train fantôme n°93837",
@@ -1445,7 +1461,8 @@
       "identite_fiche": {
         "nom": "Boyesen",
         "prenom": "Eugénie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "BRUNAUD SOLANGE Déportée du train fantôme n°93861",
@@ -1469,7 +1486,8 @@
       "identite_fiche": {
         "nom": "Brunaud",
         "prenom": "Solange"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "SUZANNE PAYRA CAYREL déportée du TF n° 93866",
@@ -1513,7 +1531,8 @@
       "identite_fiche": {
         "nom": "Cayrel",
         "prenom": "Suzanne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "NICOLASA GARCIA CHICHARO déportée du TF n°93890",
@@ -1559,7 +1578,8 @@
       "identite_fiche": {
         "nom": "Oliva Garcia",
         "prenom": "Nicolasa"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "GENEROSA CORTINA ROIG déportée du TF n°93882",
@@ -1602,7 +1622,8 @@
       "identite_fiche": {
         "nom": "Soldevila",
         "prenom": "Germaine"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "DESME Odette deportée du train fantome n°93874",
@@ -1632,7 +1653,8 @@
       "identite_fiche": {
         "nom": "Desme",
         "prenom": "Odette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Suzanne Cazaux deportée du train fantome n° 93875",
@@ -1683,7 +1705,8 @@
         "nom": "Cazaux",
         "prenom": "Suzanne"
       },
-      "pseudonyme_resistance": "Justine"
+      "pseudonyme_resistance": "Justine",
+      "convois_documentes": []
     },
     {
       "nom": "Constantin Arlette deportée du train fantome n° 93893",
@@ -1723,7 +1746,8 @@
       "identite_fiche": {
         "nom": "Constantin",
         "prenom": "Arlette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Chaubard Marie-louise deportée du train fantome n°93842",
@@ -1753,7 +1777,8 @@
       "identite_fiche": {
         "nom": "Chaubard",
         "prenom": "Marie-Louise"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Croner Jeanne deportée du train fantome n°93878",
@@ -1788,7 +1813,8 @@
       "identite_fiche": {
         "nom": "Croner",
         "prenom": "Jeanne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Dapere Marie deportée du train fantôme n°93889",
@@ -1828,7 +1854,8 @@
       "identite_fiche": {
         "nom": "Dapere",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "De Puniet de Parry Sophie deportée du train fantome n°93836",
@@ -1863,7 +1890,8 @@
       "identite_fiche": {
         "nom": "de Puniet de Parry",
         "prenom": "Sophie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Deyris Louise deportée du train fantome n°93892",
@@ -1893,7 +1921,8 @@
       "identite_fiche": {
         "nom": "Deyris",
         "prenom": "Louise"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Estrade Marie Alexandrine deportée du train fantome n°93839",
@@ -1933,7 +1962,8 @@
       "identite_fiche": {
         "nom": "Estrade",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Etcheverria Marie-Jeanne deportée du train fantome n°93868",
@@ -2016,7 +2046,8 @@
       "identite_fiche": {
         "nom": "Etcheverria",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Maria Josepha sensberro déportée du train fantôme n°93869",
@@ -2073,7 +2104,8 @@
       "identite_fiche": {
         "nom": "Nicolas",
         "prenom": "Maria"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Félicie Martinez virto de cibourre déportée du train fantôme n° 93860",
@@ -2116,7 +2148,8 @@
       "identite_fiche": {
         "nom": "Martinez",
         "prenom": "Félicie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Fort Raymonde deportée du train fantome n°93894",
@@ -2146,7 +2179,8 @@
       "identite_fiche": {
         "nom": "Fort",
         "prenom": "Raymonde"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Herbert Ferdinande deportée du train fantome n°93870",
@@ -2181,7 +2215,8 @@
       "identite_fiche": {
         "nom": "Herbert",
         "prenom": "Ferdinande"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Labarthe Jeanne deportée du train fantome n°93843\n",
@@ -2211,7 +2246,8 @@
       "identite_fiche": {
         "nom": "Labarthe",
         "prenom": "Jeanne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Lafage Antoinette deportée du train fantome n°93879",
@@ -2250,7 +2286,8 @@
       "identite_fiche": {
         "nom": "Lafage",
         "prenom": "Antoinette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "Laurent Raymonde deportée du train fantome n°93895",
@@ -2280,7 +2317,8 @@
       "identite_fiche": {
         "nom": "Laurent",
         "prenom": "Raymonde"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "LUCIENNE HARTE Déportée du train fantôme n°93834",
@@ -2335,7 +2373,8 @@
       "identite_fiche": {
         "nom": "Harté",
         "prenom": "Lucienne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "HELENE RESCOUSSIE déportée du train fantôme n°93863 nom Monguilan",
@@ -2377,7 +2416,8 @@
       "identite_fiche": {
         "nom": "Bullio",
         "prenom": "Hélène"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "VIOLETTE SZABO",
@@ -2446,7 +2486,8 @@
       "identite_fiche": {
         "nom": "Szabo",
         "prenom": "Violette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "ADELAIDE HAUTVAL",
@@ -2495,7 +2536,8 @@
       "identite_fiche": {
         "nom": "Hautval",
         "prenom": "Adélaïde"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MARCELLE HENRI",
@@ -2564,7 +2606,8 @@
       "identite_fiche": {
         "nom": "Henry",
         "prenom": "Marcelle"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "YVONNE PAGNIEZ",
@@ -2628,7 +2671,8 @@
       "identite_fiche": {
         "nom": "Pagniez",
         "prenom": "Yvonne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "JEANNE GOUPILLE",
@@ -2682,7 +2726,8 @@
       "identite_fiche": {
         "nom": "Goupille",
         "prenom": "Jeanne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "YVONNE DE KOMORNICKA",
@@ -2748,7 +2793,17 @@
         "nom": "de Komornicka",
         "prenom": "Yvonne"
       },
-      "pseudonyme_resistance": "Capitaine Kléber"
+      "pseudonyme_resistance": "Capitaine Kléber",
+      "convois_documentes": [],
+      "relations_documentees": [
+        {
+          "nom": "Wanda de Komornicka, épouse Hudault",
+          "recherche": "WANDA DE KOMORNICKA ÉPOUSE HUDAULT",
+          "nature": "Fille — service social des MUR",
+          "precision": "Wanda reprend le service social après l’arrestation d’Yvonne. Aucun parcours de déportation n’est attribué à Wanda.",
+          "source": "https://museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka"
+        }
+      ]
     },
     {
       "nom": "JANE SIVADON",
@@ -2808,7 +2863,8 @@
         "nom": "Sivadon",
         "prenom": "Jeanne (dite Jane)"
       },
-      "pseudonyme_resistance": "Jacqueline Simon"
+      "pseudonyme_resistance": "Jacqueline Simon",
+      "convois_documentes": []
     },
     {
       "nom": "GERMAINE TILLON",
@@ -2879,7 +2935,8 @@
       "identite_fiche": {
         "nom": "Tillion",
         "prenom": "Germaine"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MARIE CLAUDE VAILLANT COUTURIER",
@@ -2928,7 +2985,8 @@
       "identite_fiche": {
         "nom": "Vaillant-Couturier",
         "prenom": "Marie-Claude"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "FERNANDE ADELE SAVAGNAT",
@@ -2977,7 +3035,8 @@
       "identite_fiche": {
         "nom": "Servagnat",
         "prenom": "Fernande"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "CHARLOTTE DELBO",
@@ -3026,7 +3085,8 @@
       "identite_fiche": {
         "nom": "Delbo",
         "prenom": "Charlotte"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "LAURE DIEBOLD",
@@ -3065,7 +3125,8 @@
         "nom": "Diebold",
         "prenom": "Laure"
       },
-      "pseudonyme_resistance": "Mado · Mona"
+      "pseudonyme_resistance": "Mado · Mona",
+      "convois_documentes": []
     },
     {
       "nom": "LISE LONDON",
@@ -3114,7 +3175,8 @@
       "identite_fiche": {
         "nom": "London",
         "prenom": "Lise"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "JACQUELINE PERY D'ALINCOURT",
@@ -3167,7 +3229,8 @@
       "identite_fiche": {
         "nom": "Péry d’Alincourt",
         "prenom": "Jacqueline"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MIREILLE LAUZE",
@@ -3232,7 +3295,8 @@
       "identite_fiche": {
         "nom": "Lauze",
         "prenom": "Mireille"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "GENEVIÈVE DE GAULLE ANTHONIOZ",
@@ -3301,7 +3365,8 @@
       "identite_fiche": {
         "nom": "de Gaulle-Anthonioz",
         "prenom": "Geneviève"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MARIE JOSÉ CHOMBART DE LAUWE",
@@ -3365,7 +3430,8 @@
       "identite_fiche": {
         "nom": "Chombart de Lauwe",
         "prenom": "Marie-José"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "ELISABETH GOUPILLE",
@@ -3411,7 +3477,8 @@
       "identite_fiche": {
         "nom": "Goupille",
         "prenom": "Élisabeth"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "PAULINE GABRIELLE GAILLARD",
@@ -3471,7 +3538,8 @@
         "nom": "Gaillard",
         "prenom": "Pauline Gabrielle"
       },
-      "pseudonyme_resistance": "Marie-Odile Laroche"
+      "pseudonyme_resistance": "Marie-Odile Laroche",
+      "convois_documentes": []
     },
     {
       "nom": "DENISE VERNAY",
@@ -3520,7 +3588,8 @@
         "nom": "Vernay",
         "prenom": "Denise"
       },
-      "pseudonyme_resistance": "Miarka"
+      "pseudonyme_resistance": "Miarka",
+      "convois_documentes": []
     },
     {
       "nom": "GINETTE LION CLEMENT",
@@ -3570,7 +3639,8 @@
         "nom": "Lion-Clément",
         "prenom": "Ginette"
       },
-      "pseudonyme_resistance": "Annick"
+      "pseudonyme_resistance": "Annick",
+      "convois_documentes": []
     },
     {
       "nom": "ANISE POSTEL VINAY",
@@ -3629,7 +3699,8 @@
       "identite_fiche": {
         "nom": "Postel-Vinay",
         "prenom": "Anise"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "SUZANNE ORTS",
@@ -3685,7 +3756,8 @@
       "identite_fiche": {
         "nom": "Orts",
         "prenom": "Suzanne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "CAUBET",
@@ -3709,7 +3781,8 @@
       "identite_fiche": {
         "nom": "Caubet",
         "prenom": "Madeleine"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "CAZEAUX",
@@ -3733,7 +3806,8 @@
       "identite_fiche": {
         "nom": "Cazeaux",
         "prenom": "Madeleine"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "DE MARQUEISSAC",
@@ -3757,7 +3831,8 @@
       "identite_fiche": {
         "nom": "de Marqueissac",
         "prenom": "Marie-Louise"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "DUBREUIL",
@@ -3786,7 +3861,8 @@
       "identite_fiche": {
         "nom": "Dubreuil",
         "prenom": "Geneviève"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "FAU",
@@ -3818,7 +3894,8 @@
       "identite_fiche": {
         "nom": "Fau Español",
         "prenom": "Justina Julia"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "FEILLOU",
@@ -3847,7 +3924,8 @@
       "identite_fiche": {
         "nom": "Feillou",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "GIGLEUX / OZON",
@@ -3871,7 +3949,8 @@
       "identite_fiche": {
         "nom": "Gigleux",
         "prenom": "Marie-Louise"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "LASSERRE",
@@ -3900,7 +3979,8 @@
       "identite_fiche": {
         "nom": "Lasserre",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "LEZIAN / DANTHEZ",
@@ -3924,7 +4004,8 @@
       "identite_fiche": {
         "nom": "Lezian",
         "prenom": "Etiennette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MAJEAU",
@@ -3953,7 +4034,8 @@
       "identite_fiche": {
         "nom": "Majeau",
         "prenom": "Yvette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MONMARIN",
@@ -3977,7 +4059,8 @@
       "identite_fiche": {
         "nom": "Monmarin",
         "prenom": "Marthe"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "PARADE",
@@ -4006,7 +4089,8 @@
       "identite_fiche": {
         "nom": "Parade",
         "prenom": "Aimée"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "PRADELS",
@@ -4039,7 +4123,8 @@
       "identite_fiche": {
         "nom": "Pradels",
         "prenom": "Alida"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "PUGNET-WARTZ",
@@ -4063,7 +4148,8 @@
       "identite_fiche": {
         "nom": "Pugnet-Wartz",
         "prenom": "Andrée"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "REISS",
@@ -4087,7 +4173,8 @@
       "identite_fiche": {
         "nom": "Reiss",
         "prenom": "Renée"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "SAHOURET",
@@ -4111,7 +4198,8 @@
       "identite_fiche": {
         "nom": "Sahouret",
         "prenom": "Aimée"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "SAHUQUÉ",
@@ -4135,7 +4223,8 @@
       "identite_fiche": {
         "nom": "Sahuqué",
         "prenom": "Marguerite"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "SICARD",
@@ -4159,7 +4248,8 @@
       "identite_fiche": {
         "nom": "Sicard",
         "prenom": "Marie-Jeanne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "SOURGENS",
@@ -4188,7 +4278,8 @@
       "identite_fiche": {
         "nom": "Sourgens",
         "prenom": "Georgette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "TAPIA ESTEBAN",
@@ -4225,7 +4316,8 @@
       "identite_fiche": {
         "nom": "Tapia Esteban",
         "prenom": "Mila"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "TAUZIN",
@@ -4249,7 +4341,8 @@
       "identite_fiche": {
         "nom": "Tauzin",
         "prenom": "Jeanne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "TILLET",
@@ -4277,7 +4370,8 @@
       "identite_fiche": {
         "nom": "Tillet",
         "prenom": "Jeanne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "VACHER",
@@ -4301,7 +4395,8 @@
       "identite_fiche": {
         "nom": "Vacher",
         "prenom": "Christine"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "VERGE",
@@ -4325,7 +4420,8 @@
       "identite_fiche": {
         "nom": "Verge",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "SIMONE MICHEL-LÉVY",
@@ -4372,7 +4468,8 @@
         "nom": "Michel-Lévy",
         "prenom": "Simone"
       },
-      "pseudonyme_resistance": "Emma · Françoise · Madame Royale · Mademoiselle Flaubert"
+      "pseudonyme_resistance": "Emma · Françoise · Madame Royale · Mademoiselle Flaubert",
+      "convois_documentes": []
     },
     {
       "nom": "JACQUELINE FLEURY-MARIÉ",
@@ -4418,7 +4515,8 @@
       "identite_fiche": {
         "nom": "Fleury-Marié",
         "prenom": "Jacqueline"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MARIE DUBOIS",
@@ -4464,7 +4562,8 @@
       "identite_fiche": {
         "nom": "Dubois",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "SUZANNE GUYOTAT",
@@ -4503,7 +4602,8 @@
         "nom": "Guyotat",
         "prenom": "Suzanne"
       },
-      "reseau_affiche": "Défense de la France"
+      "reseau_affiche": "Défense de la France",
+      "convois_documentes": []
     },
     {
       "nom": "BERTY ALBRECHT",
@@ -4565,7 +4665,8 @@
         "prenom": "Berty"
       },
       "reseau_affiche": "Mouvement de libération nationale · Combat",
-      "pseudonyme_resistance": "Victoria"
+      "pseudonyme_resistance": "Victoria",
+      "convois_documentes": []
     },
     {
       "nom": "GILBERTE BROSSOLETTE",
@@ -4607,7 +4708,8 @@
         "nom": "Brossolette",
         "prenom": "Gilberte"
       },
-      "reseau_affiche": "France libre · BCRA"
+      "reseau_affiche": "France libre · BCRA",
+      "convois_documentes": []
     },
     {
       "nom": "JOSÉPHINE BAKER",
@@ -4653,7 +4755,8 @@
         "nom": "Baker",
         "prenom": "Joséphine"
       },
-      "reseau_affiche": "Contre-espionnage · Forces aériennes françaises libres"
+      "reseau_affiche": "Contre-espionnage · Forces aériennes françaises libres",
+      "convois_documentes": []
     },
     {
       "nom": "SUZANNE NOËL",
@@ -4694,7 +4797,8 @@
       "identite_fiche": {
         "nom": "Noël",
         "prenom": "Suzanne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "THÉRÈSE PAPILLON",
@@ -4740,7 +4844,8 @@
         "nom": "Papillon",
         "prenom": "Thérèse"
       },
-      "reseau_affiche": "OCM · Centurie"
+      "reseau_affiche": "OCM · Centurie",
+      "convois_documentes": []
     },
     {
       "nom": "GERMAINE RIBIÈRE",
@@ -4790,7 +4895,8 @@
         "nom": "Ribière",
         "prenom": "Germaine"
       },
-      "reseau_affiche": "Témoignage chrétien · Amitié chrétienne"
+      "reseau_affiche": "Témoignage chrétien · Amitié chrétienne",
+      "convois_documentes": []
     },
     {
       "nom": "ISAURE LUZET",
@@ -4840,7 +4946,8 @@
       "identite_fiche": {
         "nom": "Luzet",
         "prenom": "Isaure"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MARIE HACKIN",
@@ -4881,7 +4988,8 @@
         "nom": "Hackin",
         "prenom": "Marie"
       },
-      "reseau_affiche": "France libre · Corps des volontaires françaises"
+      "reseau_affiche": "France libre · Corps des volontaires françaises",
+      "convois_documentes": []
     },
     {
       "nom": "MARIE-MADELEINE FOURCADE",
@@ -4923,7 +5031,8 @@
         "prenom": "Marie-Madeleine"
       },
       "reseau_affiche": "Alliance",
-      "pseudonyme_resistance": "Hérisson"
+      "pseudonyme_resistance": "Hérisson",
+      "convois_documentes": []
     },
     {
       "nom": "DANIELLE CASANOVA",
@@ -4968,7 +5077,8 @@
       "identite_fiche": {
         "nom": "Casanova",
         "prenom": "Danielle"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "SIMONE VEIL",
@@ -5009,7 +5119,8 @@
       "identite_fiche": {
         "nom": "Veil",
         "prenom": "Simone"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "FRANÇOISE SELIGMANN",
@@ -5051,7 +5162,8 @@
         "nom": "Seligmann",
         "prenom": "Françoise"
       },
-      "reseau_affiche": "Combat · MUR"
+      "reseau_affiche": "Combat · MUR",
+      "convois_documentes": []
     },
     {
       "nom": "ÉLISABETH RISLER-FRANÇOIS",
@@ -5092,7 +5204,8 @@
       "identite_fiche": {
         "nom": "Risler-François",
         "prenom": "Élisabeth"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "ÉLISABETH DUSSAUZE",
@@ -5138,7 +5251,8 @@
         "nom": "Dussauze",
         "prenom": "Élisabeth (dite Lisbeth)"
       },
-      "reseau_affiche": "Combat Zone Nord"
+      "reseau_affiche": "Combat Zone Nord",
+      "convois_documentes": []
     },
     {
       "nom": "ÉMILIENNE MOREAU-EVRARD",
@@ -5189,7 +5303,8 @@
         "nom": "Moreau-Evrard",
         "prenom": "Émilienne"
       },
-      "reseau_affiche": "Brutus · La France au combat"
+      "reseau_affiche": "Brutus · La France au combat",
+      "convois_documentes": []
     },
     {
       "nom": "LUCIE AUBRAC",
@@ -5235,7 +5350,8 @@
         "nom": "Aubrac",
         "prenom": "Lucie"
       },
-      "reseau_affiche": "Libération-Sud"
+      "reseau_affiche": "Libération-Sud",
+      "convois_documentes": []
     },
     {
       "nom": "MARIE CURIE",
@@ -5276,7 +5392,8 @@
       "identite_fiche": {
         "nom": "Curie",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MADELEINE CROSET",
@@ -5337,7 +5454,8 @@
         "prenom": "Madeleine"
       },
       "reseau_affiche": "Alliance",
-      "pseudonyme_resistance": "Souris"
+      "pseudonyme_resistance": "Souris",
+      "convois_documentes": []
     },
     {
       "nom": "JEANNE MARTIN ÉPOUSE VALENZIANO",
@@ -5380,7 +5498,8 @@
         "nom": "Martin-Valenziano",
         "prenom": "Jeanne"
       },
-      "reseau_affiche": "FTP"
+      "reseau_affiche": "FTP",
+      "convois_documentes": []
     },
     {
       "nom": "GEORGETTE MARTIN",
@@ -5436,7 +5555,8 @@
         "nom": "Martin",
         "prenom": "Georgette"
       },
-      "reseau_affiche": "Abbé Blanc"
+      "reseau_affiche": "Abbé Blanc",
+      "convois_documentes": []
     },
     {
       "nom": "ÉMILIENNE ANTETOMASO NÉE TARTAT",
@@ -5468,7 +5588,8 @@
       "identite_fiche": {
         "nom": "Antetomaso",
         "prenom": "Émilienne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "RAYMONDE TILLON",
@@ -5517,7 +5638,8 @@
       "identite_fiche": {
         "nom": "Tillon-Nédelec",
         "prenom": "Raymonde"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MICHELINE MAUREL",
@@ -5562,7 +5684,8 @@
         "nom": "Maurel",
         "prenom": "Micheline"
       },
-      "reseau_affiche": "Marco Polo"
+      "reseau_affiche": "Marco Polo",
+      "convois_documentes": []
     },
     {
       "nom": "MARIE JOUFFRON NÉE MARTIN",
@@ -5595,7 +5718,8 @@
         "nom": "Jouffron",
         "prenom": "Marie"
       },
-      "reseau_affiche": "Abbé Blanc"
+      "reseau_affiche": "Abbé Blanc",
+      "convois_documentes": []
     },
     {
       "nom": "ÉGLANTINE MARTIN ÉPOUSE PELLOUX",
@@ -5641,7 +5765,8 @@
       "identite_fiche": {
         "nom": "Martin-Pelloux",
         "prenom": "Églantine"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "YVONNE ODDON",
@@ -5697,7 +5822,8 @@
         "nom": "Oddon",
         "prenom": "Yvonne"
       },
-      "reseau_affiche": "Musée de l’Homme"
+      "reseau_affiche": "Musée de l’Homme",
+      "convois_documentes": []
     },
     {
       "nom": "ANDRÉE LAURENT NÉE MASSIP",
@@ -5732,7 +5858,8 @@
         "prenom": "Andrée"
       },
       "reseau_affiche": "Francs-tireurs et partisans",
-      "pseudonyme_resistance": "Miquette"
+      "pseudonyme_resistance": "Miquette",
+      "convois_documentes": []
     },
     {
       "nom": "PIERRETTE DOIZE",
@@ -5770,7 +5897,8 @@
         "nom": "Doize",
         "prenom": "Pierrette"
       },
-      "reseau_affiche": "FTPF"
+      "reseau_affiche": "FTPF",
+      "convois_documentes": []
     },
     {
       "nom": "CATHERINE DIOR",
@@ -5780,10 +5908,10 @@
       "biographie": {
         "naissance": "Née Ginette Dior le 2 août 1917 à Granville (Manche) ; la famille s’installe à Callian (Var) dans les années 1930.",
         "deces": "Décédée le 17 juin 2008 à Callian (Var).",
-        "engagement": "Membre du réseau de renseignement franco-polonais F2 (agent P2), elle recueille des informations sur les mouvements des troupes allemandes.",
-        "deportation": "Arrêtée par la Gestapo à Paris le 6 juillet 1944, torturée sans parler, déportée par l’un des derniers convois partis de Paris le 15 août 1944 vers Ravensbrück, puis dans des kommandos (Torgau, Abteroda, Markkleeberg). Libérée en mai 1945.",
+        "engagement": "Agente P2 du réseau franco-polonais F2. La notice de Jean Medrala donne des services homologués du 1er juillet 1943 au 6 juillet 1944, sous le pseudonyme Caroline ; les récits situent ses premières activités auprès d’Hervé des Charbonneries en 1941, sous le nom Caro. Elle assure des missions de renseignement et de liaison. La proposition de médaille datée du 15 octobre 1945 souligne qu’elle n’a livré personne malgré les tortures.",
+        "deportation": "Arrestation à Paris le 6 juillet 1944 ; Fresnes et Romainville, puis convoi I.264 du 15 août 1944. Ravensbrück → Torgau → Abteroda → Markkleeberg. Évasion le 21 avril 1945 pendant l’évacuation.",
         "memoire": "Installée à Callian, elle devient productrice de fleurs pour la parfumerie. Croix de guerre, Légion d’honneur. Le parfum « Miss Dior » porte son nom.",
-        "matricules": null
+        "matricules": "Ravensbrück : 57813. Matricule de Buchenwald : non retranscrit faute de lecture certaine du document."
       },
       "sources_biographiques": [
         {
@@ -5797,10 +5925,26 @@
         {
           "label": "Gouvernement – 10 portraits d’héroïnes de la Résistance",
           "url": "https://www.info.gouv.fr/actualite/10-portraits-dheroines-de-la-resistance"
+        },
+        {
+          "label": "Arolsen Archives — parcours et documents originaux",
+          "url": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/"
+        },
+        {
+          "label": "FMD — transport I.264 du 15 août 1944",
+          "url": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "label": "Fondation de la Résistance — Jean Medrala, homologation F2",
+          "url": "https://www.museedelaresistanceenligne.org/personnedetail.php?id=30466"
+        },
+        {
+          "label": "Justine Picardie — extrait de Miss Dior publié par Faber",
+          "url": "https://www.faber.co.uk/journal/long-read-who-was-catherine-dior/"
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-15",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Callian",
@@ -5823,7 +5967,143 @@
         "nom": "Dior",
         "prenom": "Catherine"
       },
-      "reseau_affiche": "F2"
+      "reseau_affiche": "F2 — Forces françaises combattantes, agente P2",
+      "pseudonyme_resistance": "Caroline (notice d’homologation) ; Caro (récits biographiques)",
+      "chronologie_documentee": [
+        {
+          "date": "22 août 1944",
+          "texte": "Ravensbrück : enregistrement sous le numéro 57813.",
+          "source": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/"
+        },
+        {
+          "date": "21 septembre 1944",
+          "texte": "Son nom figure sur une liste de transfert vers Torgau ; travail forcé sur des munitions.",
+          "source": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/"
+        },
+        {
+          "date": "19 octobre 1944",
+          "texte": "Abteroda : travail forcé pour BMW.",
+          "source": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/"
+        },
+        {
+          "date": "24–26 février 1945",
+          "texte": "Transfert à Markkleeberg, kommando de Buchenwald ; travail pour Junkers.",
+          "source": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/"
+        },
+        {
+          "date": "21 avril 1945",
+          "texte": "Évasion pendant une marche de la mort ; libération à Dresde.",
+          "source": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/"
+        },
+        {
+          "date": "1952",
+          "texte": "Témoignage au procès de la bande de la rue de la Pompe.",
+          "source": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/"
+        }
+      ],
+      "relations_documentees": [
+        {
+          "nom": "Liliane Dietlin",
+          "nature": "Amitié et engagement F2 attestés",
+          "precision": "Justine Picardie identifie leur amitié et leur engagement commun. Ce lien ne prouve pas une détention commune.",
+          "source": "https://www.faber.co.uk/journal/long-read-who-was-catherine-dior/"
+        },
+        {
+          "nom": "Hervé des Charbonneries",
+          "nature": "Compagnon de vie et résistant F2",
+          "precision": "Son rôle auprès de Catherine est documenté ; il n’est pas présenté comme compagnon de déportation.",
+          "source": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/"
+        },
+        {
+          "nom": "Georgette Berthet",
+          "nature": "Torgau figure dans les deux parcours",
+          "precision": "Parcours mentionné par la FMD pour les deux femmes ; dates de présence simultanée et relation personnelle non établies.",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264.",
+          "recherche": "GEORGETTE BERTHET"
+        },
+        {
+          "nom": "Agnès Kirmann",
+          "nature": "Torgau figure dans les deux parcours",
+          "precision": "Parcours mentionné par la FMD pour les deux femmes ; dates de présence simultanée et relation personnelle non établies.",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264.",
+          "recherche": "AGNÈS KIRMANN"
+        },
+        {
+          "nom": "Louise de Giraud d’Agay",
+          "nature": "Torgau et Abteroda figurent dans les deux parcours",
+          "precision": "Parcours mentionné par la FMD pour les deux femmes ; dates de présence simultanée et relation personnelle non établies.",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264.",
+          "recherche": "LOUISE DE GIRAUD D’AGAY"
+        }
+      ],
+      "documents_historiques": [
+        {
+          "titre": "Carte de détenue — Catherine Dior",
+          "image": "https://arolsen-archives.org/content/uploads/sites/5/dior_ravensbrueck-edited.jpg",
+          "source": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/",
+          "credit": "Arolsen Archives — document nominatif de persécution",
+          "description": "Carte nominative : identité et internement. L’image permet de consulter les mentions originales."
+        },
+        {
+          "titre": "Liste de transfert vers Torgau",
+          "image": "https://arolsen-archives.org/content/uploads/sites/5/dior_liste_torgau-edited.jpg",
+          "source": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/",
+          "credit": "Arolsen Archives — document nominatif de persécution",
+          "description": "Liste collective : ce document n’est pas un portrait."
+        },
+        {
+          "titre": "Fiche portant la mention Abterode, 19 octobre 1944",
+          "image": "https://arolsen-archives.org/content/uploads/sites/5/dior_abteroda-edited.jpg",
+          "source": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/",
+          "credit": "Arolsen Archives — document nominatif de persécution",
+          "description": "La mention de lieu et la date sont visibles sur le document."
+        }
+      ],
+      "points_a_verifier": [
+        "La page Arolsen décrit un enregistrement à Buchenwald le 26 février 1945, mais son illustration hpk-1 reproduit une carte portant Ravensbrück. Aucun second matricule n’est ajouté sans document lisible correspondant.",
+        "Les personnes du même convoi ou du même kommando ci-dessous ne sont pas présentées comme des amies sans témoignage nominatif."
+      ],
+      "convois_documentes": [
+        "I.264"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Jacqueline Aubéry du Boulley, dite « Jacky »",
+          "recherche": "JACQUELINE AUBÉRY DU BOULLEY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Nicole Clarence",
+          "recherche": "NICOLE CLARENCE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Georgette Berthet",
+          "recherche": "GEORGETTE BERTHET",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Agnès Kirmann",
+          "recherche": "AGNÈS KIRMANN",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Augustine Valette",
+          "recherche": "AUGUSTINE VALETTE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Louise de Giraud d’Agay",
+          "recherche": "LOUISE DE GIRAUD D’AGAY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        }
+      ]
     },
     {
       "nom": "JOSETTE MOLLAND-ILINSKY",
@@ -5876,7 +6156,8 @@
         "nom": "Molland-Ilinsky",
         "prenom": "Josette"
       },
-      "reseau_affiche": "Dutch-Paris"
+      "reseau_affiche": "Dutch-Paris",
+      "convois_documentes": []
     },
     {
       "nom": "JACQUELINE AUBÉRY DU BOULLEY",
@@ -5884,21 +6165,25 @@
       "photo": null,
       "documents": [],
       "biographie": {
-        "naissance": "Âgée de 22 ans en 1944 ; lieu : ?.",
+        "naissance": "Le Livre-Mémorial donne le 21 février 1915 à Barbezieux (Charente). L’étude de Mémoire d’Auschwitz indique 22 ans en 1944 : divergence à conserver, sans confondre âge et état civil.",
         "deces": "Date : ? ; lieu : ?",
         "engagement": "À Antibes, elle cache des pilotes britanniques abattus ; à Paris, elle devient agent de liaison du réseau Brutus.",
         "deportation": "Arrêtée par la Gestapo le 4 juillet 1944 devant les locaux de Brutus, déportée par le dernier convoi de la région parisienne (août 1944) à Ravensbrück. En avril 1945, elle s’évade de la marche de la mort avec huit camarades et rejoint les Américains.",
         "memoire": "Restée à Colditz pour aider les réfugiés. L’évasion des neuf jeunes femmes a été racontée dans le livre Nous rentrerons ensemble.",
-        "matricules": null
+        "matricules": "Ravensbrück : 57442"
       },
       "sources_biographiques": [
         {
           "label": "Mémoire d’Auschwitz – N. Peeters, « Échapper à la Marche de la mort » (2025)",
           "url": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        },
+        {
+          "label": "FMD — I.264 : Aubery du Boulley Jacqueline, 57442",
+          "url": "https://www.bddm.org/liv/details.php?id=I.264."
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-15",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Antibes",
@@ -5910,7 +6195,70 @@
         "nom": "Aubéry du Boulley",
         "prenom": "Jacqueline"
       },
-      "reseau_affiche": "Brutus"
+      "reseau_affiche": "Brutus",
+      "convois_documentes": [
+        "I.264"
+      ],
+      "relations_documentees": [
+        {
+          "nom": "Nicole Clarence",
+          "recherche": "NICOLE CLARENCE",
+          "nature": "Compagne d’évasion attestée",
+          "precision": "Une des neuf femmes évadées ensemble en avril 1945, selon Nathalie Peeters.",
+          "source": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        },
+        {
+          "nom": "Joséphine Bordanava, dite « Josée »",
+          "recherche": "JOSÉPHINE BORDANAVA",
+          "nature": "Compagne d’évasion attestée",
+          "precision": "Une des neuf femmes évadées ensemble en avril 1945, selon Nathalie Peeters.",
+          "source": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        },
+        {
+          "nom": "Hélène Podliasky, Suzanne Maudet, Renée Lebon Châtenay, Yvonne Le Guillou, Madelon Verstijnen, Guillemette Daendels",
+          "nature": "Les six autres compagnes du groupe",
+          "precision": "Noms identifiés dans la même étude historique.",
+          "source": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        }
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Catherine Dior",
+          "recherche": "CATHERINE DIOR",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Nicole Clarence",
+          "recherche": "NICOLE CLARENCE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Georgette Berthet",
+          "recherche": "GEORGETTE BERTHET",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Agnès Kirmann",
+          "recherche": "AGNÈS KIRMANN",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Augustine Valette",
+          "recherche": "AUGUSTINE VALETTE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Louise de Giraud d’Agay",
+          "recherche": "LOUISE DE GIRAUD D’AGAY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        }
+      ]
     },
     {
       "nom": "HÉLÈNE PODLIASKY",
@@ -5937,7 +6285,8 @@
       "identite_fiche": {
         "nom": "Podliasky",
         "prenom": "Hélène"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "JEANNETTE L'HERMINIER",
@@ -5965,7 +6314,8 @@
         "nom": "L’Herminier",
         "prenom": "Jeannette"
       },
-      "reseau_affiche": "Buckmaster"
+      "reseau_affiche": "Buckmaster",
+      "convois_documentes": []
     },
     {
       "nom": "YVONNE ABBAS",
@@ -5996,7 +6346,8 @@
       "identite_fiche": {
         "nom": "Abbas",
         "prenom": "Yvonne"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "ANNETTE CHALUT",
@@ -6031,7 +6382,8 @@
       "identite_fiche": {
         "nom": "Chalut",
         "prenom": "Annette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "GILBERTE CHAMPION",
@@ -6059,7 +6411,8 @@
         "nom": "Champion",
         "prenom": "Gilberte"
       },
-      "reseau_affiche": "Jade-Fitzroy"
+      "reseau_affiche": "Jade-Fitzroy",
+      "convois_documentes": []
     },
     {
       "nom": "MADELEINE CESTARI",
@@ -6087,7 +6440,8 @@
         "nom": "Cestari",
         "prenom": "Madeleine"
       },
-      "reseau_affiche": "Confrérie Notre-Dame"
+      "reseau_affiche": "Confrérie Notre-Dame",
+      "convois_documentes": []
     },
     {
       "nom": "YVETTE LUNDY",
@@ -6131,7 +6485,8 @@
         "nom": "Lundy",
         "prenom": "Yvette"
       },
-      "reseau_affiche": "Possum"
+      "reseau_affiche": "Possum",
+      "convois_documentes": []
     },
     {
       "nom": "MARCELLE BARON",
@@ -6170,7 +6525,8 @@
         "nom": "Baron",
         "prenom": "Marcelle"
       },
-      "reseau_affiche": "FTP"
+      "reseau_affiche": "FTP",
+      "convois_documentes": []
     },
     {
       "nom": "MARIE REYNOARD",
@@ -6198,7 +6554,8 @@
         "nom": "Reynoard",
         "prenom": "Marie"
       },
-      "reseau_affiche": "Vérité · Combat"
+      "reseau_affiche": "Vérité · Combat",
+      "convois_documentes": []
     },
     {
       "nom": "LUCETTE SALLÉ",
@@ -6225,7 +6582,8 @@
       "identite_fiche": {
         "nom": "Sallé",
         "prenom": "Lucette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MÈRE MARIE SKOBTSOV",
@@ -6252,7 +6610,8 @@
       "identite_fiche": {
         "nom": "Skobtsov",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "NOËLLA ROUGET",
@@ -6291,7 +6650,8 @@
       "identite_fiche": {
         "nom": "Rouget",
         "prenom": "Noëlla"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "GISÈLE GUILLEMOT",
@@ -6319,7 +6679,8 @@
         "nom": "Guillemot",
         "prenom": "Gisèle"
       },
-      "reseau_affiche": "FTP"
+      "reseau_affiche": "FTP",
+      "convois_documentes": []
     },
     {
       "nom": "BERTHE AUBERT",
@@ -6347,7 +6708,8 @@
         "nom": "Aubert",
         "prenom": "Berthe"
       },
-      "reseau_affiche": "Libération-Nord"
+      "reseau_affiche": "Libération-Nord",
+      "convois_documentes": []
     },
     {
       "nom": "JEANNE GRIMAUD",
@@ -6375,7 +6737,8 @@
         "nom": "Grimaud",
         "prenom": "Jeanne"
       },
-      "reseau_affiche": "F2"
+      "reseau_affiche": "F2",
+      "convois_documentes": []
     },
     {
       "nom": "CHRISTIANE RÈME",
@@ -6402,7 +6765,8 @@
       "identite_fiche": {
         "nom": "Rème",
         "prenom": "Christiane"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MARIE DE ROBIEN",
@@ -6430,7 +6794,8 @@
         "nom": "de Robien",
         "prenom": "Marie"
       },
-      "reseau_affiche": "Prosper"
+      "reseau_affiche": "Prosper",
+      "convois_documentes": []
     },
     {
       "nom": "PIERRETTE VIAN NÉE IVALDI",
@@ -6469,7 +6834,8 @@
         "nom": "Vian",
         "prenom": "Pierrette"
       },
-      "reseau_affiche": "Buckmaster — Roger"
+      "reseau_affiche": "Buckmaster — Roger",
+      "convois_documentes": []
     },
     {
       "nom": "MARIE-LOUISE SOUQUE NÉE RIPERT",
@@ -6503,7 +6869,8 @@
         "nom": "Souque",
         "prenom": "Marie-Louise"
       },
-      "reseau_affiche": "FTP de Gironde"
+      "reseau_affiche": "FTP de Gironde",
+      "convois_documentes": []
     },
     {
       "nom": "JULIETTE EYRAUD",
@@ -6536,7 +6903,8 @@
       "identite_fiche": {
         "nom": "Eyraud",
         "prenom": "Juliette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "LAURENCE CAILA",
@@ -6569,7 +6937,8 @@
       "identite_fiche": {
         "nom": "Caila",
         "prenom": "Laurence"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "RAYMONDE TEMMERMANN",
@@ -6602,7 +6971,8 @@
       "identite_fiche": {
         "nom": "Temmermann",
         "prenom": "Raymonde"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "THÉRÉSA WASILEWSKA",
@@ -6635,7 +7005,8 @@
       "identite_fiche": {
         "nom": "Wasilewska",
         "prenom": "Thérésa"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "JEANNETTE CASTELLANO",
@@ -6668,7 +7039,8 @@
       "identite_fiche": {
         "nom": "Castellano",
         "prenom": "Jeannette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "CHRISTIANE FAMERY",
@@ -6701,7 +7073,8 @@
       "identite_fiche": {
         "nom": "Famery",
         "prenom": "Christiane"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "ANDRÉE JULIEN",
@@ -6738,7 +7111,8 @@
       "identite_fiche": {
         "nom": "Julien",
         "prenom": "Andrée"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "COLETTE LAFFINEUR",
@@ -6771,7 +7145,8 @@
       "identite_fiche": {
         "nom": "Laffineur",
         "prenom": "Colette"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MARTHA DESRUMAUX",
@@ -6812,7 +7187,8 @@
       "identite_fiche": {
         "nom": "Desrumaux",
         "prenom": "Martha"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "MICHELINE MÉJEAN NÉE TARDIEU",
@@ -6866,7 +7242,8 @@
         "nom": "Méjean",
         "prenom": "Micheline"
       },
-      "reseau_affiche": "Mesnard et Lucien · Buckmaster"
+      "reseau_affiche": "Mesnard et Lucien · Buckmaster",
+      "convois_documentes": []
     },
     {
       "nom": "MARIE DORANGE NÉE LECOUTEY",
@@ -6910,7 +7287,8 @@
         "prenom": "Marie"
       },
       "reseau_affiche": "Buckmaster — Jean-Marie",
-      "pseudonyme_resistance": "Yvonne Dorange"
+      "pseudonyme_resistance": "Yvonne Dorange",
+      "convois_documentes": []
     },
     {
       "nom": "HENRIETTE DUVERT NÉE DEPAILLET",
@@ -6944,7 +7322,8 @@
         "nom": "Duvert",
         "prenom": "Henriette"
       },
-      "reseau_affiche": "Armée des Volontaires (selon sa déclaration)"
+      "reseau_affiche": "Armée des Volontaires (selon sa déclaration)",
+      "convois_documentes": []
     },
     {
       "nom": "ODETTE FABIUS NÉE SCHMOLL",
@@ -6998,7 +7377,8 @@
         "nom": "Fabius",
         "prenom": "Odette"
       },
-      "reseau_affiche": "Alliance"
+      "reseau_affiche": "Alliance",
+      "convois_documentes": []
     },
     {
       "nom": "JOSÉPHINE BORDANAVA",
@@ -7066,7 +7446,30 @@
         "nom": "Bordanava",
         "prenom": "Joséphine"
       },
-      "pseudonyme_resistance": "Séverine"
+      "pseudonyme_resistance": "Séverine",
+      "convois_documentes": [],
+      "relations_documentees": [
+        {
+          "nom": "Jacqueline Aubéry du Boulley, dite « Jacky »",
+          "recherche": "JACQUELINE AUBÉRY DU BOULLEY",
+          "nature": "Compagne d’évasion attestée",
+          "precision": "Une des neuf femmes évadées ensemble en avril 1945, selon Nathalie Peeters.",
+          "source": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        },
+        {
+          "nom": "Nicole Clarence",
+          "recherche": "NICOLE CLARENCE",
+          "nature": "Compagne d’évasion attestée",
+          "precision": "Une des neuf femmes évadées ensemble en avril 1945, selon Nathalie Peeters.",
+          "source": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        },
+        {
+          "nom": "Hélène Podliasky, Suzanne Maudet, Renée Lebon Châtenay, Yvonne Le Guillou, Madelon Verstijnen, Guillemette Daendels",
+          "nature": "Les six autres compagnes du groupe",
+          "precision": "Noms identifiés dans la même étude historique.",
+          "source": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        }
+      ]
     },
     {
       "nom": "NICOLE CLARENCE",
@@ -7079,7 +7482,7 @@
         "engagement": "Cheftaine des Éclaireurs de France, elle rejoint Franc-Tireur après sa rencontre avec Eugène Claudius-Petit. Elle participe ensuite aux activités du réseau Buckmaster Acolyte : transports d’armes, parachutages et sabotages, puis travaille à Paris pour les MUR et le MLN.",
         "deportation": "Arrêtée le 4 août 1944 place de Breteuil à Paris, torturée rue de la Pompe, puis emprisonnée à Fresnes. Déportée à Ravensbrück le 15 août 1944, elle est affectée à Schönefeld, près de Leipzig. Pendant l’évacuation d’avril 1945, elle s’évade avec huit compagnes et rejoint les Américains.",
         "memoire": "Elle retrouve sa famille à Paris le 21 mai 1945. Après la guerre, elle travaille comme journaliste pour Magnum, Elle et Le Figaro Madame, puis se consacre à la peinture. Son témoignage a été enregistré le 16 février 1996.",
-        "matricules": null
+        "matricules": "Ravensbrück : 57443 (inscrite Clarence Levy, dite Audibert)"
       },
       "sources_biographiques": [
         {
@@ -7093,6 +7496,10 @@
         {
           "label": "SHD · AC 21 P 647472",
           "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+        },
+        {
+          "label": "FMD — I.264 : Clarence Levy Nicole, dite Audibert, 57443",
+          "url": "https://www.bddm.org/liv/details.php?id=I.264."
         }
       ],
       "archives_deportation": [],
@@ -7110,7 +7517,71 @@
       "identite_fiche": {
         "nom": "Clarence",
         "prenom": "Nicole"
-      }
+      },
+      "convois_documentes": [
+        "I.264"
+      ],
+      "pseudonyme_resistance": "Audibert (nom porté dans la liste de déportation)",
+      "relations_documentees": [
+        {
+          "nom": "Jacqueline Aubéry du Boulley, dite « Jacky »",
+          "recherche": "JACQUELINE AUBÉRY DU BOULLEY",
+          "nature": "Compagne d’évasion attestée",
+          "precision": "Une des neuf femmes évadées ensemble en avril 1945, selon Nathalie Peeters.",
+          "source": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        },
+        {
+          "nom": "Joséphine Bordanava, dite « Josée »",
+          "recherche": "JOSÉPHINE BORDANAVA",
+          "nature": "Compagne d’évasion attestée",
+          "precision": "Une des neuf femmes évadées ensemble en avril 1945, selon Nathalie Peeters.",
+          "source": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        },
+        {
+          "nom": "Hélène Podliasky, Suzanne Maudet, Renée Lebon Châtenay, Yvonne Le Guillou, Madelon Verstijnen, Guillemette Daendels",
+          "nature": "Les six autres compagnes du groupe",
+          "precision": "Noms identifiés dans la même étude historique.",
+          "source": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+        }
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Catherine Dior",
+          "recherche": "CATHERINE DIOR",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Jacqueline Aubéry du Boulley, dite « Jacky »",
+          "recherche": "JACQUELINE AUBÉRY DU BOULLEY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Georgette Berthet",
+          "recherche": "GEORGETTE BERTHET",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Agnès Kirmann",
+          "recherche": "AGNÈS KIRMANN",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Augustine Valette",
+          "recherche": "AUGUSTINE VALETTE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Louise de Giraud d’Agay",
+          "recherche": "LOUISE DE GIRAUD D’AGAY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        }
+      ]
     },
     {
       "nom": "NICOLE RAMBURE",
@@ -7173,7 +7644,8 @@
       "identite_fiche": {
         "nom": "Rambure",
         "prenom": "Nicole"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "LUCIENNE VANUCCI",
@@ -7212,7 +7684,10 @@
       "identite_fiche": {
         "nom": "Vanucci",
         "prenom": "Lucienne"
-      }
+      },
+      "convois_documentes": [
+        "I.126"
+      ]
     },
     {
       "nom": "JEANNE CLAVET",
@@ -7222,15 +7697,23 @@
       "biographie": {
         "naissance": "Née le 2 mars 1895 à Marseille (Bouches-du-Rhône).",
         "deces": "Assassinée dans la chambre à gaz de Ravensbrück le 30 mars 1945.",
-        "engagement": "?",
-        "deportation": "Déportée par le transport I.175 parti de Compiègne le 31 janvier 1944, matricule 27630 à Ravensbrück. Parcours : Ravensbrück.",
-        "memoire": null,
+        "engagement": "Comptable à Marseille, Jeanne Thomas épouse Clavet rejoint Combat en novembre 1942. Sous le nom Zaza, elle est agente de liaison, puis secrétaire d’état-major du capitaine André Zénatti, chef du 2e bureau de l’Armée secrète des Bouches-du-Rhône.",
+        "deportation": "Arrêtée le 28 avril 1943 en déposant un rapport, elle est enfermée à Saint-Pierre à Marseille, puis transférée à Fresnes le 30 juin. Déportée le 31 janvier 1944 par le convoi I.175 vers Ravensbrück, matricule 27630, elle y est assassinée par gazage le 30 mars 1945.",
+        "memoire": "Homologuée adjudant, décorée à titre posthume en 1956. Son petit-fils Richard Clavet a confié en 2024 à l’Ordre de la Libération des lettres de Fresnes et des témoignages sur sa captivité. Ces pièces sont signalées, sans prétendre les avoir toutes consultées.",
         "matricules": "Ravensbrück 27630"
       },
       "sources_biographiques": [
         {
           "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.175",
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "label": "Fabrice Bourrée, Ordre de la Libération — présentation du fonds familial",
+          "url": "https://fr.linkedin.com/posts/fabrice-bourr%C3%A9e-3a2a062b_les-documents-communiqu%C3%A9s-%C3%A0-lordre-de-la-activity-7301217929910452224-clZA"
+        },
+        {
+          "label": "Ordre de la Libération — Jeanne Clavet, dossier 1O13881",
+          "url": "https://www.ordredelaliberation.fr/fr/medailles-biographies?page=18"
         }
       ],
       "archives_deportation": [
@@ -7240,7 +7723,7 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-15",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Marseille",
@@ -7249,9 +7732,52 @@
       },
       "nom_tri": "Clavet",
       "identite_fiche": {
-        "nom": "Clavet",
+        "nom": "Clavet, née Thomas",
         "prenom": "Jeanne"
-      }
+      },
+      "reseau_affiche": "Combat — Armée secrète (Bouches-du-Rhône)",
+      "pseudonyme_resistance": "Zaza",
+      "convois_documentes": [
+        "I.175"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Jeanne Baptistine Porte, épouse Magnan",
+          "recherche": "JEANNE MAGNAN",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Anne-Marie Spoerry",
+          "recherche": "ANNE-MARIE SPOERRY",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Yvonne Le Roux",
+          "recherche": "YVONNE LE ROUX",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Tatiana de Fleurieu",
+          "recherche": "TATIANA DE FLEURIEU",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Thérèse Floiras",
+          "recherche": "THÉRÈSE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Paulette Floiras",
+          "recherche": "PAULETTE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ]
     },
     {
       "nom": "ÉMILIE HAFFENBACH",
@@ -7290,7 +7816,24 @@
       "identite_fiche": {
         "nom": "Haffenbach",
         "prenom": "Émilie"
-      }
+      },
+      "convois_documentes": [
+        "I.235"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Adrienne Rose Davin, épouse Lagère",
+          "recherche": "ADRIENNE LAGÈRE",
+          "convoi": "I.235",
+          "source": "https://www.bddm.org/liv/details.php?id=I.235."
+        },
+        {
+          "nom": "Odette Sylvestre",
+          "recherche": "ODETTE SYLVESTRE",
+          "convoi": "I.235",
+          "source": "https://www.bddm.org/liv/details.php?id=I.235."
+        }
+      ]
     },
     {
       "nom": "GEORGETTE BERTHET",
@@ -7346,7 +7889,48 @@
       "identite_fiche": {
         "nom": "Berthet",
         "prenom": "Georgette"
-      }
+      },
+      "convois_documentes": [
+        "I.264"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Catherine Dior",
+          "recherche": "CATHERINE DIOR",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Jacqueline Aubéry du Boulley, dite « Jacky »",
+          "recherche": "JACQUELINE AUBÉRY DU BOULLEY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Nicole Clarence",
+          "recherche": "NICOLE CLARENCE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Agnès Kirmann",
+          "recherche": "AGNÈS KIRMANN",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Augustine Valette",
+          "recherche": "AUGUSTINE VALETTE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Louise de Giraud d’Agay",
+          "recherche": "LOUISE DE GIRAUD D’AGAY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        }
+      ]
     },
     {
       "nom": "AGNÈS KIRMANN",
@@ -7389,7 +7973,48 @@
       "identite_fiche": {
         "nom": "Kirmann",
         "prenom": "Agnès"
-      }
+      },
+      "convois_documentes": [
+        "I.264"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Catherine Dior",
+          "recherche": "CATHERINE DIOR",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Jacqueline Aubéry du Boulley, dite « Jacky »",
+          "recherche": "JACQUELINE AUBÉRY DU BOULLEY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Nicole Clarence",
+          "recherche": "NICOLE CLARENCE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Georgette Berthet",
+          "recherche": "GEORGETTE BERTHET",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Augustine Valette",
+          "recherche": "AUGUSTINE VALETTE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Louise de Giraud d’Agay",
+          "recherche": "LOUISE DE GIRAUD D’AGAY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        }
+      ]
     },
     {
       "nom": "AUGUSTINE VALETTE",
@@ -7428,7 +8053,48 @@
       "identite_fiche": {
         "nom": "Valette",
         "prenom": "Augustine"
-      }
+      },
+      "convois_documentes": [
+        "I.264"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Catherine Dior",
+          "recherche": "CATHERINE DIOR",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Jacqueline Aubéry du Boulley, dite « Jacky »",
+          "recherche": "JACQUELINE AUBÉRY DU BOULLEY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Nicole Clarence",
+          "recherche": "NICOLE CLARENCE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Georgette Berthet",
+          "recherche": "GEORGETTE BERTHET",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Agnès Kirmann",
+          "recherche": "AGNÈS KIRMANN",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Louise de Giraud d’Agay",
+          "recherche": "LOUISE DE GIRAUD D’AGAY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        }
+      ]
     },
     {
       "nom": "ROSE NIELSEN",
@@ -7473,7 +8139,10 @@
       "identite_fiche": {
         "nom": "Nielsen",
         "prenom": "Rose-Marie"
-      }
+      },
+      "convois_documentes": [
+        "I.146"
+      ]
     },
     {
       "nom": "JEANNE MAGNAN",
@@ -7522,7 +8191,48 @@
       "identite_fiche": {
         "nom": "Porte",
         "prenom": "Jeanne Baptistine"
-      }
+      },
+      "convois_documentes": [
+        "I.175"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Jeanne Clavet",
+          "recherche": "JEANNE CLAVET",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Anne-Marie Spoerry",
+          "recherche": "ANNE-MARIE SPOERRY",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Yvonne Le Roux",
+          "recherche": "YVONNE LE ROUX",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Tatiana de Fleurieu",
+          "recherche": "TATIANA DE FLEURIEU",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Thérèse Floiras",
+          "recherche": "THÉRÈSE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Paulette Floiras",
+          "recherche": "PAULETTE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ]
     },
     {
       "nom": "LOUISE CHAREYRE",
@@ -7571,7 +8281,10 @@
       "identite_fiche": {
         "nom": "Garnaud",
         "prenom": "Louise"
-      }
+      },
+      "convois_documentes": [
+        "I.189"
+      ]
     },
     {
       "nom": "LUCIENNE TAGNARD",
@@ -7624,7 +8337,10 @@
         "nom": "Tagnard",
         "prenom": "Lucienne"
       },
-      "reseau_affiche": "FTPF"
+      "reseau_affiche": "FTPF",
+      "convois_documentes": [
+        "I.230"
+      ]
     },
     {
       "nom": "ADRIENNE LAGÈRE",
@@ -7669,7 +8385,24 @@
       "identite_fiche": {
         "nom": "Davin",
         "prenom": "Adrienne Rose"
-      }
+      },
+      "convois_documentes": [
+        "I.235"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Émilie Haffenbach",
+          "recherche": "ÉMILIE HAFFENBACH",
+          "convoi": "I.235",
+          "source": "https://www.bddm.org/liv/details.php?id=I.235."
+        },
+        {
+          "nom": "Odette Sylvestre",
+          "recherche": "ODETTE SYLVESTRE",
+          "convoi": "I.235",
+          "source": "https://www.bddm.org/liv/details.php?id=I.235."
+        }
+      ]
     },
     {
       "nom": "ODETTE SYLVESTRE",
@@ -7708,7 +8441,24 @@
       "identite_fiche": {
         "nom": "Sylvestre",
         "prenom": "Odette"
-      }
+      },
+      "convois_documentes": [
+        "I.235"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Émilie Haffenbach",
+          "recherche": "ÉMILIE HAFFENBACH",
+          "convoi": "I.235",
+          "source": "https://www.bddm.org/liv/details.php?id=I.235."
+        },
+        {
+          "nom": "Adrienne Rose Davin, épouse Lagère",
+          "recherche": "ADRIENNE LAGÈRE",
+          "convoi": "I.235",
+          "source": "https://www.bddm.org/liv/details.php?id=I.235."
+        }
+      ]
     },
     {
       "nom": "ANNE-MARIE SPOERRY",
@@ -7747,7 +8497,48 @@
       "identite_fiche": {
         "nom": "Spoerry",
         "prenom": "Anne-Marie"
-      }
+      },
+      "convois_documentes": [
+        "I.175"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Jeanne Clavet",
+          "recherche": "JEANNE CLAVET",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Jeanne Baptistine Porte, épouse Magnan",
+          "recherche": "JEANNE MAGNAN",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Yvonne Le Roux",
+          "recherche": "YVONNE LE ROUX",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Tatiana de Fleurieu",
+          "recherche": "TATIANA DE FLEURIEU",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Thérèse Floiras",
+          "recherche": "THÉRÈSE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Paulette Floiras",
+          "recherche": "PAULETTE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ]
     },
     {
       "nom": "YVONNE LE ROUX",
@@ -7792,7 +8583,48 @@
         "prenom": "Yvonne"
       },
       "reseau_affiche": "Johnny",
-      "pseudonyme_resistance": "Tante Yvonne"
+      "pseudonyme_resistance": "Tante Yvonne",
+      "convois_documentes": [
+        "I.175"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Jeanne Clavet",
+          "recherche": "JEANNE CLAVET",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Jeanne Baptistine Porte, épouse Magnan",
+          "recherche": "JEANNE MAGNAN",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Anne-Marie Spoerry",
+          "recherche": "ANNE-MARIE SPOERRY",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Tatiana de Fleurieu",
+          "recherche": "TATIANA DE FLEURIEU",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Thérèse Floiras",
+          "recherche": "THÉRÈSE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Paulette Floiras",
+          "recherche": "PAULETTE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ]
     },
     {
       "nom": "TATIANA DE FLEURIEU",
@@ -7811,6 +8643,10 @@
         {
           "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.175",
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "label": "SHD — répertoire AC 21 P, Tatiana de Fleurieu / Des-Montiers-Mérinville",
+          "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2019-12/SHDAC_21P_DIR.pdf"
         }
       ],
       "archives_deportation": [
@@ -7831,7 +8667,49 @@
       "identite_fiche": {
         "nom": "de Fleurieu",
         "prenom": "Tatiana"
-      }
+      },
+      "convois_documentes": [
+        "I.175"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Jeanne Clavet",
+          "recherche": "JEANNE CLAVET",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Jeanne Baptistine Porte, épouse Magnan",
+          "recherche": "JEANNE MAGNAN",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Anne-Marie Spoerry",
+          "recherche": "ANNE-MARIE SPOERRY",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Yvonne Le Roux",
+          "recherche": "YVONNE LE ROUX",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Thérèse Floiras",
+          "recherche": "THÉRÈSE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Paulette Floiras",
+          "recherche": "PAULETTE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ],
+      "reference_archives": "SHD, AC 21 P 606585 : répertoriée sous FLEURIEU (de), Tatiana / DES-MONTIERS-MERINVILLE, née le 23 novembre 1897 à Menton. Référence de dossier ; son contenu intégral n’est pas présenté comme consulté."
     },
     {
       "nom": "HENRIETTE BARDI DE FOURTOU",
@@ -7870,7 +8748,18 @@
       "identite_fiche": {
         "nom": "Bardi de Fourtou",
         "prenom": "Henriette"
-      }
+      },
+      "convois_documentes": [
+        "I.224"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Denise Maugendre",
+          "recherche": "DENISE MAUGENDRE",
+          "convoi": "I.224",
+          "source": "https://www.bddm.org/liv/details.php?id=I.224."
+        }
+      ]
     },
     {
       "nom": "LOUISE DE GIRAUD D’AGAY",
@@ -7909,7 +8798,48 @@
       "identite_fiche": {
         "nom": "de Giraud d’Agay",
         "prenom": "Louise"
-      }
+      },
+      "convois_documentes": [
+        "I.264"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Catherine Dior",
+          "recherche": "CATHERINE DIOR",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Jacqueline Aubéry du Boulley, dite « Jacky »",
+          "recherche": "JACQUELINE AUBÉRY DU BOULLEY",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Nicole Clarence",
+          "recherche": "NICOLE CLARENCE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Georgette Berthet",
+          "recherche": "GEORGETTE BERTHET",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Agnès Kirmann",
+          "recherche": "AGNÈS KIRMANN",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "nom": "Augustine Valette",
+          "recherche": "AUGUSTINE VALETTE",
+          "convoi": "I.264",
+          "source": "https://www.bddm.org/liv/details.php?id=I.264."
+        }
+      ]
     },
     {
       "nom": "THÉRÈSE FLOIRAS",
@@ -7956,7 +8886,48 @@
       "identite_fiche": {
         "nom": "Floiras",
         "prenom": "Thérèse"
-      }
+      },
+      "convois_documentes": [
+        "I.175"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Jeanne Clavet",
+          "recherche": "JEANNE CLAVET",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Jeanne Baptistine Porte, épouse Magnan",
+          "recherche": "JEANNE MAGNAN",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Anne-Marie Spoerry",
+          "recherche": "ANNE-MARIE SPOERRY",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Yvonne Le Roux",
+          "recherche": "YVONNE LE ROUX",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Tatiana de Fleurieu",
+          "recherche": "TATIANA DE FLEURIEU",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Paulette Floiras",
+          "recherche": "PAULETTE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ]
     },
     {
       "nom": "PAULETTE FLOIRAS",
@@ -7995,7 +8966,48 @@
       "identite_fiche": {
         "nom": "Floiras",
         "prenom": "Paulette"
-      }
+      },
+      "convois_documentes": [
+        "I.175"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Jeanne Clavet",
+          "recherche": "JEANNE CLAVET",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Jeanne Baptistine Porte, épouse Magnan",
+          "recherche": "JEANNE MAGNAN",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Anne-Marie Spoerry",
+          "recherche": "ANNE-MARIE SPOERRY",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Yvonne Le Roux",
+          "recherche": "YVONNE LE ROUX",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Tatiana de Fleurieu",
+          "recherche": "TATIANA DE FLEURIEU",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "nom": "Thérèse Floiras",
+          "recherche": "THÉRÈSE FLOIRAS",
+          "convoi": "I.175",
+          "source": "https://www.bddm.org/liv/details.php?id=I.175."
+        }
+      ]
     },
     {
       "nom": "ELVIRE BEZIAS",
@@ -8034,7 +9046,36 @@
       "identite_fiche": {
         "nom": "Bezias",
         "prenom": "Elvire"
-      }
+      },
+      "convois_documentes": [
+        "I.216"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Marie Bonnieu",
+          "recherche": "MARIE BONNIEU",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Micheline Faraut",
+          "recherche": "MICHELINE FARAUT",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Paulette Laugery",
+          "recherche": "PAULETTE LAUGERY",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Josette Reibaut",
+          "recherche": "JOSETTE REIBAUT",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        }
+      ]
     },
     {
       "nom": "MARIE BONNIEU",
@@ -8073,7 +9114,36 @@
       "identite_fiche": {
         "nom": "Bonnieu",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": [
+        "I.216"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Elvire Bezias",
+          "recherche": "ELVIRE BEZIAS",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Micheline Faraut",
+          "recherche": "MICHELINE FARAUT",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Paulette Laugery",
+          "recherche": "PAULETTE LAUGERY",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Josette Reibaut",
+          "recherche": "JOSETTE REIBAUT",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        }
+      ]
     },
     {
       "nom": "MICHELINE FARAUT",
@@ -8112,7 +9182,36 @@
       "identite_fiche": {
         "nom": "Faraut",
         "prenom": "Micheline"
-      }
+      },
+      "convois_documentes": [
+        "I.216"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Elvire Bezias",
+          "recherche": "ELVIRE BEZIAS",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Marie Bonnieu",
+          "recherche": "MARIE BONNIEU",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Paulette Laugery",
+          "recherche": "PAULETTE LAUGERY",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Josette Reibaut",
+          "recherche": "JOSETTE REIBAUT",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        }
+      ]
     },
     {
       "nom": "PAULETTE LAUGERY",
@@ -8151,7 +9250,36 @@
       "identite_fiche": {
         "nom": "Laugery",
         "prenom": "Paulette"
-      }
+      },
+      "convois_documentes": [
+        "I.216"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Elvire Bezias",
+          "recherche": "ELVIRE BEZIAS",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Marie Bonnieu",
+          "recherche": "MARIE BONNIEU",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Micheline Faraut",
+          "recherche": "MICHELINE FARAUT",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Josette Reibaut",
+          "recherche": "JOSETTE REIBAUT",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        }
+      ]
     },
     {
       "nom": "JOSETTE REIBAUT",
@@ -8190,7 +9318,36 @@
       "identite_fiche": {
         "nom": "Reibaut",
         "prenom": "Josette"
-      }
+      },
+      "convois_documentes": [
+        "I.216"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Elvire Bezias",
+          "recherche": "ELVIRE BEZIAS",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Marie Bonnieu",
+          "recherche": "MARIE BONNIEU",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Micheline Faraut",
+          "recherche": "MICHELINE FARAUT",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "nom": "Paulette Laugery",
+          "recherche": "PAULETTE LAUGERY",
+          "convoi": "I.216",
+          "source": "https://www.bddm.org/liv/details.php?id=I.216."
+        }
+      ]
     },
     {
       "nom": "ARMANDINE DELYS",
@@ -8229,7 +9386,10 @@
       "identite_fiche": {
         "nom": "Delys",
         "prenom": "Armandine"
-      }
+      },
+      "convois_documentes": [
+        "I.215"
+      ]
     },
     {
       "nom": "DENISE MAUGENDRE",
@@ -8273,25 +9433,48 @@
       "identite_fiche": {
         "nom": "Maugendre",
         "prenom": "Denise"
-      }
+      },
+      "convois_documentes": [
+        "I.224"
+      ],
+      "rapprochements_convoi": [
+        {
+          "nom": "Henriette Bardi de Fourtou",
+          "recherche": "HENRIETTE BARDI DE FOURTOU",
+          "convoi": "I.224",
+          "source": "https://www.bddm.org/liv/details.php?id=I.224."
+        }
+      ]
     },
     {
       "nom": "SIMONE DEGUERET",
-      "nom_affiche": "Simone Degueret",
+      "nom_affiche": "Simone Deguéret, épouse Le Berre",
       "photo": null,
       "documents": [],
       "biographie": {
         "naissance": "Née le 22 août 1918 à Toulon (Var).",
-        "deces": "Date : ? ; lieu : ?",
-        "engagement": "?",
-        "deportation": "Déportée par le transport I.118 parti de Paris le 26 juillet 1943, matricule 21661 à Ravensbrück. Parcours : Ravensbrück, Mauthausen. Rentrée de déportation (22 avril 1945, Mauthausen). Libérée par la Croix-Rouge.",
-        "memoire": null,
+        "deces": "Décédée le 25 janvier 1998 à Barjac : date donnée dans le récit de l’AFMD et dans le relevé de décès ; le bandeau de l’article AFMD indique à tort ou par divergence « 25 juin ».",
+        "engagement": "Originaire de Toulon, elle commence à militer en 1940. Avec le groupe de Victor Rousseau, elle participe au ravitaillement de clandestins et repère des hôtels réquisitionnés et des centres de cartes d’alimentation à Paris. Elle fait parvenir des outils à Maurice Le Berre détenu à Romainville, facilitant son évasion du 2 janvier 1943.",
+        "deportation": "Reprise avec Maurice Le Berre le 14 janvier 1943, condamnée à mort par contumace le 21 juin 1943. Déportée le 26 juillet 1943 à Ravensbrück par le convoi I.118, matricule 21661, détenue NN, puis transférée à Mauthausen. Prise en charge par la Croix-Rouge le 22 avril 1945.",
+        "memoire": "Elle épouse Maurice Le Berre le 12 mars 1946 à Draveil. Le couple s’installe à Barjac. Une rue de Saint-Mammès porte son nom.",
         "matricules": "Ravensbrück 21661"
       },
       "sources_biographiques": [
         {
           "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.118",
           "url": "https://www.bddm.org/liv/details.php?id=I.118."
+        },
+        {
+          "label": "AFMD du Gard — André Francisco, Simone Le Berre née Deguéret",
+          "url": "https://afmdgard.org/le-berre-simone-nee-degueret/"
+        },
+        {
+          "label": "Relevé de décès — Barjac, 1998",
+          "url": "https://www.acte-deces.fr/acte-de-deces-barjac-30-1998"
+        },
+        {
+          "label": "Saint-Mammès — conseil municipal du 30 mars 2022",
+          "url": "https://www.saint-mammes.com/wp-content/uploads/PV_CM_30_mars_2022.pdf"
         }
       ],
       "archives_deportation": [
@@ -8301,7 +9484,7 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.118."
         }
       ],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-15",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Toulon",
@@ -8312,7 +9495,12 @@
       "identite_fiche": {
         "nom": "Degueret",
         "prenom": "Simone"
-      }
+      },
+      "pseudonyme_resistance": "Claudine ; Lucette (notice du Maitron citée par l’AFMD)",
+      "reseau_affiche": "Groupe de Victor Rousseau, dit Dupré — activité communiste clandestine",
+      "convois_documentes": [
+        "I.118"
+      ]
     },
     {
       "nom": "CHARLOTTE ABONNEN",
@@ -8351,7 +9539,10 @@
       "identite_fiche": {
         "nom": "Abonnen",
         "prenom": "Charlotte"
-      }
+      },
+      "convois_documentes": [
+        "I.204"
+      ]
     },
     {
       "nom": "EVELYNE WILKINSON",
@@ -8390,7 +9581,10 @@
       "identite_fiche": {
         "nom": "Wilkinson",
         "prenom": "Evelyne"
-      }
+      },
+      "convois_documentes": [
+        "I.212"
+      ]
     },
     {
       "nom": "LUCIENNE THÉVENIN",
@@ -8439,7 +9633,10 @@
         "nom": "Thévenin",
         "prenom": "Lucienne"
       },
-      "reseau_affiche": "FTP"
+      "reseau_affiche": "FTP",
+      "convois_documentes": [
+        "I.74"
+      ]
     },
     {
       "nom": "MARIE DAMIANI",
@@ -8515,7 +9712,8 @@
       "identite_fiche": {
         "nom": "Damiani",
         "prenom": "Marie"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "LAURE GROUILLER NÉE GUITON",
@@ -8554,7 +9752,8 @@
       "identite_fiche": {
         "nom": "Grouiller",
         "prenom": "Laure"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "FRÉDÉRIQUE DURAN",
@@ -8595,7 +9794,8 @@
       "identite_fiche": {
         "nom": "Duran",
         "prenom": "Frédérique"
-      }
+      },
+      "convois_documentes": []
     },
     {
       "nom": "WANDA DE KOMORNICKA ÉPOUSE HUDAULT",
@@ -8636,7 +9836,17 @@
       "identite_fiche": {
         "nom": "de Komornicka",
         "prenom": "Wanda"
-      }
+      },
+      "convois_documentes": [],
+      "relations_documentees": [
+        {
+          "nom": "Yvonne de Komornicka",
+          "recherche": "YVONNE DE KOMORNICKA",
+          "nature": "Mère — Résistance à Avignon",
+          "precision": "Wanda prend la direction du service social des MUR après l’arrestation de sa mère.",
+          "source": "https://museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka"
+        }
+      ]
     }
   ],
   "hommes": [
