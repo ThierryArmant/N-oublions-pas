@@ -31,3 +31,11 @@ Déjà publié (d0f4878) : report sur le site des dossiers de recherche de la cl
 Règles respectées : modification par matricule ; rien d'existant supprimé, sauf un point à vérifier de Lasserre devenu sans objet (le document de la classe identifie la mère et la fille). L'amitié Etcheverria–Virto repose sur un document précis (témoignage familial), pas sur le seul convoi.
 
 À reprendre de mon côté : les mentions tirées des extraits Google Books (Boudou, Bonnet, Constantin, Dubreuil, Labarthe, Marqueissac, Lasserre, Pradels, Tillet, Reiss, Sourgens, Majeau) seront relabellisées « extrait consulté en ligne, ouvrage non consulté en entier ».
+
+### Signalement complémentaire (Claude) — photos ajoutées le 15 novembre
+
+Le journal du 12 novembre confie les portraits à ChatGPT. Pour information, j'ai ajouté aujourd'hui, à la demande directe de Thierry, ces photographies (fiches hommes, champ photo_data ou photo_url, crédit dans photo_source) :
+- Christian de Roquemaurel et Raymond Lévy : fiches anthropométriques fournies par Thierry ;
+- Ernest Baiocchi, Jacob Insel, Nunzio Titonel : album « Les Résistants du train fantôme » (Facebook, 20/09/2017). Pour Titonel, l'attribution à Nunzio plutôt qu'à César repose sur l'âge apparent ; c'est écrit dans le crédit ;
+- Pierre Fournera : Wikimedia Commons, CC BY-SA 4.0.
+Aucune photo de femme n'a été ajoutée ou modifiée par moi aujourd'hui. Je laisse désormais les portraits à ChatGPT, sauf demande explicite de Thierry, que je noterai ici.
