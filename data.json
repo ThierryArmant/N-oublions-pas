@@ -9644,10 +9644,14 @@
         {
           "label": "Association du camp de Flossenbürg – fiche individuelle",
           "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/ANTETOMASO-nee-TARTAT-Emilienne.pdf"
+        },
+        {
+          "label": "SHD — répertoire d’homologation, piste GR 16 P 562560",
+          "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_T.pdf"
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-15",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Marseille",
@@ -9675,7 +9679,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Piste GR 16 P 562560 : Tartat, ex-épouse Antetomaso, Victorine Émilienne Louise, née le 28 septembre 1903 à Marseille ; la notice associative donne le 29. Répertoire indexé consulté, dossier original non consulté. Rapprochement à confirmer ; date actuelle conservée."
+      ]
     },
     {
       "nom": "RAYMONDE TILLON",
@@ -9833,10 +9840,14 @@
         {
           "label": "Association du camp de Flossenbürg – fiche individuelle",
           "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/JOUFFRON-nee-MARTIN-Marie.pdf"
+        },
+        {
+          "label": "SHD — Jouffron Marie / Martin, notice AC 21 P 577992",
+          "url": "https://www.servicehistorique.sga.defense.gouv.fr/en/node/1415424"
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-15",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Marseille",
@@ -9995,7 +10006,11 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Piste nominative : SHD AC 21 P 577992, Marie Jouffron née Martin, 6 mars 1901. La notice donne Boëge (Haute-Savoie), contre Paris dans le Livre-Mémorial ; rapprochement à confirmer, dossier non consulté.",
+      "points_a_verifier": [
+        "Naissance : Paris selon I.175 ; Boëge selon la notice SHD AC 21 P 577992, pour les mêmes nom et date. Ne pas confondre avec la notice distincte Marie-Louise Jouffron."
+      ]
     },
     {
       "nom": "ÉGLANTINE MARTIN ÉPOUSE PELLOUX",
@@ -10025,6 +10040,10 @@
         {
           "label": "SHD — notice individuelle Églantine Pelloux / Martin",
           "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/1401088"
+        },
+        {
+          "label": "SHD — répertoire d’homologation, GR 16 P 397370 (Martin épouse Pelloux)",
+          "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_M.pdf"
         }
       ],
       "archives_deportation": [],
@@ -10035,7 +10054,7 @@
         "departement": "05",
         "lien": "Naissance"
       },
-      "reference_archives": "Dossier individuel de déportation : SHD, AC 21 P 657014. Référence vérifiée dans le répertoire ; dossier non consulté.",
+      "reference_archives": "Dossier individuel de déportation : SHD, AC 21 P 657014. Référence vérifiée dans le répertoire ; dossier non consulté.\nHomologation : GR 16 P 397370, Martin épouse Pelloux, Églantine Marie Josette, née le 5 juin 1922 à Gap. Référence de répertoire indexée ; dossier original non consulté.",
       "complement_historique": "Églantine Marie Josette Martin, épouse Pelloux, figure dans le décret du 23 avril 2015 portant nomination au grade de chevalier de la Légion d’honneur, au titre du 70e anniversaire des débarquements et de la Libération. Son dossier de déportée résistante est identifié par le SHD sous la cote AC 21 P 657014.",
       "nom_tri": "Martin-Pelloux",
       "identite_fiche": {
@@ -10614,6 +10633,10 @@
         {
           "label": "FMD — I.264 : Aubery du Boulley Jacqueline, 57442",
           "url": "https://www.bddm.org/liv/details.php?id=I.264."
+        },
+        {
+          "label": "BBC — légende nominative du montage des évadées (Lucy Wallis, 2022)",
+          "url": "https://www.bbc.com/news/stories-59566983"
         }
       ],
       "archives_deportation": [],
@@ -10721,6 +10744,14 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "photo_url": "https://ichef.bbci.co.uk/news/976/cpsprodpb/755E/production/_122364003_976-4-women2.jpg",
+      "photo_alt": "Montage de quatre évadées : Jacqueline, dite Jacky, est en haut à droite",
+      "photo_legende": "Montage : Jacky en haut à droite ; puis, sens horaire, Lon, Mena, Guigui.",
+      "photo_fit": "contain",
+      "photo_source": {
+        "label": "Jacky : collection Michel Lévy ; montage BBC. Identification par la légende de l’article ; montage intégral conservé.",
+        "url": "https://www.bbc.com/news/stories-59566983"
       }
     },
     {
@@ -13166,6 +13197,10 @@
         {
           "label": "Journal officiel — arrêté du 14 avril 2011, rectification nominative Vanucci Lucienne Laurence",
           "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000024043304"
+        },
+        {
+          "label": "Instituto de las Mujeres — étude sur les Espagnoles à Ravensbrück, p. 105 (page PDF 106)",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf#page=106"
         }
       ],
       "archives_deportation": [
@@ -13173,6 +13208,11 @@
           "label": "Livre-Mémorial de la FMD – Liste du transport",
           "nature": "Liste nominative reconstituée ; ce document n’est pas une carte individuelle originale de détenue.",
           "url": "https://www.bddm.org/liv/details.php?id=I.126."
+        },
+        {
+          "label": "Liste de Ravensbrück du 30 août 1943 — ligne Lucienne Vanucci, matricule 22464",
+          "nature": "Reproduction consultée dans l’étude de l’Instituto de las Mujeres, p. 105. Référence donnée : Arolsen, 1.1.35.1 / 3765097. La ligne porte 28.10.22 : divergence avec 28 octobre 1925 dans le Livre-Mémorial. Document collectif, pas un portrait.",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf#page=106"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -13210,7 +13250,8 @@
         "Lucienne Laurence Vanucci"
       ],
       "points_a_verifier": [
-        "Des bases anciennes donnent encore avril 1944 : la rectification publiée en 2011 doit être privilégiée. Aucun portrait identifié n’a été retrouvé."
+        "Des bases anciennes donnent encore avril 1944 : la rectification publiée en 2011 doit être privilégiée. Aucun portrait identifié n’a été retrouvé.",
+        "La reproduction de la liste du 30 août 1943 porte Vanucci Lucienne, matricule 22464, avec 28.10.22. Le Livre-Mémorial donne 28.10.1925. Concordance du nom et du matricule ; année à vérifier sur l’état civil, sans remplacer la date de la fiche."
       ]
     },
     {
@@ -14449,9 +14490,9 @@
       "biographie": {
         "naissance": "Née le 13 mai 1918 à Cannes (Alpes-Maritimes).",
         "deces": "Décédée le 2 février 1999 au Kenya ; le relevé de décès concorde avec la naissance à Cannes le 13 mai 1918.",
-        "engagement": "?",
+        "engagement": "Sous le nom d’Anne Spoerry, elle participe au groupe Radio Patrie et au passage clandestin d’agents britanniques à partir de décembre 1942, selon le Dictionnaire historique de la Suisse.",
         "deportation": "Déportée par le transport I.175 parti de Compiègne le 31 janvier 1944, matricule 27831 à Ravensbrück. Parcours : Ravensbrück. Rentrée de déportation. Libérée par la Croix-Rouge.",
-        "memoire": null,
+        "memoire": "Devenue médecin au Kenya puis pilote pour l’Amref, elle est connue sous le surnom Mama Daktari. Le DHS situe son décès le 2 février 1999 à Nairobi.",
         "matricules": "Ravensbrück 27831"
       },
       "sources_biographiques": [
@@ -14462,6 +14503,10 @@
         {
           "label": "Relevé de décès — Anne Marie Spoerry",
           "url": "https://www.acte-deces.fr/acte-de-deces-pays-kenya"
+        },
+        {
+          "label": "Christian Baertschi, Dictionnaire historique de la Suisse — Anne Spoerry (2022)",
+          "url": "https://hls-dhs-dss.ch/fr/articles/045830/2022-01-13/"
         }
       ],
       "archives_deportation": [
@@ -14471,7 +14516,7 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-15",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Cannes",
@@ -14629,10 +14674,18 @@
           }
         ]
       },
-      "complement_historique": "",
+      "complement_historique": "Le DHS décrit aussi son affectation au bloc 10 de Ravensbrück sous Carmen Mory et les accusations de violences et de meurtres de codétenues portées contre elle après-guerre. Il signale des sources contradictoires sur la procédure française de 1946 et l’abandon des poursuites zurichoises fin 1947, les éléments à décharge ayant prévalu. Ces procédures et leur issue font partie de son parcours documenté.",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "photo_url": "https://hls-dhs-dss.ch/download/Articles/045830/2022-01-13/med045830-001/SPOERRY-Anne_Collage-AMREF.png?rev=1.3&width=620",
+      "photo_alt": "Anne Spoerry dans un avion et lors d’une opération, montage de deux photographies Amref",
+      "photo_legende": "Anne Spoerry après-guerre — deux photographies Amref.",
+      "photo_fit": "contain",
+      "photo_source": {
+        "label": "Amref Flying Doctors, Nairobi — photographies publiées par le Dictionnaire historique de la Suisse ; droits Amref",
+        "url": "https://hls-dhs-dss.ch/fr/articles/045830/2022-01-13/"
       }
     },
     {
@@ -17724,6 +17777,10 @@
         {
           "label": "Association des Amis et Passionnés du Père-Lachaise — inscription funéraire Campbell née Barbier",
           "url": "https://www.appl-lachaise.net/anselme-francois-1809-1867/"
+        },
+        {
+          "label": "SHD — répertoire des réseaux d’évasion, GR 28 P 4 254 174",
+          "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/209.pdf"
         }
       ],
       "convois_documentes": [
@@ -17887,7 +17944,8 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Réseaux d’évasion : GR 28 P 4 254 174, Élisabeth Barbier épouse Campbell (1945-1946), concordance GR 16 P 31893. Répertoire indexé consulté, dossiers originaux non consultés."
     },
     {
       "nom": "HUBERTE BOURGOIN NÉE TIGNOLET",
