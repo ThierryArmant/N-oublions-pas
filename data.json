@@ -1276,6 +1276,11 @@
           "id": "1y05kodZV9UCcHkH67UhoUe38pkI1k117",
           "name": "ODETTE TILLET.pdf",
           "mime": "application/pdf"
+        },
+        {
+          "id": "1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 2",
+          "mime": "image/jpeg"
         }
       ],
       "prenom": "Odette",
@@ -1284,7 +1289,7 @@
       "lieu": "Figeac (46)",
       "parcours": "Da,Ra",
       "situation": "R",
-      "nom_affiche": "Odette TILLET",
+      "nom_affiche": "Odette Tillet, née Pezet",
       "complement_historique": "Rentrée de déportation. Date indiquée : 30/04/1945. Lieu indiqué : Ravensbrück.",
       "reference_archives": "AC 21 P 659559 — TILLET, Odette / PEZET (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
@@ -1303,10 +1308,115 @@
       ],
       "nom_tri": "Tillet",
       "identite_fiche": {
-        "nom": "Tillet",
+        "nom": "Tillet, née Pezet",
         "prenom": "Odette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "biographie": {
+        "naissance": "Née Odette Pezet le 12 avril 1921 à Figeac.",
+        "matricules": "Dachau : 93862 ; matricule de Ravensbrück non établi dans les pièces consultées.",
+        "deces": "Décédée le 19 janvier 2011 à Figeac, selon le relevé de décès ; hommage dans La Dépêche du 22 janvier 2011.",
+        "deportation": "Arrêtée lors de la rafle du 12 mai 1944. La lettre d’Albert décrit Toulouse, Bordeaux puis le Train fantôme. La pièce Arolsen conservée dans le projet porte le matricule 93862, une entrée au 28 août 1944 et un transfert au 29 août. La FMD indique Dachau puis Ravensbrück.",
+        "memoire": "Albert Tillet, son mari, raconte en 1991 qu’elle aurait pu fuir dans les vignes mais aurait refusé d’abandonner sa mère et sa tante à lui. Il la situe à Ravensbrück avec sa cousine Hélène et Suzanne Cayrel et rapporte une évacuation vers la Suède. Après-guerre, Odette et Albert exploitent l’hôtel des Carmes, repris par leur fils Jean-Louis."
+      },
+      "recherche_mise_a_jour": "2026-11-15",
+      "sources_biographiques": [
+        {
+          "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+          "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+        },
+        {
+          "label": "FMD — Livre-Mémorial, convoi I.261",
+          "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "La Dépêche — hommage à Odette Tillet, 22 janvier 2011",
+          "url": "https://www.ladepeche.fr/article/2011/01/22/996053-figeac-odette-tillet-l-une-des-dernieres-deportees-disparait.html"
+        },
+        {
+          "label": "Relevé de décès — Odette Pezet",
+          "url": "https://www.acte-deces.fr/recherche-deces-famille-pezet"
+        }
+      ],
+      "archives_deportation": [
+        {
+          "label": "Lettre familiale de 1991 — témoignage rétrospectif",
+          "nature": "Albert Tillet rapporte le parcours de femmes de sa famille et de Figeac. Ce n’est ni une carte de camp ni un récit de sa propre déportation.",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Arolsen — pièce nominative d’Odette Tillet, copie conservée dans le projet",
+          "nature": "Image consultée : nom, naissance, matricule 93862 et dates des 28 et 29 août 1944.",
+          "url": "https://drive.google.com/file/d/1y05kodZV9UCcHkH67UhoUe38pkI1k117/view"
+        }
+      ],
+      "relations_documentees": [
+        {
+          "nom": "Jeanne TILLET",
+          "recherche": "TILLET",
+          "vue": "femmes",
+          "nature": "Belle-mère",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "nom": "Alida PRADELS",
+          "recherche": "PRADELS",
+          "vue": "femmes",
+          "nature": "Lien familial décrit par Albert Tillet",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "nom": "Hélène BULLIO / RESCOUSSIE bullion ?",
+          "recherche": "HELENE RESCOUSSIE déportée du train fantôme n°93863 nom Monguilan",
+          "vue": "femmes",
+          "nature": "Lien familial décrit par Albert Tillet",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "nom": "Suzanne CAYREL / PAYRA",
+          "recherche": "SUZANNE PAYRA CAYREL déportée du TF n° 93866",
+          "vue": "femmes",
+          "nature": "Compagne nommée dans le témoignage familial",
+          "precision": "Suzanne est décrite comme amie de Figeac ; Antoinette comme employée de l’hôtel. Il s’agit du récit rétrospectif d’Albert Tillet.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "nom": "Antoinette LAFAGE",
+          "recherche": "Lafage Antoinette deportée du train fantome n°93879",
+          "vue": "femmes",
+          "nature": "Compagne nommée dans le témoignage familial",
+          "precision": "Suzanne est décrite comme amie de Figeac ; Antoinette comme employée de l’hôtel. Il s’agit du récit rétrospectif d’Albert Tillet.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ],
+      "photo_source": {
+        "label": "Archives du projet — Odette identifiée à droite sur la photographie familiale légendée Albert, Nicole, Jean-Louis et Odette Tillet.",
+        "url": "https://drive.google.com/file/d/1cEJrRUUHOvO_DBSwwWXDiJZ_xCN1HjHq/view"
+      },
+      "chronologie_documentee": [
+        {
+          "date": "12 mai 1944",
+          "texte": "Arrestation lors de la rafle de Figeac, selon le récit familial.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "date": "28–29 août 1944",
+          "texte": "Entrée puis transfert notés sur la pièce nominative Arolsen, matricule 93862.",
+          "source": "https://drive.google.com/file/d/1y05kodZV9UCcHkH67UhoUe38pkI1k117/view"
+        },
+        {
+          "date": "27 mai 1991",
+          "texte": "Albert écrit à Robert Silve et rapporte les souvenirs de sa famille.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ]
     },
     {
       "nom": "BOUDOU MATHILDE Déportée du train fantôme n°93856",
@@ -1321,6 +1431,11 @@
           "id": "10BUG4IhQBu1VxIURJM-1YcSc33-CelmE",
           "name": "Capture d'écran 2024-01-14 162826.png",
           "mime": "image/png"
+        },
+        {
+          "id": "1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 2",
+          "mime": "image/jpeg"
         }
       ],
       "prenom": "Mathilde",
@@ -1346,7 +1461,44 @@
         "nom": "Boudou",
         "prenom": "Mathilde"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "biographie": {
+        "naissance": "08/04/1884 — Essey-et-Maizerais (54)",
+        "matricules": "Dachau : 93856 ; matricule de Ravensbrück non établi dans les pièces consultées.",
+        "memoire": "La lettre d’Albert Tillet la cite parmi les femmes du convoi et indique qu’elle est morte en Allemagne. La fiche FMD précise Ravensbrück, le 4 janvier 1945. Elle n’est pas présentée comme une parente."
+      },
+      "recherche_mise_a_jour": "2026-11-15",
+      "sources_biographiques": [
+        {
+          "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+          "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+        },
+        {
+          "label": "FMD — Livre-Mémorial, convoi I.261",
+          "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        }
+      ],
+      "archives_deportation": [
+        {
+          "label": "Lettre familiale de 1991 — témoignage rétrospectif",
+          "nature": "Albert Tillet rapporte le parcours de femmes de sa famille et de Figeac. Ce n’est ni une carte de camp ni un récit de sa propre déportation.",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ],
+      "relations_documentees": [
+        {
+          "nom": "Odette TILLET",
+          "recherche": "ODETTE TILLET déportée du TF n° 93862",
+          "vue": "femmes",
+          "nature": "Nommées dans le même témoignage",
+          "precision": "Albert Tillet la cite parmi les femmes du convoi ; le lien précis est détaillé dans la biographie.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ]
     },
     {
       "nom": "BONNET MAURICETTE Déportée du train fantôme n°93855",
@@ -1502,6 +1654,16 @@
           "id": "10BUG4IhQBu1VxIURJM-1YcSc33-CelmE",
           "name": "Capture d'écran 2024-01-14 162826.png",
           "mime": "image/png"
+        },
+        {
+          "id": "1arpctKtxGwxEu5DZJ48GCj4vklOupKoB",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 1",
+          "mime": "image/jpeg"
+        },
+        {
+          "id": "1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 2",
+          "mime": "image/jpeg"
         }
       ],
       "prenom": "Suzanne",
@@ -1532,7 +1694,44 @@
         "nom": "Cayrel",
         "prenom": "Suzanne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "biographie": {
+        "naissance": "26/04/1919 — Figeac (46)",
+        "matricules": "Dachau : 93866 ; matricule de Ravensbrück non établi dans les pièces consultées.",
+        "memoire": "Albert Tillet la désigne comme une amie de Figeac et la situe à Ravensbrück avec Odette et sa cousine Hélène. Ce lien est rapporté dans sa lettre familiale de 1991."
+      },
+      "recherche_mise_a_jour": "2026-11-15",
+      "sources_biographiques": [
+        {
+          "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+          "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+        },
+        {
+          "label": "FMD — Livre-Mémorial, convoi I.261",
+          "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        }
+      ],
+      "archives_deportation": [
+        {
+          "label": "Lettre familiale de 1991 — témoignage rétrospectif",
+          "nature": "Albert Tillet rapporte le parcours de femmes de sa famille et de Figeac. Ce n’est ni une carte de camp ni un récit de sa propre déportation.",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ],
+      "relations_documentees": [
+        {
+          "nom": "Odette TILLET",
+          "recherche": "ODETTE TILLET déportée du TF n° 93862",
+          "vue": "femmes",
+          "nature": "Nommées dans le même témoignage",
+          "precision": "Albert Tillet la cite parmi les femmes du convoi ; le lien précis est détaillé dans la biographie.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ]
     },
     {
       "nom": "NICOLASA GARCIA CHICHARO déportée du TF n°93890",
@@ -2262,6 +2461,16 @@
           "id": "1GiSeH7-WqcQ32QE4zqY54boTU-Hu7vQ1",
           "name": "lafage antoinette 1.pdf",
           "mime": "application/pdf"
+        },
+        {
+          "id": "1arpctKtxGwxEu5DZJ48GCj4vklOupKoB",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 1",
+          "mime": "image/jpeg"
+        },
+        {
+          "id": "1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 2",
+          "mime": "image/jpeg"
         }
       ],
       "prenom": "Antoinette",
@@ -2287,7 +2496,44 @@
         "nom": "Lafage",
         "prenom": "Antoinette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "biographie": {
+        "naissance": "08/03/1915 — St-Céré (46)",
+        "matricules": "Dachau : 93879 ; matricule de Ravensbrück non établi dans les pièces consultées.",
+        "engagement": "La lettre d’Albert Tillet du 27 mai 1991 nomme Antoinette Lafage comme une employée de l’hôtel, parmi les femmes arrêtées. Elle ne donne ni réseau ni pseudonyme."
+      },
+      "recherche_mise_a_jour": "2026-11-15",
+      "sources_biographiques": [
+        {
+          "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+          "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+        },
+        {
+          "label": "FMD — Livre-Mémorial, convoi I.261",
+          "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        }
+      ],
+      "archives_deportation": [
+        {
+          "label": "Lettre familiale de 1991 — témoignage rétrospectif",
+          "nature": "Albert Tillet rapporte le parcours de femmes de sa famille et de Figeac. Ce n’est ni une carte de camp ni un récit de sa propre déportation.",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ],
+      "relations_documentees": [
+        {
+          "nom": "Odette TILLET",
+          "recherche": "ODETTE TILLET déportée du TF n° 93862",
+          "vue": "femmes",
+          "nature": "Nommées dans le même témoignage",
+          "precision": "Albert Tillet la cite parmi les femmes du convoi ; le lien précis est détaillé dans la biographie.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ]
     },
     {
       "nom": "Laurent Raymonde deportée du train fantome n°93895",
@@ -2392,6 +2638,16 @@
           "id": "1xWV53UwxMe26Em23y3WDFeBg_dXKnTHN",
           "name": "20240115170139596.pdf",
           "mime": "application/pdf"
+        },
+        {
+          "id": "1arpctKtxGwxEu5DZJ48GCj4vklOupKoB",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 1",
+          "mime": "image/jpeg"
+        },
+        {
+          "id": "1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 2",
+          "mime": "image/jpeg"
         }
       ],
       "prenom": "Hélène",
@@ -2417,7 +2673,60 @@
         "nom": "Bullio",
         "prenom": "Hélène"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "biographie": {
+        "naissance": "24/03/1920 — Livinhac-le-Haut (12)",
+        "matricules": "Dachau : 93863 ; matricule de Ravensbrück non établi dans les pièces consultées.",
+        "memoire": "Dans sa lettre de 1991, Albert Tillet nomme Hélène Rescoussi comme sa cousine et la situe à Ravensbrück auprès d’Odette et Suzanne Cayrel. Cette lettre documente le lien familial ; les variantes patronymiques de la fiche restent à vérifier."
+      },
+      "recherche_mise_a_jour": "2026-11-15",
+      "sources_biographiques": [
+        {
+          "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+          "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+        },
+        {
+          "label": "FMD — Livre-Mémorial, convoi I.261",
+          "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        }
+      ],
+      "archives_deportation": [
+        {
+          "label": "Lettre familiale de 1991 — témoignage rétrospectif",
+          "nature": "Albert Tillet rapporte le parcours de femmes de sa famille et de Figeac. Ce n’est ni une carte de camp ni un récit de sa propre déportation.",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ],
+      "relations_documentees": [
+        {
+          "nom": "Jeanne TILLET",
+          "recherche": "TILLET",
+          "vue": "femmes",
+          "nature": "Lien familial décrit par Albert Tillet",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "nom": "Odette TILLET",
+          "recherche": "ODETTE TILLET déportée du TF n° 93862",
+          "vue": "femmes",
+          "nature": "Lien familial décrit par Albert Tillet",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "nom": "Alida PRADELS",
+          "recherche": "PRADELS",
+          "vue": "femmes",
+          "nature": "Lien familial décrit par Albert Tillet",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ]
     },
     {
       "nom": "VIOLETTE SZABO",
@@ -4100,9 +4409,20 @@
       "lieu": "Figeac (46)",
       "parcours": "Da,Ra,Sa",
       "situation": "R",
-      "nom_affiche": "Alida PRADELS",
+      "nom_affiche": "Alida Pradels, née Destruel",
       "photo": null,
-      "documents": [],
+      "documents": [
+        {
+          "id": "1arpctKtxGwxEu5DZJ48GCj4vklOupKoB",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 1",
+          "mime": "image/jpeg"
+        },
+        {
+          "id": "1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 2",
+          "mime": "image/jpeg"
+        }
+      ],
       "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945.",
       "reference_archives": "AC 21 P 659537 — PRADELS, Alida / DESTRUEL (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
@@ -4124,7 +4444,70 @@
         "nom": "Pradels",
         "prenom": "Alida"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "biographie": {
+        "naissance": "29/04/1898 — Figeac (46)",
+        "matricules": "Dachau : 93835 ; matricule de Ravensbrück non établi dans les pièces consultées.",
+        "engagement": "Alida Destruel épouse Pradels est répertoriée dans les dossiers d’homologation du SHD sous la cote GR 16 P 181240 ; réseau non établi ici.",
+        "deportation": "Albert Tillet la désigne comme sa tante, arrêtée le 12 mai 1944 avec sa mère et son épouse. Il la situe avec Jeanne à Oranienburg, puis rapporte leur libération par les troupes soviétiques. La FMD indique Dachau, Ravensbrück et Sachsenhausen.",
+        "memoire": "Le témoignage de Jeanne Tillet et Alida Pradel est également signalé parmi les pièces 72AJ/333, dossier A.II, des Archives nationales par le répertoire Un certain voyage. La transcription n’a pas été consultée."
+      },
+      "recherche_mise_a_jour": "2026-11-15",
+      "sources_biographiques": [
+        {
+          "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+          "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+        },
+        {
+          "label": "FMD — Livre-Mémorial, convoi I.261",
+          "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "SHD — GR 16 P 181240, Destruel épouse Pradels",
+          "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_D.pdf"
+        },
+        {
+          "label": "Un certain voyage — inventaire des témoignages, Archives nationales 72AJ/333, A.II",
+          "url": "https://uncertainvoyage.fr/temoignages"
+        }
+      ],
+      "archives_deportation": [
+        {
+          "label": "Lettre familiale de 1991 — témoignage rétrospectif",
+          "nature": "Albert Tillet rapporte le parcours de femmes de sa famille et de Figeac. Ce n’est ni une carte de camp ni un récit de sa propre déportation.",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ],
+      "relations_documentees": [
+        {
+          "nom": "Jeanne TILLET",
+          "recherche": "TILLET",
+          "vue": "femmes",
+          "nature": "Lien familial décrit par Albert Tillet",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "nom": "Odette TILLET",
+          "recherche": "ODETTE TILLET déportée du TF n° 93862",
+          "vue": "femmes",
+          "nature": "Lien familial décrit par Albert Tillet",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "nom": "Hélène BULLIO / RESCOUSSIE bullion ?",
+          "recherche": "HELENE RESCOUSSIE déportée du train fantôme n°93863 nom Monguilan",
+          "vue": "femmes",
+          "nature": "Lien familial décrit par Albert Tillet",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ]
     },
     {
       "nom": "PUGNET-WARTZ",
@@ -4317,7 +4700,13 @@
         "nom": "Tapia Esteban",
         "prenom": "Mila"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "points_a_verifier": [
+        "La lettre d’Albert nomme une employée oubliée ; une annotation au crayon porte « Mila Tapia ». L’auteur et la date de cette annotation ne sont pas établis : l’emploi à l’hôtel n’est pas présenté comme confirmé."
+      ],
+      "biographie": {
+        "matricules": "Dachau : 93883 ; Ravensbrück : 62476 (étude espagnole déjà citée dans la fiche)."
+      }
     },
     {
       "nom": "TAUZIN",
@@ -4352,9 +4741,20 @@
       "lieu": "Figeac (46)",
       "parcours": "Da,Ra,Or,Sa",
       "situation": "R",
-      "nom_affiche": "Jeanne TILLET",
+      "nom_affiche": "Jeanne Tillet, née Destruel",
       "photo": null,
-      "documents": [],
+      "documents": [
+        {
+          "id": "1arpctKtxGwxEu5DZJ48GCj4vklOupKoB",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 1",
+          "mime": "image/jpeg"
+        },
+        {
+          "id": "1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp",
+          "name": "Lettre d’Albert Tillet à Robert Silve, 27 mai 1991 — feuillet 2",
+          "mime": "image/jpeg"
+        }
+      ],
       "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945.",
       "sources_complementaires": [
         {
@@ -4368,10 +4768,78 @@
       ],
       "nom_tri": "Tillet",
       "identite_fiche": {
-        "nom": "Tillet",
-        "prenom": "Jeanne"
+        "nom": "Tillet, née Destruel",
+        "prenom": "Jeanne Marie Rose"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "biographie": {
+        "naissance": "Née Jeanne Marie Rose Destruel le 9 mai 1896 à Figeac, selon le répertoire GR 16 P et la FMD. Le répertoire AC 21 P indique le 3 mai : divergence signalée.",
+        "matricules": "Dachau : 93865 ; matricule de Ravensbrück non établi dans les pièces consultées.",
+        "engagement": "Hôtelière à l’hôtel des Carmes de Figeac avec Cyprien Tillet. Un dossier d’homologation de ses services est signalé au SHD ; aucun réseau ni pseudonyme n’est déduit de cette seule référence.",
+        "deportation": "Selon la lettre de son fils Albert du 27 mai 1991, arrêtée le 12 mai 1944 avec les femmes de la famille et des employées de l’hôtel. Internements à Toulouse puis Bordeaux ; déportation par le Train fantôme. Matricule 93865 à Dachau. La FMD indique ensuite Ravensbrück, Oranienburg et Sachsenhausen.",
+        "memoire": "Albert rapporte sa libération avec sa tante par les troupes soviétiques. Jeanne est la mère d’Albert et la belle-mère d’Odette. La lettre conserve le souvenir des secours reçus à Sorgues. Aucun portrait de Jeanne n’a été identifié dans les documents familiaux examinés."
+      },
+      "recherche_mise_a_jour": "2026-11-15",
+      "sources_biographiques": [
+        {
+          "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+          "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+        },
+        {
+          "label": "FMD — Livre-Mémorial, convoi I.261",
+          "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "SHD — répertoire GR 16 P, Destruel épouse Tillet",
+          "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_D.pdf"
+        },
+        {
+          "label": "La Dépêche — histoire de l’hôtel des Carmes, 21 février 2010",
+          "url": "https://www.ladepeche.fr/article/2010/02/21/781835-figeac-pendant-100-ans-hotel-tillet-fait-fierte-carmes.html"
+        },
+        {
+          "label": "Un certain voyage — inventaire des témoignages, Archives nationales 72AJ/333, A.II",
+          "url": "https://uncertainvoyage.fr/temoignages"
+        }
+      ],
+      "archives_deportation": [
+        {
+          "label": "Lettre familiale de 1991 — témoignage rétrospectif",
+          "nature": "Albert Tillet rapporte le parcours de femmes de sa famille et de Figeac. Ce n’est ni une carte de camp ni un récit de sa propre déportation.",
+          "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ],
+      "relations_documentees": [
+        {
+          "nom": "Odette TILLET",
+          "recherche": "ODETTE TILLET déportée du TF n° 93862",
+          "vue": "femmes",
+          "nature": "Belle-fille",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "nom": "Alida PRADELS",
+          "recherche": "PRADELS",
+          "vue": "femmes",
+          "nature": "Lien familial décrit par Albert Tillet",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "nom": "Hélène BULLIO / RESCOUSSIE bullion ?",
+          "recherche": "HELENE RESCOUSSIE déportée du train fantôme n°93863 nom Monguilan",
+          "vue": "femmes",
+          "nature": "Lien familial décrit par Albert Tillet",
+          "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
+          "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        }
+      ],
+      "reference_archives": "SHD : AC 21 P 659558, Tillet Jeanne / Destruel ; GR 16 P 181245, Destruel épouse Tillet, Jeanne Marie Rose. Répertoires consultés, dossiers intégraux non consultés."
     },
     {
       "nom": "VACHER",
