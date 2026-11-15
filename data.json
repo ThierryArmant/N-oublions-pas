@@ -3696,7 +3696,8 @@
         "memoire": "Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 659540."
       },
       "points_a_verifier": [
-        "Le dossier SHD porte aussi le nom Katchaloff : sans doute son nom de naissance (elle est née à Petrograd)."
+        "Le dossier SHD porte aussi le nom Katchaloff : sans doute son nom de naissance (elle est née à Petrograd).",
+        "Quatre hommes de la même famille sont dans le convoi (Anthony, Bernard, Jacques et Pierre de Puniet de Parry, 93968 à 93971, tous rentrés) : liens de parenté à établir."
       ]
     },
     {
@@ -4257,6 +4258,10 @@
         {
           "label": "Registre d’entrée du camp de Dachau, 28 août 1944 : double page des femmes du convoi (matricules 93845 à 93896) — photographie conservée dans le dossier de la classe CDSG",
           "url": "https://drive.google.com/file/d/1rx8cgoioeem8GIhYsFTZdb3wCDbaxkQ2/view"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux, la synagogue : récits de René Lafond sur les gens du château Nodris",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
         }
       ],
       "nom_tri": "Herbert",
@@ -4284,6 +4289,9 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "biographie": {
+        "engagement": "Cuisinière du château Nodris, près de Vertheuil (Médoc). Après l’attaque du maquis du Médoc (juin 1944), les Allemands bombardent et incendient le château ; plusieurs personnes du domaine sont déportées par le Train fantôme, dont elle et Guy Bernon (93907)."
       }
     },
     {
@@ -19231,6 +19239,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ABEBERRY%20Jean"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "reseau_affiche": "CND-Castille",
@@ -19830,12 +19842,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ARCENAUDA%20Henri"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Il figure sur la liste des déportés-résistants landais et basques du Train fantôme établie par Charles Teissier pour l’Amicale."
     },
     {
       "nom": "ARCHAT",
@@ -19902,6 +19919,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ARDURAT%20Raoul"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -20724,6 +20745,10 @@
         {
           "label": "Amicale des déportés du Train fantôme — Merrey : récit d’évasion et portrait d’Éloi Barrière",
           "url": "https://www.lesdeportesdutrainfantome.org/ville_merrey.htm"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "pays_naissance": {
@@ -20835,6 +20860,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BAZOT%20Firmin"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -20979,12 +21008,21 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BERNON%20Guy"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — Bordeaux, la synagogue : récits de René Lafond sur les gens du château Nodris",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_bordeaux2.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Fils d’un ouvrier agricole du château Nodris, près de Vertheuil (Médoc), dont le propriétaire avait vu un fils tué lors de l’attaque du maquis du Médoc et le château bombardé puis incendié par les Allemands. Il est déporté avec d’autres personnes du domaine, dont la cuisinière Ferdinande Herbert (93870) ; l’Amicale cite aussi Alexandre Bernon, métayer du château, blessé à Pierrelatte. La page de l’Amicale le dit mort en déportation, alors que la fiche FMD le classe parmi les rapatriés."
     },
     {
       "nom": "BERROGAIN LAITA",
@@ -22237,6 +22275,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CAPDEVILLE%20Michel"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -22740,12 +22782,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CHAMPAGNE%20Andr%C3%A9"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "La liste des déportés landais établie par Charles Teissier pour l’Amicale indique qu’il s’évade à Sorgues et rejoint ensuite le maquis du Ventoux."
     },
     {
       "nom": "CHAMPEL",
@@ -23008,6 +23055,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CONCARET%20F%C3%A9lix"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Nicole, mort le 02/04/1945 à Melk. Le Livre-Mémorial indique : 01/04/1945 à Melk.",
@@ -23425,12 +23476,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DE%20PUNIET%20DE%20PARRY%20Anthony"
+        },
+        {
+          "label": "Service historique de la Défense (Caen) — notice FranceArchives : « PUNIET DE DE PARRY, ANTHONY », AC 21 P 649321",
+          "url": "https://francearchives.gouv.fr/fr/search?q=PUNIET%20DE%20PARRY"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Un dossier de demande de statut (statut résistant) existe à son nom au SHD de Caen (cote AC 21 P 649321). Le convoi compte quatre hommes de la famille de Puniet de Parry (Anthony, Bernard, Jacques, Pierre) et Sophie de Puniet de Parry (93836) : sans doute une même famille, liens exacts à vérifier."
     },
     {
       "nom": "DE PUNIET DE PARRY",
@@ -23447,12 +23503,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DE%20PUNIET%20DE%20PARRY%20Bernard"
+        },
+        {
+          "label": "Service historique de la Défense (Caen) — notice FranceArchives : « PUNIET DE DE PARRY, BERNARD », AC 21 P 649325",
+          "url": "https://francearchives.gouv.fr/fr/search?q=PUNIET%20DE%20PARRY"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Un dossier de demande de statut (statut politique) existe à son nom au SHD de Caen (cote AC 21 P 649325). Le convoi compte quatre hommes de la famille de Puniet de Parry (Anthony, Bernard, Jacques, Pierre) et Sophie de Puniet de Parry (93836) : sans doute une même famille, liens exacts à vérifier."
     },
     {
       "nom": "DE PUNIET DE PARRY",
@@ -23469,12 +23530,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DE%20PUNIET%20DE%20PARRY%20Jacques"
+        },
+        {
+          "label": "Service historique de la Défense (Caen) — notice FranceArchives : « PUNIET DE DE PARRY, JACQUES », AC 21 P 649322",
+          "url": "https://francearchives.gouv.fr/fr/search?q=PUNIET%20DE%20PARRY"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Un dossier de demande de statut (statut politique) existe à son nom au SHD de Caen (cote AC 21 P 649322). Le convoi compte quatre hommes de la famille de Puniet de Parry (Anthony, Bernard, Jacques, Pierre) et Sophie de Puniet de Parry (93836) : sans doute une même famille, liens exacts à vérifier."
     },
     {
       "nom": "DE PUNIET DE PARRY",
@@ -23491,12 +23557,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DE%20PUNIET%20DE%20PARRY%20Pierre"
+        },
+        {
+          "label": "Service historique de la Défense (Caen) — notice FranceArchives : « PUNIET DE DE PARRY, PIERRE », AC 21 P 649323",
+          "url": "https://francearchives.gouv.fr/fr/search?q=PUNIET%20DE%20PARRY"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Un dossier de demande de statut (statut politique) existe à son nom au SHD de Caen (cote AC 21 P 649323). Le convoi compte quatre hommes de la famille de Puniet de Parry (Anthony, Bernard, Jacques, Pierre) et Sophie de Puniet de Parry (93836) : sans doute une même famille, liens exacts à vérifier."
     },
     {
       "nom": "DE ROQUEMAUREL",
@@ -23848,6 +23919,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DEYRIS%20Henri"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -24024,6 +24099,10 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Dicharry"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Leon Dicharry » : mort à Dachau le 31/03/1945 (né à Bayonne (Basses-Pyrénées), profession : machiniste). La date de naissance y est le 01/06/1892 (nos fiches : 01/06/1902).",
@@ -24222,12 +24301,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DUBOIS%20Andr%C3%A9"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Il figure sur la liste des déportés-résistants landais et basques du Train fantôme établie par Charles Teissier pour l’Amicale."
     },
     {
       "nom": "DUCASSE",
@@ -24240,7 +24324,7 @@
       "date_sortie": "12/11/1944",
       "lieu_sortie": "Melk",
       "observations": "—",
-      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Carcen-Ponson, mort le 12/11/1944 à Melk.",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Carcen-Ponson, mort le 12/11/1944 à Melk. Saint-Yaguen honore sa mémoire avec celle de Jeanne Labarthe lors d’une journée nationale de la Déportation (Sud Ouest).",
       "sources": [
         {
           "label": "Mémorial de Mauthausen — Salle des noms",
@@ -24249,6 +24333,14 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DUCASSE%20Pierre"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
+        },
+        {
+          "label": "Sud Ouest — « Hommage à Jeanne Labarthe et à Pierre Ducasse » (Saint-Yaguen) — chapô seul consulté",
+          "url": "https://www.sudouest.fr/landes/saint-yaguen/hommage-a-jeanne-labarthe-et-a-pierre-ducasse-9288110.php"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -24391,6 +24483,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DUPOUY%20Robert"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -24591,12 +24687,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ESPEL%20Jean"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Il figure sur la liste des déportés-résistants landais et basques du Train fantôme établie par Charles Teissier pour l’Amicale."
     },
     {
       "nom": "ESTEVE LLUSA",
@@ -26808,6 +26909,10 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Isambert"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Pierre Isambert » : mort à Dachau le 17/02/1945 (né à Paris, domicilié à Bayonne (Basses-Pyrénées), profession : directeur d'entreprise). Nos fiches indiquaient le 18/02/1945 : écart à vérifier.",
@@ -27402,12 +27507,21 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LABARTHE%20Fernand"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
+        },
+        {
+          "label": "Sud Ouest — « Hommage à Jeanne Labarthe et à Pierre Ducasse » (Saint-Yaguen) — chapô seul consulté",
+          "url": "https://www.sudouest.fr/landes/saint-yaguen/hommage-a-jeanne-labarthe-et-a-pierre-ducasse-9288110.php"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "La liste des déportés landais établie par Charles Teissier pour l’Amicale indique qu’il s’évade en Haute-Marne. Il est probablement le fils de Jeanne Labarthe (93843), de Saint-Yaguen, morte à Hambourg : un article de Sud Ouest les associe dans l’hommage rendu par la commune."
     },
     {
       "nom": "LABAT",
@@ -27871,6 +27985,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LAVIGNE%20Pierre"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -28613,6 +28731,10 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Mandron"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Bertrand Mandron » : mort à Dachau le 16/03/1945 (né à Bayonne (Basses-Pyrénées), profession : commerçant).",
@@ -29278,6 +29400,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MAUHOURAT%20Jean"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -31500,6 +31626,10 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Perpigna"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Gabriel Perpigna » : mort à Dachau le 07/03/1945 (né à Lannux (Gers), domicilié à Aire-sur-l'Adour (Landes), profession : forgeron). La date de naissance y est le 11/03/1911 (nos fiches : 20/03/1911).",
@@ -33289,6 +33419,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SAINT-BLANCARD%20Jean"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -33907,6 +34041,10 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SERRATE ROCA, Tomás », avec pour commune « Castejón de Monegros ».",
@@ -34086,6 +34224,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SIMONET%20Jacques"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "histoire": "Jacques Simonet est arrêté en juin 1944, emprisonné à Bordeaux puis intégré au Train fantôme. À son arrivée à Dachau, il reçoit le matricule 93980. Les archives de l’Amicale présentent une photographie légendée « Bâtonnier Jacques Simonet » et reprennent ce numéro. Les souvenirs familiaux sont également évoqués dans un article consacré à Vincent Simonet et à une œuvre de transmission mémorielle.",
@@ -34354,12 +34496,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SOURGENS%20Paul"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "La liste des déportés landais établie par Charles Teissier pour l’Amicale indique qu’il s’évade à Sorgues. Une Georgette Sourgens (93854) est aussi dans le convoi ; le lien familial n’est pas établi."
     },
     {
       "nom": "STUCKI",
@@ -36269,6 +36416,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=YVONNET%20Henri"
+        },
+        {
+          "label": "Amicale des déportés du Train fantôme — page « Landes » : liste des déportés-résistants landais et basques établie par Charles Teissier",
+          "url": "https://www.lesdeportesdutrainfantome.org/ville_landes.htm"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
