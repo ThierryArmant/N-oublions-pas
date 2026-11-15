@@ -65,3 +65,9 @@ Méthode, sources, divergences, recherches négatives et suite : docs/methode_re
 
 ## Claude — 15/11, ~23 h 55 (hommes du convoi, par index dans data.hommes)
 - 00ee211, 8a5147a, 6603f96, 474afe8 : portraits liés depuis le site de l'Amicale (photo_url, Nodon et Vajda en « attribution à confirmer ») et depuis le Mémorial de Mauthausen (Pittari) ; récits de l'Amicale (synagogue, Livron, Merrey, Vernet, groupe de Bigorre, liste landaise de Ch. Teissier, château Nodris) ; 11 biographies de la Salle des noms de Mauthausen ; famille de Puniet de Parry (cotes AC 21 P). Fiche Unserky signalée comme doublon possible de Jacob Insel.
+
+## Claude — 16/11, ~00 h 45 (hommes, suite ; sans toucher aux trois illustrations italiennes ajoutées par ChatGPT en d91b5c0)
+- aa2b43c, 64838da : base « Republicanos deportados » (portraits et documents, dates de naissance vérifiées ; divergences de matricules en observations).
+- 184ab75 : notices AFMD du Gard (portraits Leyris, Lumia, Sevestre ; 18 fiches), ANED Vérone (Zanoni, fiche de Dachau) et Brescia (Vedovati).
+- b3f2991 : Borrani (QuiAntella), Gessi (Alfonsine mon amour), Pedrini (Biblioteca Borghi).
+- Le Casellario Politico Centrale (dati.acs.beniculturali.it/CPC) était inaccessible ce soir : piste à reprendre pour les Italiens (photos signalétiques).
