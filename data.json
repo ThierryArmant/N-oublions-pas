@@ -17064,9 +17064,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Aborruza"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ABORRUZA IBARGUREN, Domingo », avec pour commune « Albante-Cervantes »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ABORRUZA IBARGUREN, Domingo », avec pour commune « Albante-Cervantes ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Domingo Aborruza Ibarguren » : mort à Dachau le 09/12/1944 (né à Albante Cervantes, domicilié à Beaucaire (France), profession : chauffeur). Nos fiches indiquaient le 10/12/1944 : écart à vérifier."
     },
     {
       "nom": "ADE NAVARRO",
@@ -17087,9 +17091,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Ade"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ADE NAVARRO, Pablo », avec pour commune « Alagón »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ADE NAVARRO, Pablo », avec pour commune « Alagón ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Pablo Ade Navarro » : mort à Dachau le 16/03/1945 (né à Alagón, domicilié à Toulouse (Haute-Garonne), profession : commerçant). La date de naissance y est le 06/06/1889 (nos fiches : 07/06/1890)."
     },
     {
       "nom": "AGUILA",
@@ -17124,8 +17132,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=AGUSTI%20MIRO%20Francisco"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Agust%C3%AD"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Francisco Agustí » : mort à Dachau le 23/01/1945 (né à Barcelona, domicilié à Saint-Juéry (France), profession : mécanicien)."
     },
     {
       "nom": "ALBERICH GINER",
@@ -17191,7 +17204,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ALCAIDE BORROMEO, Manuel », avec pour commune « Chelva »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ALCAIDE BORROMEO, Manuel », avec pour commune « Chelva »."
     },
     {
       "nom": "ALDINUCCI",
@@ -17200,16 +17213,21 @@
       "naissance": "24/07/1894",
       "lieu": "Cirillia (I)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "29/11/1944",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ALDINUCCI%20Rafa%C3%ABl"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Aldinucci"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Raphael Aldinucci » : mort à Dachau le 29/11/1944 (né à Caviglia, profession : jardinier). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "ALIET RUIZ",
@@ -17250,7 +17268,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ALONSO CASAS, Abdón », avec pour commune « Tomelloso »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ALONSO CASAS, Abdón », avec pour commune « Tomelloso »."
     },
     {
       "nom": "ALONSO CUETO",
@@ -17273,7 +17291,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ALONSO CUETO, Antonio », avec pour commune « Llanes »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ALONSO CUETO, Antonio », avec pour commune « Llanes »."
     },
     {
       "nom": "ALONSO LANCHA",
@@ -17296,7 +17314,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ALONSO LANCHA, Jacinto », avec pour commune « Polán »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ALONSO LANCHA, Jacinto », avec pour commune « Polán »."
     },
     {
       "nom": "ALVAREZ",
@@ -17350,8 +17368,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ALVAREZ%20REQUEJO%20Lulo"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=%C3%81lvarez"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Álvarez Requejo » : mort à Dachau le 12/02/1945 (né à Infiesta). Nos fiches indiquaient le 13/02/1945 : écart à vérifier."
     },
     {
       "nom": "AMER VENDRELL",
@@ -17372,9 +17395,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Amer"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « AMER VENDRELL, Juan », avec pour commune « Manacor »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « AMER VENDRELL, Juan », avec pour commune « Manacor ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Juan Amer Vendrell » : mort à Dachau le 21/02/1945 (né à Manacor). La date de naissance y est le 06/02/1897 (nos fiches : 08/02/1897)."
     },
     {
       "nom": "ANADON CAJAL",
@@ -17397,7 +17424,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ANADÓN CAJAL, Félix », avec pour commune « Grañén »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ANADÓN CAJAL, Félix », avec pour commune « Grañén »."
     },
     {
       "nom": "ANDRES SANTOS",
@@ -17442,9 +17469,9 @@
       "naissance": "28/10/1903",
       "lieu": "Los-Arcos (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "15/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -17454,9 +17481,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Anto%C3%B1ana"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ANTOÑANA LÓPEZ, Simón », avec pour commune « Arcos (Los) »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ANTOÑANA LÓPEZ, Simón », avec pour commune « Arcos (Los) ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Simon Antoñana López » : mort à Dachau le 15/02/1945 (né à Los Arcos, domicilié à Bilbao, profession : peintre en bâtiment). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "ARBAUDIE",
@@ -17551,7 +17582,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ARCOS PÉREZ, Aureliano », avec pour commune « Huélamo »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ARCOS PÉREZ, Aureliano », avec pour commune « Huélamo »."
     },
     {
       "nom": "ARDURAT",
@@ -17687,9 +17718,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Artola"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ARTOLA ITUREN, Aurelio », avec pour commune « Lekeitio »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ARTOLA ITUREN, Aurelio », avec pour commune « Lekeitio ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Aurelio Artola Ituren » : mort à Dachau le 20/03/1945 (né à Lekeitio, domicilié à Perpignan (Pyrénées-Orientales), profession : coiffeur). La date de naissance y est le 27/05/1882 (nos fiches : 27/06/1882)."
     },
     {
       "nom": "ASLAN",
@@ -17764,7 +17799,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ASTIASUAIN ZARRA, Ignacio », avec pour commune « Baztan - Erratzu »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ASTIASUAIN ZARRA, Ignacio », avec pour commune « Baztan - Erratzu »."
     },
     {
       "nom": "ASTIER",
@@ -17879,9 +17914,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Bachiller"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BACHILLER, Silvio », avec pour commune « Muñana »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BACHILLER, Silvio », avec pour commune « Muñana ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Silvio Bachiller » : mort à Dachau le 21/02/1945 (né à Muñana, domicilié à (Cantal))."
     },
     {
       "nom": "BACHILLER BENITO",
@@ -17938,8 +17977,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BAIOCCHI%20Ernest"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Baiocchi"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Ernesto Baiocchi » : mort à Dachau le 11/02/1945 (né à Mantova, domicilié à Saint-Étienne (Loire), profession : mécanicien)."
     },
     {
       "nom": "BALABAN",
@@ -17986,7 +18030,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BALLESTERO GARGALLO, Ramón », avec pour commune « Castellote »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BALLESTERO GARGALLO, Ramón », avec pour commune « Castellote »."
     },
     {
       "nom": "BAPTISTE",
@@ -18081,7 +18125,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BAREDES ALFONSO, Isaac », avec pour commune « Aveliz »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BAREDES ALFONSO, Isaac », avec pour commune « Aveliz »."
     },
     {
       "nom": "BAREL",
@@ -18144,8 +18188,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BAREL%20Lorenzo"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Barel"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Laurenzo Barel » : mort à Dachau le 17/01/1945 (né à Pieve di Soligo (Treviso), domicilié à Penne-d'Agenais (Lot-et-Garonne), profession : employé d'hôtel). Nos fiches indiquaient le 25/12/1944 : écart à vérifier."
     },
     {
       "nom": "BARRAGUE",
@@ -18186,7 +18235,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BARRANCO NAVARRO, Cosme », avec pour commune « Torredonjimeno »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BARRANCO NAVARRO, Cosme », avec pour commune « Torredonjimeno »."
     },
     {
       "nom": "BARRAS",
@@ -18289,7 +18338,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BASTIDA FONTÁN, Emilio », avec pour commune « Sena »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BASTIDA FONTÁN, Emilio », avec pour commune « Sena »."
     },
     {
       "nom": "BAUMIER",
@@ -18384,7 +18433,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BENITO CABRERO, Juan », avec pour commune « Segovia ». Maderuelo se situe dans la province de Ségovie : les deux indications concordent."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BENITO CABRERO, Juan », avec pour commune « Segovia ». Maderuelo se situe dans la province de Ségovie : les deux indications concordent."
     },
     {
       "nom": "BERGE",
@@ -18465,16 +18514,21 @@
       "naissance": "05/02/1905",
       "lieu": "Biota (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "23/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BERROGAIN%20LAITA%20Matias"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Barrag%C3%A1n"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Matias Barragán Laita » : mort à Dachau le 23/02/1945 (né à Biota, profession : agriculteur). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "BESC",
@@ -18515,7 +18569,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BESORA GARCÍA, Salvador », avec pour commune « Reus »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BESORA GARCÍA, Salvador », avec pour commune « Reus »."
     },
     {
       "nom": "BETAT",
@@ -18698,9 +18752,9 @@
       "naissance": "05/09/1877",
       "lieu": "Madrid (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "21/12/1944",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -18710,9 +18764,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Blasco"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BLASCO SASERO, César », avec pour commune « Madrid »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BLASCO SASERO, César », avec pour commune « Madrid ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « César Blasco Sasero » : mort à Dachau le 21/12/1944 (né à Madrid, profession : officier). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "BOBADILLA RAMIREZ",
@@ -18748,16 +18806,21 @@
       "naissance": "04/10/1893",
       "lieu": "Hockelberk (B)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "13/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BOE%20KENS%20Georges"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Boeykens"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Georges Boeykens » : mort à Dachau le 13/02/1945 (né à Hockelberk, domicilié à Avignon (Vaucluse), profession : commerçant). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "BOGUS",
@@ -19022,8 +19085,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BOUZINAC%20Abel"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Bouzinac"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Abel Bouzinac » : mort à Dachau le 21/02/1945 (né à Blaye-les-Mines (Tarn), profession : fonctionnaire)."
     },
     {
       "nom": "BOYO SOMOZA",
@@ -19300,9 +19368,9 @@
       "naissance": "09/05/1885",
       "lieu": "Burgos (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "04/03/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -19312,9 +19380,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=C%C3%A1mara"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CÁMARA PÉREZ, Gregorio », avec pour commune « Burgos »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CÁMARA PÉREZ, Gregorio », avec pour commune « Burgos ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Gregorio Cámara Pérez » : mort à Dachau le 04/03/1945 (né à Burgos, domicilié à San Sebastián, profession : agriculteur). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "CAMPET",
@@ -19383,9 +19455,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Cantarero"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CANTARERO SANZ, Martín », avec pour commune « Anquela del Ducado »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CANTARERO SANZ, Martín », avec pour commune « Anquela del Ducado ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Martín Cantarero Sanz » : mort à Dachau le 21/02/1945 (né à Anquela del Ducado, profession : chimiste). La date de naissance y est le 29/02/1908 (nos fiches : 30/02/1908)."
     },
     {
       "nom": "CANTERA ABASCAL",
@@ -19552,7 +19628,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CARCELLER GARCÍA, José », avec pour commune « Cinctorres »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CARCELLER GARCÍA, José », avec pour commune « Cinctorres »."
     },
     {
       "nom": "CARLI",
@@ -19635,7 +19711,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CARRANZA Y VILLARES, Victoriano », avec pour commune « Barcelona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CARRANZA Y VILLARES, Victoriano », avec pour commune « Barcelona »."
     },
     {
       "nom": "CARRARA",
@@ -19688,8 +19764,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CASAMITJANA%20RIQUE%20Joaquin"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Casa"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Joaquín Casa-Mitjana Riquer » : mort à Dachau le 19/02/1945 (né à Barcelona, domicilié à Toulouse (Haute-Garonne), profession : chef de dépôt)."
     },
     {
       "nom": "CASANOVAS",
@@ -19706,8 +19787,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CASANOVAS%20Fran%C3%A7ois"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Casanova"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Francisco Casanova Coll » : mort à Dachau le 19/02/1945 (né à Terrassa, domicilié à Perpignan (Pyrénées-Orientales), profession : représentant de commerce)."
     },
     {
       "nom": "CASANOVAS DIOSDADO",
@@ -19730,7 +19816,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CASANOVA DIOSDADO, Rafael », avec pour commune « Barcelona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CASANOVA DIOSDADO, Rafael », avec pour commune « Barcelona »."
     },
     {
       "nom": "CASASUS",
@@ -19753,7 +19839,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CASASÚS ESPARZA, Eusebio », avec pour commune « Sangarrén »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CASASÚS ESPARZA, Eusebio », avec pour commune « Sangarrén »."
     },
     {
       "nom": "CASTAING",
@@ -19812,8 +19898,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CAUSILLAS%20CHAN%20Juan"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Casillas"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Juan Casillas Chans » : mort à Dachau le 31/03/1945 (né à Corns, profession : pêcheur)."
     },
     {
       "nom": "CERVERA SOTO",
@@ -19872,7 +19963,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CHAMORRO CORBILLO, Francisco », avec pour commune « Granja de Terre »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CHAMORRO CORBILLO, Francisco », avec pour commune « Granja de Terre »."
     },
     {
       "nom": "CHAMPAGNE",
@@ -19955,8 +20046,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CHAUMONT%20Prosper"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Chaumont"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Prosper Chaumont » : mort à Dachau le 12/04/1945 (né à Villac (Dordogne), domicilié à Castelnaud-Fayrac (Dordogne), profession : facteur)."
     },
     {
       "nom": "CHIAPPONI",
@@ -19973,8 +20069,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CHIAPPONI%20Honor%C3%A9"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Chiapponi"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Honoré Chiapponi » : mort à Dachau le 11/02/1945 (né à Cannes (Alpes-Maritimes), profession : aubergiste). Nos fiches indiquaient le 28/08/1944 : écart à vérifier."
     },
     {
       "nom": "CICCARELLI",
@@ -19984,15 +20085,20 @@
       "lieu": "Rocca-Secca (I)",
       "parcours": "?",
       "situation": "DCD",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "date_sortie": "25/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CICCARELLI%20Antoine"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Ciccarelli"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Antoine Ciccarelli » : mort à Dachau le 25/02/1945 (né à Roccasecca, domicilié à Saint-Étienne, profession : industriel). Son devenir n’était pas connu jusqu’ici dans nos fiches. La date de naissance y est le 18/10/1887 (nos fiches : 28/10/1887)."
     },
     {
       "nom": "CIGARROA",
@@ -20106,9 +20212,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Coronas"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CORONAS PUJADAS, Juan », avec pour commune « Figueres »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CORONAS PUJADAS, Juan », avec pour commune « Figueres ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Juan Coronas Pujadas » : mort à Dachau le 14/02/1945 (né à Figueres, domicilié à Perpignan (Pyrénées-Orientales), profession : comptable). Nos fiches indiquaient le 04/02/1945 : écart à vérifier."
     },
     {
       "nom": "COSTE",
@@ -20171,9 +20281,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Crist%C3%B3bal"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CRISTÓBAL LÓPEZ, Fermín », avec pour commune « Sepúlveda »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CRISTÓBAL LÓPEZ, Fermín », avec pour commune « Sepúlveda ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Fermín Cristóbal López » : mort à Dachau le 08/02/1945 (né à Sepúlveda, domicilié à Segovia, profession : ouvrier). Nos fiches indiquaient le 09/02/1945 : écart à vérifier."
     },
     {
       "nom": "CRUSAT CENTELLES",
@@ -20194,9 +20308,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Crusat"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CRUSAT CENTELLES, Víctor », avec pour commune « Barcelona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CRUSAT CENTELLES, Víctor », avec pour commune « Barcelona ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Victor Crusat Centelles » : mort à Dachau le 05/02/1945 (né à Barcelona, profession : comptable)."
     },
     {
       "nom": "CURTAL",
@@ -20355,16 +20473,21 @@
       "naissance": "13/06/1878",
       "lieu": "Jerez-de-la-Frontera (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "28/12/1944",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DE%20LA%20ROZA%20POZO%20Antonio"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=De"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Antonio De La Rosa Tozo » : mort à Dachau le 28/12/1944 (né à Jerez de la Frontera, domicilié à Vernay (Rhône), profession : chauffeur (chaudières)). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "DE LA TORRE LUQUE",
@@ -20387,7 +20510,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « DE LA TORRE LUQUE, Francisco », avec pour commune « Málaga »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « DE LA TORRE LUQUE, Francisco », avec pour commune « Málaga »."
     },
     {
       "nom": "DE MONTALIER",
@@ -20553,9 +20676,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=San"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SAN MARTÍN BALDUQUE, Manuel », avec pour commune « Valencia/València »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SAN MARTÍN BALDUQUE, Manuel », avec pour commune « Valencia/València ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Manuel San Martín Balduque » : mort à Dachau le 11/02/1945 (né à Valencia, domicilié à Barcelona, profession : soldat). Nos fiches indiquaient le 12/02/1945 : écart à vérifier."
     },
     {
       "nom": "DEBOE",
@@ -20870,7 +20997,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « DÍAZ MENDOZA, Pedro », avec pour commune « Santa Cruz »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « DÍAZ MENDOZA, Pedro », avec pour commune « Santa Cruz »."
     },
     {
       "nom": "DIAZ PEREZ GRUESO",
@@ -20923,8 +21050,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DICHARRY%20L%C3%A9on"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Dicharry"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Leon Dicharry » : mort à Dachau le 31/03/1945 (né à Bayonne (Basses-Pyrénées), profession : machiniste). La date de naissance y est le 01/06/1892 (nos fiches : 01/06/1902)."
     },
     {
       "nom": "DIEZ ALARIO",
@@ -20945,9 +21077,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Diez"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « DIEZ ALARIO, Donaciano », avec pour commune « Villavindad »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « DIEZ ALARIO, Donaciano », avec pour commune « Villavindad ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Donaciano Diez Alario » : mort à Dachau le 06/01/1945 (né à Villavindad, domicilié à Tarnos (Landes), profession : ouvrier)."
     },
     {
       "nom": "DIMITRIADES",
@@ -21177,8 +21313,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DUGENIT%20%2A%20Albert"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Dugenet"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Albert Dugenet » : mort à Dachau le 25/02/1945 (né à Châteauroux (Indre))."
     },
     {
       "nom": "DUGUA",
@@ -21271,16 +21412,21 @@
       "naissance": "17/07/1896",
       "lieu": "Poblet (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "19/04/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DURRO%20AURI%20Francisco"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Duro"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Francisco Duro Aur » : mort à Dachau le 19/04/1945 (né à Poblete, domicilié à Agen (Lot-et-Garonne), profession : ouvrier agricole). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "EDELSTEIN *",
@@ -21307,9 +21453,9 @@
       "naissance": "20/12/1888",
       "lieu": "Ledon (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "18/03/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -21319,9 +21465,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Edo"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « EDO PUMARETA, Gerónimo », avec pour commune « Barcelona ». La fiche française indique « Ledon » : écart à vérifier (lieu de naissance ou de résidence)."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « EDO PUMARETA, Gerónimo », avec pour commune « Barcelona ». La fiche française indique « Ledon » : écart à vérifier (lieu de naissance ou de résidence). Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Gerónimo Edo Pumareta » : mort à Dachau le 18/03/1945 (né à Lidon, domicilié à Barcelona). Son devenir n’était pas connu jusqu’ici dans nos fiches. La date de naissance y est le 20/12/1880 (nos fiches : 20/12/1888)."
     },
     {
       "nom": "ENCUENTRA CAMORA",
@@ -21360,9 +21510,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Escudero"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ESCUDERO REQUEJO, Anatole », avec pour commune « Nava de Roa »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ESCUDERO REQUEJO, Anatole », avec pour commune « Nava de Roa ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Anatole Escudero Requejo » : mort à Dachau le 15/02/1945 (né à Nava de Roa, profession : boucher). Nos fiches indiquaient le 16/02/1945 : écart à vérifier."
     },
     {
       "nom": "ESPEL",
@@ -21403,7 +21557,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ESTEVE LLUSA, Juan », avec pour commune « Borges Blanques (Les) »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ESTEVE LLUSA, Juan », avec pour commune « Borges Blanques (Les) »."
     },
     {
       "nom": "FACELINA",
@@ -21442,8 +21596,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=FANDOS%20RIOS%20Jos%C3%A9"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Fandos"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « José Fandos Ríos » : mort à Dachau le 17/03/1945 (né à Salsigne (Aude), domicilié à Barcelona, profession : commerçant). Nos fiches indiquaient le 24/03/1945 : écart à vérifier."
     },
     {
       "nom": "FAUVEL",
@@ -21562,7 +21721,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « FERNÁNDEZ MOLINA, Isaac », avec pour commune « Granada ». La fiche française indique « Puebla » : écart à vérifier (lieu de naissance ou de résidence)."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « FERNÁNDEZ MOLINA, Isaac », avec pour commune « Granada ». La fiche française indique « Puebla » : écart à vérifier (lieu de naissance ou de résidence)."
     },
     {
       "nom": "FERRARI",
@@ -21579,8 +21738,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=FERRARI%20Raoul"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Ferrari"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Raoul Ferrari » : mort à Dachau le 07/04/1945 (né à Marseille (Bouches-du-Rhône), profession : coiffeur)."
     },
     {
       "nom": "FERREIRA",
@@ -21615,8 +21779,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=FERRI%20Fr%C3%A9d%C3%A9ric"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Ferri"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Federico Ferri » : mort à Dachau le 10/03/1945 (né à Fermo, domicilié à (Puy-de-Dôme), profession : menuisier)."
     },
     {
       "nom": "FIGUERAS",
@@ -21717,7 +21886,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « FOLCH SANS, Salvador », avec pour commune « Terrassa »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « FOLCH SANS, Salvador », avec pour commune « Terrassa »."
     },
     {
       "nom": "FONS",
@@ -22030,8 +22199,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=GARCIA%20GARCIA%20Miguel"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Garc%C3%ADa"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Miguel García » : mort à Dachau le 15/02/1945 (né à Matapozuelos, domicilié à Louviers (France), profession : machiniste). Nos fiches indiquaient le 16/02/1945 : écart à vérifier. La date de naissance y est le 08/05/1895 (nos fiches : 08/05/1894)."
     },
     {
       "nom": "GARCIA MIRANDA",
@@ -22079,14 +22253,19 @@
       "parcours": "?",
       "situation": "DCD",
       "date_sortie": "12/02/1945",
-      "lieu_sortie": "?",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=GARCIA%20MONTE%20Valentin"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Garc%C3%ADa"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Valentín García Menier » : mort à Dachau le 11/02/1945 (né à Figueres, domicilié à Béziers (Hérault), profession : ouvrier agricole). Nos fiches indiquaient le 12/02/1945 : écart à vérifier."
     },
     {
       "nom": "GARCIA MUNOZ",
@@ -22109,7 +22288,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GARCÍA MUÑOZ, Gabriel », avec pour commune « Águilas »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GARCÍA MUÑOZ, Gabriel », avec pour commune « Águilas »."
     },
     {
       "nom": "GARCIA SANTOS",
@@ -22132,7 +22311,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GARCÍA SANTOS, Salvador », avec pour commune « Madrid »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GARCÍA SANTOS, Salvador », avec pour commune « Madrid »."
     },
     {
       "nom": "GAREL",
@@ -22167,8 +22346,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=GARZENA%20Joseph"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Garzena"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Josef Garzena » : mort à Dachau le 08/02/1945 (né à San Maurizio, domicilié à Lyon (Rhône), profession : ferrailleur). Nos fiches indiquaient le 17/02/1945 : écart à vérifier."
     },
     {
       "nom": "GASPICH",
@@ -22249,8 +22433,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=GESSI%20Jacques"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Gessi"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Giacomo Gessi » : mort à Dachau le 06/02/1945 (né à Alfonsine, domicilié à Cagnes-sur-Mer (Alpes-Maritimes), profession : ouvrier agricole). Nos fiches indiquaient le 07/02/1945 : écart à vérifier."
     },
     {
       "nom": "GEZZI",
@@ -22281,16 +22470,21 @@
       "naissance": "25/08/1883",
       "lieu": "Montreal (?)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "05/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=GIACOMELLO%20Carlo"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Giacomello"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Carlo Giacomello » : mort à Dachau le 05/02/1945 (né à Montreale, profession : ouvrier). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "GIMENEZ DONAIRE",
@@ -22299,9 +22493,9 @@
       "naissance": "29/10/1912",
       "lieu": "Penalsordo (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "13/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -22311,9 +22505,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Gim%C3%A9nez"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GIMÉNEZ DONAIRE, Feliciano », avec pour commune « Peñalsordo »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GIMÉNEZ DONAIRE, Feliciano », avec pour commune « Peñalsordo ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Feliciano Giménez Donaire » : mort à Dachau le 13/02/1945 (né à Peñalsordo, profession : paysan). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "GIMENO TIMONEDA",
@@ -22459,7 +22657,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GÓMEZ BARCELINA, Víctor », avec pour commune « San Salvador »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GÓMEZ BARCELINA, Víctor », avec pour commune « San Salvador »."
     },
     {
       "nom": "GONZALES RAMOS",
@@ -22482,7 +22680,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GONZÁLEZ RAMOS, Simón », avec pour commune « Parada »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GONZÁLEZ RAMOS, Simón », avec pour commune « Parada »."
     },
     {
       "nom": "GONZALES SALMERON",
@@ -22505,7 +22703,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GONZÁLEZ SALMERÓN, Lorenzo », avec pour commune « Berja »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GONZÁLEZ SALMERÓN, Lorenzo », avec pour commune « Berja »."
     },
     {
       "nom": "GOUX",
@@ -22586,9 +22784,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Cardellach"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CARDELLACH GRAU, Pablo », avec pour commune « Terrassa ». L’ordre des noms de famille y est inversé (Cardellach Grau) : identification à confirmer."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CARDELLACH GRAU, Pablo », avec pour commune « Terrassa ». L’ordre des noms de famille y est inversé (Cardellach Grau) : identification à confirmer. Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Pablo Cardellach Grau » : mort à Dachau le 04/06/1945 (né à Terrassa, domicilié à Toulouse (Haute-Garonne), profession : tisserand)."
     },
     {
       "nom": "GROOTE",
@@ -22623,8 +22825,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=GROSPERRIN%20Lucien"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Grosperrin"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Lucien Grosperrin » : mort à Dachau le 06/03/1945 (né à Arcachon (Gironde), domicilié à Blaye (Gironde), profession : enseignant)."
     },
     {
       "nom": "GUIDICE",
@@ -22735,16 +22942,21 @@
       "naissance": "27/11/1888",
       "lieu": "Jawicgerwice (PL)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "31/01/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=HANERLAK%20Wladislas"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Hanerlak"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Wladislaus Hanerlak » : mort à Dachau le 31/01/1945 (né à Jawicgeriwce, domicilié à Blaye-les-Mines (Tarn), profession : mineur). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "HANSEL",
@@ -22753,16 +22965,21 @@
       "naissance": "11/11/1896",
       "lieu": "Märisch-Schönberg (CZ)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "08/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=HANSEL%20Otto"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Hansel"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Otto Hansel » : mort à Dachau le 08/02/1945 (né à Šumperk/Mährisch Schönberg, domicilié à Bern, profession : forgeron). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "HANTCHER",
@@ -22813,16 +23030,21 @@
       "naissance": "14/06/1892",
       "lieu": "Budapest (H)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "08/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=HARMATH%20Louis"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Harmath"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Louis Harmath » : mort à Dachau le 08/02/1945 (né à Budapest, domicilié à Monte-Carlo, profession : agent de change). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "HECHT",
@@ -22885,7 +23107,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « HERNÁNDEZ GUZMÁN, Cristóbal », avec pour commune « Barcelona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « HERNÁNDEZ GUZMÁN, Cristóbal », avec pour commune « Barcelona »."
     },
     {
       "nom": "HERRERO ALSINA",
@@ -22966,8 +23188,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=HEYMANN%20HALEINE%20Rudolf"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Heymann"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Rudolf Heymann-Haleine » : mort à Dachau le 07/11/1944 (né à Berlin, domicilié à Nice (Alpes-Maritimes), profession : écrivain)."
     },
     {
       "nom": "HIPPOLYTE",
@@ -23042,9 +23269,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Ib%C3%A1%C3%B1ez"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « IBÁÑEZ IZCO, Lorenzo », avec pour commune « Pamplona/Iruña »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « IBÁÑEZ IZCO, Lorenzo », avec pour commune « Pamplona/Iruña ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Lorenzo Ibáñez Izco » : mort à Dachau le 24/12/1944 (né à Pamplona/Iruña, domicilié à Toulouse (Haute-Garonne), profession : maçon). Nos fiches indiquaient le 15/01/1945 : écart à vérifier."
     },
     {
       "nom": "ILLIN",
@@ -23172,8 +23403,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=ISAMBERT%20Pierre"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Isambert"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Pierre Isambert » : mort à Dachau le 17/02/1945 (né à Paris, domicilié à Bayonne (Basses-Pyrénées), profession : directeur d'entreprise). Nos fiches indiquaient le 18/02/1945 : écart à vérifier."
     },
     {
       "nom": "ISERN OLIVE",
@@ -23214,7 +23450,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « IVRANIA, Manuel », avec pour commune « Parada de Carmes »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « IVRANIA, Manuel », avec pour commune « Parada de Carmes »."
     },
     {
       "nom": "IZER",
@@ -23297,7 +23533,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « JÁNDULA ARENAS, Diego », avec pour commune « Villa del Río »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « JÁNDULA ARENAS, Diego », avec pour commune « Villa del Río »."
     },
     {
       "nom": "JANTSON",
@@ -23314,8 +23550,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=JANTSON%20Alexander"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Jantson"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Alexander Jantson » : mort à Dachau le 10/10/1944 (né à Pärnu (Estland), profession : ouvrier (vaporisage)). Nos fiches indiquaient le 11/10/1944 : écart à vérifier. La date de naissance y est le 28/03/1886 (nos fiches : 28/03/1896)."
     },
     {
       "nom": "JARDEL",
@@ -23428,8 +23669,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=JOBART%20Charles"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Jobart"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Charles Jobart » : mort à Dachau le 28/12/1944 (né à Paris, domicilié à Saint-Denis, profession : charpentier)."
     },
     {
       "nom": "JORDAN MARTOS",
@@ -23456,16 +23702,21 @@
       "naissance": "15/02/1898",
       "lieu": "Poznan (PL)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "27/12/1944",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=JOSKE%20Ernesto"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Joske"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Ernesto Joske » : mort à Dachau le 27/12/1944 (né à Poznań (Polen)). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "JÜNGLING",
@@ -23627,8 +23878,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=K%C3%9CNZER%20Maurice"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Kunzer"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Maurice Kunzer » : mort à Dachau le 02/03/1945 (né à La Chaux-de-Fonds (Neuenburg), domicilié à Paris, profession : commerçant)."
     },
     {
       "nom": "LABARTHE",
@@ -23687,8 +23943,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LABRUNIE%20Alfred"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Labrunne"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Alfred Labrunne » : mort à Dachau le 14/01/1945 (né à Saint-Cyprien (Dordogne), domicilié à Saint-Vincent-de-Cosse (Dordogne))."
     },
     {
       "nom": "LACOSTE",
@@ -23888,16 +24149,21 @@
       "naissance": "03/01/1890",
       "lieu": "Hespringhausen (D)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "28/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LAMOTTE%20Christian"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Lamotte"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Christian Lamotte » : mort à Dachau le 28/02/1945 (né à Hesperinghausen (Hessen), domicilié à Hagen, profession : crémier). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "LARROCA VENDRELL",
@@ -23963,8 +24229,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LAURENT%20Henri"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Laurent"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Henri Laurent » : mort à Dachau le 17/02/1945 (né à Maxéville, domicilié à Revel (Haute-Garonne), profession : jardinier). Nos fiches indiquaient le 18/02/1945 : écart à vérifier. La date de naissance y est le 31/12/1895 (nos fiches : 31/12/1894)."
     },
     {
       "nom": "LAURICELLA",
@@ -24296,8 +24567,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=L%C3%89VY%20Beno%C3%AEt"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Levy"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Benoit Levy » : mort à Dachau le 02/02/1945 (né à Alexandrie, domicilié à Limoges (Haute-Vienne), profession : banquier)."
     },
     {
       "nom": "LEYRIS",
@@ -24459,7 +24735,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « LÓPEZ GARCÍA, Regino », avec pour commune « Madrid »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « LÓPEZ GARCÍA, Regino », avec pour commune « Madrid »."
     },
     {
       "nom": "LOPEZ GONZALEZ",
@@ -24498,9 +24774,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=L%C3%B3pez"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « LÓPEZ MARTÍNEZ, Leoncio », avec pour commune « Renedo de la Vega »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « LÓPEZ MARTÍNEZ, Leoncio », avec pour commune « Renedo de la Vega ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Leoncio López Martínez » : mort à Dachau le 19/02/1945 (né à Piña de Campos, domicilié à Lourdes (Hautes-Pyrénées), profession : ouvrier)."
     },
     {
       "nom": "LUMIA",
@@ -24517,8 +24797,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LUMIA%20Diego"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Lumia"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Diego Lumia » : mort à Dachau le 21/01/1945 (né à San Cataldo, domicilié à (Gard), profession : ouvrier)."
     },
     {
       "nom": "MACH",
@@ -24601,9 +24886,9 @@
       "naissance": "06/04/1905",
       "lieu": "Ujo (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "01/03/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -24613,9 +24898,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Magdeleno"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MAGDELENO FORCELLEDO, Alberto », avec pour commune « Mieres - Ujo »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MAGDELENO FORCELLEDO, Alberto », avec pour commune « Mieres - Ujo ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Alberto Magdeleno Forcelledo » : mort à Dachau le 01/03/1945 (né à Ujo-Mieres, profession : invalide). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "MAINAR MAINAR",
@@ -24638,7 +24927,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MAINAR MAINAR, Casimiro Manuel », avec pour commune « Vistabella »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MAINAR MAINAR, Casimiro Manuel », avec pour commune « Vistabella »."
     },
     {
       "nom": "MANDRON",
@@ -24655,8 +24944,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MANDRON%20Bertrand"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Mandron"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Bertrand Mandron » : mort à Dachau le 16/03/1945 (né à Bayonne (Basses-Pyrénées), profession : commerçant)."
     },
     {
       "nom": "MANKO",
@@ -24665,16 +24959,21 @@
       "naissance": "18/11/1901",
       "lieu": "Zatuke (UKR)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "25/03/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MANKO%20Andr%C3%A9"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Manko"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Andre Manko » : mort à Dachau le 25/03/1945 (né à Zaluzej, domicilié à Jaworone, profession : cordonnier). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "MANSENEAL",
@@ -24775,7 +25074,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MARCOS ROJO, Luis », avec pour commune « Guadalajara »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MARCOS ROJO, Luis », avec pour commune « Guadalajara »."
     },
     {
       "nom": "MARCOUYRE",
@@ -24816,7 +25115,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MARFIL GARCÍA, Juan », avec pour commune « Montefrío »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MARFIL GARCÍA, Juan », avec pour commune « Montefrío »."
     },
     {
       "nom": "MARIN MASDEMONT",
@@ -24825,16 +25124,21 @@
       "naissance": "01/04/1877",
       "lieu": "Aldeaquemada (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "12/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MARIN%20MASDEMONT%20Teodoro"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Mar%C3%ADn"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Teodoro Marín » : mort à Dachau le 12/02/1945 (né à Aldeaquemada, profession : officier). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "MAROUCCI",
@@ -24887,8 +25191,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MARTI%20PONS%20Juan"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Mart%C3%AD"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Joan Martí Pons » : mort à Dachau le 08/02/1945 (né à Xerta, profession : agriculteur). Nos fiches indiquaient le 09/02/1945 : écart à vérifier."
     },
     {
       "nom": "MARTIN BLASQUEZ",
@@ -24911,7 +25220,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MARTÍN BLÁSQUEZ, Teófilo », avec pour commune « Cuevas del Valle »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MARTÍN BLÁSQUEZ, Teófilo », avec pour commune « Cuevas del Valle »."
     },
     {
       "nom": "MARTINEZ FERNANDEZ",
@@ -25042,7 +25351,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MARTÍNEZ TRUEBA, Rogelio », avec pour commune « Voto - Secadura »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MARTÍNEZ TRUEBA, Rogelio », avec pour commune « Voto - Secadura »."
     },
     {
       "nom": "MARTINS",
@@ -25087,7 +25396,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MARTOS FERNÁNDEZ, Francisco », avec pour commune « Málaga »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MARTOS FERNÁNDEZ, Francisco », avec pour commune « Málaga »."
     },
     {
       "nom": "MARTY",
@@ -25132,7 +25441,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MASIP MASIP, Jaime », avec pour commune « Bovera »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MASIP MASIP, Jaime », avec pour commune « Bovera »."
     },
     {
       "nom": "MATEOS",
@@ -25141,16 +25450,21 @@
       "naissance": "03/03/1897",
       "lieu": "Serpa (P)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "06/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MATEOS%20Alberto"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Mateos"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Albert Mateos » : mort à Dachau le 06/02/1945 (né à Sierpo, profession : cordonnier). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "MATHEY",
@@ -25167,8 +25481,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MATHEY%20Jules"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Mathey"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Jules Mathey » : mort à Dachau le 14/01/1945 (né à Martigny (Valais), domicilié à Thonon-les-Bains (Haute-Savoie), profession : agriculteur). Nos fiches indiquaient le 15/01/1945 : écart à vérifier."
     },
     {
       "nom": "MAUHOURAT",
@@ -25305,7 +25624,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MESSEGUER GALLIA, Enrique », avec pour commune « Ulldecona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MESSEGUER GALLIA, Enrique », avec pour commune « Ulldecona »."
     },
     {
       "nom": "MESLI",
@@ -25419,8 +25738,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MILER%20Alfred"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Miler"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Alfred Josip Miler » : mort à Dachau le 23/01/1945 (né à Zagreb (Kroatien), domicilié à Rumilly (Haute-Savoie), profession : commerçant). La date de naissance y est le 03/03/1888 (nos fiches : 03/05/1888)."
     },
     {
       "nom": "MIQUEL",
@@ -25500,8 +25824,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MONTANER%20Antoine"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Montaner"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Antonio Montaner » : mort à Dachau le 11/01/1945 (né à Espierba, domicilié à Luz-Saint-Sauveur (Hautes-Pyrénées), profession : charpentier). La date de naissance y est le 05/04/1906 (nos fiches : 08/04/1906)."
     },
     {
       "nom": "MONTANER",
@@ -25570,7 +25899,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MOR VENTURA, José », avec pour commune « Barcelona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MOR VENTURA, José », avec pour commune « Barcelona »."
     },
     {
       "nom": "MORALES SANCHEZ",
@@ -25593,7 +25922,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MORALES SÁNCHEZ, Francisco », avec pour commune « Pechina »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MORALES SÁNCHEZ, Francisco », avec pour commune « Pechina »."
     },
     {
       "nom": "MORAND",
@@ -25628,8 +25957,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MORANDI%20Angelo"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Morandi"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Angelo Morandi » : mort à Dachau le 14/02/1945 (né à Prato La Corte, domicilié à Nice (Alpes-Maritimes))."
     },
     {
       "nom": "MORATO ARIAZ",
@@ -25656,16 +25990,21 @@
       "naissance": "05/09/1882",
       "lieu": "Pietralunga (I)",
       "parcours": "?",
-      "situation": "D",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "12/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MORELLI%20Attilio"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Morelli"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Attilio Morelli » : mort à Dachau le 12/02/1945 (né à Pietralunga (Perugia), domicilié à Pégomas (Alpes-Maritimes), profession : cordonnier). Son devenir n’était pas connu jusqu’ici dans nos fiches. La date de naissance y est le 02/09/1882 (nos fiches : 05/09/1882)."
     },
     {
       "nom": "MORON RUEDA",
@@ -25686,9 +26025,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Mor%C3%B3n"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MORÓN RUEDA, Patricio », avec pour commune « Orihuela del Tremedal »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MORÓN RUEDA, Patricio », avec pour commune « Orihuela del Tremedal ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Patricio Morón Rueda » : mort à Dachau le 17/02/1945 (né à Orihuela del Tremedal, domicilié à Fumel (Lot-et-Garonne), profession : ouvrier). La date de naissance y est le 17/03/1891 (nos fiches : 29/01/1891)."
     },
     {
       "nom": "MOSSOLIN",
@@ -25705,8 +26048,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MOSSOLIN%20Jean"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Mossolin"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Giovanni Pietro Mossolin » : mort à Dachau le 01/12/1944 (né à Lemigo, domicilié à Toulouse (Haute-Garonne), profession : juge). Nos fiches indiquaient le 30/11/1944 : écart à vérifier."
     },
     {
       "nom": "MROZ",
@@ -25723,8 +26071,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MROZ%20Jan"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Mroz"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Jan Mroz » : mort à Dachau le 11/11/1944 (né à Zakta Gora, domicilié à Castiglione (Haute-Garonne), profession : agriculteur)."
     },
     {
       "nom": "MUNOZ MARTOS",
@@ -25747,7 +26100,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MUÑOZ MARTOS, Miguel », avec pour commune « Andújar »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MUÑOZ MARTOS, Miguel », avec pour commune « Andújar »."
     },
     {
       "nom": "MUNOZ MUNOZ",
@@ -25935,7 +26288,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « NARVAEZ FERNÁNDEZ, Manuel », avec pour commune « Málaga »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « NARVAEZ FERNÁNDEZ, Manuel », avec pour commune « Málaga »."
     },
     {
       "nom": "NAST *",
@@ -25976,7 +26329,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « NAVARRA GARCÍA, Juan », avec pour commune « Barcelona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « NAVARRA GARCÍA, Juan », avec pour commune « Barcelona »."
     },
     {
       "nom": "NAVARRO GIMENEZ",
@@ -25993,8 +26346,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=NAVARRO%20GIMENEZ%20Santiago"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Navarro"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Santiago Navarro Gómez » : mort à Dachau le 09/02/1945 (né à Valencia, domicilié à Gilet, profession : maçon). Nos fiches indiquaient le 10/02/1945 : écart à vérifier."
     },
     {
       "nom": "NAVARRO MARTINEZ",
@@ -26089,8 +26447,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=NEYMOZ%20Claude"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Neymoz"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Claude Neymoz » : mort à Dachau le 07/02/1945 (né à Geun, domicilié à Douville, profession : retraité)."
     },
     {
       "nom": "NIBAUT",
@@ -26173,7 +26536,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « NICOLÁS MIRURI, Jesús », avec pour commune « Viana »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « NICOLÁS MIRURI, Jesús », avec pour commune « Viana »."
     },
     {
       "nom": "NIEDZIALEK",
@@ -26295,7 +26658,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « OLIO PLANELLAS, Pedro », avec pour commune « Don Lorenzo ». La fiche française indique « San Lorenzo de la Muga » : écart à vérifier (lieu de naissance ou de résidence)."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « OLIO PLANELLAS, Pedro », avec pour commune « Don Lorenzo ». La fiche française indique « San Lorenzo de la Muga » : écart à vérifier (lieu de naissance ou de résidence)."
     },
     {
       "nom": "OLIVA CASTILLO",
@@ -26318,7 +26681,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « OLIVA CASTILLO, Víctor », avec pour commune « Madrid »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « OLIVA CASTILLO, Víctor », avec pour commune « Madrid »."
     },
     {
       "nom": "OLIVARES VILLEGAT",
@@ -26341,7 +26704,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « OLIVARES VILLEGAT, José », avec pour commune « Cartagena »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « OLIVARES VILLEGAT, José », avec pour commune « Cartagena »."
     },
     {
       "nom": "OLIVER GILABERT",
@@ -26447,7 +26810,7 @@
       "lieu": "Madrid (E)",
       "parcours": "Da",
       "situation": "DCD",
-      "date_sortie": "??/02/1945",
+      "date_sortie": "09/02/1945",
       "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
@@ -26458,9 +26821,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Ortega"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ORTEGA SÁNCHEZ, Augusto », avec pour commune « Madrid »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ORTEGA SÁNCHEZ, Augusto », avec pour commune « Madrid ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Augusto Ortega-Sánchez » : mort à Dachau le 09/02/1945 (né à Madrid, profession : typographe). Nos fiches ne donnaient que le mois (février 1945) : la date exacte est ainsi précisée. La date de naissance y est le 11/09/1917 (nos fiches : 11/09/1918)."
     },
     {
       "nom": "ORTIZ AUSTRICH",
@@ -26483,7 +26850,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ORTIZ AUSTRICH, José », avec pour commune « Barcelona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ORTIZ AUSTRICH, José », avec pour commune « Barcelona »."
     },
     {
       "nom": "ORUS ORUS",
@@ -26506,7 +26873,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ORUS ORUS, Francisco », avec pour commune « Torralba »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ORUS ORUS, Francisco », avec pour commune « Torralba »."
     },
     {
       "nom": "OSZMALEK",
@@ -26533,16 +26900,21 @@
       "naissance": "14/09/1885",
       "lieu": "Petrograd (R)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "14/03/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=OTTOSON%20Oscar"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Ottoson"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Oskar Ottoson » : mort à Dachau le 14/03/1945 (né à Saint-Pétersbourg (Russland), profession : marin). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "PAILLOU",
@@ -26593,9 +26965,9 @@
       "naissance": "03/12/1890",
       "lieu": "Madrid (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "25/03/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -26605,9 +26977,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Pallar%C3%A9s"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PALLARÉS FERRER, Pedro », avec pour commune « Madrid »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PALLARÉS FERRER, Pedro », avec pour commune « Madrid ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Pedro Pallarés Ferrer » : mort à Dachau le 25/03/1945 (né à Madrid, profession : officier). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "PALLAVICINI",
@@ -26644,7 +27020,7 @@
       "date_sortie": "01/02/1945",
       "lieu_sortie": "Dachau",
       "observations": "—",
-      "histoire": "Résistant antifasciste d’origine italienne, Guido Palmino est interné au camp du Vernet avant d’être déporté par le Train fantôme. Il reçoit le matricule 94257 à Dachau et y meurt le 1er février 1945, d’après le témoignage de son petit-fils Guy Scarpetta, dont le roman « Guido » et le documentaire consacré au convoi ont contribué à retracer l’histoire familiale.",
+      "histoire": "Résistant antifasciste d’origine italienne, Guido Palmino est interné au camp du Vernet avant d’être déporté par le Train fantôme. Il reçoit le matricule 94257 à Dachau et y meurt le 1er février 1945, d’après le témoignage de son petit-fils Guy Scarpetta, dont le roman « Guido » et le documentaire consacré au convoi ont contribué à retracer l’histoire familiale. Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Guido Palmino » : mort à Dachau le 21/03/1945 (né à Morozzo (Cuneo), domicilié à Châteauroux (Indre), profession : maçon). Nos fiches indiquaient le 01/02/1945 : écart à vérifier. La date de naissance y est le 26/07/1889 (nos fiches : 25/07/1889).",
       "sources": [
         {
           "label": "Guy Scarpetta — enquête familiale et film, archives de production",
@@ -26661,6 +27037,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=PALMINO%20Guido"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Palmino"
         }
       ],
       "photo_archive": {
@@ -26835,7 +27215,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PEINADO DE LA CRUZ, Ramón », avec pour commune « Carolina (La) »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PEINADO DE LA CRUZ, Ramón », avec pour commune « Carolina (La) »."
     },
     {
       "nom": "PEIRO ESTABAN",
@@ -26924,7 +27304,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PELLÓN CIFUENTES, Bernardo », avec pour commune « Santander »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PELLÓN CIFUENTES, Bernardo », avec pour commune « Santander »."
     },
     {
       "nom": "PEREZ CALVERON",
@@ -26945,9 +27325,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=P%C3%A9rez"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PÉREZ CALVERÓN, Esteban », avec pour commune « Santander »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PÉREZ CALVERÓN, Esteban », avec pour commune « Santander ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Esteban Pérez Calverón » : mort à Dachau le 09/02/1945 (né à Santander, profession : mineur). Nos fiches indiquaient le 10/02/1945 : écart à vérifier."
     },
     {
       "nom": "PEREZ ORDUNA",
@@ -26994,8 +27378,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=PERPIGNA%20Gabriel"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Perpigna"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Gabriel Perpigna » : mort à Dachau le 07/03/1945 (né à Lannux (Gers), domicilié à Aire-sur-l'Adour (Landes), profession : forgeron). La date de naissance y est le 11/03/1911 (nos fiches : 20/03/1911)."
     },
     {
       "nom": "PERRUCHA GONZALEZ",
@@ -27018,7 +27407,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PERRUCHA GONZÁLEZ, Teófilo », avec pour commune « Hiendelaencina »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PERRUCHA GONZÁLEZ, Teófilo », avec pour commune « Hiendelaencina »."
     },
     {
       "nom": "PESSAN",
@@ -27251,7 +27640,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PINTO MARTÍN, Regino », avec pour commune « Benafarces »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PINTO MARTÍN, Regino », avec pour commune « Benafarces »."
     },
     {
       "nom": "PIOCH",
@@ -27316,7 +27705,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PLANELLS BONET, Antonio », avec pour commune « Ibiza / Eivissa »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PLANELLS BONET, Antonio », avec pour commune « Ibiza / Eivissa »."
     },
     {
       "nom": "POCOUS",
@@ -27391,9 +27780,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Polo"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « POLO MIRÓN, José », avec pour commune « Cáceres »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « POLO MIRÓN, José », avec pour commune « Cáceres ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « José Polo Mirón » : mort à Dachau le 14/12/1944 (né à Cáceres, domicilié à Madrid, profession : officier). Nos fiches indiquaient le 15/12/1944 : écart à vérifier."
     },
     {
       "nom": "POLONIO MORALES",
@@ -27416,7 +27809,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « POLONIO MORALES, Antonio », avec pour commune « Montilla »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « POLONIO MORALES, Antonio », avec pour commune « Montilla »."
     },
     {
       "nom": "PONCE ALARCON",
@@ -27439,7 +27832,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PONCE ALARCÓN, Martín », avec pour commune « Cuevas del Almanzora »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PONCE ALARCÓN, Martín », avec pour commune « Cuevas del Almanzora »."
     },
     {
       "nom": "PONS",
@@ -27508,9 +27901,9 @@
       "naissance": "30/04/1910",
       "lieu": "Linares (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "28/03/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -27520,9 +27913,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Povedano"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « POVEDANO ROBLES, Manuel », avec pour commune « Linares »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « POVEDANO ROBLES, Manuel », avec pour commune « Linares ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Manuel Povedano Robles » : mort à Dachau le 28/03/1945 (né à Linares, profession : mineur). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "POZO BENITEZ",
@@ -27699,7 +28096,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RABASA SALARICH, José », avec pour commune « Sort »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RABASA SALARICH, José », avec pour commune « Sort »."
     },
     {
       "nom": "RADERMECKER",
@@ -27776,7 +28173,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RAMOS FERNÁNDEZ, Augusto », avec pour commune « Toledo »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RAMOS FERNÁNDEZ, Augusto », avec pour commune « Toledo »."
     },
     {
       "nom": "RAULT",
@@ -27793,8 +28190,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=RAULT%20Marcelin"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Rault"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Marcelin Rault » : mort à Dachau le 14/02/1945 (né à Conteville, domicilié à Bergerac (Dordogne), profession : jardinier)."
     },
     {
       "nom": "RAVISSI",
@@ -27803,16 +28205,21 @@
       "naissance": "25/02/1886",
       "lieu": "Turin (I)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "18/01/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=RAVISSI%20Sebastian"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Ravissi"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Sebastian Ravissi » : mort à Dachau le 18/01/1945 (né à Turin, domicilié à Liège (Belgien), profession : mineur). Son devenir n’était pas connu jusqu’ici dans nos fiches. La date de naissance y est le 25/12/1886 (nos fiches : 25/02/1886)."
     },
     {
       "nom": "REDENSCHEK",
@@ -27857,9 +28264,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Redondo"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « REDONDO FLORES, Carlos », avec pour commune « Zamora »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « REDONDO FLORES, Carlos », avec pour commune « Zamora ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Carlos Redondo Flores » : mort à Dachau le 09/03/1945 (né à Zamora, domicilié à Le Vernet (France), profession : officier)."
     },
     {
       "nom": "REDONDO VASQUEZ",
@@ -27900,7 +28311,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RELLA PUJOS, José », avec pour commune « Vilanos »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RELLA PUJOS, José », avec pour commune « Vilanos »."
     },
     {
       "nom": "RENAUD",
@@ -27941,7 +28352,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RETES DE LLANTONC RESPALDIZA, Antonio », avec pour commune « Vitoria-Gasteiz »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RETES DE LLANTONC RESPALDIZA, Antonio », avec pour commune « Vitoria-Gasteiz »."
     },
     {
       "nom": "REY ORIOL",
@@ -27964,7 +28375,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « REY ORIOL, José », avec pour commune « Lleida »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « REY ORIOL, José », avec pour commune « Lleida »."
     },
     {
       "nom": "REYNIS",
@@ -28073,7 +28484,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROBLES AGÉN, Antonio », avec pour commune « Vélez-Blanco »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROBLES AGÉN, Antonio », avec pour commune « Vélez-Blanco »."
     },
     {
       "nom": "ROCA CAMPILLO",
@@ -28084,7 +28495,7 @@
       "parcours": "?",
       "situation": "DCD",
       "date_sortie": "10/02/1945",
-      "lieu_sortie": "?",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -28094,9 +28505,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Roca"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROCA CAMPILLO, Cecilio », avec pour commune « Unión (La) »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROCA CAMPILLO, Cecilio », avec pour commune « Unión (La) ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Cecilio Roca Campillo » : mort à Dachau le 10/02/1945 (né à La Unión, domicilié à Perpignan (Pyrénées-Orientales), profession : agriculteur). La date de naissance y est le 15/01/1885 (nos fiches : 15/01/1883)."
     },
     {
       "nom": "ROCA TARDA",
@@ -28119,7 +28534,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROCA TARDA, José », avec pour commune « Barcelona ». La fiche française indique « Esparraguera » : écart à vérifier (lieu de naissance ou de résidence)."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROCA TARDA, José », avec pour commune « Barcelona ». La fiche française indique « Esparraguera » : écart à vérifier (lieu de naissance ou de résidence)."
     },
     {
       "nom": "RODRIGUEZ HERNANDEZ",
@@ -28142,7 +28557,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RODRÍGUEZ HERNÁNDEZ, Abelardo », avec pour commune « Madrid »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RODRÍGUEZ HERNÁNDEZ, Abelardo », avec pour commune « Madrid »."
     },
     {
       "nom": "RODRIGUEZ MARTINEZ",
@@ -28169,9 +28584,9 @@
       "naissance": "28/10/1898",
       "lieu": "Albareles (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "25/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -28181,9 +28596,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Rodr%C3%ADguez"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RODRÍGUEZ PÉREZ, Nicolás », avec pour commune « Albarelas »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « RODRÍGUEZ PÉREZ, Nicolás », avec pour commune « Albarelas ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Nicolás Rodríguez Pérez » : mort à Dachau le 25/02/1945 (né à Albarellos, profession : employé aux écritures). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "ROIG BRULL",
@@ -28224,7 +28643,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROJAS ROQUE, Celestino », avec pour commune « Barcelona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROJAS ROQUE, Celestino », avec pour commune « Barcelona »."
     },
     {
       "nom": "ROMERO RISQUEZ",
@@ -28247,7 +28666,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROMERO RÍSQUEZ, Antonio », avec pour commune « Torrecampo »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROMERO RÍSQUEZ, Antonio », avec pour commune « Torrecampo »."
     },
     {
       "nom": "ROQUETA RUBIO",
@@ -28270,7 +28689,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROQUETA RUBIO, Mamerto », avec pour commune « Torruel »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROQUETA RUBIO, Mamerto », avec pour commune « Torruel »."
     },
     {
       "nom": "ROSNER",
@@ -28431,7 +28850,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SABATER CARBONEL, Pedro », avec pour commune « Barcelona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SABATER CARBONEL, Pedro », avec pour commune « Barcelona »."
     },
     {
       "nom": "SAINT-BLANCARD",
@@ -28476,9 +28895,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Salavera"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SALAVERA CAMPS, Fernando », avec pour commune « Barcelona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SALAVERA CAMPS, Fernando », avec pour commune « Barcelona ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Fernando Salavera Camps » : mort à Dachau le 30/01/1945 (né à Barcelona, profession : officier)."
     },
     {
       "nom": "SALVADOR SALVADOR",
@@ -28519,7 +28942,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SAN ILDEFONSO, Mariano », avec pour commune « Tamames ». Tamames se situe dans la province de Salamanque : les deux indications concordent."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SAN ILDEFONSO, Mariano », avec pour commune « Tamames ». Tamames se situe dans la province de Salamanque : les deux indications concordent."
     },
     {
       "nom": "SANCHEZ",
@@ -28608,8 +29031,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SANTERI%20Pio"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Santeri"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Pio Santeri » : mort à Dachau le 19/02/1945 (né à Casalpusterlengo (Lodi), domicilié à Toulon (Var), profession : tailleur). Nos fiches indiquaient le 20/02/1945 : écart à vérifier."
     },
     {
       "nom": "SANTI",
@@ -28696,9 +29124,9 @@
       "naissance": "19/02/1891",
       "lieu": "Huesca (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "23/01/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -28708,9 +29136,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Sarate"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SARATE LAPLANA, Roberto », avec pour commune « Huesca »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SARATE LAPLANA, Roberto », avec pour commune « Huesca ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Roberto Sarate Laplana » : mort à Dachau le 23/01/1945 (né à Huesca, domicilié à Madrid, profession : commerçant). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "SARROCA LLAQUET",
@@ -28748,16 +29180,21 @@
       "naissance": "15/01/1896",
       "lieu": "Smyrne (TUR)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "29/01/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SAUL%20Henri"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Saul"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Henri-Aron Saul » : mort à Dachau le 29/01/1945 (né à Smyrne, domicilié à Paris, profession : chauffeur). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "SCARDIGLI",
@@ -28766,16 +29203,21 @@
       "naissance": "15/09/1895",
       "lieu": "Livorno (I)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "15/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SCARDIGLI%20Gaetano"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Scardigli"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Gaetano Scardigli » : mort à Dachau le 15/02/1945 (né à Livorno, domicilié à Arles (France), profession : ouvrier agricole). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "SCHATZ",
@@ -28792,8 +29234,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SCHATZ%20Armand"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Schatz"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Armand Schatz » : mort à Dachau le 13/02/1945 (profession : menuisier)."
     },
     {
       "nom": "SCHMITT *",
@@ -28930,7 +29377,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SERRANS TROYA, Pedro », avec pour commune « Noalejo »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SERRANS TROYA, Pedro », avec pour commune « Noalejo »."
     },
     {
       "nom": "SERRATE ROCA",
@@ -28953,7 +29400,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SERRATE ROCA, Tomás », avec pour commune « Castejón de Monegros »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SERRATE ROCA, Tomás », avec pour commune « Castejón de Monegros »."
     },
     {
       "nom": "SEURIN",
@@ -29048,8 +29495,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SILLERO%20GOMEZ%20Domingo"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Sillero"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Domingo Sillero » : mort à Dachau le 03/02/1945 (né à Benevent, domicilié à Barcelona, profession : technicien). Nos fiches indiquaient le 04/02/1945 : écart à vérifier."
     },
     {
       "nom": "SILVENTE SANCHEZ",
@@ -29072,7 +29524,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SILVENTE SÁNCHEZ, Francisco », avec pour commune « Albox »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SILVENTE SÁNCHEZ, Francisco », avec pour commune « Albox »."
     },
     {
       "nom": "SIMONET",
@@ -29217,7 +29669,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SOLER PENELA, Jesús », avec pour commune « Cuevas »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SOLER PENELA, Jesús », avec pour commune « Cuevas »."
     },
     {
       "nom": "SORBI",
@@ -29234,8 +29686,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=SORBI%20Bixio"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Sorbi"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Bixio Sorbi » : mort à Dachau le 08/02/1945 (né à Massa Marittima (Grosseto), domicilié à Marseille (Bouches-du-Rhône), profession : mineur). La date de naissance y est le 01/08/1887 (nos fiches : 11/08/1887)."
     },
     {
       "nom": "SORDO ARDINES",
@@ -29276,7 +29733,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SORS CANET, José », avec pour commune « Castellterçol »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SORS CANET, José », avec pour commune « Castellterçol »."
     },
     {
       "nom": "SOTURA DE LEIVA",
@@ -29299,7 +29756,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SOTURA DE LEIVA, José », avec pour commune « Felguera (La) »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SOTURA DE LEIVA, José », avec pour commune « Felguera (La) »."
     },
     {
       "nom": "SOURGENS",
@@ -29394,7 +29851,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SUÁREZ MOLINA, Serafín », avec pour commune « Castrillón - Salinas »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SUÁREZ MOLINA, Serafín », avec pour commune « Castrillón - Salinas »."
     },
     {
       "nom": "SUBRA",
@@ -29529,7 +29986,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « TARACENA OLÍAS, José », avec pour commune « Yunquera de Henares ». Yunquera de Henares se situe dans la province de Guadalajara : les deux indications concordent."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « TARACENA OLÍAS, José », avec pour commune « Yunquera de Henares ». Yunquera de Henares se situe dans la province de Guadalajara : les deux indications concordent."
     },
     {
       "nom": "TARRINO MARTIN",
@@ -29552,7 +30009,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « TARRIÑO MARTÍN, Sebastián », avec pour commune « Minas de Riotinto »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « TARRIÑO MARTÍN, Sebastián », avec pour commune « Minas de Riotinto »."
     },
     {
       "nom": "TASSINARI",
@@ -29593,7 +30050,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « TAYANT SERRA, Vicente », avec pour commune « Vall d'en Bas (La) - Hostalets d'en Bas »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « TAYANT SERRA, Vicente », avec pour commune « Vall d'en Bas (La) - Hostalets d'en Bas »."
     },
     {
       "nom": "TEILLET",
@@ -29634,7 +30091,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « TELECHEA SANDORANA, José », avec pour commune « Saldías ». La fiche française indique « Sandras-Navarra » : écart à vérifier (lieu de naissance ou de résidence)."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « TELECHEA SANDORANA, José », avec pour commune « Saldías ». La fiche française indique « Sandras-Navarra » : écart à vérifier (lieu de naissance ou de résidence)."
     },
     {
       "nom": "TESTA",
@@ -29643,16 +30100,21 @@
       "naissance": "11/07/1888",
       "lieu": "Castel-Vetro (I)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "15/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=TESTA%20Giovanni"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Testa"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Giovanni Testa » : mort à Dachau le 15/02/1945 (né à Castelvetro (Modena), profession : ouvrier). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "TESTE",
@@ -29779,16 +30241,21 @@
       "naissance": "14/04/1896",
       "lieu": "Secondigliano (I)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "05/05/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=TORALDO%20Alberto"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Toraldo"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Alberto Toraldo » : mort à Dachau le 05/05/1945 (né à Secondigliano (Napoli), domicilié à Marseille (Bouches-du-Rhône), profession : commerçant). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "TOUREILLE",
@@ -29887,8 +30354,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=TRICOULET%20Marc"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Tricoulet"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Marc Tricoulet » : mort à Dachau le 03/02/1945 (né à Sarlat-la-Canéda (Dordogne), domicilié à Saint-Vincent-de-Cosse (Dordogne), profession : agriculteur)."
     },
     {
       "nom": "TRICOULET",
@@ -29905,8 +30377,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=TRICOULET%20Robert"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Tricoulet"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Robert Tricoulet » : mort à Dachau le 08/01/1945 (né à Sarlat-la-Canéda (Dordogne), domicilié à Saint-Vincent-de-Cosse (Dordogne), profession : paysan)."
     },
     {
       "nom": "TRINCO",
@@ -29947,7 +30424,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « UDAVE MORENO, Ernesto », avec pour commune « Alesanco »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « UDAVE MORENO, Ernesto », avec pour commune « Alesanco »."
     },
     {
       "nom": "UGOLINI",
@@ -30060,8 +30537,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=VALENCIA%20Fran%C3%A7ois"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Valencia"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Franz Valencia » : mort à Dachau le 13/02/1945 (né à Ascoux (Loiret), domicilié à Dampe (Basses-Pyrénées), profession : paysan)."
     },
     {
       "nom": "VALENCIA MARCOS",
@@ -30102,7 +30584,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VALERO RICO, Felipe », avec pour commune « Torrevieja »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VALERO RICO, Felipe », avec pour commune « Torrevieja »."
     },
     {
       "nom": "VALERSTEINAS",
@@ -30119,8 +30601,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=VALERSTEINAS%20Joseph"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Valersteinas"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Joselio Valersteinas » : mort à Dachau le 09/02/1945 (né à Naumiestis, domicilié à Lyon (Rhône), profession : enseignant). Nos fiches indiquaient le 08/02/1945 : écart à vérifier."
     },
     {
       "nom": "VALLDEPERAS MACIA",
@@ -30143,7 +30630,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VALDEPERAS MACÍA, José », avec pour commune « Olesa de Montserrat »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VALDEPERAS MACÍA, José », avec pour commune « Olesa de Montserrat »."
     },
     {
       "nom": "VALLES GARCIA",
@@ -30166,7 +30653,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VALLÉS GARCÍA, Antonio », avec pour commune « Alcañiz »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VALLÉS GARCÍA, Antonio », avec pour commune « Alcañiz »."
     },
     {
       "nom": "VALLS LLOPIS",
@@ -30243,7 +30730,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VAN DYK MARTÍNEZ, Juan », avec pour commune « Vigen »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VAN DYK MARTÍNEZ, Juan », avec pour commune « Vigen »."
     },
     {
       "nom": "VASQUEZ NEIRA",
@@ -30271,15 +30758,20 @@
       "lieu": "Dren (YOU)",
       "parcours": "Da",
       "situation": "DCD",
-      "date_sortie": "??/01/1945",
+      "date_sortie": "21/12/1944",
       "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=VASSICH%20Nenad"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Vassich"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Menad Vassich » : mort à Dachau le 21/12/1944 (né à Drenje (Kroatien), domicilié à Arles (France), profession : ouvrier agricole). Nos fiches indiquaient seulement « janvier 1945 » : écart à vérifier."
     },
     {
       "nom": "VAYSSETTES",
@@ -30404,8 +30896,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=VERDEAU%20Gabriel"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Verdeau"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Gabriel Verdeau » : mort à Dachau le 10/02/1945 (né à Bordeaux (Gironde), profession : commerçant)."
     },
     {
       "nom": "VERDIER",
@@ -30528,7 +31025,7 @@
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VILA GUILLAUMES, Martín », avec pour commune « Camprodon »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VILA GUILLAUMES, Martín », avec pour commune « Camprodon »."
     },
     {
       "nom": "VILA SALO",
@@ -30567,9 +31064,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Vilar"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VILAR ARTIGAS, José », avec pour commune « Tarragona »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VILAR ARTIGAS, José », avec pour commune « Tarragona ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « José Vilar Artigas » : mort à Dachau le 15/02/1945 (né à Tarragona, domicilié à Lançon-Provence (Bouches-du-Rhône), profession : enseignant). La date de naissance y est le 16/12/1909 (nos fiches : 17/12/1909)."
     },
     {
       "nom": "VILAR GIL",
@@ -30578,9 +31079,9 @@
       "naissance": "17/02/1897",
       "lieu": "Villafames (E)",
       "parcours": "?",
-      "situation": "D",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "25/11/1944",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -30590,9 +31091,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Vilar"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VILAR GIL, José », avec pour commune « Vilafamés »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VILAR GIL, José », avec pour commune « Vilafamés ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « José Vilar Gil » : mort à Dachau le 25/11/1944 (né à Vilafamés, domicilié à Narbonne (Aude), profession : agriculteur). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "VILLA URGELLES",
@@ -30699,8 +31204,13 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=VISCONTI%20Hector"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Visconti"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Hector Visconti » : mort à Dachau le 18/12/1944 (né à Monte-Carlo (Monaco), domicilié à Cap-d'Ail (Alpes-Maritimes), profession : secrétaire d'hôtel). La date de naissance y est le 27/11/1898 (nos fiches : 27/12/1893)."
     },
     {
       "nom": "VITALIS",
@@ -30727,9 +31237,9 @@
       "naissance": "01/03/1888",
       "lieu": "Casbas (E)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "18/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
@@ -30739,9 +31249,13 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Viu"
         }
       ],
-      "histoire": " Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VIU BASCOTS, Ángel », avec pour commune « Casbas de Huesca »."
+      "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « VIU BASCOTS, Ángel », avec pour commune « Casbas de Huesca ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Ángel Viu Bascots » : mort à Dachau le 18/02/1945 (né à Casbas de Huesca, domicilié à Huesca, profession : ouvrier agricole). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "VOLONTE",
@@ -30750,16 +31264,21 @@
       "naissance": "31/10/1902",
       "lieu": "Como (I)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "20/12/1944",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=VOLONTE%20Joseph"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Volonte"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Joseph Volonte » : mort à Dachau le 20/12/1944 (né à Côme (Como), profession : voyageur de commerce). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "WASILEWSKI",
@@ -30768,16 +31287,21 @@
       "naissance": "18/10/1904",
       "lieu": "Osecz (PL)",
       "parcours": "?",
-      "situation": "NC",
-      "date_sortie": "?",
-      "lieu_sortie": "?",
+      "situation": "DCD",
+      "date_sortie": "16/02/1945",
+      "lieu_sortie": "Dachau",
       "observations": "—",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=WASILEWSKI%20Pawel"
+        },
+        {
+          "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
+          "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Wasilewski"
         }
-      ]
+      ],
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Pawel Wasilewski » : mort à Dachau le 16/02/1945 (né à Osiecz, domicilié à Alès (Gard), profession : ouvrier). Son devenir n’était pas connu jusqu’ici dans nos fiches."
     },
     {
       "nom": "WOLOSZCZYK",

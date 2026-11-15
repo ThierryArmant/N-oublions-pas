@@ -38,3 +38,14 @@ Base « Víctimas de la Guerra Civil y represaliados del franquismo », reprenan
 - À confirmer : GRAU GARDELLACH Pablo (94048), enregistré « CARDELLACH GRAU » (noms inversés), commune Terrassa contre « Caraza ».
 - Écarts de commune à vérifier : EDO PUMARETA (Ledon / Barcelona), FERNANDEZ MOLINA (Puebla / Granada), OLIO PLANELLA (San Lorenzo de la Muga / « Don Lorenzo »), ROCA TARDA (Esparraguera / Barcelona), TELECHEA SANORANA (Sandras-Navarra / Saldías).
 - 121 hommes sans fiche Libro Memorial : 59 sans aucun résultat, 60 avec seulement des homonymes ou des fiches d'autres fonds (Centre documentaire de la mémoire historique de Salamanque), non attribuées faute de certitude.
+
+## Hommes — livre mémorial numérique du mémorial de Dachau
+
+Base « Les victimes du camp de concentration de Dachau 1933–1945 » (KZ-Gedenkstätte Dachau), qui recense les morts du camp et de ses kommandos jusqu'au 31 juillet 1945.
+
+- Croisement des 660 hommes avec toutes les victimes de nationalité espagnole et française, puis recherche par nom pour les autres nationalités.
+- 112 hommes retrouvés (identité confirmée par la date de naissance ou par la date de décès) : date de mort, lieu de naissance, domicile et profession ajoutés à l'histoire, source ajoutée.
+- 36 hommes dont le devenir était inconnu dans nos fiches sont désormais notés « décédé à Dachau » avec la date (deux autres ont vu leur date précisée : ORTEGA SANCHEZ, VASSICH).
+- Écarts de date de décès de plus de deux jours, à vérifier : BAREL Lorenzo, CHIAPPONI (28/08/1944, jour de l'arrivée du convoi, contre 11/02/1945), CORONAS PUJADAS, FANDOS RIOS, GARZENA, IBANEZ IZCO, PALMINO, VASSICH.
+- Plusieurs dates de naissance divergent d'un jour ou d'une année (DICHARRY, EDO PUMARETA, JANTSON, ROCA CAMPILLO, VISCONTI, etc.) : signalé sur chaque fiche.
+- La recherche du site est sensible aux accents (« García » et non « Garcia ») : pour vérifier une fiche, taper le nom avec ses accents espagnols.
