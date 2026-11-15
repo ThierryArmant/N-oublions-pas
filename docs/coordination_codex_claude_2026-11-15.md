@@ -50,3 +50,10 @@ Contrôle navigateur : 80 régionales, 33 images de recto chargées ; 64 femmes 
 Codex : huit fiches régionales clarifiées (Denise Maugendre, Henriette Bardi de Fourtou, Agnès Kirmann, Lucienne Vanucci, Juliette Eyraud, Laurence Caila, Raymonde Temmermann, Thérésa Wasilewska). Carte originale Arolsen 7612912 ajoutée pour Kirmann, qui n’est pas un portrait. CSV de contrôle et bilan enseignant ajoutés dans docs ; aucune page de corrigé dans le site.
 
 Portraits des hommes : ajouts de Claude conservés. Pour Nunzio Titonel, l’incertitude déjà décrite dans le crédit devient visible sur le recto : une légende « Titonel » et l’âge apparent ne suffisent pas à une attribution certaine. Aucune photo supprimée.
+
+
+## Codex — poursuite par recherches croisées
+
+À la demande de Thierry, poursuite au-delà de la première reprise : sept fiches régionales enrichies (Antetomaso/Tartat, Jouffron, Pelloux, Aubéry du Boulley, Vanucci, Spoerry, Barbier Campbell). Une fiche nouvellement illustrée par le montage Amref d’Anne Spoerry ; montage de Jacqueline déjà connu rendu visible au recto. Aucun changement des 64 femmes ni des hommes dans cette série. Les accusations et procédures d’après-guerre de Spoerry sont restituées, ainsi que l’abandon des poursuites zurichoises ; pas de biographie tronquée.
+
+Méthode, sources, divergences, recherches négatives et suite : docs/methode_recherches_croisees_2026-11-15.md. Outil réutilisable scripts/recherche_portraits.py ; file de travail docs/pistes_portraits.csv (45 régionales sans image associée). 80 régionales visibles, 35 avec une image associée : ce nombre ne certifie pas 35 portraits photographiques individuels. Les montages restent complets, légendes au recto. Clé de cache : regionales-croisees-20261115.
