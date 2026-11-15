@@ -1028,7 +1028,8 @@
       ],
       "biographie": {
         "engagement": "Conchita Grangé, dite Conchita Ramos (1925–2019), quitte l’Espagne avec sa famille et s’engage très jeune dans la Résistance en France comme agente de liaison, sous les pseudonymes « Nina » et « la Neboudo ». Arrêtée en 1944, elle est déportée par le Train fantôme et transférée à Ravensbrück. Elle survit aux camps et consacre ensuite une grande partie de sa vie à la transmission de cette mémoire auprès des élèves.",
-        "deces": "Décédée le 27 août 2019, selon l’hommage de l’Amicale des anciens guérilleros espagnols en France."
+        "deces": "Décédée le 27 août 2019, selon l’hommage de l’Amicale des anciens guérilleros espagnols en France.",
+        "deportation": "La brochure de Josep Calvet donne une arrestation commune avec sa tante Elvira et sa cousine María le 24 mai 1944, suivie de la déportation par le Train fantôme. L’étude d’Amalia Rosado Orquín croise leurs parcours au kommando Pertrix, à Berlin, dans le système de Sachsenhausen : passage depuis Ravensbrück rapporté par Conchita."
       },
       "sources_biographiques": [
         {
@@ -1046,6 +1047,14 @@
         {
           "label": "AAGEF — bulletin 155, hommage à Conchita Ramos",
           "url": "https://www.lagavillaverde.org/Paginas/Noticias/Documentos/Guerrilleros155.pdf"
+        },
+        {
+          "label": "Memorial Democràtic — Josep Calvet, hommage de 2019",
+          "url": "https://memoria.gencat.cat/.content/00_agenda/MD/2019/img/20190726_Homenatge_Conxita_Grange_v7_FR_baixa.pdf"
+        },
+        {
+          "label": "Instituto de las Mujeres — Amalia Rosado Orquín, Pertrix et parcours croisés",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
         }
       ],
       "nom_tri": "Grange",
@@ -1085,7 +1094,34 @@
             "url": "https://memento.vaucluse.fr/assets/n/02591e60/art_mem_marche_trainfantome_11av.docx"
           }
         ]
-      }
+      },
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Elvira Ibarz Ibarz, dite Beleta",
+          "recherche": "ELVIRA BELETA Déportée du train fantôme n°93885",
+          "vue": "femmes",
+          "nature": "Tante et nièce",
+          "precision": "Lien familial et arrestation commune attestés.",
+          "source": "https://memoria.gencat.cat/.content/00_agenda/MD/2019/img/20190726_Homenatge_Conxita_Grange_v7_FR_baixa.pdf"
+        },
+        {
+          "nom": "María Castelló Ibarz, épouse Ferrer",
+          "recherche": "MARIE FERRER déporté du train fantôme n°93886",
+          "vue": "femmes",
+          "nature": "Cousines",
+          "precision": "Lien familial et arrestation commune attestés.",
+          "source": "https://memoria.gencat.cat/.content/00_agenda/MD/2019/img/20190726_Homenatge_Conxita_Grange_v7_FR_baixa.pdf"
+        },
+        {
+          "nom": "Maria SANTOS GISBERT",
+          "recherche": "MARIE SANTOS Déporté du train fantôme n°93891",
+          "vue": "femmes",
+          "nature": "Pertrix — rapprochement fondé sur un témoignage",
+          "precision": "Conchita nomme María Santos dans le même transfert.",
+          "source": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+        }
+      ]
     },
     {
       "nom": "ELVIRA BELETA Déportée du train fantôme n°93885",
@@ -1116,7 +1152,7 @@
       "lieu": "Miquenenza (E)",
       "parcours": "Da,Ra",
       "situation": "R",
-      "nom_affiche": "Elvira BELETA",
+      "nom_affiche": "Elvira Ibarz Ibarz, dite Beleta",
       "complement_historique": "Rentrée de déportation. L’étude espagnole de 2025 identifie Elvira Ibarz sous le nom de déportation Elvira Beleta : matricule 62478 à Ravensbrück (p. 321).",
       "reference_archives": "AC 21 P 705716 — BELETA, Elvire / IBARS (SHD, Caen). Référence repérée dans l’inventaire ; dossier intégral non consulté.",
       "sources_complementaires": [
@@ -1135,29 +1171,61 @@
       ],
       "nom_tri": "Beleta",
       "identite_fiche": {
-        "nom": "Beleta",
+        "nom": "Ibarz Ibarz / Beleta",
         "prenom": "Elvira"
       },
       "convois_documentes": [],
       "etat_vital": {
-        "statut": "non_confirme",
-        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "statut": "decedee",
+        "precision": "Décédée en 1953, selon les Musées de Mequinenza.",
         "controle": "2026-11-15",
         "sources": [
           {
-            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
-            "url": "https://www.bddm.org/liv/details.php?id=I.261."
-          },
-          {
-            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
-            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
-          },
-          {
-            "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
-            "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+            "label": "Musées de Mequinenza — Elvira Ibarz, 1891–1953",
+            "url": "https://www.museosdemequinenza.com/dones-mequinensanes-que-van-fer-historia/"
           }
         ]
-      }
+      },
+      "biographie": {
+        "naissance": "Née le 11 novembre 1891 à Mequinenza.",
+        "engagement": "Avec Jaume Beleta, elle participe à la Résistance en Ariège ; l’exploitation forestière familiale couvre les activités des guérilleros. Elle est la mère de María Castelló et la tante de Conchita Grangé.",
+        "deportation": "Les trois femmes sont arrêtées le 24 mai 1944, puis déportées dans le Train fantôme vers Dachau et Ravensbrück. L’étude d’Amalia Rosado Orquín croise leurs parcours au kommando Pertrix, à Berlin, dans le système de Sachsenhausen : passage depuis Ravensbrück rapporté par Conchita.",
+        "matricules": "Dachau : 93885 ; Ravensbrück : 62478.",
+        "deces": "Décédée en 1953, selon les Musées de Mequinenza."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Memorial Democràtic — Josep Calvet, hommage de 2019",
+          "url": "https://memoria.gencat.cat/.content/00_agenda/MD/2019/img/20190726_Homenatge_Conxita_Grange_v7_FR_baixa.pdf"
+        },
+        {
+          "label": "Musées de Mequinenza — biographies d’Elvira et María",
+          "url": "https://www.museosdemequinenza.com/dones-mequinensanes-que-van-fer-historia/"
+        },
+        {
+          "label": "Instituto de las Mujeres — Amalia Rosado Orquín, Pertrix et parcours croisés",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Conchita GRANGE / RAMOS",
+          "recherche": "CONCHITA GRANGÉ Déportée du train fantôme n°93887 nom ramos",
+          "vue": "femmes",
+          "nature": "Tante et nièce",
+          "precision": "Lien familial et arrestation commune attestés.",
+          "source": "https://memoria.gencat.cat/.content/00_agenda/MD/2019/img/20190726_Homenatge_Conxita_Grange_v7_FR_baixa.pdf"
+        },
+        {
+          "nom": "María Castelló Ibarz, épouse Ferrer",
+          "recherche": "MARIE FERRER déporté du train fantôme n°93886",
+          "vue": "femmes",
+          "nature": "Mère et fille",
+          "precision": "Lien familial et arrestation commune attestés.",
+          "source": "https://memoria.gencat.cat/.content/00_agenda/MD/2019/img/20190726_Homenatge_Conxita_Grange_v7_FR_baixa.pdf"
+        }
+      ]
     },
     {
       "nom": "MARIE FERRER déporté du train fantôme n°93886",
@@ -1188,7 +1256,7 @@
       "lieu": "Mequinenza (E)",
       "parcours": "Da,Ra,BB,Ra, Kdo Ng",
       "situation": "R *",
-      "nom_affiche": "Marie FERRER",
+      "nom_affiche": "María Castelló Ibarz, épouse Ferrer",
       "complement_historique": "Rentrée de déportation. DCD peu après le retour. L’étude espagnole de 2025 rapproche María Ferrer Ibarz de Marie Castelló : matricule 62479 à Ravensbrück (p. 321).",
       "sources_complementaires": [
         {
@@ -1202,8 +1270,8 @@
       ],
       "nom_tri": "Ferrer",
       "identite_fiche": {
-        "nom": "Ferrer",
-        "prenom": "Marie"
+        "nom": "Castelló Ibarz / Ferrer",
+        "prenom": "María"
       },
       "convois_documentes": [],
       "etat_vital": {
@@ -1220,7 +1288,47 @@
             "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
           }
         ]
-      }
+      },
+      "biographie": {
+        "naissance": "Née le 6 janvier 1914 à Mequinenza.",
+        "engagement": "Fille d’Elvira Ibarz, épouse de Josep Ferrer, elle participe aux filières d’évasion du réseau Ponzán puis aux liaisons des maquis.",
+        "deportation": "Arrêtée avec Elvira et Conchita, déportée vers Dachau et Ravensbrück, puis Bergen-Belsen. Elle meurt après son retour des suites de la captivité. L’étude d’Amalia Rosado Orquín croise leurs parcours au kommando Pertrix, à Berlin, dans le système de Sachsenhausen : passage depuis Ravensbrück rapporté par Conchita.",
+        "matricules": "Dachau : 93886 ; Ravensbrück : 62479.",
+        "deces": "Les Musées de Mequinenza donnent 1945. Leur texte contient cependant une formule chronologique contradictoire (« un an après sa libération ») : le jour du décès reste à vérifier."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Memorial Democràtic — Josep Calvet, hommage de 2019",
+          "url": "https://memoria.gencat.cat/.content/00_agenda/MD/2019/img/20190726_Homenatge_Conxita_Grange_v7_FR_baixa.pdf"
+        },
+        {
+          "label": "Musées de Mequinenza — biographies d’Elvira et María",
+          "url": "https://www.museosdemequinenza.com/dones-mequinensanes-que-van-fer-historia/"
+        },
+        {
+          "label": "Instituto de las Mujeres — Amalia Rosado Orquín, Pertrix et parcours croisés",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Conchita GRANGE / RAMOS",
+          "recherche": "CONCHITA GRANGÉ Déportée du train fantôme n°93887 nom ramos",
+          "vue": "femmes",
+          "nature": "Cousines",
+          "precision": "Lien familial et arrestation commune attestés.",
+          "source": "https://memoria.gencat.cat/.content/00_agenda/MD/2019/img/20190726_Homenatge_Conxita_Grange_v7_FR_baixa.pdf"
+        },
+        {
+          "nom": "Elvira Ibarz Ibarz, dite Beleta",
+          "recherche": "ELVIRA BELETA Déportée du train fantôme n°93885",
+          "vue": "femmes",
+          "nature": "Mère et fille",
+          "precision": "Lien familial et arrestation commune attestés.",
+          "source": "https://memoria.gencat.cat/.content/00_agenda/MD/2019/img/20190726_Homenatge_Conxita_Grange_v7_FR_baixa.pdf"
+        }
+      ]
     },
     {
       "nom": "MARIE SANTOS Déporté du train fantôme n°93891",
@@ -1303,7 +1411,45 @@
             "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
           }
         ]
-      }
+      },
+      "biographie": {
+        "deportation": " L’étude d’Amalia Rosado Orquín croise leurs parcours au kommando Pertrix, à Berlin, dans le système de Sachsenhausen : passage depuis Ravensbrück rapporté par Conchita.",
+        "matricules": "Dachau : 93891 ; Ravensbrück : 62484.",
+        "memoire": "Le livret CNRD du musée de Tarbes (p. 13) réunit María, son époux César et leur fils Gaspar. Déportés vers des camps différents, ils se retrouvent à Toulouse après la guerre. Gaspar et María ont enregistré un témoignage commun conservé au musée ; Gaspar est passé par Buchenwald, il ne doit pas être confondu avec un immatriculé du Train fantôme à Dachau."
+      },
+      "sources_biographiques": [
+        {
+          "label": "Instituto de las Mujeres — Amalia Rosado Orquín, Pertrix et parcours croisés",
+          "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+        },
+        {
+          "label": "Ville et musée de Tarbes — livret CNRD 2021–2022, p. 13",
+          "url": "https://www.tarbes.fr/wp-content/uploads/2021/12/CNRD_livretA5_VF.pdf"
+        },
+        {
+          "label": "Telemadrid — identités de la famille commémorée à Madrid",
+          "url": "https://www.telemadrid.es/noticias/madrid/Placas-Tetuan-madrilenos-deportados-concentracion-0-2344865537--20210527071323.html"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Conchita GRANGE / RAMOS",
+          "recherche": "CONCHITA GRANGÉ Déportée du train fantôme n°93887 nom ramos",
+          "vue": "femmes",
+          "nature": "Pertrix — rapprochement fondé sur un témoignage",
+          "precision": "Conchita nomme María Santos dans le même transfert.",
+          "source": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+        },
+        {
+          "nom": "César SANTOS MORENO",
+          "recherche": "SANTOS MORENO",
+          "vue": "hommes",
+          "nature": "Époux — famille Santos/Gisbert",
+          "precision": "Identités croisées dans les sources de Tarbes et Madrid.",
+          "source": "https://www.telemadrid.es/noticias/madrid/Placas-Tetuan-madrilenos-deportados-concentracion-0-2344865537--20210527071323.html"
+        }
+      ]
     },
     {
       "nom": "MARIE BARTETTE déportée du train fantôme n°93867",
@@ -2186,7 +2332,21 @@
             "url": "https://www.antzinako.org/Revistas/Antzina_22.pdf"
           }
         ]
-      }
+      },
+      "biographie": {
+        "engagement": "Ana García Santamaría identifie Nicolasa Oliva García sous l’alias María Linares, résistante dans l’Aude et internée au Vernet.",
+        "naissance": "L’étude donne le 17 janvier 1905 à Bilbao ; le tableau du projet porte une autre date. Cette divergence ne permet pas une correction silencieuse.",
+        "deportation": "Dachau, matricule 93890, puis Ravensbrück, 62483, et le système de Sachsenhausen. L’auteure évoque un fils de dix-neuf ans séparé de sa mère, sans pouvoir l’identifier : aucun nom ne lui est attribué ici.",
+        "matricules": "Dachau : 93890 ; Ravensbrück : 62483."
+      },
+      "pseudonyme_resistance": "María Linares",
+      "sources_biographiques": [
+        {
+          "label": "Antzina 22 — Ana García Santamaría, Nicolasa, p. 17–18",
+          "url": "https://www.antzinako.org/Revistas/Antzina_22.pdf"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "GENEROSA CORTINA ROIG déportée du TF n°93882",
@@ -9991,7 +10151,7 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 3 juillet 1911 à Saint-Vaast-la-Hougue (Manche) ; mariée, deux enfants, domiciliée à Marseille.",
-        "deces": "Date : ? ; lieu : ?",
+        "deces": "Décédée le 20 janvier 1989 à Martigues ; naissance concordante le 3 juillet 1911 à Saint-Vaast-la-Hougue.",
         "engagement": "Membre du réseau britannique Buckmaster (« Jean-Marie ») depuis le 1er décembre 1942 : liaisons, hébergement, renseignement. Les archives de la fédération Libre Résistance la désignent aussi comme Rose-Marie Le Coutey, alias « Yvonne Dorange ». Elles précisent ses missions de renseignement sur l’aéroport de Marignane.",
         "deportation": "Arrêtée à Marseille le 17 avril 1943 ; détenue à Marseille, Fresnes, Romainville et Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février, transférée le 11 avril 1944 au kommando d’Holleischen (Flossenbürg). Libérée le 3 mai 1945, rapatriée par Longuyon.",
         "memoire": null,
@@ -10005,10 +10165,14 @@
         {
           "label": "Musée de la Résistance en ligne — Rose-Marie Le Coutey, archives de la fédération Libre Résistance",
           "url": "https://www.museedelaresistanceenligne.org/personnedetail.php?id=46469"
+        },
+        {
+          "label": "Relevé de décès — Marie Rose Le Coutey",
+          "url": "https://www.acte-deces.fr/recherche-deces-famille-lecoutey"
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-15",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Marseille",
@@ -10029,17 +10193,13 @@
       "pseudonyme_resistance": "Yvonne Dorange",
       "convois_documentes": [],
       "etat_vital": {
-        "statut": "non_confirme",
-        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "statut": "decedee",
+        "precision": "Décédée le 20 janvier 1989 à Martigues ; naissance concordante le 3 juillet 1911 à Saint-Vaast-la-Hougue.",
         "controle": "2026-11-15",
         "sources": [
           {
-            "label": "Association du camp de Flossenbürg – fiche individuelle",
-            "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/Dorange-Marie.pdf"
-          },
-          {
-            "label": "Musée de la Résistance en ligne — Rose-Marie Le Coutey, archives de la fédération Libre Résistance",
-            "url": "https://www.museedelaresistanceenligne.org/personnedetail.php?id=46469"
+            "label": "Relevé de décès — Marie Rose Le Coutey",
+            "url": "https://www.acte-deces.fr/recherche-deces-famille-lecoutey"
           }
         ]
       }
@@ -10053,18 +10213,22 @@
         "naissance": "Née le 21 mai 1914 à Ambert (Puy-de-Dôme) ; secrétaire, célibataire au moment de son arrestation.",
         "deces": "Date : ? ; lieu : ?",
         "engagement": "Se réclamait de l’Armée des Volontaires ; arrêtée à Marseille alors qu’elle effectuait une liaison.",
-        "deportation": "Prise dans une souricière de la Gestapo à Marseille le 23 avril 1943 ; détenue à Marseille, Fresnes et Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février, puis kommandos de Graslitz et de Zwodau (Flossenbürg). Libérée à Zwodau par les Américains le 7 mai 1945, rapatriée par Mézières.",
-        "memoire": "Lien avec la région : arrêtée et emprisonnée à Marseille.",
+        "deportation": "Prise dans une souricière de la Gestapo à Marseille le 23 avril 1943 ; détenue à Marseille, Fresnes et Compiègne. Déportée le 31 janvier 1944, arrivée à Ravensbrück le 3 février, puis kommandos de Graslitz et de Zwodau (Flossenbürg). Libérée à Zwodau par les Américains le 7 mai 1945, rapatriée par Mézières. La fiche associative décrit l’évacuation du 13 avril 1945 : après dix jours de marche, la colonne revient à Zwodau le 22 avril ; les barbelés sont remis en place avant la libération du 7 mai.",
+        "memoire": "La Ville d’Ambert a donné son nom au square de la résidence Fontaine de Goye, rappelant qu’elle fut la première conseillère municipale de la commune.",
         "matricules": "Ravensbrück 27377 ; Flossenbürg 51844"
       },
       "sources_biographiques": [
         {
           "label": "Association du camp de Flossenbürg – fiche individuelle",
           "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/Depaillet-epouse-Duvert-Henriette.pdf"
+        },
+        {
+          "label": "Ville d’Ambert — bulletin municipal, hommage à Henriette, p. 2",
+          "url": "https://www.ville-ambert.fr/wp-content/uploads/2016/04/Comm-Ambert_n3.pdf"
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-15",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Marseille",
@@ -10088,7 +10252,10 @@
             "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/Depaillet-epouse-Duvert-Henriette.pdf"
           }
         ]
-      }
+      },
+      "points_a_verifier": [
+        "La fiche associative donne le 21 mai 1914 ; le bulletin municipal situe son centenaire au 22 mai 2014. Divergence d’un jour conservée."
+      ]
     },
     {
       "nom": "ODETTE FABIUS NÉE SCHMOLL",
@@ -11307,7 +11474,7 @@
         "naissance": "Née le 31 mai 1907 à Guillestre (Hautes-Alpes).",
         "deces": "Date : ? ; lieu : ?",
         "engagement": "Née Balme à Guillestre, domiciliée à Buis-les-Baronnies en 1940, elle appartient aux FTPF. La notice du Musée de la Résistance en ligne indique son envoi dans le Cantal en 1943, puis son arrestation pour Résistance.",
-        "deportation": "Déportée par le transport I.230 parti de Paris le 19 juin 1944, matricule 44661 à Ravensbrück. Parcours : Ravensbrück (kommando Schönefeld). Rentrée de déportation. Domiciliée à Buis-les-Baronnies (Drôme) en 1940, FTPF.",
+        "deportation": "Déportée par le transport I.230 parti de Paris le 19 juin 1944, matricule 44661 à Ravensbrück. Parcours : Ravensbrück (kommando Schönefeld). Rentrée de déportation. Domiciliée à Buis-les-Baronnies (Drôme) en 1940, FTPF. La notice Drôme précise le passage par Sarrebruck/Neue Bremm et situe sa libération le 23 avril 1945 à Schönefeld.",
         "memoire": null,
         "matricules": "Ravensbrück 44661"
       },
@@ -11327,6 +11494,14 @@
         {
           "label": "SHD · GR 16 P 29729 — Balme épouse Tagnard",
           "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_BA-BJ.pdf"
+        },
+        {
+          "label": "Mémorial allemand Neue Bremm — liste nominative, Lucienne Tagnard, 31 mai 1907",
+          "url": "https://gestapo-lager-neue-bremm.de/wp-content/uploads/2025/11/2025-05_DB_Namensliste.pdf"
+        },
+        {
+          "label": "Fuensanta Escudero Andújar — José López et arrestations de Clermont-Ferrand",
+          "url": "https://murcianosdedinamita.es/lopez-jose/"
         }
       ],
       "archives_deportation": [
@@ -11375,7 +11550,10 @@
             "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_BA-BJ.pdf"
           }
         ]
-      }
+      },
+      "points_a_verifier": [
+        "Une étude de Fuensanta Escudero Andújar nomme Lucienne Tagnard, alias Eva, dans les arrestations de Clermont-Ferrand ; la notice Drôme présente un alias tronqué « ra ». L’alias complet et le rapprochement détaillé restent à confirmer avant fusion."
+      ]
     },
     {
       "nom": "ADRIENNE LAGÈRE",
@@ -12783,16 +12961,24 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 18 septembre 1909 à Hyères (Var).",
-        "deces": "Date : ? ; lieu : ?",
-        "engagement": "?",
+        "deces": "Décédée le 24 mars 1979 à La Ciotat ; le relevé concorde avec la naissance le 18 septembre 1909 à Hyères.",
+        "engagement": "Employée au service du STO, Charlotte Abonnen établit de faux certificats d’inaptitude pour permettre à des hommes d’échapper au départ en Allemagne, selon l’enquête racontée par sa petite-fille Muriel Ferrari. Arrêtée en juillet 1943, torturée, emprisonnée puis déportée, elle garde longtemps le silence sur cette expérience.",
         "deportation": "Déportée par le transport I.204 parti de Paris le 18 avril 1944, matricule 35163 à Ravensbrück. Parcours : Ravensbrück. Rentrée de déportation. Libérée par la Croix-Rouge.",
-        "memoire": null,
+        "memoire": "Muriel Ferrari lui consacre en 2019 Ces silences qui ont plombé nos vies, préfacé par Antoine Grande. Ce récit familial est distingué d’un document administratif contemporain.",
         "matricules": "Ravensbrück 35163"
       },
       "sources_biographiques": [
         {
           "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.204",
           "url": "https://www.bddm.org/liv/details.php?id=I.204."
+        },
+        {
+          "label": "Expressions — entretien avec Muriel Ferrari et photographie familiale, 2019",
+          "url": "https://www.expressions-venissieux.fr/2019-09-24-quand-la-mere-ferrari-cuisine-sa-grand-mere/amp/"
+        },
+        {
+          "label": "Relevé de décès — Charlotte Élisabeth Augusta Abonnen",
+          "url": "https://www.acte-deces.fr/acte-de-deces-la-ciotat-1979"
         }
       ],
       "archives_deportation": [
@@ -12802,7 +12988,7 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.204."
         }
       ],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-15",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Hyères",
@@ -12818,15 +13004,21 @@
         "I.204"
       ],
       "etat_vital": {
-        "statut": "non_confirme",
-        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "statut": "decedee",
+        "precision": "Décédée le 24 mars 1979 à La Ciotat ; le relevé concorde avec la naissance le 18 septembre 1909 à Hyères.",
         "controle": "2026-11-15",
         "sources": [
           {
-            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.204",
-            "url": "https://www.bddm.org/liv/details.php?id=I.204."
+            "label": "Relevé de décès — Charlotte Élisabeth Augusta Abonnen",
+            "url": "https://www.acte-deces.fr/acte-de-deces-la-ciotat-1979"
           }
         ]
+      },
+      "photo_url": "https://www.expressions-venissieux.fr/wp-content/uploads/2019/09/M-Ferrari-Charlotte-2.jpg",
+      "photo_alt": "Charlotte Abonnen adulte, avec sa petite-fille Muriel Ferrari, au zoo de Vincennes",
+      "photo_source": {
+        "label": "Charlotte Abonnen avec Muriel Ferrari, fin des années 1950 — archives personnelles de Muriel Ferrari, photographie légendée dans Expressions, droits réservés.",
+        "url": "https://www.expressions-venissieux.fr/2019-09-24-quand-la-mere-ferrari-cuisine-sa-grand-mere/amp/"
       }
     },
     {
@@ -13328,7 +13520,16 @@
       "situation": "R",
       "date_sortie": "05/05/1945",
       "lieu_sortie": "Linz",
-      "observations": "—"
+      "observations": "—",
+      "nom_affiche": "Valeriano Albistur Mazquiarán (variante de la liste)",
+      "histoire": "L’étude d’Ana García Santamaría, Antzina n°22, identifie le matricule 94189 comme Valeriano Albistur Mazquiarán, métallurgiste d’Altsasu, combattant républicain passé par Gurs puis Le Vernet. Elle donne le 4 avril 1906, contre le 14 dans la liste. Les deux dates sont conservées comme divergence.",
+      "sources": [
+        {
+          "label": "Antzina 22 — Ana García Santamaría, p. 18–19",
+          "url": "https://www.antzinako.org/Revistas/Antzina_22.pdf"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "ALCAIDE BOROMEO",
@@ -13672,7 +13873,25 @@
       "situation": "DCD",
       "date_sortie": "18/03/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le récit familial de Jean-Marcel Pilet nomme son ami Saint-Jean Astarrague : arrestation commune le 27 juin 1944 et décès à Melk le 18 mars 1945. La liste du projet écrit Astarraque, le récit Astarrague.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — récit de Jean-Marcel Pilet et Saint-Jean Astarrague",
+          "url": "https://raumdernamen.mauthausen-memorial.org/?L=1&id=4&p=22566"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Jean-Marcel PILET",
+          "recherche": "PILET",
+          "vue": "hommes",
+          "nature": "Amitié et captivité attestées",
+          "precision": "Récit familial nominatif.",
+          "source": "https://raumdernamen.mauthausen-memorial.org/?L=1&id=4&p=22566"
+        }
+      ]
     },
     {
       "nom": "ASTIASUAIN ZARRA",
@@ -15399,14 +15618,29 @@
         {
           "label": "Amicale — témoignage de Christian de Roquemaurel et évasion d’Ange Alvarez",
           "url": "https://www.lesdeportesdutrainfantome.org/"
+        },
+        {
+          "label": "AFMD du Gard — Damien Nardone, récit documenté",
+          "url": "https://afmdgard.org/nardone-damien-alias-le-sourdingue/"
         }
       ],
-      "histoire": "Résistant et prisonnier du Train fantôme, Christian de Roquemaurel relate dans les témoignages du convoi l’évasion d’Ange Alvarez à Sainte-Bazeille. Il est ensuite lié à l’action mémorielle de l’Amicale, dont le site présente plusieurs photographies légendées à son nom et le désigne comme ancien deuxième président.",
+      "histoire": "Résistant et prisonnier du Train fantôme, Christian de Roquemaurel relate dans les témoignages du convoi l’évasion d’Ange Alvarez à Sainte-Bazeille. Il est ensuite lié à l’action mémorielle de l’Amicale, dont le site présente plusieurs photographies légendées à son nom et le désigne comme ancien deuxième président.\n\nSelon cette même notice AFMD, il récupère à Sorgues une barre métallique utilisée pour démonter le plancher du wagon.",
       "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/Christian-De-Roquemaurel2.jpg",
       "photo_source": {
         "label": "Amicale du Train fantôme — photographie légendée Christian de Roquemaurel",
         "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
-      }
+      },
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Damien Nardone (Nardonne dans la liste)",
+          "recherche": "NARDONNE",
+          "vue": "hommes",
+          "nature": "Évasion documentée",
+          "precision": "Nommés dans le même récit.",
+          "source": "https://afmdgard.org/nardone-damien-alias-le-sourdingue/"
+        }
+      ]
     },
     {
       "nom": "DE SAN MARTIN BALDUQUE",
@@ -16192,7 +16426,7 @@
       "date_sortie": "01/08/1944",
       "lieu_sortie": "Souge (33)",
       "observations": "* Fusillé",
-      "histoire": "Commissaire de police et résistant, Pierre Fournera figure dans les recherches et documents associés au Train fantôme. Wikimedia Commons possède un fonds thématique à son nom, réunissant des pièces d’archives photographiques et documentaires, notamment des documents sur la répression à Bordeaux. Les documents doivent être distingués d’un portrait individuel : une reproduction d’archive ne constitue pas nécessairement une photographie de la personne.",
+      "histoire": "Commissaire de police et résistant, Pierre Fournera figure dans les recherches et documents associés au Train fantôme. Wikimedia Commons possède un fonds thématique à son nom, réunissant des pièces d’archives photographiques et documentaires, notamment des documents sur la répression à Bordeaux. Les documents doivent être distingués d’un portrait individuel : une reproduction d’archive ne constitue pas nécessairement une photographie de la personne.\n\nAndré Magne rapporte aussi un interrogatoire violent de Claude Lévy par Fournera en décembre 1943 : sa notice ne permet pas de résumer son rôle policier à une simple appartenance résistante.",
       "sources": [
         {
           "label": "Wikimedia Commons — fonds documentaire Pierre Fournera",
@@ -16201,8 +16435,13 @@
         {
           "label": "Wikimedia Commons — catégorie documentaire Train fantôme",
           "url": "https://commons.wikimedia.org/wiki/Category:Train_fant%C3%B4me_(d%C3%A9portation)"
+        },
+        {
+          "label": "Fondation de la Résistance — André Magne, Claude et Raymond Lévy",
+          "url": "https://museedelaresistanceenligne.org/media11285-Charles-Claude-Lvy-et-Raymond-Lvy"
         }
-      ]
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "FRADELLA",
@@ -17003,9 +17242,24 @@
         {
           "label": "Amicale — hommages et documents autour de Jacob Insel",
           "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        },
+        {
+          "label": "Fondation de la Résistance — André Magne, Claude et Raymond Lévy",
+          "url": "https://museedelaresistanceenligne.org/media11285-Charles-Claude-Lvy-et-Raymond-Lvy"
         }
       ],
-      "reseau_affiche": "FTP-MOI"
+      "reseau_affiche": "FTP-MOI",
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Claude LEVY",
+          "recherche": "LEVY",
+          "vue": "hommes",
+          "nature": "35e brigade FTP-MOI",
+          "precision": "Rencontre nommée en octobre 1943.",
+          "source": "https://museedelaresistanceenligne.org/media11285-Charles-Claude-Lvy-et-Raymond-Lvy"
+        }
+      ]
     },
     {
       "nom": "IRIMIA BALAGUER",
@@ -17454,6 +17708,10 @@
         {
           "label": "AD84 · fonds Teissier 228 J — carton 6 (inventaire provisoire ; dossier non consulté)",
           "url": "https://earchives.vaucluse.fr/file/misc/00_Repnum_228J_ocr.pdf"
+        },
+        {
+          "label": "Gedächtnisbuch Dachau — solidarité de Philippe Toureille",
+          "url": "https://www.gedaechtnisbuch.org/erinnerung-an-die-deportierten-des-train-fantome/"
         }
       ],
       "photo_archive": {
@@ -17466,7 +17724,18 @@
       "photo_source": {
         "label": "Gedächtnisbuch Dachau — portrait de René Lafond",
         "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2024/06/Lafond-GB-A4-300-F.pdf"
-      }
+      },
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Philippe TOUREILLE",
+          "recherche": "TOUREILLE",
+          "vue": "hommes",
+          "nature": "Solidarité en déportation attestée",
+          "precision": "Le projet documente les secours apportés par Toureille.",
+          "source": "https://www.gedaechtnisbuch.org/erinnerung-an-die-deportierten-des-train-fantome/"
+        }
+      ]
     },
     {
       "nom": "LAFOSSE",
@@ -17532,7 +17801,18 @@
       "situation": "R",
       "date_sortie": "29/04/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—"
+      "observations": "—",
+      "nom_affiche": "José / Josep Larroca Vendrell",
+      "pseudonyme_resistance": "Lo Manco (surnom militant, pas un pseudonyme de réseau établi)",
+      "reseau_affiche": "CNT — Fédération nationale de l’industrie ferroviaire",
+      "histoire": "Cheminot de Lleida et militant de la CNT, Josep Larroca Vendrell, dit Lo Manco, préside en 1936 le Tribunal de justice populaire de Lleida. La notice libertaire Estel Negre décrit aussi les condamnations à mort prononcées par cette juridiction révolutionnaire ; ce rôle n’est pas effacé par sa déportation ultérieure. Exilé en France en 1939, arrêté le 4 janvier 1942, interné au Vernet puis détenu à Bordeaux, il arrive à Dachau le 28 août 1944, matricule 94228. Survivant, il milite à la FEDIP et réside au Perthus, où il meurt le 6 décembre 1974.",
+      "sources": [
+        {
+          "label": "Estel Negre — Josep Larroca Vendrell, notice du 7 mars",
+          "url": "https://www.estelnegre.org/anarcoefemerides/0703.html"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "LASSORTHES",
@@ -17702,6 +17982,32 @@
         {
           "label": "AD84 · 11 AV 25–26 — entretien recensé (inventaire ; enregistrement non consulté)",
           "url": "https://memento.vaucluse.fr/assets/n/02591e60/art_mem_marche_trainfantome_11av.docx"
+        },
+        {
+          "label": "Fondation de la Résistance — André Magne, Claude et Raymond Lévy",
+          "url": "https://museedelaresistanceenligne.org/media11285-Charles-Claude-Lvy-et-Raymond-Lvy"
+        }
+      ],
+      "reseau_affiche": "35e brigade FTP-MOI, Toulouse",
+      "pseudonyme_resistance": "Paul Cabanel (fausse identité lors de l’arrestation)",
+      "histoire": "Claude Lévy rejoint la 35e brigade FTP-MOI à Toulouse et rencontre Jacob Insel en 1943. Arrêté sous l’identité Paul Cabanel, incarcéré à Saint-Michel, il s’évade avec Raymond et sept autres détenus le 25 août 1944, près de Lecourt. Il devient ensuite médecin biologiste.",
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Raymond LEVY",
+          "recherche": "LEVY",
+          "vue": "hommes",
+          "nature": "Frères, résistants et évadés ensemble",
+          "precision": "Lien nominatif établi.",
+          "source": "https://museedelaresistanceenligne.org/media11285-Charles-Claude-Lvy-et-Raymond-Lvy"
+        },
+        {
+          "nom": "Jacob INSEL",
+          "recherche": "INSEL",
+          "vue": "hommes",
+          "nature": "35e brigade FTP-MOI",
+          "precision": "Rencontre nommée en octobre 1943.",
+          "source": "https://museedelaresistanceenligne.org/media11285-Charles-Claude-Lvy-et-Raymond-Lvy"
         }
       ]
     },
@@ -17732,14 +18038,30 @@
         {
           "label": "AD84 · 11 AV 5, 7 et 27 — entretien recensé (inventaire ; enregistrement non consulté)",
           "url": "https://memento.vaucluse.fr/assets/n/02591e60/art_mem_marche_trainfantome_11av.docx"
+        },
+        {
+          "label": "Fondation de la Résistance — André Magne, Claude et Raymond Lévy",
+          "url": "https://museedelaresistanceenligne.org/media11285-Charles-Claude-Lvy-et-Raymond-Lvy"
         }
       ],
-      "histoire": "Raymond Lévy fait partie des résistants liés à la Main-d’œuvre immigrée (MOI) de Toulouse dont le parcours est évoqué dans le documentaire consacré au Train fantôme. Les archives de l’Amicale comportent une photographie légendée « Raymond Lévy — Toulouse ». La source photographique doit être consultée pour identifier précisément la date et le contexte du cliché.",
+      "histoire": "Raymond Lévy fait partie des résistants liés à la Main-d’œuvre immigrée (MOI) de Toulouse dont le parcours est évoqué dans le documentaire consacré au Train fantôme. Les archives de l’Amicale comportent une photographie légendée « Raymond Lévy — Toulouse ». La source photographique doit être consultée pour identifier précisément la date et le contexte du cliché.\n\nLa notice d’André Magne documente son arrestation le 10 décembre 1943, son incarcération à Saint-Michel et l’évasion commune avec Claude. Elle donne le 21 mars 1923 comme naissance, contre le 2 mars dans le tableau : divergence conservée.",
       "photo_url": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/05-2016/Raymond-Levy-Toulouse-2.jpg",
       "photo_source": {
         "label": "Amicale du Train fantôme — photographie légendée Raymond Lévy, Toulouse",
         "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
-      }
+      },
+      "pseudonyme_resistance": "Jeannot ; Edmond Lormand (fausse identité)",
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Claude LEVY",
+          "recherche": "LEVY",
+          "vue": "hommes",
+          "nature": "Frères, résistants et évadés ensemble",
+          "precision": "Lien nominatif établi.",
+          "source": "https://museedelaresistanceenligne.org/media11285-Charles-Claude-Lvy-et-Raymond-Lvy"
+        }
+      ]
     },
     {
       "nom": "LÉVY",
@@ -17835,7 +18157,22 @@
       "situation": "R",
       "date_sortie": "29/04/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—"
+      "observations": "—",
+      "nom_affiche": "Fernando López García / López Vargas",
+      "reseau_affiche": "CNT — engagement anarchiste espagnol",
+      "histoire": "Le portail officiel de Murcie identifie le détenu 94233 comme Fernando López Vargas, également inscrit López García. Il donne une naissance le 26 octobre 1919 à La Unión d’après un acte de baptême ; les archives de camp donnent le 31 mai 1920, date conservée dans le tableau du projet. Maçon et militant anarchiste, il combat dans les colonnes des Aguiluchos puis Ortiz. Réfugié en France en 1939, il passe par Saint-Cyprien, Argelès et Bram. Arrêté par Vichy en 1941, interné à Noé puis au Vernet, il est déporté à Dachau par le Train fantôme. Libéré le 29 avril 1945, rapatrié le 13 juin, il s’installe à Toulouse. Il épouse Josefina Ubach Cassá en 1957 et meurt le 2 octobre 1982.",
+      "sources": [
+        {
+          "label": "Région de Murcie — Fernando López Vargas, biographie et archives",
+          "url": "https://deportados.carm.es/buscador-deportados/-/deportado/587"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15",
+      "photo_url": "https://deportados.carm.es/documents/270438/1319118/Foto%2BFernando%2Ban%CC%83os%2B80%2B%281%29.jpg/3bf17800-63dc-f8ad-6f0f-3d4a7f5b72d8?download=true&t=1780488433873&version=2.1",
+      "photo_source": {
+        "label": "Portrait nominatif publié par le portail mémoriel officiel de la Région de Murcie.",
+        "url": "https://deportados.carm.es/buscador-deportados/-/deportado/587"
+      }
     },
     {
       "nom": "LOPEZ GARCIA",
@@ -17916,6 +18253,22 @@
         {
           "label": "AD84 · 11 AV 15–16 — entretien recensé (inventaire ; enregistrement non consulté)",
           "url": "https://memento.vaucluse.fr/assets/n/02591e60/art_mem_marche_trainfantome_11av.docx"
+        },
+        {
+          "label": "AFMD du Gard — Damien Nardone, récit documenté",
+          "url": "https://afmdgard.org/nardone-damien-alias-le-sourdingue/"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15",
+      "histoire": "L’AFMD nomme Damien Marcone parmi les participants au démontage du plancher pour l’évasion du train. Le tableau conserve la variante Macone.",
+      "relations_documentees": [
+        {
+          "nom": "Damien Nardone (Nardonne dans la liste)",
+          "recherche": "NARDONNE",
+          "vue": "hommes",
+          "nature": "Évasion documentée",
+          "precision": "Nommés dans le même récit.",
+          "source": "https://afmdgard.org/nardone-damien-alias-le-sourdingue/"
         }
       ]
     },
@@ -18710,6 +19063,33 @@
         {
           "label": "AD84 · 11 AV 17 — entretien recensé (inventaire ; enregistrement non consulté)",
           "url": "https://memento.vaucluse.fr/assets/n/02591e60/art_mem_marche_trainfantome_11av.docx"
+        },
+        {
+          "label": "AFMD du Gard — Damien Nardone, récit documenté",
+          "url": "https://afmdgard.org/nardone-damien-alias-le-sourdingue/"
+        }
+      ],
+      "nom_affiche": "Damien Nardone (Nardonne dans la liste)",
+      "reseau_affiche": "Groupe-franc de Combat, Sète",
+      "pseudonyme_resistance": "Le Sourdingue",
+      "histoire": "Résistant à Sète dès 1941, Damien Nardone rejoint le groupe-franc de Combat. Arrêté en mars 1944, détenu à Albi puis Saint-Michel, il est embarqué dans le Train fantôme. Le 20 août 1944, il s’évade près de Montélimar par le plancher démonté du wagon. L’AFMD nomme aussi Damien Marcone et Christian de Roquemaurel dans les préparatifs. Devenu docker après-guerre, il meurt à Sète le 7 juin 2010.",
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Damien MACONE",
+          "recherche": "MACONE",
+          "vue": "hommes",
+          "nature": "Évasion documentée",
+          "precision": "Nommés dans le même récit.",
+          "source": "https://afmdgard.org/nardone-damien-alias-le-sourdingue/"
+        },
+        {
+          "nom": "Christian DE ROQUEMAUREL",
+          "recherche": "DE ROQUEMAUREL",
+          "vue": "hommes",
+          "nature": "Évasion documentée",
+          "precision": "Nommés dans le même récit.",
+          "source": "https://afmdgard.org/nardone-damien-alias-le-sourdingue/"
         }
       ]
     },
@@ -19353,7 +19733,17 @@
       "situation": "DCD",
       "date_sortie": "11/11/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "nom_affiche": "Eustasio / Eustaquio Pérez Orduña",
+      "reseau_affiche": "Fédération des immigrés espagnols en France — section de Mauléon",
+      "histoire": "Le Mémorial nomme Eustaquio Pérez Orduña celui que la liste du projet inscrit Eustasio, avec la même naissance le 29 mars 1897 à Uztárroz. Installé à Mauléon depuis 1921, ouvrier, marié et père de deux garçons, il préside en 1936 la section locale de la Fédération des immigrés espagnols en France. Arrêté de nouveau le 28 août 1942 pour diffusion de tracts communistes, il subit prisons et internement au Vernet. Déporté par le Train fantôme, il passe de Dachau à Mauthausen le 20 septembre 1944, puis probablement à Melk le 22. Il y meurt le 10 novembre 1944. La notice est signée Max Dalier, ami de la famille. Elle comporte une date d’entrée au Vernet incompatible avec sa propre chronologie, qui n’est pas reprise ici.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Eustaquio Pérez Orduña, Max Dalier",
+          "url": "https://raumdernamen.mauthausen-memorial.org/?L=1&id=4&p=16747"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "PERPIGNA",
@@ -19485,6 +19875,29 @@
         {
           "label": "AD84 · fonds Teissier 228 J — carton 8 (inventaire provisoire ; dossier non consulté)",
           "url": "https://earchives.vaucluse.fr/file/misc/00_Repnum_228J_ocr.pdf"
+        },
+        {
+          "label": "Mémorial de Mauthausen — Jean-Marcel Pilet, récit de sa famille",
+          "url": "https://raumdernamen.mauthausen-memorial.org/?L=1&id=4&p=22566"
+        }
+      ],
+      "matricules_camps": "Mauthausen : 98870",
+      "reseau_affiche": "Aide au Corps franc Pommiès — compagnie Lavalou",
+      "histoire": "Jean-Marcel Pilet tente de rejoindre les Français libres en 1943, mais est arrêté dans le train Bordeaux–Hendaye. Prisonnier affecté aux chantiers du Cap-Ferret, il s’évade, puis aide le maquis en Basse-Soule. Raflé le 27 juin 1944 à L’Hôpital-Saint-Blaise avec Saint-Jean Astarrague, il passe par Bayonne et Bordeaux avant le Train fantôme. À Dachau : 94015 ; à Mauthausen le 16 septembre : 98870. Affecté à Melk le 21 septembre, il y meurt le 20 février 1945. Le récit familial publié par le Mémorial ne reprend pas à son compte la cause médicale enregistrée par les SS.",
+      "recherche_mise_a_jour": "2026-11-15",
+      "photo_data": "data:image/jpeg;base64,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",
+      "photo_source": {
+        "label": "Portrait nominatif Jean-Marcel Pilet — Mémorial de Mauthausen, pièce publiée avec la notice familiale.",
+        "url": "https://raumdernamen.mauthausen-memorial.org/?L=1&id=4&p=22566"
+      },
+      "relations_documentees": [
+        {
+          "nom": "Saint-Jean ASTARRAQUE",
+          "recherche": "ASTARRAQUE",
+          "vue": "hommes",
+          "nature": "Amitié et captivité attestées",
+          "precision": "Récit familial nominatif.",
+          "source": "https://raumdernamen.mauthausen-memorial.org/?L=1&id=4&p=22566"
         }
       ]
     },
@@ -20356,7 +20769,29 @@
       "situation": "R",
       "date_sortie": "06/05/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le musée de Tarbes retrace les retrouvailles de César, María et Gaspar à Toulouse. Une source espagnole nomme précisément les parents César Santos Moreno et María Gisbert Merino ; le projet conserve aussi le nom d’usage María Santos Gisbert. Les trois déportations ne sont pas confondues : Gaspar a été envoyé à Buchenwald.",
+      "sources": [
+        {
+          "label": "Musée de Tarbes — témoignage de Gaspar et María, p. 13",
+          "url": "https://www.tarbes.fr/wp-content/uploads/2021/12/CNRD_livretA5_VF.pdf"
+        },
+        {
+          "label": "Telemadrid — famille César Santos Moreno, María Gisbert Merino et Gaspar",
+          "url": "https://www.telemadrid.es/noticias/madrid/Placas-Tetuan-madrilenos-deportados-concentracion-0-2344865537--20210527071323.html"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "Maria SANTOS GISBERT",
+          "recherche": "MARIE SANTOS Déporté du train fantôme n°93891",
+          "vue": "femmes",
+          "nature": "Épouse — famille Santos/Gisbert",
+          "precision": "Identités croisées dans les sources de Tarbes et Madrid.",
+          "source": "https://www.telemadrid.es/noticias/madrid/Placas-Tetuan-madrilenos-deportados-concentracion-0-2344865537--20210527071323.html"
+        }
+      ]
     },
     {
       "nom": "SANZ",
@@ -20392,7 +20827,16 @@
       "situation": "DCD",
       "date_sortie": "??/12/1944",
       "lieu_sortie": "Mauthausen",
-      "observations": "—"
+      "observations": "—",
+      "matricules_camps": "Mauthausen : 99065",
+      "histoire": "Martín Sarroca Llaquet naît à Capella en 1887 et grandit dans une famille émigrée dans le sud de la France. Agriculteur, époux de Baptistine Cabanié, il a deux enfants. Le Mémorial présente son engagement résistant comme probable, non certain. Arrêté en 1942 et interné au Vernet, il est déporté par le Train fantôme. Immatriculé 94081 à Dachau, transféré à Mauthausen sous le numéro 99065, il y meurt le 19 décembre 1944. Une lettre d’un détenu espagnol qui l’a soigné renseigne sa famille après-guerre. Son nom et celui de son frère Vicente, mort en 1914, figurent au monument de Castelreng.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Martín Sarroca Llaquet",
+          "url": "https://raumdernamen.mauthausen-memorial.org/?id=16&p=17952"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "SAUL",
@@ -21068,7 +21512,7 @@
       "date_sortie": "29/04/1945",
       "lieu_sortie": "Dachau",
       "observations": "—",
-      "histoire": "Étudiant en médecine engagé dans le renseignement de la Résistance, Philippe Toureille est arrêté le 22 juillet 1944 et emprisonné au fort du Hâ. Déporté depuis Bordeaux par le Train fantôme en août 1944, il arrive à Dachau le 28 août et travaille au Revier, l’infirmerie du camp. Sa notice du Gedächtnisbuch a été rédigée par Tamara Seybold à partir de recherches et d’une rencontre avec lui. Un entretien filmé réalisé en 2004 a ensuite été numérisé pour les archives du mémorial.",
+      "histoire": "Étudiant en médecine engagé dans le renseignement de la Résistance, Philippe Toureille est arrêté le 22 juillet 1944 et emprisonné au fort du Hâ. Déporté depuis Bordeaux par le Train fantôme en août 1944, il arrive à Dachau le 28 août et travaille au Revier, l’infirmerie du camp. Sa notice du Gedächtnisbuch a été rédigée par Tamara Seybold à partir de recherches et d’une rencontre avec lui. Un entretien filmé réalisé en 2004 a ensuite été numérisé pour les archives du mémorial.\n\nLe projet Gedächtnisbuch de Dachau indique explicitement que Philippe Toureille a sauvé plusieurs fois la vie de Jean-René Lafond. Cette solidarité est documentée par leurs biographies croisées, et pas seulement par leur présence dans le même convoi.\n\nSa biographie décrit ses études de médecine et son activité dans Gallia à Bordeaux : renseignements et liaisons. Arrêté place des Quinconces le 22 juillet 1944, il est enfermé au fort du Hâ. Le PDF donne une naissance le 22 février 1921, alors que le tableau indique le 20 : divergence conservée.",
       "sources": [
         {
           "label": "Gedächtnisbuch de Dachau — Philippe Toureille, notice biographique",
@@ -21089,13 +21533,33 @@
         {
           "label": "AD84 · 11 AV 21 — entretien recensé (inventaire ; enregistrement non consulté)",
           "url": "https://memento.vaucluse.fr/assets/n/02591e60/art_mem_marche_trainfantome_11av.docx"
+        },
+        {
+          "label": "Gedächtnisbuch Dachau — destins liés de Toureille et Lafond, 2024",
+          "url": "https://www.gedaechtnisbuch.org/erinnerung-an-die-deportierten-des-train-fantome/"
+        },
+        {
+          "label": "Gedächtnisbuch — Philippe Toureille, biographie illustrée",
+          "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2015/07/PDF_Philippe-Toureille-Anmerkung.pdf"
         }
       ],
       "photo_data": "data:image/jpeg;base64,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",
       "photo_source": {
         "label": "Gedächtnisbuch Dachau — portrait extrait de la notice de Philippe Toureille",
         "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2015/07/toureille_philippe.pdf"
-      }
+      },
+      "recherche_mise_a_jour": "2026-11-15",
+      "relations_documentees": [
+        {
+          "nom": "René LAFOND",
+          "recherche": "LAFOND",
+          "vue": "hommes",
+          "nature": "Solidarité en déportation attestée",
+          "precision": "Toureille lui sauve la vie à plusieurs reprises.",
+          "source": "https://www.gedaechtnisbuch.org/erinnerung-an-die-deportierten-des-train-fantome/"
+        }
+      ],
+      "reseau_affiche": "Gallia"
     },
     {
       "nom": "TOUYON",
