@@ -19500,7 +19500,7 @@
       "situation": "R",
       "date_sortie": "05/05/1945",
       "lieu_sortie": "Mauthausen",
-      "observations": "—",
+      "observations": "Matricule de Dachau : 94123 dans notre liste, 94027 dans la base « Republicanos deportados » (qui donne 94191 à Jacinto Alonso Lancha) : inversion possible entre les deux Alonso, à vérifier.",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
@@ -19509,12 +19509,22 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Abdon Alonso Casas",
+          "url": "https://republicanosdeportados.org/deportados/abdon-alonso-casas/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ALONSO CASAS, Abdón », avec pour commune « Tomelloso ».",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/08-scaled.jpg",
+      "photo_alt": "Document d’archives concernant Abdon Alonso Casas (pas un portrait)",
+      "photo_source": {
+        "label": "Document d’archives reproduit par la base « Republicanos deportados » (fiche de camp ou de la Croix-Rouge) — pas un portrait",
+        "url": "https://republicanosdeportados.org/deportados/abdon-alonso-casas/"
       }
     },
     {
@@ -19554,7 +19564,7 @@
       "situation": "R",
       "date_sortie": "29/04/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—",
+      "observations": "Matricule de Dachau : 94027 dans notre liste, 94191 dans la base « Republicanos deportados ».",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
@@ -19563,12 +19573,22 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Jacinto Alonso Lancha",
+          "url": "https://republicanosdeportados.org/deportados/jacinto-alonso-lancha/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ALONSO LANCHA, Jacinto », avec pour commune « Polán ».",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/JACINTO-ALONSO-LANCHA-POLAN.jpg",
+      "photo_alt": "Document d’archives concernant Jacinto Alonso Lancha (pas un portrait)",
+      "photo_source": {
+        "label": "Document d’archives reproduit par la base « Republicanos deportados » (fiche de camp ou de la Croix-Rouge) — pas un portrait",
+        "url": "https://republicanosdeportados.org/deportados/jacinto-alonso-lancha/"
       }
     },
     {
@@ -19813,6 +19833,10 @@
         {
           "label": "Amicale des déportés du Train fantôme — Parcoul-Médillac : notice et portrait de Ramiro Arcas-Javierre",
           "url": "https://www.lesdeportesdutrainfantome.org/ville_parcoulmedillac.htm"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Ramiro Arcas Javierre",
+          "url": "https://republicanosdeportados.org/deportados/ramiro-arcas-javierre/"
         }
       ],
       "pays_naissance": {
@@ -19882,7 +19906,7 @@
       "situation": "R",
       "date_sortie": "06/05/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—",
+      "observations": "Matricule de Dachau : 94125 dans notre liste, 94215 dans la base « Republicanos deportados ».",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
@@ -19891,12 +19915,22 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Aureliano Arcos Perez",
+          "url": "https://republicanosdeportados.org/deportados/aureliano-arcos-perez/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ARCOS PÉREZ, Aureliano », avec pour commune « Huélamo ».",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/foto-17.jpg",
+      "photo_alt": "Portrait de Aureliano Arcos Perez",
+      "photo_source": {
+        "label": "Base « Republicanos deportados » — photographie de la fiche",
+        "url": "https://republicanosdeportados.org/deportados/aureliano-arcos-perez/"
       }
     },
     {
@@ -20813,12 +20847,22 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Emilio Bastida Fontan",
+          "url": "https://republicanosdeportados.org/deportados/emilio-bastida-fontan/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « BASTIDA FONTÁN, Emilio », avec pour commune « Sena ».",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/bastida-fontan-emilio.jpg",
+      "photo_alt": "Portrait de Emilio Bastida Fontan",
+      "photo_source": {
+        "label": "Base « Republicanos deportados » — photographie de la fiche",
+        "url": "https://republicanosdeportados.org/deportados/emilio-bastida-fontan/"
       }
     },
     {
@@ -21048,12 +21092,22 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Barrag%C3%A1n"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Matias Berrogain Laita",
+          "url": "https://republicanosdeportados.org/deportados/matias-berrogain-laita/"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Matias Barragán Laita » : mort à Dachau le 23/02/1945 (né à Biota, profession : agriculteur). Son devenir n’était pas connu jusqu’ici dans nos fiches.",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/berrogan-laita-matias.jpg",
+      "photo_alt": "Portrait de Matias Berrogain Laita",
+      "photo_source": {
+        "label": "Base « Republicanos deportados » — photographie de la fiche",
+        "url": "https://republicanosdeportados.org/deportados/matias-berrogain-laita/"
       }
     },
     {
@@ -22159,7 +22213,7 @@
       "situation": "DCD",
       "date_sortie": "21/02/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—",
+      "observations": "Date de naissance : 30/02/1908 dans notre liste (date impossible), 29/12/1917 dans la base « Republicanos deportados ».",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
@@ -22172,12 +22226,22 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Cantarero"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Martin Cantarero Sanz",
+          "url": "https://republicanosdeportados.org/deportados/martin-cantarero-sanz/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CANTARERO SANZ, Martín », avec pour commune « Anquela del Ducado ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Martín Cantarero Sanz » : mort à Dachau le 21/02/1945 (né à Anquela del Ducado, profession : chimiste). La date de naissance y est le 29/02/1908 (nos fiches : 30/02/1908).",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/2-26.jpg",
+      "photo_alt": "Document d’archives concernant Martin Cantarero Sanz (pas un portrait)",
+      "photo_source": {
+        "label": "Document d’archives reproduit par la base « Republicanos deportados » (fiche de camp ou de la Croix-Rouge) — pas un portrait",
+        "url": "https://republicanosdeportados.org/deportados/martin-cantarero-sanz/"
       }
     },
     {
@@ -24601,12 +24665,22 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Duro"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Francisco Durro Auri",
+          "url": "https://republicanosdeportados.org/deportados/francisco-durro-auri/"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Francisco Duro Aur » : mort à Dachau le 19/04/1945 (né à Poblete, domicilié à Agen (Lot-et-Garonne), profession : ouvrier agricole). Son devenir n’était pas connu jusqu’ici dans nos fiches.",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/004.jpg",
+      "photo_alt": "Document d’archives concernant Francisco Durro Auri (pas un portrait)",
+      "photo_source": {
+        "label": "Document d’archives reproduit par la base « Republicanos deportados » (fiche de camp ou de la Croix-Rouge) — pas un portrait",
+        "url": "https://republicanosdeportados.org/deportados/francisco-durro-auri/"
       }
     },
     {
@@ -25580,7 +25654,7 @@
       "situation": "NC",
       "date_sortie": "?",
       "lieu_sortie": "?",
-      "observations": "—",
+      "observations": "Matricule de Dachau : 94104 dans notre liste, 94367 dans la base « Republicanos deportados ».",
       "photo_data": "data:image/jpeg;base64,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",
       "photo_source": {
         "label": "Amical de Mauthausen — José M. García-Miranda Esteban-Infantes",
@@ -25602,6 +25676,10 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de José Garcia Miranda",
+          "url": "https://republicanosdeportados.org/deportados/jose-maria-garcia-miranda-esteban-infantes/"
         }
       ],
       "histoire": "Né à Tolède le 21 février 1897, José M. García-Miranda Esteban-Infantes est un officier républicain espagnol. Exilé avec son épouse Lucía à Vernet-les-Bains en février 1939, il exerce notamment comme enseignant. Son engagement dans le mouvement Combat entraîne son arrestation par la Gestapo à la fin de 1943. Il est détenu à Perpignan, puis au Vernet d’Ariège en janvier 1944, avant sa déportation par le Train fantôme à Dachau. Après la libération du camp le 29 avril 1945, il retrouve Lucía à Perpignan le 1er juin. Il enseigne ensuite à Prades et à Vernet-les-Bains. Revenu en Espagne en 1957, il meurt le 7 février 1971. Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GARCÍA MIRANDA, José », avec pour commune « Toledo ».",
@@ -25944,6 +26022,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=GIMENO%20TIMONEDA%20Demetrio"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Demetrio Gimeno Timoneda",
+          "url": "https://republicanosdeportados.org/deportados/demetrio-bigotes-gimeno-timoneda/"
         }
       ],
       "photo_url": "https://www.estelnegre.org/documents/demetriogimeno/demetriogimeno02.jpg",
@@ -28786,12 +28868,22 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Casimiro Mainar Mainar",
+          "url": "https://republicanosdeportados.org/deportados/casimiro-mainar-mainar/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « MAINAR MAINAR, Casimiro Manuel », avec pour commune « Vistabella ».",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/mainar-mainar-casimiro.jpg",
+      "photo_alt": "Portrait de Casimiro Mainar Mainar",
+      "photo_source": {
+        "label": "Base « Republicanos deportados » — photographie de la fiche",
+        "url": "https://republicanosdeportados.org/deportados/casimiro-mainar-mainar/"
       }
     },
     {
@@ -29949,12 +30041,22 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Pedro Monterde Badiola",
+          "url": "https://republicanosdeportados.org/deportados/pedro-monterde-badiola/"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/13.jpg",
+      "photo_alt": "Document d’archives concernant Pedro Monterde Badiola (pas un portrait)",
+      "photo_source": {
+        "label": "Document d’archives reproduit par la base « Republicanos deportados » (fiche de camp ou de la Croix-Rouge) — pas un portrait",
+        "url": "https://republicanosdeportados.org/deportados/pedro-monterde-badiola/"
       }
     },
     {
@@ -30236,11 +30338,21 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MUNOZ%20MUNOZ%20Vicente"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Vicente Munoz Munoz",
+          "url": "https://republicanosdeportados.org/deportados/vicente-munoz-munoz/"
         }
       ],
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/3-8.jpg",
+      "photo_alt": "Document d’archives concernant Vicente Munoz Munoz (pas un portrait)",
+      "photo_source": {
+        "label": "Document d’archives reproduit par la base « Republicanos deportados » (fiche de camp ou de la Croix-Rouge) — pas un portrait",
+        "url": "https://republicanosdeportados.org/deportados/vicente-munoz-munoz/"
       }
     },
     {
@@ -31769,12 +31881,22 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Teofilo Perrucha Gonzalez",
+          "url": "https://republicanosdeportados.org/deportados/teofilo-perrucha-gonzalez/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « PERRUCHA GONZÁLEZ, Teófilo », avec pour commune « Hiendelaencina ».",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/5-6.jpg",
+      "photo_alt": "Document d’archives concernant Teofilo Perrucha Gonzalez (pas un portrait)",
+      "photo_source": {
+        "label": "Document d’archives reproduit par la base « Republicanos deportados » (fiche de camp ou de la Croix-Rouge) — pas un portrait",
+        "url": "https://republicanosdeportados.org/deportados/teofilo-perrucha-gonzalez/"
       }
     },
     {
@@ -32812,12 +32934,22 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Redondo"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Carlos Redondo Flores",
+          "url": "https://republicanosdeportados.org/deportados/carlos-redondo-flores/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « REDONDO FLORES, Carlos », avec pour commune « Zamora ». Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Carlos Redondo Flores » : mort à Dachau le 09/03/1945 (né à Zamora, domicilié à Le Vernet (France), profession : officier).",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/redondo-flores-carlos.jpg",
+      "photo_alt": "Portrait de Carlos Redondo Flores",
+      "photo_source": {
+        "label": "Base « Republicanos deportados » — photographie de la fiche",
+        "url": "https://republicanosdeportados.org/deportados/carlos-redondo-flores/"
       }
     },
     {
@@ -33324,12 +33456,22 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Mamerto Roqueta Rubio",
+          "url": "https://republicanosdeportados.org/deportados/mamerto-roqueta-rubio/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ROQUETA RUBIO, Mamerto », avec pour commune « Torruel ».",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/ROQUETA-Mamerto.jpg",
+      "photo_alt": "Portrait de Mamerto Roqueta Rubio",
+      "photo_source": {
+        "label": "Base « Republicanos deportados » — photographie de la fiche",
+        "url": "https://republicanosdeportados.org/deportados/mamerto-roqueta-rubio/"
       }
     },
     {
@@ -33634,12 +33776,22 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de Mariano San Ildefonso",
+          "url": "https://republicanosdeportados.org/deportados/mariano-san-ildefonso/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « SAN ILDEFONSO, Mariano », avec pour commune « Tamames ». Tamames se situe dans la province de Salamanque : les deux indications concordent.",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2026/10/San_Ildefonso.jpg",
+      "photo_alt": "Portrait de Mariano San Ildefonso",
+      "photo_source": {
+        "label": "Base « Republicanos deportados » — photographie de la fiche",
+        "url": "https://republicanosdeportados.org/deportados/mariano-san-ildefonso/"
       }
     },
     {
@@ -34901,12 +35053,22 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de José Taracena",
+          "url": "https://republicanosdeportados.org/deportados/jose-taracena-olias/"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « TARACENA OLÍAS, José », avec pour commune « Yunquera de Henares ». Yunquera de Henares se situe dans la province de Guadalajara : les deux indications concordent.",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "photo_url": "https://republicanosdeportados.org/wp-content/uploads/2025/07/6-17.jpg",
+      "photo_alt": "Document d’archives concernant José Taracena (pas un portrait)",
+      "photo_source": {
+        "label": "Document d’archives reproduit par la base « Republicanos deportados » (fiche de camp ou de la Croix-Rouge) — pas un portrait",
+        "url": "https://republicanosdeportados.org/deportados/jose-taracena-olias/"
       }
     },
     {
