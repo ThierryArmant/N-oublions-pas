@@ -62,3 +62,6 @@ Méthode, sources, divergences, recherches négatives et suite : docs/methode_re
 - 8d6f414 : portrait dessiné d'Aimée Sahouret (Commons, CC BY-SA 4.0) ; cotes SHD AC 21 P pour 17 femmes + Caubet ; fiches Dubreuil (asso Flossenbürg), Marqueissac (archives de Lorient), Fau Español (base Républicains déportés), Deyris (à confirmer), Labarthe, Sahuqué ; « numéro probable à Ravensbrück = Dachau − 31 407 » ajouté seulement en point à vérifier (38 fiches).
 - 4873f2a : fiches d'entrée à Dachau (Parade, Vacher, Tillet Jeanne, Sicard, Sourgens) affichées comme images, avec la mention « document, pas un portrait » ; registre d'entrée de Dachau en source pour les 64 ; témoignage d'Odette Tillet (La Dépêche, 2002).
 - Pas de modification d'index.html ni des régionales.
+
+## Claude — 15/11, ~23 h 55 (hommes du convoi, par index dans data.hommes)
+- 00ee211, 8a5147a, 6603f96, 474afe8 : portraits liés depuis le site de l'Amicale (photo_url, Nodon et Vajda en « attribution à confirmer ») et depuis le Mémorial de Mauthausen (Pittari) ; récits de l'Amicale (synagogue, Livron, Merrey, Vernet, groupe de Bigorre, liste landaise de Ch. Teissier, château Nodris) ; 11 biographies de la Salle des noms de Mauthausen ; famille de Puniet de Parry (cotes AC 21 P). Fiche Unserky signalée comme doublon possible de Jacob Insel.
