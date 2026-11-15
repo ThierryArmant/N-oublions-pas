@@ -24,7 +24,7 @@ Suzanne Cazaux, Arlette Constantin, Andrée Laurent, Josette Molland, Micheline 
 Les données d’origine sont conservées et les divergences visibles.
 
 ## Identifications à surveiller
-Suzanne Cazaux : portrait et pièce de camp rapprochés par le matricule 93875. La fiche reproduite dans Antzina porte Justine Caseaux et 7 août 1909 ; le texte de l’article indique 8 août 1908 ; le tableau du projet 17 mars 1927. Signaler ces dates, sans choisir arbitrairement.
+Suzanne Cazaux : divergences d’état civil documentées dans la fiche ; ne pas remplacer les données d’origine.
 Micheline Méjean : divergences entre le récit du CRDA et la fiche associative sur l’arrestation et le rapatriement, mentionnées dans la fiche.
 Yvonne Le Roux : la notice de Mémoire et Espoirs de la Résistance porte une année de naissance divergente, sans modification silencieuse.
 Le portrait de Paul Beschet situé à côté de l’hommage à Andrée Laurent dans Message 91 n’est PAS celui d’Andrée : aucun portrait ajouté à sa fiche.
