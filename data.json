@@ -16771,14 +16771,19 @@
       "date_sortie": "18/11/1944",
       "lieu_sortie": "Melk",
       "observations": "—",
-      "histoire": "Résistant du réseau CND-Castille, il est arrêté le 8 juin 1944 et interné à Bayonne puis au Fort du Hâ à Bordeaux. Déporté à Dachau, il est transféré à Mauthausen puis au kommando de Melk, où il meurt le 18 novembre 1944.",
+      "histoire": "Résistant du réseau CND-Castille, il est arrêté le 8 juin 1944 et interné à Bayonne puis au Fort du Hâ à Bordeaux. Déporté à Dachau, il est transféré à Mauthausen puis au kommando de Melk, où il meurt le 18 novembre 1944. Le mémorial de Mauthausen (Salle des noms) le recense : né à Arcangues, mort le 18/11/1944 à Melk.",
       "sources": [
         {
           "label": "MémorialGenWeb · notice et références d’archives",
           "url": "https://www.memorialgenweb.org/memorial3/deportes/complement.php?id=47833"
+        },
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Abeberry"
         }
       ],
-      "reseau_affiche": "CND-Castille"
+      "reseau_affiche": "CND-Castille",
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "ABORRUZA IBARGUEREN",
@@ -17108,7 +17113,15 @@
       "situation": "DCD",
       "date_sortie": "16/01/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Aire-sur-l'Adour, mort le 16/01/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Ardurat"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "ARIAS ALVAREZ",
@@ -17132,7 +17145,15 @@
       "situation": "DCD",
       "date_sortie": "28/11/1944",
       "lieu_sortie": "Mauthausen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Valgrana, mort le 28/11/1944 à Melk. Le Livre-Mémorial indique : 28/11/1944 à Mauthausen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Arlotto"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "ARNAUD",
@@ -17365,7 +17386,15 @@
       "situation": "NC",
       "date_sortie": "?",
       "lieu_sortie": "?",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Bosanska Gradiška / Gradiška, mort le 26/12/1944 à Melk. Le Livre-Mémorial n'indiquait pas son sort.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Balaban"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BALLESTERO GARGALLO",
@@ -17467,7 +17496,15 @@
       "situation": "DCD",
       "date_sortie": "01/01/1945",
       "lieu_sortie": "Mauthausen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Pieve di Soligo, mort le 01/01/1945 à Melk. Le Livre-Mémorial indique : 01/01/1945 à Mauthausen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Barel"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BAREL",
@@ -17587,7 +17624,15 @@
       "situation": "DCD",
       "date_sortie": "19/03/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Beaumont-sur-Sarthe, mort le 19/03/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Baumier"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BAZOT",
@@ -17599,7 +17644,15 @@
       "situation": "DCD",
       "date_sortie": "17/11/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Aire-sur-l'Adour, mort le 17/11/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Bazot"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BEATRICE",
@@ -17611,7 +17664,15 @@
       "situation": "D",
       "date_sortie": "?",
       "lieu_sortie": "?",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Fontanarosa, mort le 19/12/1944 à Melk. Le Livre-Mémorial n'indiquait pas son sort.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Beatrice"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BENITO CEBRERO",
@@ -17731,7 +17792,15 @@
       "situation": "DCD",
       "date_sortie": "14/03/1945",
       "lieu_sortie": "Mauthausen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Nérac, mort le 14/03/1945 à Mauthausen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Bettembourg"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BIELOVAS",
@@ -17755,7 +17824,15 @@
       "situation": "DCD",
       "date_sortie": "27/03/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à St-Hilaire, mort le 27/03/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Bigorre"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BILLON",
@@ -17767,7 +17844,15 @@
       "situation": "DCD",
       "date_sortie": "29/11/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Cinq-Mars-la-Pile, mort le 29/11/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Billon"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BIRADON",
@@ -17791,7 +17876,15 @@
       "situation": "DCD",
       "date_sortie": "31/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Angoulême, mort en décembre 1944 à Melk. Le Livre-Mémorial indique : 31/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Birot"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BLAINEAU",
@@ -17803,7 +17896,15 @@
       "situation": "DCD",
       "date_sortie": "20/04/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Ozillac, mort le 20/04/1945 à Mauthausen. Le Livre-Mémorial indique : 20/04/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Blaineau"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BLASCO SASERO",
@@ -17882,7 +17983,15 @@
       "situation": "DCD",
       "date_sortie": "03/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Bordeaux, mort le 03/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Bonnac"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BORDAS",
@@ -17894,7 +18003,15 @@
       "situation": "DCD",
       "date_sortie": "19/10/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Mostaganem, mort le 19/10/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Bordas"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BORGE PANERO",
@@ -17953,8 +18070,14 @@
         {
           "label": "AD84 · fonds Teissier 228 J — carton 3 (inventaire provisoire ; dossier non consulté)",
           "url": "https://earchives.vaucluse.fr/file/misc/00_Repnum_228J_ocr.pdf"
+        },
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Bosca"
         }
-      ]
+      ],
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Orani, mort le 15/12/1944 à Melk. Le Livre-Mémorial indique : 15/12/1944 à Mauthausen.",
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BOUDAULT",
@@ -18002,7 +18125,15 @@
       "situation": "DCD",
       "date_sortie": "26/02/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Strasbourg, mort le 26/02/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Boury"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BOUZINAC",
@@ -18095,7 +18226,15 @@
       "situation": "DCD",
       "date_sortie": "20/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Mérignac, mort le 20/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Briaud"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BRIDOULOT",
@@ -18107,7 +18246,15 @@
       "situation": "DCD",
       "date_sortie": "06/02/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Hải Phòng, mort le 06/02/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Bridoulot"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "BRIGHENTI",
@@ -18226,7 +18373,15 @@
       "situation": "DCD",
       "date_sortie": "25/02/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Lugos, mort le 25/02/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Campet"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "CANAL",
@@ -18238,7 +18393,15 @@
       "situation": "DCD",
       "date_sortie": "06/03/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à St-Paul-de-Jarrat, mort le 06/03/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Canal"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "CANTARERO SANZ",
@@ -18298,7 +18461,15 @@
       "situation": "DCD",
       "date_sortie": "12/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à St-Pee-sur-Nivelle, mort le 12/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Capdevielle"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "CAPDEVILLE",
@@ -18310,7 +18481,15 @@
       "situation": "DCD",
       "date_sortie": "25/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Châteaurenard, mort le 25/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Capdeville"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "CARBALLO",
@@ -18334,7 +18513,15 @@
       "situation": "DCD",
       "date_sortie": "12/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Saussignac, mort le 12/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Carbonnel"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "CARCELLER GARCIA",
@@ -18370,7 +18557,15 @@
       "situation": "DCD",
       "date_sortie": "24/01/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Le Pian-Médoc, mort le 24/01/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Carpentey"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "CARPIO *",
@@ -18478,7 +18673,15 @@
       "situation": "DCD",
       "date_sortie": "11/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à St-Sauveur-de-Médoc, mort le 11/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Castaing"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "CATELL DAGA",
@@ -18669,7 +18872,15 @@
       "situation": "DCD",
       "date_sortie": "02/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à La Rochelle, mort le 02/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Cohades"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "CONCARET",
@@ -18686,8 +18897,14 @@
         {
           "label": "AD84 · fonds Teissier 228 J — carton 4 (inventaire provisoire ; dossier non consulté)",
           "url": "https://earchives.vaucluse.fr/file/misc/00_Repnum_228J_ocr.pdf"
+        },
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Concaret"
         }
-      ]
+      ],
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Nicole, mort le 02/04/1945 à Melk. Le Livre-Mémorial indique : 01/04/1945 à Melk.",
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "CORONAS PUJADAS",
@@ -18711,7 +18928,15 @@
       "situation": "DCD",
       "date_sortie": "05/11/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Les Angles, mort le 05/11/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Coste"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "CRESSONNIER",
@@ -18843,7 +19068,15 @@
       "situation": "DCD",
       "date_sortie": "07/04/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Pravisdomini, mort le 07/04/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Dario"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DE LA ROZA POZO",
@@ -19002,7 +19235,15 @@
       "situation": "DCD",
       "date_sortie": "06/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Paris, mort le 06/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Deboe"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DEBOE",
@@ -19014,7 +19255,15 @@
       "situation": "DCD",
       "date_sortie": "06/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Bordeaux, mort le 04/11/1944 à Melk. Le Livre-Mémorial indique : 06/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Deboe"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DEI",
@@ -19026,7 +19275,15 @@
       "situation": "DCD",
       "date_sortie": "27/04/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Poppi, mort le 27/04/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Dei"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DELANNOY",
@@ -19056,7 +19313,15 @@
       "situation": "DCD",
       "date_sortie": "04/03/1945",
       "lieu_sortie": "Mauthausen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Argenteuil, mort le 04/03/1945 à Mauthausen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Delettre"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DEMELLE",
@@ -19068,7 +19333,15 @@
       "situation": "DCD",
       "date_sortie": "14/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Bordeaux, mort le 14/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Demelle"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DERKINDEREN",
@@ -19092,7 +19365,15 @@
       "situation": "DCD",
       "date_sortie": "10/03/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Paris, mort le 10/03/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Despiegelaeres"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DESZÔ *",
@@ -19116,7 +19397,15 @@
       "situation": "DCD",
       "date_sortie": "17/03/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Mugron, mort le 17/03/1945 à Melk. Le Livre-Mémorial indique : 17/03/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Deyris"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DIALOU",
@@ -19264,7 +19553,15 @@
       "situation": "DCD",
       "date_sortie": "31/03/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Rions, mort le 31/03/1945 à Mauthausen. Le Livre-Mémorial indique : 31/03/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Dorian"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DOUBOVOY",
@@ -19288,7 +19585,15 @@
       "situation": "DCD",
       "date_sortie": "23/11/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Ecoteaux, mort le 22/11/1944 à Melk. Le Livre-Mémorial indique : 23/11/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Doy"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DUBARRY",
@@ -19324,7 +19629,15 @@
       "situation": "DCD",
       "date_sortie": "12/11/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Carcen-Ponson, mort le 12/11/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Ducasse"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DUCH ROQUER",
@@ -19355,7 +19668,15 @@
       "situation": "DCD",
       "date_sortie": "11/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Larbey, mort le 11/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Dudez"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DUGENIT *",
@@ -19385,7 +19706,15 @@
       "situation": "DCD *",
       "date_sortie": "19/05/1945",
       "lieu_sortie": "Melk",
-      "observations": "* Avant le rapatriement"
+      "observations": "* Avant le rapatriement",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Millau, mort le 19/05/1945 à Mauthausen. Le Livre-Mémorial indique : 19/05/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Dugua"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DUPOUY",
@@ -19397,7 +19726,15 @@
       "situation": "DCD",
       "date_sortie": "07/01/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Castets, mort le 07/01/1945 à Melk. Le Livre-Mémorial indique : 07/01/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Dupouy"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "DUREUIL",
@@ -19547,7 +19884,15 @@
       "situation": "DCD",
       "date_sortie": "25/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Paris, mort le 25/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Fauvel"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "FEDOSSENKO",
@@ -19691,7 +20036,15 @@
       "situation": "DCD",
       "date_sortie": "10/01/1945",
       "lieu_sortie": "Linz",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Ouroux-sur-Saône, mort le 10/01/1945 à Linz.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Flattot"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "FOLCH SANS",
@@ -19791,7 +20144,15 @@
       "situation": "DCD",
       "date_sortie": "13/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Favara, mort le 13/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Fradella"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "FREIMANN",
@@ -19863,7 +20224,15 @@
       "situation": "DCD",
       "date_sortie": "24/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Villenauxe-la-Grande, mort le 24/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Gagon"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "GARAT",
@@ -20013,13 +20382,18 @@
       "date_sortie": "08/03/1945",
       "lieu_sortie": "Melk",
       "observations": "—",
-      "histoire": "Incarcéré à Nîmes, il rejoint le convoi à Roquemaure en août 1944. Il arrive à Dachau, puis est transféré à Mauthausen et au kommando de Melk, où il meurt le 8 mars 1945.",
+      "histoire": "Incarcéré à Nîmes, il rejoint le convoi à Roquemaure en août 1944. Il arrive à Dachau, puis est transféré à Mauthausen et au kommando de Melk, où il meurt le 8 mars 1945. Le mémorial de Mauthausen (Salle des noms) le recense : né à Pola / Pula, mort le 08/03/1945 à Melk.",
       "sources": [
         {
           "label": "AFMD du Gard · notice biographique",
           "url": "https://afmdgard.org/gaspich-pierre-2/"
+        },
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Gaspich"
         }
-      ]
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "GAUS",
@@ -20260,7 +20634,15 @@
       "situation": "DCD",
       "date_sortie": "29/03/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Nice, mort le 29/03/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Grasso"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "GRAU GARDELLACH",
@@ -20430,7 +20812,15 @@
       "situation": "DCD",
       "date_sortie": "03/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Montiers, mort le 03/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Harissart"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "HARMATH",
@@ -20496,7 +20886,15 @@
       "situation": "DCD",
       "date_sortie": "24/01/1945",
       "lieu_sortie": "Mauthausen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Benaguasil, mort le 24/01/1945 à Melk. Le Livre-Mémorial indique : 24/01/1945 à Mauthausen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Herrero"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "HERVAT",
@@ -20663,7 +21061,15 @@
       "situation": "D",
       "date_sortie": "?",
       "lieu_sortie": "?",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Deba, mort le 13/11/1944 à Melk. Le Livre-Mémorial n'indiquait pas son sort.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Irusta"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "ISAMBERT",
@@ -20711,7 +21117,15 @@
       "situation": "DCD",
       "date_sortie": "10/11/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à St-Christoly-de-Blaye, mort le 10/11/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Izer"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "JABOT",
@@ -20783,7 +21197,15 @@
       "situation": "DCD",
       "date_sortie": "30/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Chapelle, mort le 30/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Jaton"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "JEAN-LOUIS",
@@ -20996,7 +21418,15 @@
       "situation": "DCD",
       "date_sortie": "18/03/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Branne, mort le 18/03/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Labat"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "LABRUNIE",
@@ -21145,7 +21575,15 @@
       "situation": "DCD",
       "date_sortie": "03/04/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Hamelet, mort le 03/04/1945 à Mauthausen. Le Livre-Mémorial indique : 03/04/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Laignel"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "LAJOINIE",
@@ -21228,7 +21666,15 @@
       "situation": "DCD",
       "date_sortie": "18/04/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Villarossa, mort le 18/04/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Lauricella"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "LAUTMAN",
@@ -21269,7 +21715,15 @@
       "situation": "DCD",
       "date_sortie": "09/12/1944",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Le Haillan, mort le 09/12/1944 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Lavigne"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "LAVIGNE DU CADET",
@@ -21293,7 +21747,15 @@
       "situation": "DCD",
       "date_sortie": "25/02/1945",
       "lieu_sortie": "Mauthausen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Arconate, mort le 25/02/1945 à Mauthausen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Lazzati"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "LEDOUX",
@@ -21317,7 +21779,15 @@
       "situation": "DCD",
       "date_sortie": "25/10/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Paris, mort le 25/10/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Lesueur"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "LEVACHOFF",
@@ -21341,7 +21811,15 @@
       "situation": "DCD",
       "date_sortie": "15/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à St-Saëns, mort le 15/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Levasseur"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "LEVY",
@@ -21612,7 +22090,15 @@
       "situation": "DCD",
       "date_sortie": "02/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Saleilles, mort le 02/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Mach"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "MACONE",
@@ -21718,7 +22204,15 @@
       "situation": "DCD",
       "date_sortie": "14/11/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Momprimblanc, mort le 14/11/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Manseneal"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "MANZANARES BARRELA",
@@ -22030,7 +22524,15 @@
       "situation": "DCD",
       "date_sortie": "17/11/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à L'Hôpital-St-Blaise, mort le 17/11/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Mauhourat"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "MAURI FORNS",
@@ -22159,7 +22661,15 @@
       "situation": "DCD",
       "date_sortie": "28/04/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Terrasson, mort le 28/04/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Michelet"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "MIKOS",
@@ -22266,7 +22776,15 @@
       "situation": "DCD",
       "date_sortie": "14/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Molina, mort le 14/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Monterde"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "MOR VENTURA",
@@ -22619,7 +23137,15 @@
       "situation": "DCD",
       "date_sortie": "14/02/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Luttange, mort le 14/02/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Neybourger"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "NEYMOZ",
@@ -22643,7 +23169,15 @@
       "situation": "DCD",
       "date_sortie": "25/04/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Caudéran, mort le 25/04/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Nibaut"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "NICOLAS",
@@ -22824,7 +23358,15 @@
       "situation": "DCD",
       "date_sortie": "06/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Nérac, mort le 06/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Olivie"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "ONTEIRAL DIEZ",
@@ -22920,7 +23462,15 @@
       "situation": "DCD",
       "date_sortie": "11/11/1944",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Fougères, mort le 11/11/1944 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Paillou"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "PAJAK",
@@ -22956,7 +23506,15 @@
       "situation": "DCD",
       "date_sortie": "21/04/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à San Daniele, mort le 24/04/1945 à Ebensee. Le Livre-Mémorial indique : 21/04/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Pallavicini"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "PALMINO",
@@ -23001,7 +23559,15 @@
       "situation": "DCD",
       "date_sortie": "13/03/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Valmont, mort le 14/03/1945 à Ebensee. Le Livre-Mémorial indique : 13/03/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Panissi"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "PANTSCHENKO",
@@ -23057,7 +23623,15 @@
       "situation": "DCD",
       "date_sortie": "11/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Perugia, mort le 11/12/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Patalacci"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "PAUTY",
@@ -23069,7 +23643,15 @@
       "situation": "DCD",
       "date_sortie": "13/03/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Paris, mort le 14/03/1945 à Ebensee. Le Livre-Mémorial indique : 13/03/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Pauty"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "PEDRINI",
@@ -23105,7 +23687,15 @@
       "situation": "DCD",
       "date_sortie": "15/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Montán, mort le 15/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Peiro"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "PELLETIER",
@@ -23129,7 +23719,15 @@
       "situation": "DCD",
       "date_sortie": "22/04/1945",
       "lieu_sortie": "Mauthausen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Rigolato, mort le 22/04/1945 à Mauthausen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Pelligrina"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "PELLON CIFUENTES",
@@ -23315,7 +23913,7 @@
       ],
       "matricules_camps": "Mauthausen : 98870",
       "reseau_affiche": "Aide au Corps franc Pommiès — compagnie Lavalou",
-      "histoire": "Jean-Marcel Pilet tente de rejoindre les Français libres en 1943, mais est arrêté dans le train Bordeaux–Hendaye. Prisonnier affecté aux chantiers du Cap-Ferret, il s’évade, puis aide le maquis en Basse-Soule. Raflé le 27 juin 1944 à L’Hôpital-Saint-Blaise avec Saint-Jean Astarrague, il passe par Bayonne et Bordeaux avant le Train fantôme. À Dachau : 94015 ; à Mauthausen le 16 septembre : 98870. Affecté à Melk le 21 septembre, il y meurt le 20 février 1945. Le récit familial publié par le Mémorial ne reprend pas à son compte la cause médicale enregistrée par les SS.",
+      "histoire": "Jean-Marcel Pilet tente de rejoindre les Français libres en 1943, mais est arrêté dans le train Bordeaux–Hendaye. Prisonnier affecté aux chantiers du Cap-Ferret, il s’évade, puis aide le maquis en Basse-Soule. Raflé le 27 juin 1944 à L’Hôpital-Saint-Blaise avec Saint-Jean Astarrague, il passe par Bayonne et Bordeaux avant le Train fantôme. À Dachau : 94015 ; à Mauthausen le 16 septembre : 98870. Affecté à Melk le 21 septembre, il y meurt le 20 février 1945. Le récit familial publié par le Mémorial ne reprend pas à son compte la cause médicale enregistrée par les SS. Le mémorial de Mauthausen (Salle des noms) le recense : né à St-Ciers-de-Canesse, mort le 20/02/1945 à Melk.",
       "recherche_mise_a_jour": "2026-11-15",
       "photo_data": "data:image/jpeg;base64,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",
       "photo_source": {
@@ -23355,7 +23953,15 @@
       "situation": "DCD",
       "date_sortie": "30/01/1945",
       "lieu_sortie": "Mauthausen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Château-Thierry, mort le 24/01/1945 à Melk. Le Livre-Mémorial indique : 30/01/1945 à Mauthausen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Pinneberg"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "PINTO MARTIN",
@@ -23391,7 +23997,15 @@
       "situation": "DCD",
       "date_sortie": "08/01/1945",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Patti, mort le 08/01/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Pittari"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "PLANELS BONET",
@@ -23487,7 +24101,15 @@
       "situation": "DCD",
       "date_sortie": "29/11/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Blagnac, mort le 29/11/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Pons"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "PORETTA",
@@ -23613,7 +24235,15 @@
       "situation": "DCD",
       "date_sortie": "06/11/1944",
       "lieu_sortie": "Melk",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à L'Hôpital-St-Blaise, mort le 06/11/1944 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Puyade"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "QUESNEL",
@@ -23721,7 +24351,15 @@
       "situation": "DCD",
       "date_sortie": "26/04/1945",
       "lieu_sortie": "Mauthausen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à L'Hôpital, mort le 26/04/1945 à Gusen. Le Livre-Mémorial indique : 26/04/1945 à Mauthausen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Redenschek"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "REDONDO FLORES",
@@ -23823,7 +24461,15 @@
       "situation": "DCD",
       "date_sortie": "11/01/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Bordeaux, mort le 01/01/1945 à Gusen. Le Livre-Mémorial indique : 11/01/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Rimont"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "ROBERT",
@@ -24009,7 +24655,15 @@
       "situation": "DCD",
       "date_sortie": "25/04/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Oradour-sur-Glane, mort le 25/04/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Rouffanche"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "ROZIER",
@@ -24021,7 +24675,15 @@
       "situation": "DCD",
       "date_sortie": "27/04/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Vivier-au-Court, mort le 22/04/1945 à Mauthausen. Le Livre-Mémorial indique : 27/04/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Rozier"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "RUGE PARADELLA",
@@ -24081,7 +24743,15 @@
       "situation": "R *",
       "date_sortie": "05/05/1945",
       "lieu_sortie": "Melk",
-      "observations": "* DCD peu après le retour"
+      "observations": "* DCD peu après le retour",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Aire-sur-l'Adour, mort le 04/01/1945 à Melk. Le Livre-Mémorial indique : 05/05/1945 à Melk.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Saint-Blancard"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "SALAVERA CAMPS",
@@ -24261,7 +24931,7 @@
       "lieu_sortie": "Mauthausen",
       "observations": "—",
       "matricules_camps": "Mauthausen : 99065",
-      "histoire": "Martín Sarroca Llaquet naît à Capella en 1887 et grandit dans une famille émigrée dans le sud de la France. Agriculteur, époux de Baptistine Cabanié, il a deux enfants. Le Mémorial présente son engagement résistant comme probable, non certain. Arrêté en 1942 et interné au Vernet, il est déporté par le Train fantôme. Immatriculé 94081 à Dachau, transféré à Mauthausen sous le numéro 99065, il y meurt le 19 décembre 1944. Une lettre d’un détenu espagnol qui l’a soigné renseigne sa famille après-guerre. Son nom et celui de son frère Vicente, mort en 1914, figurent au monument de Castelreng.",
+      "histoire": "Martín Sarroca Llaquet naît à Capella en 1887 et grandit dans une famille émigrée dans le sud de la France. Agriculteur, époux de Baptistine Cabanié, il a deux enfants. Le Mémorial présente son engagement résistant comme probable, non certain. Arrêté en 1942 et interné au Vernet, il est déporté par le Train fantôme. Immatriculé 94081 à Dachau, transféré à Mauthausen sous le numéro 99065, il y meurt le 19 décembre 1944. Une lettre d’un détenu espagnol qui l’a soigné renseigne sa famille après-guerre. Son nom et celui de son frère Vicente, mort en 1914, figurent au monument de Castelreng. Le mémorial de Mauthausen (Salle des noms) le recense : né à Capellas, mort le 19/12/1944 à Mauthausen. Le Livre-Mémorial indique : ??/12/1944 à Mauthausen.",
       "sources": [
         {
           "label": "Mémorial de Mauthausen — Martín Sarroca Llaquet",
@@ -24352,7 +25022,15 @@
       "situation": "DCD",
       "date_sortie": "23/03/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Arcachon, mort le 23/03/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Sensevin"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "SERRA FLORENSA",
@@ -24412,7 +25090,15 @@
       "situation": "DCD",
       "date_sortie": "20/03/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Vertheuil, mort le 20/03/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Seurin"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "SEVESTRE",
@@ -24693,7 +25379,7 @@
       "date_sortie": "08/05/1945",
       "lieu_sortie": "Mauthausen",
       "observations": "* Avant le rapatriement",
-      "histoire": "Résistant arrêté par la Gestapo, Germain Subra fait partie du Train fantôme. Immatriculé 94312 à Dachau, il est ensuite transféré à Mauthausen (matricule 99143), puis à Gusen II. Le Mémorial de Mauthausen propose une notice nominative, une pièce photographique intitulée « 99143_GERMAIN_SUBRA_PORTRAIT.jpg » et des précisions sur les dates de son décès, signalées comme incertaines.",
+      "histoire": "Résistant arrêté par la Gestapo, Germain Subra fait partie du Train fantôme. Immatriculé 94312 à Dachau, il est ensuite transféré à Mauthausen (matricule 99143), puis à Gusen II. Le Mémorial de Mauthausen propose une notice nominative, une pièce photographique intitulée « 99143_GERMAIN_SUBRA_PORTRAIT.jpg » et des précisions sur les dates de son décès, signalées comme incertaines. Le mémorial de Mauthausen (Salle des noms) le recense : né à Béziers, mort le 08/05/1945 à Mauthausen.",
       "sources": [
         {
           "label": "Mémorial de Mauthausen · notice et portrait",
@@ -24709,7 +25395,8 @@
         "label": "Portrait de Germain Subra — Mémorial de Mauthausen, Salle des noms, fichier 99143_GERMAIN_SUBRA_PORTRAIT.jpg ; notice de Guillaume Maisse",
         "url": "https://raumdernamen.mauthausen-memorial.org/?L=2&id=4&p=104616"
       },
-      "matricules_camps": "Mauthausen : 99143"
+      "matricules_camps": "Mauthausen : 99143",
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "SUBSOL",
@@ -24733,7 +25420,15 @@
       "situation": "DCD",
       "date_sortie": "30/11/1944",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Bordeaux, mort le 30/11/1944 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Sustra"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "TAHTASJIAN",
@@ -24907,7 +25602,15 @@
       "situation": "DCD",
       "date_sortie": "01/03/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Paris, mort le 01/03/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Tollet"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "TONOLI",
@@ -25063,7 +25766,15 @@
       "situation": "DCD",
       "date_sortie": "24/02/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Castel di Casio, mort le 24/02/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Ugolini"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "UNSERKY ou UNSERSKI",
@@ -25398,13 +26109,18 @@
       "date_sortie": "16/11/1944",
       "lieu_sortie": "Ebensee",
       "observations": "—",
-      "histoire": "Militant portugais, il est arrêté en 1939 puis interné au Vernet. Déporté dans le Train fantôme, il arrive à Dachau en août 1944 puis est transféré à Ebensee, où il meurt le 16 novembre 1944.",
+      "histoire": "Militant portugais, il est arrêté en 1939 puis interné au Vernet. Déporté dans le Train fantôme, il arrive à Dachau en août 1944 puis est transféré à Ebensee, où il meurt le 16 novembre 1944. Le mémorial de Mauthausen (Salle des noms) le recense : né à Albufeira, mort le 16/11/1944 à Ebensee.",
       "sources": [
         {
           "label": "Université NOVA de Lisbonne · notice biographique",
           "url": "https://portugueseinmates.fcsh.unl.pt/TomasVieira"
+        },
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Vieira"
         }
-      ]
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "VIEJO DELVAL",
@@ -25627,7 +26343,15 @@
       "situation": "DCD",
       "date_sortie": "04/02/1945",
       "lieu_sortie": "Gusen",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Le Bouscat, mort le 04/02/1945 à Gusen.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Yvonnet"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "ZAJACZOWSKI",
@@ -25693,7 +26417,15 @@
       "situation": "DCD",
       "date_sortie": "19/02/1945",
       "lieu_sortie": "Ebensee",
-      "observations": "—"
+      "observations": "—",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Udine, mort le 19/02/1945 à Ebensee.",
+      "sources": [
+        {
+          "label": "Mémorial de Mauthausen — Salle des noms",
+          "url": "https://raumdernamen.mauthausen-memorial.org/en/full-text-search?txtFullSearch=Zavan"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "ZAVAN",

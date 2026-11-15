@@ -23,3 +23,7 @@
 Tableau complet des 64 fiches, avec les pistes restantes : https://claude.ai/artifact/E2eQSasNhi3c1jFSi6MQmS
 
 | 93893 | Arlette Constantin | réseau Marie-Claire, Ravensbrück n° 62486, Oranienburg puis Sachsenhausen, décès en 1972 | Mémorial des déportés charentais |
+
+## Hommes passés par Mauthausen — Salle des noms du mémorial de Mauthausen
+
+213 hommes du convoi passés par Mauthausen ont été recherchés dans la Salle des noms (base des morts du camp). 96 sont identifiés par leur date de naissance exacte ; leur fiche indique désormais le lieu de naissance, la date et le lieu du décès, avec un lien vers la base. 26 écarts avec le Livre-Mémorial sont signalés dans le texte de la fiche sans écraser la donnée d'origine. Trois sorts jusque-là inconnus sont établis : José Irusta (mort le 13/11/1944 à Melk), Lazare Balaban (26/12/1944, Melk) et Franco Beatrice (19/12/1944, Melk). Cas à vérifier : Jean Saint-Blancard, noté rentré dans le Livre-Mémorial, est recensé comme mort le 04/01/1945 à Melk.
