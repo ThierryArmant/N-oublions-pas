@@ -652,7 +652,38 @@
         "prenom": "Renée"
       },
       "reseau_affiche": "Andalousie",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Histoire locale de Saint-Médard-en-Jalles — Renée Lacoude et le Train fantôme",
+            "url": "https://portedumedoc.com/fr/les-communes/saint-medard-en-jalles/histoire/histoire-contemporaine/1207-gare-saint-jean-l-histoire-du-train-fantome"
+          },
+          {
+            "label": "Amicale — galerie de photographies de Renée Lacoude",
+            "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "AD84 · fonds Teissier 228 J — carton 6 (inventaire provisoire)",
+            "url": "https://earchives.vaucluse.fr/file/misc/00_Repnum_228J_ocr.pdf"
+          },
+          {
+            "label": "AD84 · 11 AV 10 et 28–29 — entretien recensé (enregistrement non consulté)",
+            "url": "https://memento.vaucluse.fr/assets/n/02591e60/art_mem_marche_trainfantome_11av.docx"
+          }
+        ]
+      }
     },
     {
       "nom": "JEANINE LEJEARD Déportée du TF n° 93849",
@@ -696,7 +727,18 @@
         "nom": "Lejard",
         "prenom": "Jeannine"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation. Date indiquée : 15/04/1945. Lieu indiqué : Ravensbrück.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE LOUISE DAVANCENS LASSERRE déportée du TF n°93873",
@@ -745,7 +787,18 @@
         "nom": "Lasserre",
         "prenom": "Marie-Louise"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "ALICE BESSOU KOKINE Déportée du train fantôme n°93881 nom besson",
@@ -813,7 +866,26 @@
         "prenom": "Alice"
       },
       "reseau_affiche": "Libérer et Fédérer",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation. Date indiquée : 10/04/1945. Lieu indiqué : Ravensbrück.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Amicale — biographie de Meyer Kokine et engagement d’Alice Bessou",
+            "url": "https://www.lesdeportesdutrainfantome.org/historique.htm"
+          },
+          {
+            "label": "Amicale — Sorgues, évasion de Meyer et sort d’Alice",
+            "url": "https://www.lesdeportesdutrainfantome.org/ville_sorgues.htm"
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "GINETTE BAUDY (VINCENT) Déportée du train fantôme n°93844",
@@ -879,7 +951,34 @@
         "nom": "Baudy",
         "prenom": "Ginette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Amicale — portrait légendé de Ginette Vincent",
+            "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+          },
+          {
+            "label": "Académie de Bordeaux — dossier scolaire, témoignage et photographie de Ginette Vincent",
+            "url": "https://www.ac-bordeaux.fr/media/39815/download"
+          },
+          {
+            "label": "Amicale — témoignage de Ginette Vincent, 17 mai 1990",
+            "url": "https://www.lesdeportesdutrainfantome.org/"
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "CONCHITA GRANGÉ Déportée du train fantôme n°93887 nom ramos",
@@ -928,7 +1027,8 @@
         }
       ],
       "biographie": {
-        "engagement": "Conchita Grangé, dite Conchita Ramos (1925–2019), quitte l’Espagne avec sa famille et s’engage très jeune dans la Résistance en France comme agente de liaison, sous les pseudonymes « Nina » et « la Neboudo ». Arrêtée en 1944, elle est déportée par le Train fantôme et transférée à Ravensbrück. Elle survit aux camps et consacre ensuite une grande partie de sa vie à la transmission de cette mémoire auprès des élèves."
+        "engagement": "Conchita Grangé, dite Conchita Ramos (1925–2019), quitte l’Espagne avec sa famille et s’engage très jeune dans la Résistance en France comme agente de liaison, sous les pseudonymes « Nina » et « la Neboudo ». Arrêtée en 1944, elle est déportée par le Train fantôme et transférée à Ravensbrück. Elle survit aux camps et consacre ensuite une grande partie de sa vie à la transmission de cette mémoire auprès des élèves.",
+        "deces": "Décédée le 27 août 2019, selon l’hommage de l’Amicale des anciens guérilleros espagnols en France."
       },
       "sources_biographiques": [
         {
@@ -942,6 +1042,10 @@
         {
           "label": "Wikimedia Commons — photographie documentée de Conxita Grangé",
           "url": "https://commons.wikimedia.org/wiki/Category:Conxita_Grang%C3%A9_i_Beleta"
+        },
+        {
+          "label": "AAGEF — bulletin 155, hommage à Conchita Ramos",
+          "url": "https://www.lagavillaverde.org/Paginas/Noticias/Documentos/Guerrilleros155.pdf"
         }
       ],
       "nom_tri": "Grange",
@@ -950,7 +1054,38 @@
         "prenom": "Conchita"
       },
       "pseudonyme_resistance": "Nina · la Neboudo",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 27 août 2019, selon l’hommage de l’Amicale des anciens guérilleros espagnols en France.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Conseil départemental de Haute-Garonne — biographie et hommage",
+            "url": "https://espace-presse.haute-garonne.fr/deces-de-la-resistante-conchita-ramos-reaction-de-georges-meric-president-du-conseil-departemental/"
+          },
+          {
+            "label": "Amical de Mauthausen (Espagne) — transport de Bordeaux, photographie dans l'étude sur Ravensbrück",
+            "url": "https://projecteravensbruck.amical-mauthausen.org/wp-content/uploads/2023/01/Ravensbruck-opuscle-2.pdf"
+          },
+          {
+            "label": "Wikimedia Commons — photographie documentée de Conxita Grangé",
+            "url": "https://commons.wikimedia.org/wiki/Category:Conxita_Grang%C3%A9_i_Beleta"
+          },
+          {
+            "label": "AAGEF — bulletin 155, hommage à Conchita Ramos",
+            "url": "https://www.lagavillaverde.org/Paginas/Noticias/Documentos/Guerrilleros155.pdf"
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "AD84 · 11 AV 23 — entretien recensé (enregistrement non consulté)",
+            "url": "https://memento.vaucluse.fr/assets/n/02591e60/art_mem_marche_trainfantome_11av.docx"
+          }
+        ]
+      }
     },
     {
       "nom": "ELVIRA BELETA Déportée du train fantôme n°93885",
@@ -1003,7 +1138,26 @@
         "nom": "Beleta",
         "prenom": "Elvira"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
+            "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE FERRER déporté du train fantôme n°93886",
@@ -1051,7 +1205,22 @@
         "nom": "Ferrer",
         "prenom": "Marie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décès signalé peu après le retour de déportation ; date non établie.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
+            "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE SANTOS Déporté du train fantôme n°93891",
@@ -1119,7 +1288,22 @@
         "nom": "Santos Gisbert",
         "prenom": "Maria"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
+            "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE BARTETTE déportée du train fantôme n°93867",
@@ -1167,7 +1351,8 @@
         }
       ],
       "biographie": {
-        "engagement": "Marie Bartette, mercière à Arcachon, participe aux premières actions de Résistance avec Robert Duchez et l’abbé Brunet. Sous le pseudonyme « L’Hirondelle », elle rejoint le réseau de renseignement Jove et transmet notamment des informations sur les installations militaires allemandes. Arrêtée le 30 juin 1944, elle revient de déportation en 1945 et poursuit son engagement dans la presse et la vie publique locales."
+        "engagement": "Marie Bartette, mercière à Arcachon, participe aux premières actions de Résistance avec Robert Duchez et l’abbé Brunet. Sous le pseudonyme « L’Hirondelle », elle rejoint le réseau de renseignement Jove et transmet notamment des informations sur les installations militaires allemandes. Arrêtée le 30 juin 1944, elle revient de déportation en 1945 et poursuit son engagement dans la presse et la vie publique locales.",
+        "deces": "Décédée le 27 novembre 1961 à Saint-Séverin (Charente)."
       },
       "nom_tri": "Bartette",
       "identite_fiche": {
@@ -1176,7 +1361,40 @@
       },
       "reseau_affiche": "Jove",
       "pseudonyme_resistance": "L’Hirondelle",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "sources_biographiques": [
+        {
+          "label": "Société historique et archéologique d’Arcachon et du Pays de Buch — Marie Bartette",
+          "url": "https://www.shaapb.fr/wp-content/uploads/2025/02/Bartette-Marie-relu-D-pour-arbre-3.pdf"
+        }
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 27 novembre 1961 à Saint-Séverin (Charente).",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Société historique et archéologique d’Arcachon et du Pays de Buch — Marie Bartette",
+            "url": "https://www.shaapb.fr/wp-content/uploads/2025/02/Bartette-Marie-relu-D-pour-arbre-3.pdf"
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Région Nouvelle-Aquitaine — Marie Bartette (notice et portrait dessiné par Rafael Ortiz)",
+            "url": "https://www.culture-nouvelle-aquitaine.fr/patrimoine-et-inventaire/resistantes-marie-bartette/"
+          },
+          {
+            "label": "AD84 · fonds Teissier 228 J — carton 3 (inventaire provisoire)",
+            "url": "https://earchives.vaucluse.fr/file/misc/00_Repnum_228J_ocr.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "BAUDON Yvonne Déportée du TF n°93846",
@@ -1215,7 +1433,18 @@
         "nom": "Baudon",
         "prenom": "Yvonne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation. Date indiquée : 26/09/1944. Lieu indiqué : Köpenick.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "BARSAC IRENE Déportée du Train Fantôme n°93850",
@@ -1258,7 +1487,26 @@
         "nom": "Barsacq",
         "prenom": "Irène"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "AD84 · fonds Teissier 228 J — carton 3 (inventaire provisoire)",
+            "url": "https://earchives.vaucluse.fr/file/misc/00_Repnum_228J_ocr.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "ODETTE TILLET déportée du TF n° 93862",
@@ -1416,7 +1664,46 @@
           "texte": "Albert écrit à Robert Silve et rapporte les souvenirs de sa famille.",
           "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 19 janvier 2011 à Figeac, selon le relevé de décès ; hommage dans La Dépêche du 22 janvier 2011.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+            "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+          },
+          {
+            "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+            "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+          },
+          {
+            "label": "FMD — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "La Dépêche — hommage à Odette Tillet, 22 janvier 2011",
+            "url": "https://www.ladepeche.fr/article/2011/01/22/996053-figeac-odette-tillet-l-une-des-dernieres-deportees-disparait.html"
+          },
+          {
+            "label": "Relevé de décès — Odette Pezet",
+            "url": "https://www.acte-deces.fr/recherche-deces-famille-pezet"
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Amicale du Train fantôme — rafle de Figeac, 12 mai 1944 : listes et contexte",
+            "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
+          }
+        ]
+      }
     },
     {
       "nom": "BOUDOU MATHILDE Déportée du train fantôme n°93856",
@@ -1498,7 +1785,34 @@
           "precision": "Albert Tillet la cite parmi les femmes du convoi ; le lien précis est détaillé dans la biographie.",
           "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation. Date indiquée : 04/01/1945. Lieu indiqué : Ravensbrück.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+            "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+          },
+          {
+            "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+            "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+          },
+          {
+            "label": "FMD — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Amicale du Train fantôme — rafle de Figeac, 12 mai 1944 : listes et contexte",
+            "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
+          }
+        ]
+      }
     },
     {
       "nom": "BONNET MAURICETTE Déportée du train fantôme n°93855",
@@ -1529,7 +1843,18 @@
         "nom": "Bonnet",
         "prenom": "Mauricette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "JESUSA LESBURGIERE (née Del Campo) Déportée du TF n°93876",
@@ -1583,7 +1908,18 @@
         "nom": "Lesburgeres",
         "prenom": "Jesusa"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "BOYESEN EUGÉNIE Déportée du train fantôme n°93837",
@@ -1614,7 +1950,18 @@
         "nom": "Boyesen",
         "prenom": "Eugénie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "BRUNAUD SOLANGE Déportée du train fantôme n°93861",
@@ -1639,7 +1986,18 @@
         "nom": "Brunaud",
         "prenom": "Solange"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "SUZANNE PAYRA CAYREL déportée du TF n° 93866",
@@ -1731,7 +2089,38 @@
           "precision": "Albert Tillet la cite parmi les femmes du convoi ; le lien précis est détaillé dans la biographie.",
           "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+            "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+          },
+          {
+            "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+            "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+          },
+          {
+            "label": "FMD — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Amicale du Train fantôme — rafle de Figeac, 12 mai 1944",
+            "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
+          }
+        ]
+      }
     },
     {
       "nom": "NICOLASA GARCIA CHICHARO déportée du TF n°93890",
@@ -1778,7 +2167,26 @@
         "nom": "Oliva Garcia",
         "prenom": "Nicolasa"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
+            "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+          },
+          {
+            "label": "Antzina n° 22 — étude d’Ana García Santamaría",
+            "url": "https://www.antzinako.org/Revistas/Antzina_22.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "GENEROSA CORTINA ROIG déportée du TF n°93882",
@@ -1822,7 +2230,22 @@
         "nom": "Soldevila",
         "prenom": "Germaine"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "DESME Odette deportée du train fantome n°93874",
@@ -1853,7 +2276,18 @@
         "nom": "Desme",
         "prenom": "Odette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "Suzanne Cazaux deportée du train fantome n° 93875",
@@ -1905,7 +2339,26 @@
         "prenom": "Suzanne"
       },
       "pseudonyme_resistance": "Justine",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Ana García Santamaría — enquête, portrait et fiches de camp, Antzina 35 (2023), p. 14–16",
+            "url": "https://www.antzinako.org/Revistas/Antzina_35.pdf"
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Suzanne Cazaux, alias Justine — portrait publié par Ana García Santamaría, Antzina n°35, juin 2023, p. 14 ; dossier SHD cité dans l’article",
+            "url": "https://www.antzinako.org/Revistas/Antzina_35.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "Constantin Arlette deportée du train fantome n° 93893",
@@ -1946,7 +2399,22 @@
         "nom": "Constantin",
         "prenom": "Arlette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Musée de la Résistance en ligne — Arlette Constantin, données du DVD La Résistance en Charente (2005)",
+            "url": "https://www.museedelaresistanceenligne.org/personnedetail.php?id=8169"
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "Chaubard Marie-louise deportée du train fantome n°93842",
@@ -1977,7 +2445,18 @@
         "nom": "Chaubard",
         "prenom": "Marie-Louise"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "Croner Jeanne deportée du train fantome n°93878",
@@ -2013,7 +2492,22 @@
         "nom": "Croner",
         "prenom": "Jeanne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "Dapere Marie deportée du train fantôme n°93889",
@@ -2054,7 +2548,22 @@
         "nom": "Dapere",
         "prenom": "Marie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "De Puniet de Parry Sophie deportée du train fantome n°93836",
@@ -2090,7 +2599,18 @@
         "nom": "de Puniet de Parry",
         "prenom": "Sophie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "Deyris Louise deportée du train fantome n°93892",
@@ -2121,7 +2641,18 @@
         "nom": "Deyris",
         "prenom": "Louise"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "Estrade Marie Alexandrine deportée du train fantome n°93839",
@@ -2162,7 +2693,22 @@
         "nom": "Estrade",
         "prenom": "Marie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "Etcheverria Marie-Jeanne deportée du train fantome n°93868",
@@ -2246,7 +2792,18 @@
         "nom": "Etcheverria",
         "prenom": "Marie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "Maria Josepha sensberro déportée du train fantôme n°93869",
@@ -2304,7 +2861,22 @@
         "nom": "Nicolas",
         "prenom": "Maria"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation. Date indiquée : 13/11/1944.\n\nL’étude publiée dans Antzina signale María Josefa Sansberro sous le nom de María Nicolás, avec les matricules 93869 et 62462. Elle est transférée de Ravensbrück au kommando de l’usine Pertrix, à Berlin-Schöneweide, le 27 septembre 1944, puis à Sachsenhausen, où elle meurt le 13 novembre 1944.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Antzina n° 22 — parcours de María Josefa Sansberro",
+            "url": "https://www.antzinako.org/Revistas/Antzina_22.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "Félicie Martinez virto de cibourre déportée du train fantôme n° 93860",
@@ -2348,7 +2920,18 @@
         "nom": "Martinez",
         "prenom": "Félicie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "Fort Raymonde deportée du train fantome n°93894",
@@ -2379,7 +2962,18 @@
         "nom": "Fort",
         "prenom": "Raymonde"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "Herbert Ferdinande deportée du train fantome n°93870",
@@ -2415,7 +3009,18 @@
         "nom": "Herbert",
         "prenom": "Ferdinande"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "Labarthe Jeanne deportée du train fantome n°93843\n",
@@ -2446,7 +3051,18 @@
         "nom": "Labarthe",
         "prenom": "Jeanne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation. Date indiquée : ??/04/1945. Lieu indiqué : Hamburg.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "Lafage Antoinette deportée du train fantome n°93879",
@@ -2533,7 +3149,34 @@
           "precision": "Albert Tillet la cite parmi les femmes du convoi ; le lien précis est détaillé dans la biographie.",
           "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décès signalé peu après le retour de déportation ; date non établie.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+            "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+          },
+          {
+            "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+            "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+          },
+          {
+            "label": "FMD — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Amicale du Train fantôme — rafle de Figeac, 12 mai 1944",
+            "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
+          }
+        ]
+      }
     },
     {
       "nom": "Laurent Raymonde deportée du train fantome n°93895",
@@ -2564,7 +3207,18 @@
         "nom": "Laurent",
         "prenom": "Raymonde"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "LUCIENNE HARTE Déportée du train fantôme n°93834",
@@ -2620,7 +3274,22 @@
         "nom": "Harté",
         "prenom": "Lucienne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "HELENE RESCOUSSIE déportée du train fantôme n°93863 nom Monguilan",
@@ -2726,7 +3395,34 @@
           "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
           "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+            "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+          },
+          {
+            "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+            "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+          },
+          {
+            "label": "FMD — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Amicale du Train fantôme — rafle de Figeac, 12 mai 1944",
+            "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
+          }
+        ]
+      }
     },
     {
       "nom": "VIOLETTE SZABO",
@@ -2796,7 +3492,18 @@
         "nom": "Szabo",
         "prenom": "Violette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Exécutée à Ravensbrück au début de 1945  ; date exacte : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.nam.ac.uk/explore/special-operations-executive"
+          }
+        ]
+      }
     },
     {
       "nom": "ADELAIDE HAUTVAL",
@@ -2846,7 +3553,18 @@
         "nom": "Hautval",
         "prenom": "Adélaïde"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "12 octobre 1988, Groslay",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://wwv.yadvashem.org/yv/fr/expositions/justes-auschwitz/hautval.asp"
+          }
+        ]
+      }
     },
     {
       "nom": "MARCELLE HENRI",
@@ -2916,7 +3634,18 @@
         "nom": "Henry",
         "prenom": "Marcelle"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "24 avril 1945, Paris",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.ordredelaliberation.fr/fr/compagnons/marcelle-henry"
+          }
+        ]
+      }
     },
     {
       "nom": "YVONNE PAGNIEZ",
@@ -2981,7 +3710,18 @@
         "nom": "Pagniez",
         "prenom": "Yvonne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "18 avril 1981, Paris",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.academie-francaise.fr/yvonne-pagniez"
+          }
+        ]
+      }
     },
     {
       "nom": "JEANNE GOUPILLE",
@@ -3036,7 +3776,18 @@
         "nom": "Goupille",
         "prenom": "Jeanne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "1987 ; date exacte : ? ; lieu : ?",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://yadvashem-france.org/dossier/nom/8823/"
+          }
+        ]
+      }
     },
     {
       "nom": "YVONNE DE KOMORNICKA",
@@ -3112,7 +3863,26 @@
           "precision": "Wanda reprend le service social après l’arrestation d’Yvonne. Aucun parcours de déportation n’est attribué à Wanda.",
           "source": "https://museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka"
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "1994 ; date exacte : ? ; lieu : ?",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://museedelaresistanceenligne.org/media11606-Portraits-dYvonne-de-Komornicka-en-dportation"
+          },
+          {
+            "label": "Fondation de la Résistance — organisation familiale et MUR en Vaucluse",
+            "url": "https://museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka"
+          },
+          {
+            "label": "AD84 / Fondation de la Résistance — dessins et attestation, fonds 1 J 345",
+            "url": "https://museedelaresistanceenligne.org/media11606-Portraits-dYvonne-de-Komornicka-en-dportation"
+          }
+        ]
+      }
     },
     {
       "nom": "JANE SIVADON",
@@ -3173,7 +3943,18 @@
         "prenom": "Jeanne (dite Jane)"
       },
       "pseudonyme_resistance": "Jacqueline Simon",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "31 août 1995 ; lieu : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://museedelaresistanceenligne.org/media.php?expo=&media=10338"
+          }
+        ]
+      }
     },
     {
       "nom": "GERMAINE TILLON",
@@ -3245,7 +4026,18 @@
         "nom": "Tillion",
         "prenom": "Germaine"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "19 avril 2008, Saint-Mandé",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.mnhn.fr/fr/germaine-tillion-1907-2008"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE CLAUDE VAILLANT COUTURIER",
@@ -3295,7 +4087,18 @@
         "nom": "Vaillant-Couturier",
         "prenom": "Marie-Claude"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "11 décembre 1996, Villejuif",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/7202?legislature=51"
+          }
+        ]
+      }
     },
     {
       "nom": "FERNANDE ADELE SAVAGNAT",
@@ -3345,7 +4148,18 @@
         "nom": "Servagnat",
         "prenom": "Fernande"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.histoire-et-memoire51.fr/pdf2022/Servagnat%20Pierre%20et%20Fernande.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "CHARLOTTE DELBO",
@@ -3395,7 +4209,18 @@
         "nom": "Delbo",
         "prenom": "Charlotte"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "1er mars 1985, Paris",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.cheminsdememoire.gouv.fr/fr/hommage-charlotte-delbo"
+          }
+        ]
+      }
     },
     {
       "nom": "LAURE DIEBOLD",
@@ -3435,7 +4260,18 @@
         "prenom": "Laure"
       },
       "pseudonyme_resistance": "Mado · Mona",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "17 octobre 1965, Lyon",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.ordredelaliberation.fr/fr/compagnons/laure-diebold"
+          }
+        ]
+      }
     },
     {
       "nom": "LISE LONDON",
@@ -3485,7 +4321,18 @@
         "nom": "London",
         "prenom": "Lise"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "31 mars 2012, Paris",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.memoresist.org/resistant/lise-london/"
+          }
+        ]
+      }
     },
     {
       "nom": "JACQUELINE PERY D'ALINCOURT",
@@ -3539,7 +4386,22 @@
         "nom": "Péry d’Alincourt",
         "prenom": "Jacqueline"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 21 avril 2009 à Paris ; inhumée dans son village natal.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://afmd.org/jacqueline-pery-dalincourt.html"
+          },
+          {
+            "label": "Fondation de la Résistance – Jacqueline Péry d’Alincourt",
+            "url": "https://www.fondationresistance.org/recherche-et-documentation/ressources/portrait/jacqueline-pery-alincourt/"
+          }
+        ]
+      }
     },
     {
       "nom": "MIREILLE LAUZE",
@@ -3605,7 +4467,26 @@
         "nom": "Lauze",
         "prenom": "Mireille"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "8 mars 1945, Ravensbrück",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://yadvashem-france.org/wp-content/uploads/2020/08/Journal-inconnu_date-inconnue_ltaa3T0.pdf"
+          },
+          {
+            "label": "Fondation de la Résistance — analyse de Sylvie Orsoni, AD13 76 W 29",
+            "url": "https://museedelaresistanceenligne.org/media11447-Condamnation-dun-groupe-de-jeunes-communistes-par-la-section-spciale-de-Marseille-novembre-1941"
+          },
+          {
+            "label": "SHD · AC 21 P 590718",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "GENEVIÈVE DE GAULLE ANTHONIOZ",
@@ -3675,7 +4556,18 @@
         "nom": "de Gaulle-Anthonioz",
         "prenom": "Geneviève"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "14 février 2002, Paris",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.gard.gouv.fr/actualites/genevieve-de-gaulle-anthonioz-resistante-pour-la-france"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE JOSÉ CHOMBART DE LAUWE",
@@ -3740,7 +4632,19 @@
         "nom": "Chombart de Lauwe",
         "prenom": "Marie-José"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "en_vie",
+        "precision": "En vie dans une source datée de 2026. Cette attestation est datée ; elle ne constitue pas une vérification quotidienne.",
+        "attestation": "2026-05-31",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la Déportation — 103e anniversaire, 31 mai 2026",
+            "url": "https://fondationmemoiredeportation.com/2026/05/31/joyeux-anniversaire-marie-jo/"
+          }
+        ]
+      }
     },
     {
       "nom": "ELISABETH GOUPILLE",
@@ -3787,7 +4691,18 @@
         "nom": "Goupille",
         "prenom": "Élisabeth"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://yadvashem-france.org/dossier/nom/8823/"
+          }
+        ]
+      }
     },
     {
       "nom": "PAULINE GABRIELLE GAILLARD",
@@ -3848,7 +4763,18 @@
         "prenom": "Pauline Gabrielle"
       },
       "pseudonyme_resistance": "Marie-Odile Laroche",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "23 mars 1945, Ravensbrück",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.memoiredeshommes.defense.gouv.fr/fichier/6819694/14462638"
+          }
+        ]
+      }
     },
     {
       "nom": "DENISE VERNAY",
@@ -3898,7 +4824,22 @@
         "prenom": "Denise"
       },
       "pseudonyme_resistance": "Miarka",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "4 mars 2013, Paris",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.fondationresistance.org/recherche-et-documentation/ressources/portrait/denise-vernay-jacob/"
+          },
+          {
+            "label": "Mémorial de la Shoah – Famille Jacob, enfance de Denise à Nice",
+            "url": "https://www.memorialdelashoah.org/exposition-simone-veil-biographie-famille-jacob.html"
+          }
+        ]
+      }
     },
     {
       "nom": "GINETTE LION CLEMENT",
@@ -3949,7 +4890,18 @@
         "prenom": "Ginette"
       },
       "pseudonyme_resistance": "Annick",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "29 décembre 2016, Pompey",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.unadif.fr/fr/actualites/nos-peines/ginette-clement.html"
+          }
+        ]
+      }
     },
     {
       "nom": "ANISE POSTEL VINAY",
@@ -4009,7 +4961,18 @@
         "nom": "Postel-Vinay",
         "prenom": "Anise"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "24 mai 2020, Paris",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://www.memoiredeshommes.defense.gouv.fr/fichier/6819694/14462166"
+          }
+        ]
+      }
     },
     {
       "nom": "SUZANNE ORTS",
@@ -4066,7 +5029,18 @@
         "nom": "Orts",
         "prenom": "Suzanne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "21 février 2018, Aix-en-Provence",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice biographique / source de référence",
+            "url": "https://mur34.fr/index.php/2023/07/17/suzanne-orts/"
+          }
+        ]
+      }
     },
     {
       "nom": "CAUBET",
@@ -4091,7 +5065,18 @@
         "nom": "Caubet",
         "prenom": "Madeleine"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "CAZEAUX",
@@ -4116,7 +5101,18 @@
         "nom": "Cazeaux",
         "prenom": "Madeleine"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "DE MARQUEISSAC",
@@ -4141,7 +5137,18 @@
         "nom": "de Marqueissac",
         "prenom": "Marie-Louise"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "DUBREUIL",
@@ -4171,7 +5178,22 @@
         "nom": "Dubreuil",
         "prenom": "Geneviève"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "AD84 · fonds Teissier 228 J — carton 4 (inventaire provisoire)",
+            "url": "https://earchives.vaucluse.fr/file/misc/00_Repnum_228J_ocr.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "FAU",
@@ -4204,7 +5226,26 @@
         "nom": "Fau Español",
         "prenom": "Justina Julia"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Juan M. Calvo — Justina Julia Fau Español (2015)",
+            "url": "https://aragonesesexilioydeportacion.blogspot.com/2015/04/fau-espanol-justina-julia.html"
+          },
+          {
+            "label": "Amalia Rosado Orquín — Los triángulos rojos, Instituto de las Mujeres, 2025, p. 210, 228, 230",
+            "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "FEILLOU",
@@ -4234,7 +5275,22 @@
         "nom": "Feillou",
         "prenom": "Marie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "GIGLEUX / OZON",
@@ -4259,7 +5315,18 @@
         "nom": "Gigleux",
         "prenom": "Marie-Louise"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "LASSERRE",
@@ -4289,7 +5356,22 @@
         "nom": "Lasserre",
         "prenom": "Marie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "LEZIAN / DANTHEZ",
@@ -4314,7 +5396,18 @@
         "nom": "Lezian",
         "prenom": "Etiennette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "MAJEAU",
@@ -4344,7 +5437,22 @@
         "nom": "Majeau",
         "prenom": "Yvette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "MONMARIN",
@@ -4369,7 +5477,18 @@
         "nom": "Monmarin",
         "prenom": "Marthe"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "PARADE",
@@ -4399,7 +5518,22 @@
         "nom": "Parade",
         "prenom": "Aimée"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "PRADELS",
@@ -4507,7 +5641,46 @@
           "precision": "Dans la lettre, Albert identifie Jeanne comme sa mère, Odette comme son épouse, Alida comme sa tante et Hélène comme sa cousine.",
           "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+            "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+          },
+          {
+            "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+            "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+          },
+          {
+            "label": "FMD — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "SHD — GR 16 P 181240, Destruel épouse Pradels",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_D.pdf"
+          },
+          {
+            "label": "Un certain voyage — inventaire des témoignages, Archives nationales 72AJ/333, A.II",
+            "url": "https://uncertainvoyage.fr/temoignages"
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Amicale du Train fantôme — rafle de Figeac, 12 mai 1944 : listes et contexte",
+            "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
+          }
+        ]
+      }
     },
     {
       "nom": "PUGNET-WARTZ",
@@ -4532,7 +5705,18 @@
         "nom": "Pugnet-Wartz",
         "prenom": "Andrée"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "REISS",
@@ -4557,7 +5741,18 @@
         "nom": "Reiss",
         "prenom": "Renée"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "SAHOURET",
@@ -4582,7 +5777,18 @@
         "nom": "Sahouret",
         "prenom": "Aimée"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation. Date indiquée : ??/02/1945. Lieu indiqué : Ravensbrück. Gazée.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "SAHUQUÉ",
@@ -4607,7 +5813,18 @@
         "nom": "Sahuqué",
         "prenom": "Marguerite"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation. Date indiquée : Fin 04/1945. Lors de l'évacuation.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "SICARD",
@@ -4632,7 +5849,18 @@
         "nom": "Sicard",
         "prenom": "Marie-Jeanne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "SOURGENS",
@@ -4662,7 +5890,22 @@
         "nom": "Sourgens",
         "prenom": "Georgette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "TAPIA ESTEBAN",
@@ -4706,6 +5949,29 @@
       ],
       "biographie": {
         "matricules": "Dachau : 93883 ; Ravensbrück : 62476 (étude espagnole déjà citée dans la fiche)."
+      },
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Inventaire SHD — dossiers de déportés et internés résistants",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Amicale du Train fantôme — rafle de Figeac, 12 mai 1944 : listes et contexte",
+            "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
+          },
+          {
+            "label": "Amalia Rosado Orquín — Instituto de las Mujeres, 2025, p. 321 (identités et matricules)",
+            "url": "https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf"
+          }
+        ]
       }
     },
     {
@@ -4731,7 +5997,18 @@
         "nom": "Tauzin",
         "prenom": "Jeanne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation. Date indiquée : 17/09/1944. Lieu indiqué : Ravensbrück.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "TILLET",
@@ -4839,7 +6116,46 @@
           "source": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
         }
       ],
-      "reference_archives": "SHD : AC 21 P 659558, Tillet Jeanne / Destruel ; GR 16 P 181245, Destruel épouse Tillet, Jeanne Marie Rose. Répertoires consultés, dossiers intégraux non consultés."
+      "reference_archives": "SHD : AC 21 P 659558, Tillet Jeanne / Destruel ; GR 16 P 181245, Destruel épouse Tillet, Jeanne Marie Rose. Répertoires consultés, dossiers intégraux non consultés.",
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Albert Tillet — lettre à Robert Silve, 27 mai 1991, feuillet 1",
+            "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+          },
+          {
+            "label": "Albert Tillet — même lettre, signature et fin, feuillet 2",
+            "url": "https://drive.google.com/file/d/1SKWaN_9rNGNX0-tF87DD3cX5oIBImMzp/view"
+          },
+          {
+            "label": "FMD — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "SHD — répertoire GR 16 P, Destruel épouse Tillet",
+            "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_D.pdf"
+          },
+          {
+            "label": "La Dépêche — histoire de l’hôtel des Carmes, 21 février 2010",
+            "url": "https://www.ladepeche.fr/article/2010/02/21/781835-figeac-pendant-100-ans-hotel-tillet-fait-fierte-carmes.html"
+          },
+          {
+            "label": "Un certain voyage — inventaire des témoignages, Archives nationales 72AJ/333, A.II",
+            "url": "https://uncertainvoyage.fr/temoignages"
+          },
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          },
+          {
+            "label": "Amicale du Train fantôme — rafle de Figeac, 12 mai 1944 : listes et contexte",
+            "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
+          }
+        ]
+      }
     },
     {
       "nom": "VACHER",
@@ -4864,7 +6180,18 @@
         "nom": "Vacher",
         "prenom": "Christine"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "VERGE",
@@ -4889,7 +6216,18 @@
         "nom": "Verge",
         "prenom": "Marie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation. Date indiquée : 11/01/1945. Lieu indiqué : Ravensbrück.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
+            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+          }
+        ]
+      }
     },
     {
       "nom": "SIMONE MICHEL-LÉVY",
@@ -4937,7 +6275,22 @@
         "prenom": "Simone"
       },
       "pseudonyme_resistance": "Emma · Françoise · Madame Royale · Mademoiselle Flaubert",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Pendue le 13 avril 1945 au camp de Flossenbürg (Allemagne), dix jours avant la libération du camp.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Ordre de la Libération – notice du Compagnon",
+            "url": "https://www.ordredelaliberation.fr/fr/compagnons/simone-michel-levy"
+          },
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Simone_Michel-Lévy"
+          }
+        ]
+      }
     },
     {
       "nom": "JACQUELINE FLEURY-MARIÉ",
@@ -4974,6 +6327,10 @@
         {
           "label": "Mémorial de Buchenwald – biographie",
           "url": "https://www.buchenwald.de/en/geschichte/biografien/bag-ausstellung/jacqueline-marie"
+        },
+        {
+          "label": "Société des membres de la Légion d’honneur, Yvelines — bulletin de janvier 2026, p. 1",
+          "url": "https://smlh78.com/DiffuseLiens/CV131jan26.pdf"
         }
       ],
       "archives_deportation": [],
@@ -4984,7 +6341,19 @@
         "nom": "Fleury-Marié",
         "prenom": "Jacqueline"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "en_vie",
+        "precision": "En vie dans une source datée de 2026. Cette attestation est datée ; elle ne constitue pas une vérification quotidienne.",
+        "attestation": "2026-01",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Société des membres de la Légion d’honneur, Yvelines — bulletin de janvier 2026, p. 1",
+            "url": "https://smlh78.com/DiffuseLiens/CV131jan26.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE DUBOIS",
@@ -5031,7 +6400,22 @@
         "nom": "Dubois",
         "prenom": "Marie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation le 8 avril 1945 à Mauthausen (Autriche).",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Marie_Dubois_(résistante)"
+          },
+          {
+            "label": "Le Maitron – dictionnaire des fusillés et militants",
+            "url": "https://maitron.fr/"
+          }
+        ]
+      }
     },
     {
       "nom": "SUZANNE GUYOTAT",
@@ -5071,7 +6455,18 @@
         "prenom": "Suzanne"
       },
       "reseau_affiche": "Défense de la France",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 4 février 2011 à Lyon.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Suzanne_Guyotat"
+          }
+        ]
+      }
     },
     {
       "nom": "BERTY ALBRECHT",
@@ -5134,7 +6529,30 @@
       },
       "reseau_affiche": "Mouvement de libération nationale · Combat",
       "pseudonyme_resistance": "Victoria",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Morte le 31 mai 1943 à la prison de Fresnes. La notice de l’Ordre de la Libération précise qu’elle se donne la mort par pendaison dans la nuit, après son transfert et les tortures subies.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Ordre de la Libération – notice du Compagnon",
+            "url": "https://www.ordredelaliberation.fr/fr/compagnons/berty-albrecht"
+          },
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Berty_Albrecht"
+          },
+          {
+            "label": "Archives départementales des Bouches-du-Rhône — Berty Albrecht",
+            "url": "https://www.archives13.fr/galerie/galerie/images/26/n%3A178"
+          },
+          {
+            "label": "Ordre de la Libération — biographie de référence",
+            "url": "https://www.ordredelaliberation.fr/fr/compagnons/berty-albrecht"
+          }
+        ]
+      }
     },
     {
       "nom": "GILBERTE BROSSOLETTE",
@@ -5177,7 +6595,18 @@
         "prenom": "Gilberte"
       },
       "reseau_affiche": "France libre · BCRA",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 12 mars 2004 à Paris.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Gilberte_Brossolette"
+          }
+        ]
+      }
     },
     {
       "nom": "JOSÉPHINE BAKER",
@@ -5224,7 +6653,22 @@
         "prenom": "Joséphine"
       },
       "reseau_affiche": "Contre-espionnage · Forces aériennes françaises libres",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 12 avril 1975 à Paris.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Chemins de mémoire – ministère des Armées",
+            "url": "https://www.cheminsdememoire.gouv.fr/fr/josephine-baker"
+          },
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Joséphine_Baker"
+          }
+        ]
+      }
     },
     {
       "nom": "SUZANNE NOËL",
@@ -5266,7 +6710,18 @@
         "nom": "Noël",
         "prenom": "Suzanne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 11 novembre 1954 à Paris.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Suzanne_Noël"
+          }
+        ]
+      }
     },
     {
       "nom": "THÉRÈSE PAPILLON",
@@ -5313,7 +6768,22 @@
         "prenom": "Thérèse"
       },
       "reseau_affiche": "OCM · Centurie",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 21 mars 1983 à Amiens ; inhumée à l’abbaye de Valloires.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Musée de la Résistance en ligne – notice",
+            "url": "https://www.museedelaresistanceenligne.org/personnedetail_pdf.php?id=38146"
+          },
+          {
+            "label": "Yad Vashem – base des Justes parmi les Nations",
+            "url": "https://collections.yadvashem.org/fr/righteous"
+          }
+        ]
+      }
     },
     {
       "nom": "GERMAINE RIBIÈRE",
@@ -5364,7 +6834,26 @@
         "prenom": "Germaine"
       },
       "reseau_affiche": "Témoignage chrétien · Amitié chrétienne",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 20 novembre 1999 à Paris.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Europe Remembers – biographie",
+            "url": "https://www.europeremembers.com/stories/533/germaine-ribiere"
+          },
+          {
+            "label": "Yad Vashem – base des Justes parmi les Nations",
+            "url": "https://collections.yadvashem.org/fr/righteous"
+          },
+          {
+            "label": "FranceArchives – Germaine Ribière",
+            "url": "https://francearchives.gouv.fr/fr/pages_histoire/26288056"
+          }
+        ]
+      }
     },
     {
       "nom": "ISAURE LUZET",
@@ -5415,7 +6904,22 @@
         "nom": "Luzet",
         "prenom": "Isaure"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 14 juillet 1994 à Corenc (Isère) ; inhumée au cimetière Saint-Roch de Grenoble.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Isaure_Luzet"
+          },
+          {
+            "label": "Yad Vashem – base des Justes parmi les Nations",
+            "url": "https://collections.yadvashem.org/fr/righteous"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE HACKIN",
@@ -5457,7 +6961,22 @@
         "prenom": "Marie"
       },
       "reseau_affiche": "France libre · Corps des volontaires françaises",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Disparue en mer le 24 février 1941, lorsque son navire est torpillé au large des îles Féroé.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Ordre de la Libération – notice du Compagnon",
+            "url": "https://www.ordredelaliberation.fr/fr/compagnons/marie-hackin"
+          },
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Marie_Hackin"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE-MADELEINE FOURCADE",
@@ -5500,7 +7019,22 @@
       },
       "reseau_affiche": "Alliance",
       "pseudonyme_resistance": "Hérisson",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 20 juillet 1989 à Paris ; premières obsèques d’une femme aux Invalides.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Chemins de mémoire – ministère des Armées",
+            "url": "https://www.cheminsdememoire.gouv.fr/fr/marie-madeleine-fourcade"
+          },
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Marie-Madeleine_Fourcade"
+          }
+        ]
+      }
     },
     {
       "nom": "DANIELLE CASANOVA",
@@ -5546,7 +7080,22 @@
         "nom": "Casanova",
         "prenom": "Danielle"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée du typhus le 9 mai 1943 à Auschwitz-Birkenau.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Danielle_Casanova"
+          },
+          {
+            "label": "Musée de la Résistance en ligne – notice",
+            "url": "https://www.museedelaresistanceenligne.org/personnedetail_pdf.php?id=11819"
+          }
+        ]
+      }
     },
     {
       "nom": "SIMONE VEIL",
@@ -5588,7 +7137,18 @@
         "nom": "Veil",
         "prenom": "Simone"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 30 juin 2017 à Paris.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Simone_Veil"
+          }
+        ]
+      }
     },
     {
       "nom": "FRANÇOISE SELIGMANN",
@@ -5631,7 +7191,18 @@
         "prenom": "Françoise"
       },
       "reseau_affiche": "Combat · MUR",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 27 février 2013 à Neuilly-sur-Seine.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Françoise_Seligmann"
+          }
+        ]
+      }
     },
     {
       "nom": "ÉLISABETH RISLER-FRANÇOIS",
@@ -5673,7 +7244,18 @@
         "nom": "Risler-François",
         "prenom": "Élisabeth"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 20 août 1989 à Saint-Cloud.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Yad Vashem – base des Justes parmi les Nations",
+            "url": "https://collections.yadvashem.org/fr/righteous"
+          }
+        ]
+      }
     },
     {
       "nom": "ÉLISABETH DUSSAUZE",
@@ -5720,7 +7302,22 @@
         "prenom": "Élisabeth (dite Lisbeth)"
       },
       "reseau_affiche": "Combat Zone Nord",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 29 décembre 1983 à Paris.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Texte de recherche des élèves (Drive du projet)",
+            "url": "https://drive.google.com/file/d/1k1QOMHl0GjucAHKZD3Bs2nzPuB53X9oP/view"
+          },
+          {
+            "label": "Musée de la Résistance en ligne – Élisabeth Dussauze",
+            "url": "https://museedelaresistanceenligne.org/media10339-Elisabeth-Dussauze"
+          }
+        ]
+      }
     },
     {
       "nom": "ÉMILIENNE MOREAU-EVRARD",
@@ -5772,7 +7369,22 @@
         "prenom": "Émilienne"
       },
       "reseau_affiche": "Brutus · La France au combat",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 5 janvier 1971 à Lens.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Ordre de la Libération – notice du Compagnon",
+            "url": "https://www.ordredelaliberation.fr/fr/compagnons/emilienne-moreau-evrard"
+          },
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Émilienne_Moreau-Evrard"
+          }
+        ]
+      }
     },
     {
       "nom": "LUCIE AUBRAC",
@@ -5819,7 +7431,22 @@
         "prenom": "Lucie"
       },
       "reseau_affiche": "Libération-Sud",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 14 mars 2007 à Issy-les-Moulineaux.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Chemins de mémoire – ministère des Armées",
+            "url": "https://www.cheminsdememoire.gouv.fr/fr/lucie-aubrac"
+          },
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Lucie_Aubrac"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE CURIE",
@@ -5861,7 +7488,18 @@
         "nom": "Curie",
         "prenom": "Marie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 4 juillet 1934 à Passy (Haute-Savoie).",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Marie_Curie"
+          }
+        ]
+      }
     },
     {
       "nom": "MADELEINE CROSET",
@@ -5923,7 +7561,34 @@
       },
       "reseau_affiche": "Alliance",
       "pseudonyme_resistance": "Souris",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 30 octobre 2011 à Saint-Didier (Vaucluse).",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Archives départementales de Vaucluse – conférence Madeleine Croset",
+            "url": "https://archives.vaucluse.fr/informations-transversales/toutes-les-actualites-1209/la-conference-sur-la-resistante-madeleine-croset-9526/pdf"
+          },
+          {
+            "label": "ICI Vaucluse – « Madeleine Croset, femme libre et résistante vauclusienne »",
+            "url": "https://www.ici.fr/emissions/le-saviez-vous/madeleine-croset-femme-libre-et-resistante-vauclusienne-5885028"
+          },
+          {
+            "label": "Ordre de la Libération — dossier 1O16168, Magdeleine Ayyaz née Croset",
+            "url": "https://www.ordredelaliberation.fr/fr/medailles/magdeleine-blanche-noelie-ayyaz"
+          },
+          {
+            "label": "Ordre de la Libération — entrée d’archives privées en mars 2023",
+            "url": "https://www.ordredelaliberation.fr/fr/lettre-dinformation-mars-2023-1"
+          },
+          {
+            "label": "SHD · AC 21 P 627027",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "JEANNE MARTIN ÉPOUSE VALENZIANO",
@@ -5967,7 +7632,26 @@
         "prenom": "Jeanne"
       },
       "reseau_affiche": "FTP",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association française Buchenwald… Flossenbürg – fiche individuelle",
+            "url": "https://asso-flossenburg.com/fiches/MARTIN%20%C3%A9pouse%20Valenziano%20Jeanne.pdf"
+          },
+          {
+            "label": "SHD — répertoire des dossiers de déportés, AC 21 P 625866",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "SHD · AC 21 P 625866",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "GEORGETTE MARTIN",
@@ -6024,7 +7708,30 @@
         "prenom": "Georgette"
       },
       "reseau_affiche": "Abbé Blanc",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 20 octobre 2011, à 108 ans.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Musée de la Résistance en ligne – Georgette Martin",
+            "url": "https://museedelaresistanceenligne.org/media2027-Georgette-Martin-son-domicile"
+          },
+          {
+            "label": "Association du camp de Flossenbürg – fiche individuelle",
+            "url": "https://asso-flossenburg.com/fiches/MARTIN%20Georgette.pdf"
+          },
+          {
+            "label": "Mémoire Vive de la Résistance — témoignage de Georgette Martin",
+            "url": "https://mvr.asso.fr/martin/"
+          },
+          {
+            "label": "SHD · AC 21 P 592380",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "ÉMILIENNE ANTETOMASO NÉE TARTAT",
@@ -6057,7 +7764,18 @@
         "nom": "Antetomaso",
         "prenom": "Émilienne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association du camp de Flossenbürg – fiche individuelle",
+            "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/ANTETOMASO-nee-TARTAT-Emilienne.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "RAYMONDE TILLON",
@@ -6107,7 +7825,26 @@
         "nom": "Tillon-Nédelec",
         "prenom": "Raymonde"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 17 juillet 2016 à Paris, à 100 ans.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Raymonde_Tillon"
+          },
+          {
+            "label": "Times of Israel (AFP) – annonce de son décès",
+            "url": "https://fr.timesofisrael.com/la-resistante-raymonde-tillon-nedelec-est-decedee/"
+          },
+          {
+            "label": "SHD · AC 21 P 625778",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "MICHELINE MAUREL",
@@ -6153,7 +7890,22 @@
         "prenom": "Micheline"
       },
       "reseau_affiche": "Marco Polo",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en 2009 ; lieu : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Revue Versants – article sur Micheline Maurel (2024)",
+            "url": "https://bop.unibe.ch/versants/article/download/11870/14821/54905"
+          },
+          {
+            "label": "Notice du livre Un camp très ordinaire",
+            "url": "https://www.mollat.com/livre-9782707343000.aspx"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE JOUFFRON NÉE MARTIN",
@@ -6187,7 +7939,18 @@
         "prenom": "Marie"
       },
       "reseau_affiche": "Abbé Blanc",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association du camp de Flossenbürg – fiche individuelle",
+            "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/JOUFFRON-nee-MARTIN-Marie.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "ÉGLANTINE MARTIN ÉPOUSE PELLOUX",
@@ -6234,7 +7997,30 @@
         "nom": "Martin-Pelloux",
         "prenom": "Églantine"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association du camp de Flossenbürg – fiche individuelle",
+            "url": "https://asso-flossenburg.com/fiches/MARTIN%20-%20Pelloux%20Eglantine.pdf"
+          },
+          {
+            "label": "SHD · AC 21 P 657014",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Journal officiel — décret du 23 avril 2015, Églantine Martin épouse Pelloux",
+            "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000030517423"
+          },
+          {
+            "label": "SHD — notice individuelle Églantine Pelloux / Martin",
+            "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/1401088"
+          }
+        ]
+      }
     },
     {
       "nom": "YVONNE ODDON",
@@ -6291,7 +8077,30 @@
         "prenom": "Yvonne"
       },
       "reseau_affiche": "Musée de l’Homme",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 7 septembre 1982 à Paris.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Musée de la Résistance en ligne – notice",
+            "url": "https://museedelaresistanceenligne.org/personnedetail_pdf.php?id=17151"
+          },
+          {
+            "label": "Dictionnaire des bibliothécaires (Presses de l’Enssib)",
+            "url": "https://books.openedition.org/pressesenssib/13279"
+          },
+          {
+            "label": "SHD · AC 21 P 606346",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Fondation de la Résistance — notice de Julien Blanc, portrait et archives",
+            "url": "https://museedelaresistanceenligne.org/media10456-Yvonne-Oddon"
+          }
+        ]
+      }
     },
     {
       "nom": "ANDRÉE LAURENT NÉE MASSIP",
@@ -6327,7 +8136,18 @@
       },
       "reseau_affiche": "Francs-tireurs et partisans",
       "pseudonyme_resistance": "Miquette",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 14 février 2023 à Toulon (Var), dans sa 99e année.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Bulletin de l’Association Flossenbürg n° 91 (2023)",
+            "url": "https://asso-flossenburg.com/wp-content/uploads/2023/09/ASSOCIATION-FLOSSENBURG-KOMMANDOS-CREATION-BULLETIN-MESSAGE-N%C2%B091-6-PAGES-2023070079-_BAT.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "PIERRETTE DOIZE",
@@ -6366,7 +8186,22 @@
         "prenom": "Pierrette"
       },
       "reseau_affiche": "FTPF",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 9 décembre 1945 à son domicile à Marseille (Bouches-du-Rhône), après son retour de déportation.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Musée de la Résistance en ligne – notice Pierre Doize",
+            "url": "https://museedelaresistanceenligne.org/media1764-Pierre-Doize"
+          },
+          {
+            "label": "AFMD du Gard – Petra, dite Pierrette, Doize née Folch",
+            "url": "https://afmdgard.org/doize-petra-dite-pierrette-nee-folch/"
+          }
+        ]
+      }
     },
     {
       "nom": "CATHERINE DIOR",
@@ -6571,7 +8406,46 @@
           "convoi": "I.264",
           "source": "https://www.bddm.org/liv/details.php?id=I.264."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 17 juin 2008 à Callian (Var).",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Catherine_Dior"
+          },
+          {
+            "label": "Musée de la Résistance en ligne – notice",
+            "url": "https://museedelaresistanceenligne.org/personnedetail_pdf.php?id=30466"
+          },
+          {
+            "label": "Gouvernement – 10 portraits d’héroïnes de la Résistance",
+            "url": "https://www.info.gouv.fr/actualite/10-portraits-dheroines-de-la-resistance"
+          },
+          {
+            "label": "Arolsen Archives — parcours et documents originaux",
+            "url": "https://arolsen-archives.org/stories/rosen-als-lebenselixier/"
+          },
+          {
+            "label": "FMD — transport I.264 du 15 août 1944",
+            "url": "https://www.bddm.org/liv/details.php?id=I.264."
+          },
+          {
+            "label": "Fondation de la Résistance — Jean Medrala, homologation F2",
+            "url": "https://www.museedelaresistanceenligne.org/personnedetail.php?id=30466"
+          },
+          {
+            "label": "Justine Picardie — extrait de Miss Dior publié par Faber",
+            "url": "https://www.faber.co.uk/journal/long-read-who-was-catherine-dior/"
+          },
+          {
+            "label": "Catherine Dior à trente ans, en 1947 — photographie publiée dans Miss Dior, Justine Picardie, Flammarion (2021), extrait éditeur",
+            "url": "https://media.electre-ng.com/extraits/extrait-id/446d6653e04a53eca92bf5a325df76e6d7ed1046e33ba2f41e48fad978518694.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "JOSETTE MOLLAND-ILINSKY",
@@ -6625,7 +8499,30 @@
         "prenom": "Josette"
       },
       "reseau_affiche": "Dutch-Paris",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 17 février 2024 à Falicon (Alpes-Maritimes), à 100 ans ; inhumée à Nice.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Lyon Capitale – obsèques à Nice",
+            "url": "https://www.lyoncapitale.fr/?p=374585"
+          },
+          {
+            "label": "Theatrum Belli – In memoriam",
+            "url": "https://theatrum-belli.com/in-memoriam-josette-molland-ilinsky-resistante-deportee-decedee-le-17-fevrier-2024/?pdf=361909"
+          },
+          {
+            "label": "Theatrum Belli — parcours et photographie de Josette Molland-Ilinsky",
+            "url": "https://theatrum-belli.com/in-memoriam-josette-molland-ilinsky-resistante-deportee-decedee-le-17-fevrier-2024/"
+          },
+          {
+            "label": "Josette Molland dans sa tenue de déportée — photographie reproduite par Theatrum Belli",
+            "url": "https://theatrum-belli.com/in-memoriam-josette-molland-ilinsky-resistante-deportee-decedee-le-17-fevrier-2024/"
+          }
+        ]
+      }
     },
     {
       "nom": "JACQUELINE AUBÉRY DU BOULLEY",
@@ -6726,7 +8623,22 @@
           "convoi": "I.264",
           "source": "https://www.bddm.org/liv/details.php?id=I.264."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Mémoire d’Auschwitz – N. Peeters, « Échapper à la Marche de la mort » (2025)",
+            "url": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+          },
+          {
+            "label": "FMD — I.264 : Aubery du Boulley Jacqueline, 57442",
+            "url": "https://www.bddm.org/liv/details.php?id=I.264."
+          }
+        ]
+      }
     },
     {
       "nom": "HÉLÈNE PODLIASKY",
@@ -6754,7 +8666,18 @@
         "nom": "Podliasky",
         "prenom": "Hélène"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Mémoire d’Auschwitz – N. Peeters, « Échapper à la Marche de la mort » (2025)",
+            "url": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "JEANNETTE L'HERMINIER",
@@ -6783,7 +8706,18 @@
         "prenom": "Jeannette"
       },
       "reseau_affiche": "Buckmaster",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en 2007 ; lieu : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Bulletin de l’Association Flossenbürg n° 86",
+            "url": "https://asso-flossenburg.com/wp-content/uploads/2021/03/ASSOCIATION-FLOSSENBURG-KOMMANDOS-BULLETIN-N%C2%B0-86-FLIP-BOOK.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "YVONNE ABBAS",
@@ -6815,7 +8749,22 @@
         "nom": "Abbas",
         "prenom": "Yvonne"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 13 décembre 2014 à Loos (Nord).",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Yvonne_Abbas"
+          },
+          {
+            "label": "Relevé du fichier des décès de l’INSEE – Yvonne Clémence Abbas",
+            "url": "https://www.acte-deces.fr/recherche-deces-famille-abbas"
+          }
+        ]
+      }
     },
     {
       "nom": "ANNETTE CHALUT",
@@ -6851,7 +8800,18 @@
         "nom": "Chalut",
         "prenom": "Annette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 8 novembre 2021 à Paris.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Annette_Chalut"
+          }
+        ]
+      }
     },
     {
       "nom": "GILBERTE CHAMPION",
@@ -6880,7 +8840,18 @@
         "prenom": "Gilberte"
       },
       "reseau_affiche": "Jade-Fitzroy",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 18 novembre 2020 à Sucy-en-Brie, à 107 ans.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Gilberte_Champion"
+          }
+        ]
+      }
     },
     {
       "nom": "MADELEINE CESTARI",
@@ -6909,7 +8880,18 @@
         "prenom": "Madeleine"
       },
       "reseau_affiche": "Confrérie Notre-Dame",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 12 août 2016 ; lieu : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Madeleine_Cestari"
+          }
+        ]
+      }
     },
     {
       "nom": "YVETTE LUNDY",
@@ -6954,7 +8936,26 @@
         "prenom": "Yvette"
       },
       "reseau_affiche": "Possum",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 3 novembre 2019 à Épernay (Marne).",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Times of Israel (AFP)",
+            "url": "https://fr.timesofisrael.com/yvette-lundy-disparue-apres-une-vie-de-resistance/amp/"
+          },
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Yvette_Lundy"
+          },
+          {
+            "label": "Commune de Blancs-Coteaux – Gionges, Yvette Lundy",
+            "url": "https://blancs-coteaux.fr/la-commune/decouvrir-la-commune/histoire-et-patrimoine-0/gionges"
+          }
+        ]
+      }
     },
     {
       "nom": "MARCELLE BARON",
@@ -6994,7 +8995,22 @@
         "prenom": "Marcelle"
       },
       "reseau_affiche": "FTP",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en 2011 ; lieu : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "AFMD 44 – biographie",
+            "url": "https://afmd44.org/wp-content/publications/Marcelle-Baron-1909-2011.pdf"
+          },
+          {
+            "label": "Musée de la Résistance de Châteaubriant – fiche",
+            "url": "https://musee-resistance-chateaubriant.fr/wp-content/uploads/2024/01/BARON_Marcelle_V20231214.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE REYNOARD",
@@ -7023,7 +9039,18 @@
         "prenom": "Marie"
       },
       "reseau_affiche": "Vérité · Combat",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée à Ravensbrück le 30 janvier 1945.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Theatrum Belli – In memoriam",
+            "url": "https://theatrum-belli.com/in-memoriam-marie-reynoard-resistante-deportee-decedee-en-janvier-1945/?pdf=361164"
+          }
+        ]
+      }
     },
     {
       "nom": "LUCETTE SALLÉ",
@@ -7051,7 +9078,18 @@
         "nom": "Sallé",
         "prenom": "Lucette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en 1945 des suites de sa déportation ; lieu : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Archives départementales de la Nièvre – dossier pédagogique",
+            "url": "https://archives.nievre.fr/document/deportations---exemple-de-lucette-salle"
+          }
+        ]
+      }
     },
     {
       "nom": "MÈRE MARIE SKOBTSOV",
@@ -7079,7 +9117,18 @@
         "nom": "Skobtsov",
         "prenom": "Marie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée gazée à Ravensbrück le 31 mars 1945.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Marie_Skobtsov"
+          }
+        ]
+      }
     },
     {
       "nom": "NOËLLA ROUGET",
@@ -7119,7 +9168,22 @@
         "nom": "Rouget",
         "prenom": "Noëlla"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en 2020 ; lieu : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Connexion France – nécrologie",
+            "url": "https://www.connexionfrance.com/French-news/Resistance-fighter-who-forgave-fiance-s-torturer-dies"
+          },
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Noëlla_Rouget"
+          }
+        ]
+      }
     },
     {
       "nom": "GISÈLE GUILLEMOT",
@@ -7148,7 +9212,18 @@
         "prenom": "Gisèle"
       },
       "reseau_affiche": "FTP",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en 2013 ; lieu : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Gisèle_Guillemot"
+          }
+        ]
+      }
     },
     {
       "nom": "BERTHE AUBERT",
@@ -7177,7 +9252,18 @@
         "prenom": "Berthe"
       },
       "reseau_affiche": "Libération-Nord",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée à Ravensbrück le 28 janvier 1945.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Musée de la Résistance en ligne – André et Berthe Aubert",
+            "url": "https://museedelaresistanceenligne.org/media2239-Andr-et-Berthe-Aubert"
+          }
+        ]
+      }
     },
     {
       "nom": "JEANNE GRIMAUD",
@@ -7206,7 +9292,18 @@
         "prenom": "Jeanne"
       },
       "reseau_affiche": "F2",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée à Ravensbrück en 1944.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Musée de la Résistance en ligne – plaque",
+            "url": "https://museedelaresistanceenligne.org/media5391-Plaque-en-hommage-A"
+          }
+        ]
+      }
     },
     {
       "nom": "CHRISTIANE RÈME",
@@ -7234,7 +9331,18 @@
         "nom": "Rème",
         "prenom": "Christiane"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 1er juillet 2019 ; lieu : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Comité international de Ravensbrück – notice",
+            "url": "https://irk-cir.org/en/members/72"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE DE ROBIEN",
@@ -7263,7 +9371,18 @@
         "prenom": "Marie"
       },
       "reseau_affiche": "Prosper",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Bulletin de l’Association Flossenbürg n° 86",
+            "url": "https://asso-flossenburg.com/wp-content/uploads/2021/03/ASSOCIATION-FLOSSENBURG-KOMMANDOS-BULLETIN-N%C2%B0-86-FLIP-BOOK.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "PIERRETTE VIAN NÉE IVALDI",
@@ -7303,7 +9422,22 @@
         "prenom": "Pierrette"
       },
       "reseau_affiche": "Buckmaster — Roger",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association du camp de Flossenbürg – fiche individuelle",
+            "url": "https://asso-flossenburg.com/fiches/VIAN%20n%C3%A9e%20IVALDI%20Pierrette.pdf"
+          },
+          {
+            "label": "SHD · AC 21 P 625893",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE-LOUISE SOUQUE NÉE RIPERT",
@@ -7338,7 +9472,18 @@
         "prenom": "Marie-Louise"
       },
       "reseau_affiche": "FTP de Gironde",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association du camp de Flossenbürg – fiche individuelle",
+            "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/SOUQUE-nee-RIPERT-Marie-Louise.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "JULIETTE EYRAUD",
@@ -7372,7 +9517,18 @@
         "nom": "Eyraud",
         "prenom": "Juliette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Livre-Mémorial de la Fondation pour la Mémoire de la Déportation (bddm.org) – liste IV.2",
+            "url": "https://www.bddm.org/liv/details.php?id=IV.2."
+          }
+        ]
+      }
     },
     {
       "nom": "LAURENCE CAILA",
@@ -7406,7 +9562,18 @@
         "nom": "Caila",
         "prenom": "Laurence"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Livre-Mémorial de la Fondation pour la Mémoire de la Déportation (bddm.org) – liste IV.2",
+            "url": "https://www.bddm.org/liv/details.php?id=IV.2."
+          }
+        ]
+      }
     },
     {
       "nom": "RAYMONDE TEMMERMANN",
@@ -7440,7 +9607,18 @@
         "nom": "Temmermann",
         "prenom": "Raymonde"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Livre-Mémorial de la Fondation pour la Mémoire de la Déportation (bddm.org) – liste IV.2",
+            "url": "https://www.bddm.org/liv/details.php?id=IV.2."
+          }
+        ]
+      }
     },
     {
       "nom": "THÉRÉSA WASILEWSKA",
@@ -7474,7 +9652,18 @@
         "nom": "Wasilewska",
         "prenom": "Thérésa"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Livre-Mémorial de la Fondation pour la Mémoire de la Déportation (bddm.org) – liste IV.2",
+            "url": "https://www.bddm.org/liv/details.php?id=IV.2."
+          }
+        ]
+      }
     },
     {
       "nom": "JEANNETTE CASTELLANO",
@@ -7508,7 +9697,18 @@
         "nom": "Castellano",
         "prenom": "Jeannette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association pour un musée de la Résistance et de la Déportation d’Arles – fonds de témoignages",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "CHRISTIANE FAMERY",
@@ -7542,7 +9742,18 @@
         "nom": "Famery",
         "prenom": "Christiane"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association pour un musée de la Résistance et de la Déportation d’Arles – fonds de témoignages",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "ANDRÉE JULIEN",
@@ -7580,7 +9791,22 @@
         "nom": "Julien",
         "prenom": "Andrée"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association pour un musée de la Résistance et de la Déportation d’Arles – fonds de témoignages",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
+          },
+          {
+            "label": "Objectif Gard – Nîmes, la porteuse de mémoire Andrée Julien",
+            "url": "https://www.objectifgard.com/gard/nimes/nimes-la-porteuse-de-memoire-andree-julien-157559.php"
+          }
+        ]
+      }
     },
     {
       "nom": "COLETTE LAFFINEUR",
@@ -7614,7 +9840,18 @@
         "nom": "Laffineur",
         "prenom": "Colette"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association pour un musée de la Résistance et de la Déportation d’Arles – fonds de témoignages",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_bibliographique/12698.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "MARTHA DESRUMAUX",
@@ -7656,7 +9893,18 @@
         "nom": "Desrumaux",
         "prenom": "Martha"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 30 novembre 1982 à Évenos (Var).",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Notice encyclopédique (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Martha_Desrumaux"
+          }
+        ]
+      }
     },
     {
       "nom": "MICHELINE MÉJEAN NÉE TARDIEU",
@@ -7711,7 +9959,30 @@
         "prenom": "Micheline"
       },
       "reseau_affiche": "Mesnard et Lucien · Buckmaster",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en 1994 à Paris, selon le Centre de la Résistance et de la Déportation d’Arles.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association du camp de Flossenbürg – fiche individuelle",
+            "url": "https://asso-flossenburg.com/fiches/MEJEAN%20Micheline.pdf"
+          },
+          {
+            "label": "CRDA Arles — photographie de 1953 et parcours de Micheline Méjean",
+            "url": "https://centre-resistance-deportation-arles.fr/page-dhistoire-6/"
+          },
+          {
+            "label": "SHD · AC 21 P 595577",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Micheline Méjean au premier plan, Paris, 1953 — collection CRDA, Centre de la Résistance et de la Déportation d’Arles",
+            "url": "https://centre-resistance-deportation-arles.fr/page-dhistoire-6/"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE DORANGE NÉE LECOUTEY",
@@ -7756,7 +10027,22 @@
       },
       "reseau_affiche": "Buckmaster — Jean-Marie",
       "pseudonyme_resistance": "Yvonne Dorange",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association du camp de Flossenbürg – fiche individuelle",
+            "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/Dorange-Marie.pdf"
+          },
+          {
+            "label": "Musée de la Résistance en ligne — Rose-Marie Le Coutey, archives de la fédération Libre Résistance",
+            "url": "https://www.museedelaresistanceenligne.org/personnedetail.php?id=46469"
+          }
+        ]
+      }
     },
     {
       "nom": "HENRIETTE DUVERT NÉE DEPAILLET",
@@ -7791,7 +10077,18 @@
         "prenom": "Henriette"
       },
       "reseau_affiche": "Armée des Volontaires (selon sa déclaration)",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Association du camp de Flossenbürg – fiche individuelle",
+            "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/Depaillet-epouse-Duvert-Henriette.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "ODETTE FABIUS NÉE SCHMOLL",
@@ -7846,7 +10143,30 @@
         "prenom": "Odette"
       },
       "reseau_affiche": "Alliance",
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "1990, à Paris.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Odette Fabius – notice encyclopédique",
+            "url": "https://wikimonde.com/article/Odette_Fabius"
+          },
+          {
+            "label": "Bibliothèques numériques du ministère des Armées – Un lever de soleil sur le Mecklembourg",
+            "url": "https://bibliotheques-numeriques.defense.gouv.fr/impression/document/a9d4d696-8db4-4da1-a403-f684e8343375"
+          },
+          {
+            "label": "SHD · AC 21 P 642893",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Odette Fabius décorée par Georges Pompidou — fichier déposé par BernardFrois sur Wikimedia Commons, licence déclarée CC0",
+            "url": "https://commons.wikimedia.org/wiki/File:Odette_Fabius_recevant_la_l%C3%A9gion_d%27honneur_du_Pr%C3%A9sident_Pompidou.jpg"
+          }
+        ]
+      }
     },
     {
       "nom": "JOSÉPHINE BORDANAVA",
@@ -7937,7 +10257,30 @@
           "precision": "Noms identifiés dans la même étude historique.",
           "source": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 29 juin 2014 à Cannes (Alpes-Maritimes).",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation Auschwitz – Neuf jeunes femmes à Ravensbrück (2025)",
+            "url": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+          },
+          {
+            "label": "AFMD de l’Allier – Joséphine Bordonava / Bordanava",
+            "url": "https://www.afmd-allier.com/PBCPPlayer.asp?ID=1532755"
+          },
+          {
+            "label": "SHD · AC 21 P 625403",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Joséphine Bordonava/Bordanava, 1946 — archives familiales, AFMD de l’Allier",
+            "url": "https://www.afmd-allier.com/PBCPPlayer.asp?ID=1532755"
+          }
+        ]
+      }
     },
     {
       "nom": "NICOLE CLARENCE",
@@ -8049,7 +10392,30 @@
           "convoi": "I.264",
           "source": "https://www.bddm.org/liv/details.php?id=I.264."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en 2007.  ; lieu : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation Auschwitz – Neuf jeunes femmes à Ravensbrück (2025)",
+            "url": "https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf"
+          },
+          {
+            "label": "USC Shoah Foundation – Biographie issue de son témoignage",
+            "url": "https://sfi.usc.edu/sites/default/files/videos/docs/Nicole%20Clarence%20bio.pdf"
+          },
+          {
+            "label": "SHD · AC 21 P 647472",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "FMD — I.264 : Clarence Levy Nicole, dite Audibert, 57443",
+            "url": "https://www.bddm.org/liv/details.php?id=I.264."
+          }
+        ]
+      }
     },
     {
       "nom": "NICOLE RAMBURE",
@@ -8113,7 +10479,38 @@
         "nom": "Rambure",
         "prenom": "Nicole"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 7 février 2019 à Martigues (Bouches-du-Rhône), après avoir vécu à Marseille.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Musée de la Résistance en ligne – tableau appartenant à Nicole Rambure",
+            "url": "https://museedelaresistanceenligne.org/media.php?media=1993"
+          },
+          {
+            "label": "AFMD DT 13 – Témoignage de Nicole Rambure née Joubert",
+            "url": "https://mvr.asso.fr/nicole-rambure-nee-joubert-temoignage-de-resistante-deportee-propos-recueillis-par-renee-lopez-thery-pour-lafmd-dt-13/"
+          },
+          {
+            "label": "Université de Poitiers – Inventaire de la correspondance Camille Joubert",
+            "url": "https://bu.univ-poitiers.fr/wp-content/uploads/sites/135/2025/10/Joubert_inventaire_public.pdf"
+          },
+          {
+            "label": "Musée de la Résistance en ligne — portrait et date de naissance de Nicole Rambure",
+            "url": "https://www.museedelaresistanceenligne.org/media1992-Portrait-de-Nicole-Rambure"
+          },
+          {
+            "label": "SHD · AC 21 P 650486",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Portrait de Nicole Rambure — photographie Sand Arty, Musée de la Résistance en ligne",
+            "url": "https://www.museedelaresistanceenligne.org/media1992-Portrait-de-Nicole-Rambure"
+          }
+        ]
+      }
     },
     {
       "nom": "LUCIENNE VANUCCI",
@@ -8155,7 +10552,18 @@
       },
       "convois_documentes": [
         "I.126"
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation le 9 mai 1944 à Ravensbrück.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.126",
+            "url": "https://www.bddm.org/liv/details.php?id=I.126."
+          }
+        ]
+      }
     },
     {
       "nom": "JEANNE CLAVET",
@@ -8245,7 +10653,26 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Assassinée dans la chambre à gaz de Ravensbrück le 30 mars 1945.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.175",
+            "url": "https://www.bddm.org/liv/details.php?id=I.175."
+          },
+          {
+            "label": "Fabrice Bourrée, Ordre de la Libération — présentation du fonds familial",
+            "url": "https://fr.linkedin.com/posts/fabrice-bourr%C3%A9e-3a2a062b_les-documents-communiqu%C3%A9s-%C3%A0-lordre-de-la-activity-7301217929910452224-clZA"
+          },
+          {
+            "label": "Ordre de la Libération — Jeanne Clavet, dossier 1O13881",
+            "url": "https://www.ordredelaliberation.fr/fr/medailles-biographies?page=18"
+          }
+        ]
+      }
     },
     {
       "nom": "ÉMILIE HAFFENBACH",
@@ -8301,7 +10728,18 @@
           "convoi": "I.235",
           "source": "https://www.bddm.org/liv/details.php?id=I.235."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 20 mars 1945 à Ravensbrück.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.235",
+            "url": "https://www.bddm.org/liv/details.php?id=I.235."
+          }
+        ]
+      }
     },
     {
       "nom": "GEORGETTE BERTHET",
@@ -8398,7 +10836,34 @@
           "convoi": "I.264",
           "source": "https://www.bddm.org/liv/details.php?id=I.264."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 28 mars 1945 à Ravensbrück (Allemagne).",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.264",
+            "url": "https://www.bddm.org/liv/details.php?id=I.264."
+          },
+          {
+            "label": "MémorialGenWeb – Déportés des Hautes-Alpes, Georgette Marcelle Simone Berthet",
+            "url": "https://www.memorialgenweb.org/memorial3/deportes/resultlieux.php?dept=05"
+          },
+          {
+            "label": "Bibliothèque Cujas — étude de Jean-Louis Halpérin, 2025",
+            "url": "https://expo-victimes-vichy-faculte-droit-paris.bibliothequecujas.fr/la-liberation/"
+          },
+          {
+            "label": "Journal officiel — mention Mort en déportation, arrêté du 16 janvier 2008",
+            "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000018036734"
+          },
+          {
+            "label": "SHD · GR 16 P 53756",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_BA-BJ.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "AGNÈS KIRMANN",
@@ -8482,7 +10947,22 @@
           "convoi": "I.264",
           "source": "https://www.bddm.org/liv/details.php?id=I.264."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Marie Agnès Kirmann est décédée le 24 septembre 1944 à Torgau (Allemagne), selon l’arrêté du 10 novembre 1994, publié au Journal officiel du 11 janvier 1995, portant apposition de la mention « Mort en déportation ».",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.264",
+            "url": "https://www.bddm.org/liv/details.php?id=I.264."
+          },
+          {
+            "label": "Journal officiel — arrêté du 10 novembre 1994, mention Mort en déportation : Kirmann (Marie, Agnès)",
+            "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000001975201"
+          }
+        ]
+      }
     },
     {
       "nom": "AUGUSTINE VALETTE",
@@ -8562,7 +11042,18 @@
           "convoi": "I.264",
           "source": "https://www.bddm.org/liv/details.php?id=I.264."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée en déportation ; lieu : ?.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.264",
+            "url": "https://www.bddm.org/liv/details.php?id=I.264."
+          }
+        ]
+      }
     },
     {
       "nom": "ROSE NIELSEN",
@@ -8610,7 +11101,22 @@
       },
       "convois_documentes": [
         "I.146"
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.146",
+            "url": "https://www.bddm.org/liv/details.php?id=I.146."
+          },
+          {
+            "label": "SHD · AC 21 P 605248",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "JEANNE MAGNAN",
@@ -8700,7 +11206,26 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.175",
+            "url": "https://www.bddm.org/liv/details.php?id=I.175."
+          },
+          {
+            "label": "SHD · AC 21 P 567865",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "SHD · GR 16 P 486680 — Porte épouse Magnan",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_P.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "LOUISE CHAREYRE",
@@ -8752,7 +11277,26 @@
       },
       "convois_documentes": [
         "I.189"
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.189",
+            "url": "https://www.bddm.org/liv/details.php?id=I.189."
+          },
+          {
+            "label": "SHD · AC 21 P 725398",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "SHD — notice individuelle Louise Chareyre / Garnaud, déportée résistante",
+            "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/1386601"
+          }
+        ]
+      }
     },
     {
       "nom": "LUCIENNE TAGNARD",
@@ -8808,7 +11352,30 @@
       "reseau_affiche": "FTPF",
       "convois_documentes": [
         "I.230"
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.230",
+            "url": "https://www.bddm.org/liv/details.php?id=I.230."
+          },
+          {
+            "label": "SHD · AC 21 P 679866",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          },
+          {
+            "label": "Fondation de la Résistance — Lucienne Tagnard née Balme, notice Drôme",
+            "url": "https://www.museedelaresistanceenligne.org/personnedetail.php?id=13787"
+          },
+          {
+            "label": "SHD · GR 16 P 29729 — Balme épouse Tagnard",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_BA-BJ.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "ADRIENNE LAGÈRE",
@@ -8870,7 +11437,22 @@
           "convoi": "I.235",
           "source": "https://www.bddm.org/liv/details.php?id=I.235."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.235",
+            "url": "https://www.bddm.org/liv/details.php?id=I.235."
+          },
+          {
+            "label": "SHD · AC 21 P 584005",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "ODETTE SYLVESTRE",
@@ -8926,7 +11508,18 @@
           "convoi": "I.235",
           "source": "https://www.bddm.org/liv/details.php?id=I.235."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.235",
+            "url": "https://www.bddm.org/liv/details.php?id=I.235."
+          }
+        ]
+      }
     },
     {
       "nom": "ANNE-MARIE SPOERRY",
@@ -8935,7 +11528,7 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 13 mai 1918 à Cannes (Alpes-Maritimes).",
-        "deces": "Date : ? ; lieu : ?",
+        "deces": "Décédée le 2 février 1999 au Kenya ; le relevé de décès concorde avec la naissance à Cannes le 13 mai 1918.",
         "engagement": "?",
         "deportation": "Déportée par le transport I.175 parti de Compiègne le 31 janvier 1944, matricule 27831 à Ravensbrück. Parcours : Ravensbrück. Rentrée de déportation. Libérée par la Croix-Rouge.",
         "memoire": null,
@@ -8945,6 +11538,10 @@
         {
           "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.175",
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
+        },
+        {
+          "label": "Relevé de décès — Anne Marie Spoerry",
+          "url": "https://www.acte-deces.fr/acte-de-deces-pays-kenya"
         }
       ],
       "archives_deportation": [
@@ -9006,7 +11603,22 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 2 février 1999 au Kenya ; le relevé de décès concorde avec la naissance à Cannes le 13 mai 1918.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.175",
+            "url": "https://www.bddm.org/liv/details.php?id=I.175."
+          },
+          {
+            "label": "Relevé de décès — Anne Marie Spoerry",
+            "url": "https://www.acte-deces.fr/acte-de-deces-pays-kenya"
+          }
+        ]
+      }
     },
     {
       "nom": "YVONNE LE ROUX",
@@ -9092,7 +11704,22 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.175",
+            "url": "https://www.bddm.org/liv/details.php?id=I.175."
+          },
+          {
+            "label": "Mémoire et Espoirs de la Résistance — Yvonne Le Roux, « Tante Yvonne »",
+            "url": "https://www.memoresist.org/resistant/le-roux-yvonne/"
+          }
+        ]
+      }
     },
     {
       "nom": "TATIANA DE FLEURIEU",
@@ -9177,7 +11804,22 @@
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "reference_archives": "SHD, AC 21 P 606585 : répertoriée sous FLEURIEU (de), Tatiana / DES-MONTIERS-MERINVILLE, née le 23 novembre 1897 à Menton. Référence de dossier ; son contenu intégral n’est pas présenté comme consulté."
+      "reference_archives": "SHD, AC 21 P 606585 : répertoriée sous FLEURIEU (de), Tatiana / DES-MONTIERS-MERINVILLE, née le 23 novembre 1897 à Menton. Référence de dossier ; son contenu intégral n’est pas présenté comme consulté.",
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.175",
+            "url": "https://www.bddm.org/liv/details.php?id=I.175."
+          },
+          {
+            "label": "SHD — répertoire AC 21 P, Tatiana de Fleurieu / Des-Montiers-Mérinville",
+            "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2019-12/SHDAC_21P_DIR.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "HENRIETTE BARDI DE FOURTOU",
@@ -9227,7 +11869,18 @@
           "convoi": "I.224",
           "source": "https://www.bddm.org/liv/details.php?id=I.224."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.224",
+            "url": "https://www.bddm.org/liv/details.php?id=I.224."
+          }
+        ]
+      }
     },
     {
       "nom": "LOUISE DE GIRAUD D’AGAY",
@@ -9307,7 +11960,18 @@
           "convoi": "I.264",
           "source": "https://www.bddm.org/liv/details.php?id=I.264."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.264",
+            "url": "https://www.bddm.org/liv/details.php?id=I.264."
+          }
+        ]
+      }
     },
     {
       "nom": "THÉRÈSE FLOIRAS",
@@ -9395,7 +12059,26 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.175",
+            "url": "https://www.bddm.org/liv/details.php?id=I.175."
+          },
+          {
+            "label": "Fondation de la Résistance — rapport Flora, analyse d’après Jean-Marie Guillon",
+            "url": "https://www.museedelaresistanceenligne.org/musee/pageDoc/pageDoc_theme.php?id_expo=49&id_media=1627&id_sstheme=439&id_stheme=&id_theme=&ordre_media=19"
+          },
+          {
+            "label": "Le Monde, 28 octobre 2026 — arrestation de Thérèse Floiras",
+            "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/28/dans-l-ombre-de-jean-moulin-les-femmes-oubliees-de-caluire_6660493_4500056.html"
+          }
+        ]
+      }
     },
     {
       "nom": "PAULETTE FLOIRAS",
@@ -9475,7 +12158,18 @@
           "convoi": "I.175",
           "source": "https://www.bddm.org/liv/details.php?id=I.175."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.175",
+            "url": "https://www.bddm.org/liv/details.php?id=I.175."
+          }
+        ]
+      }
     },
     {
       "nom": "ELVIRE BEZIAS",
@@ -9543,7 +12237,18 @@
           "convoi": "I.216",
           "source": "https://www.bddm.org/liv/details.php?id=I.216."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.216",
+            "url": "https://www.bddm.org/liv/details.php?id=I.216."
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE BONNIEU",
@@ -9611,7 +12316,18 @@
           "convoi": "I.216",
           "source": "https://www.bddm.org/liv/details.php?id=I.216."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.216",
+            "url": "https://www.bddm.org/liv/details.php?id=I.216."
+          }
+        ]
+      }
     },
     {
       "nom": "MICHELINE FARAUT",
@@ -9679,7 +12395,18 @@
           "convoi": "I.216",
           "source": "https://www.bddm.org/liv/details.php?id=I.216."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.216",
+            "url": "https://www.bddm.org/liv/details.php?id=I.216."
+          }
+        ]
+      }
     },
     {
       "nom": "PAULETTE LAUGERY",
@@ -9688,7 +12415,7 @@
       "documents": [],
       "biographie": {
         "naissance": "Née le 9 avril 1920 à Marseille (Bouches-du-Rhône).",
-        "deces": "Date : ? ; lieu : ?",
+        "deces": "Décédée le 25 décembre 2016 à Marseille (8e arrondissement), selon le relevé de décès concordant avec la naissance le 9 avril 1920 à Marseille.",
         "engagement": "?",
         "deportation": "Déportée par le transport I.216 parti de Paris fin mai 1944 (condamnées de la centrale de Rennes), matricule 42190 à Ravensbrück. Parcours : Ravensbrück, Leipzig. Rentrée de déportation. Condamnée par une juridiction de Vichy, détenue à la centrale de Rennes avant d’être livrée aux Allemands.",
         "memoire": null,
@@ -9698,6 +12425,10 @@
         {
           "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.216",
           "url": "https://www.bddm.org/liv/details.php?id=I.216."
+        },
+        {
+          "label": "Relevé de décès — Paulette Yvonne Laugery",
+          "url": "https://www.acte-deces.fr/recherche-deces-famille-laugery"
         }
       ],
       "archives_deportation": [
@@ -9747,7 +12478,22 @@
           "convoi": "I.216",
           "source": "https://www.bddm.org/liv/details.php?id=I.216."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 25 décembre 2016 à Marseille (8e arrondissement), selon le relevé de décès concordant avec la naissance le 9 avril 1920 à Marseille.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.216",
+            "url": "https://www.bddm.org/liv/details.php?id=I.216."
+          },
+          {
+            "label": "Relevé de décès — Paulette Yvonne Laugery",
+            "url": "https://www.acte-deces.fr/recherche-deces-famille-laugery"
+          }
+        ]
+      }
     },
     {
       "nom": "JOSETTE REIBAUT",
@@ -9815,7 +12561,18 @@
           "convoi": "I.216",
           "source": "https://www.bddm.org/liv/details.php?id=I.216."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.216",
+            "url": "https://www.bddm.org/liv/details.php?id=I.216."
+          }
+        ]
+      }
     },
     {
       "nom": "ARMANDINE DELYS",
@@ -9857,7 +12614,18 @@
       },
       "convois_documentes": [
         "I.215"
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.215",
+            "url": "https://www.bddm.org/liv/details.php?id=I.215."
+          }
+        ]
+      }
     },
     {
       "nom": "DENISE MAUGENDRE",
@@ -9912,7 +12680,22 @@
           "convoi": "I.224",
           "source": "https://www.bddm.org/liv/details.php?id=I.224."
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.224",
+            "url": "https://www.bddm.org/liv/details.php?id=I.224."
+          },
+          {
+            "label": "Association Alumni ENS de Lyon — note 1, Denise Maugendre, matricule 43100",
+            "url": "https://alumni.ens-lyon.fr/fr/page/denyse-weiller-eleve-inspectrice-1959-1960"
+          }
+        ]
+      }
     },
     {
       "nom": "SIMONE DEGUERET",
@@ -9968,7 +12751,30 @@
       "reseau_affiche": "Groupe de Victor Rousseau, dit Dupré — activité communiste clandestine",
       "convois_documentes": [
         "I.118"
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 25 janvier 1998 à Barjac : date donnée dans le récit de l’AFMD et dans le relevé de décès ; le bandeau de l’article AFMD indique à tort ou par divergence « 25 juin ».",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.118",
+            "url": "https://www.bddm.org/liv/details.php?id=I.118."
+          },
+          {
+            "label": "AFMD du Gard — André Francisco, Simone Le Berre née Deguéret",
+            "url": "https://afmdgard.org/le-berre-simone-nee-degueret/"
+          },
+          {
+            "label": "Relevé de décès — Barjac, 1998",
+            "url": "https://www.acte-deces.fr/acte-de-deces-barjac-30-1998"
+          },
+          {
+            "label": "Saint-Mammès — conseil municipal du 30 mars 2022",
+            "url": "https://www.saint-mammes.com/wp-content/uploads/PV_CM_30_mars_2022.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "CHARLOTTE ABONNEN",
@@ -10010,7 +12816,18 @@
       },
       "convois_documentes": [
         "I.204"
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.204",
+            "url": "https://www.bddm.org/liv/details.php?id=I.204."
+          }
+        ]
+      }
     },
     {
       "nom": "EVELYNE WILKINSON",
@@ -10052,7 +12869,18 @@
       },
       "convois_documentes": [
         "I.212"
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.212",
+            "url": "https://www.bddm.org/liv/details.php?id=I.212."
+          }
+        ]
+      }
     },
     {
       "nom": "LUCIENNE THÉVENIN",
@@ -10104,7 +12932,26 @@
       "reseau_affiche": "FTP",
       "convois_documentes": [
         "I.74"
-      ]
+      ],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation pour la Mémoire de la Déportation – Livre-Mémorial, liste I.74",
+            "url": "https://www.bddm.org/liv/details.php?id=I.74."
+          },
+          {
+            "label": "Mémoire Vive – Lucienne Thévenin, d’après Charlotte Delbo, Le convoi du 24 janvier",
+            "url": "https://www.memoirevive.org/lucienne-dite-lulu-thevenin-nee-serre-31642/"
+          },
+          {
+            "label": "SHD · AC 21 P 681494",
+            "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "MARIE DAMIANI",
@@ -10181,7 +13028,26 @@
         "nom": "Damiani",
         "prenom": "Marie"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "1988.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fiche complète de Marie Damiani : récit intégral et archives",
+            "url": "marie-damiani.html"
+          },
+          {
+            "label": "Témoignage familial (1987), fichier Word",
+            "url": "https://drive.google.com/file/d/1R6KofXldfxKFiphW3ifCHIjpsP7ZiNp6/view"
+          },
+          {
+            "label": "Consulter la fiche documentaire complète et toutes les reproductions",
+            "url": "marie-damiani.html"
+          }
+        ]
+      }
     },
     {
       "nom": "LAURE GROUILLER NÉE GUITON",
@@ -10221,7 +13087,22 @@
         "nom": "Grouiller",
         "prenom": "Laure"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Souvenir Français d’Apt — hommage à Laure Grouiller",
+            "url": "https://souvenirfrancaisapt.wordpress.com/2025/10/02/hommage-a-laure-grouiller-derniere-resistante-du-vaucluse/"
+          },
+          {
+            "label": "ONaCVG / AD84 — portraits de résistants vauclusiens, p. 3 et bibliographie",
+            "url": "https://archives.vaucluse.fr/fileadmin/Minisites/Archives/00_AD_PDF_DOCX_XLS_PPT/C_nos_offres/histoires_d_archives/ONACVG_Derniers_resistants.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "FRÉDÉRIQUE DURAN",
@@ -10263,7 +13144,22 @@
         "nom": "Duran",
         "prenom": "Frédérique"
       },
-      "convois_documentes": []
+      "convois_documentes": [],
+      "etat_vital": {
+        "statut": "non_confirme",
+        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Département de Vaucluse / Memento — Frédérique Duran",
+            "url": "https://memento.vaucluse.fr/toutes-les-ressources/la-fresque-de-frederique-duran"
+          },
+          {
+            "label": "ONaCVG / AD84 — portrait de Frédérique Duran, p. 4–5",
+            "url": "https://archives.vaucluse.fr/fileadmin/Minisites/Archives/00_AD_PDF_DOCX_XLS_PPT/C_nos_offres/histoires_d_archives/ONACVG_Derniers_resistants.pdf"
+          }
+        ]
+      }
     },
     {
       "nom": "WANDA DE KOMORNICKA ÉPOUSE HUDAULT",
@@ -10273,7 +13169,8 @@
       "biographie": {
         "naissance": "Née le 23 juillet 1925 à Birmandreis, près d’Alger ; fille d’Yvonne de Komornicka.",
         "engagement": "Elle aide dès 1940 sa mère et sa sœur Christiane à faire évader des prisonniers de guerre depuis Nancy. Arrivée à Avignon en septembre 1941, elle étudie au lycée de jeunes filles, aujourd’hui lycée Théodore Aubanel. Dans la Résistance vauclusienne, elle assure des missions sociales, puis prend la direction du service social des Mouvements unis de la Résistance après l’arrestation de sa mère.",
-        "memoire": "Sa carte FFI n° 529, portant la mention du maquis Ventoux, est conservée aux Archives départementales de Vaucluse dans le fonds 1 J 345. La notice précise que cette carte est vraisemblablement établie après-guerre."
+        "memoire": "Sa carte FFI n° 529, portant la mention du maquis Ventoux, est conservée aux Archives départementales de Vaucluse dans le fonds 1 J 345. La notice précise que cette carte est vraisemblablement établie après-guerre.",
+        "deces": "Décédée le 26 avril 2011 à Avignon."
       },
       "sources_biographiques": [
         {
@@ -10283,6 +13180,10 @@
         {
           "label": "AD84 / Fondation de la Résistance — pièces du fonds 1 J 345",
           "url": "https://museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka"
+        },
+        {
+          "label": "Fondation de la Résistance / AD84 — notice de Marilyne Andréo",
+          "url": "https://www.museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka"
         }
       ],
       "region": "Provence-Alpes-Côte d'Azur",
@@ -10314,7 +13215,26 @@
           "precision": "Wanda prend la direction du service social des MUR après l’arrestation de sa mère.",
           "source": "https://museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka"
         }
-      ]
+      ],
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décédée le 26 avril 2011 à Avignon.",
+        "controle": "2026-11-15",
+        "sources": [
+          {
+            "label": "Fondation de la Résistance — notice de Marilyne Andréo et carte FFI",
+            "url": "https://museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka"
+          },
+          {
+            "label": "AD84 / Fondation de la Résistance — pièces du fonds 1 J 345",
+            "url": "https://museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka"
+          },
+          {
+            "label": "Fondation de la Résistance / AD84 — notice de Marilyne Andréo",
+            "url": "https://www.museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka"
+          }
+        ]
+      }
     }
   ],
   "hommes": [
