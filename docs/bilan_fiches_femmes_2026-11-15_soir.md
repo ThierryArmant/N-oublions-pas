@@ -1,0 +1,53 @@
+# Bilan de contrôle des fiches femmes — 15 novembre 2026 au soir
+
+## Effectifs contrôlés dans la version publique
+
+| Périmètre | Fiches | Images associées | Chargement vérifié dans le navigateur | Sans image |
+|---|---:|---:|---:|---:|
+| 64 femmes du Train fantôme | 64 | 21 | 21 | 43 |
+| Femmes régionales | 80 | 33 | 33 | 47 |
+
+Contrôle des images du recto après parcours des deux listes et chargement des images différées. Une image chargée n’est pas une validation de son attribution historique, ni une garantie des permissions Drive sur tous les postes. Les images peuvent être des photographies, dessins ou documents. Les 80 régionales sont comprises dans les 137 autres portraits ; il ne faut pas additionner 80 et 137. Les nombres anciens décrivaient des étapes antérieures et ne sont pas des totaux actuels.
+
+Le CSV joint comporte une ligne par fiche et par onglet (144 lignes), les graphies utiles, la présence d’une image, les matricules, les sources et les points de vigilance. Les indicateurs portent sur des champs présents : ils ne certifient pas une recherche exhaustive.
+
+## Répartition confirmée
+
+Claude : 64 femmes du Train fantôme, avec références aux travaux de la classe et clarification des extraits de livres. Codex : régionales, portraits, chiffres, affichage. Accord de Claude consigné dans le fichier de coordination à 22 h 15. Pas de nouvelle page publique donnant un corrigé aux élèves.
+
+## Douze sujets régionaux avec des points de départ documentés
+
+Il s’agit de dossiers utilisables pour comparer les démarches de recherche, pas de biographies déclarées achevées. Pour chaque travail : conserver les requêtes et leurs variantes, qualifier la source (archive originale, notice, témoignage, inventaire), relever l’identité et la date de naissance avant attribution, citer la page et expliquer les divergences.
+
+| Fiche | Variantes ou repères | Sources déjà disponibles | Vigilance |
+|---|---|---|---|
+|Denise Maugendre|Denise Coppock; Denise Maugendre Coppock|https://www.bddm.org/liv/details.php?id=I.224. ; https://alumni.ens-lyon.fr/fr/page/denyse-weiller-eleve-inspectrice-1959-1960 ; https://gestapo-lager-neue-bremm.de/wp-content/uploads/2025/11/2025-05_DB_Namensliste.pdf|Ne pas confondre Denise avec sa mère, Louise Anaïs Maugendre née Quignard, directrice de l’ENS de Fontenay : la note des éditrices attribue la déportation à la fille. La photographie de Denyse Weiller sur cette page n’est pas celle de Denise.|
+|Henriette Bardi de Fourtou|Henriette Marguerite Nervegno; Henriette Nervegno|https://www.bddm.org/liv/details.php?id=I.224. ; https://www.ordredelaliberation.fr/fr/medailles?alias=&annee=All&compagnon=&departement_naissance=All&fulltext=&items_per_page=10&lieu_naissance=&mois=All&nom=&page=282&pays=&posthume=All&prenom=&rosette=0&sex=All&sort_bef_combine=nom_ASC&sort_by=nom&sort_order=ASC&type_recherche=0 ; https://www.servicehistorique.sga.defense.gouv.fr/en/node/1375439|Le lien régional attesté est la naissance à Nice. La médaille et le dossier confirment un engagement résistant, mais ne suffisent pas à localiser ses activités clandestines dans les Alpes-Maritimes.|
+|Agnès Kirmann|Marie Agnès Kirmann; Marie-Agnès Kirmann|https://www.bddm.org/liv/details.php?id=I.264. ; https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000001975201 ; https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_K.pdf ; https://collections.arolsen-archives.org/de/document/7612912 ; https://talk.arolsen-archives.org/t/marie-agnes-kirmann-french-resistance/32558|La carte 37668 porte Torgau et la date du 29 octobre 1944, ainsi qu’une date de décès barrée/corrigée. Le décès retenu demeure le 24 septembre 1944 à Torgau, confirmé par l’arrêté français du 10 novembre 1994. Ne pas interpréter l’enregistrement administratif tardif comme une preuve de présence en vie en octobre. / Agnès Rouzier, née en 1936, est une autre personne : ne pas lui attribuer les portraits ou les dates de sa mère Marie-Agnès.|
+|Lucienne Vanucci|Lucienne Laurence Vanucci|https://www.bddm.org/liv/details.php?id=I.126. ; https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000024043304|Des bases anciennes donnent encore avril 1944 : la rectification publiée en 2011 doit être privilégiée. Aucun portrait identifié n’a été retrouvé.|
+|Eugénie Hamerlak, épouse Jelen|Sophie Hamerlak; Eugénie Jelen; Sophie Jelen|https://afmdgard.org/hamerlak-eugenie/ ; https://www.servicehistorique.sga.defense.gouv.fr/ark/1414800 ; https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_H.pdf|Portrait photographique non retrouvé dans les sources consultées. / La rubrique générique « Interné résistant, fusillé » de la notice SHD n’est pas un constat individuel de décès : la notice biographique atteste son retour.|
+|Génia Eugénie Rosoff|Eugénie Rosoff; Evgenia Rosoff; Genia Rosoff; Génia Creusot; Eugénie Creusot|https://www.bddm.org/liv/details.php?id=I.175. ; https://www.museemrjmoi.com/les-resistants-2/ ; https://1trial-4languages.org/background-exhibition-material-2/ ; https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_R.pdf|Dates de naissance divergentes : 05/12/1916 dans la FMD, 15/12/1916 dans l’inventaire SHD. Ne pas fusionner silencieusement ces indications. / La naissance à Nice est le lien régional établi ; elle ne démontre pas à elle seule une activité clandestine dans les Alpes-Maritimes.|
+|Louise Macault|Louise Aumont; Louise Macault Aumont|https://www.bddm.org/liv/details.php?id=I.175. ; https://francearchives.gouv.fr/fr/findingaid/eb7648fd034130b44d66ce1fcab78bc39ff14945 ; https://laon.fr/VILLE_LAON_21_WEB/FR/document/Plaquette%20MALNET.pdf ; https://fr.wikipedia.org/wiki/Louise_Macault|Distinguer les actes d’aide à la Résistance et les titres administratifs : l’inventaire du fonds indique « Morte pour la France » en 1948, « déportée politique » en 1955 et un refus du titre de « déportée résistante ». / Le réseau précis n’est pas établi. La présence dans le même transport qu’Yvonne Le Roux ne prouve pas une relation personnelle.|
+|Wanda de Komornicka, épouse Hudault|non renseigné|https://museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka ; https://www.museedelaresistanceenligne.org/media11455-Carte-de-membre-des-Forces-Franaises-de-lIntrieur-du-Vaucluse-de-Wanda-de-Komornicka|Verifier chaque nouvelle attribution par identité et date.|
+|Catherine Dior|Ravensbrück : 57813. Matricule de Buchenwald : non retranscrit faute de lecture certaine du document.|https://fr.wikipedia.org/wiki/Catherine_Dior ; https://museedelaresistanceenligne.org/personnedetail_pdf.php?id=30466 ; https://www.info.gouv.fr/actualite/10-portraits-dheroines-de-la-resistance ; https://arolsen-archives.org/stories/rosen-als-lebenselixier/ ; https://www.bddm.org/liv/details.php?id=I.264. ; https://www.museedelaresistanceenligne.org/personnedetail.php?id=30466 ; https://www.faber.co.uk/journal/long-read-who-was-catherine-dior/ ; https://media.electre-ng.com/extraits/extrait-id/446d6653e04a53eca92bf5a325df76e6d7ed1046e33ba2f41e48fad978518694.pdf|La page Arolsen décrit un enregistrement à Buchenwald le 26 février 1945, mais son illustration hpk-1 reproduit une carte portant Ravensbrück. Aucun second matricule n’est ajouté sans document lisible correspondant. / Les personnes du même convoi ou du même kommando ci-dessous ne sont pas présentées comme des amies sans témoignage nominatif.|
+|Micheline Méjean (née Tardieu)|Ravensbrück 27475 ; Flossenbürg 50418|https://asso-flossenburg.com/fiches/MEJEAN%20Micheline.pdf ; https://centre-resistance-deportation-arles.fr/page-dhistoire-6/ ; https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf|Verifier chaque nouvelle attribution par identité et date.|
+|Nicole Clarence|Ravensbrück : 57443 (inscrite Clarence Levy, dite Audibert)|https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf ; https://sfi.usc.edu/sites/default/files/videos/docs/Nicole%20Clarence%20bio.pdf ; https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf ; https://www.bddm.org/liv/details.php?id=I.264. ; https://sfi.usc.edu/sites/default/files/videos/docs/Biographie_Nicole%20Clarence.pdf|Verifier chaque nouvelle attribution par identité et date.|
+|Joséphine Bordanava, dite « Josée »|Ravensbrück : 43220 ; Leipzig-Schönefeld / Buchenwald : 4065.|https://www.auschwitz.be/images/_expertises/2025-peeters-9_jeunes__femmes.pdf ; https://www.afmd-allier.com/PBCPPlayer.asp?ID=1532755 ; https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/249.pdf|Verifier chaque nouvelle attribution par identité et date.|
+
+## Clarifications publiées par Codex ce soir
+
+- Denise Maugendre : prénom et profession ; nom d’épouse Coppock ; contexte familial et départ au Royaume-Uni, sans confondre sa mère Louise ni la photographie de Denyse Weiller.
+- Henriette Bardi de Fourtou : nom de naissance Nervegno ; dossier de déportée résistante AC 21 P 702491 ; médaille de la Résistance du 11 mars 1947, dossier 1O2771.
+- Marie Agnès Kirmann : homologation SHD GR 16 P 320340, carte originale Buchenwald 37668, distinction entre dates administratives barrées/corrigées et date de décès à Torgau.
+- Lucienne Laurence Vanucci : arrêté du 14 avril 2011 rectifiant le décès au 9 mai 1944 ; ne pas reprendre l’ancienne mention avril 1944.
+- Juliette Eyraud, Laurence Caila/Gaila, Raymonde Temmermann, Thérésa Wasilewska : limites explicitement affichées ; IV.2 est une liste alphabétique, pas un convoi. Leur engagement résistant reste à documenter.
+
+## Points de contrôle supplémentaires
+
+Le portrait attribué à Nunzio Titonel est conservé avec la mention visible « attribution à confirmer ». La légende ne donne que Titonel ; l’âge apparent ne constitue pas une preuve nominative. Les ajouts de Claude, les documents des élèves et les portraits préexistants sont conservés.
+
+## Limites pour la séance du 16 novembre
+
+Ne pas annoncer que toutes les fiches sont complètes, que les 80 femmes ont agi en Provence ou que 33 portraits sont de nouvelles découvertes de ce soir. Préférer : 80 fiches liées à la région, 33 images actuellement chargées, des biographies de niveaux différents et des incertitudes explicites. Les 64 fiches reçoivent les compléments de Claude ; relire son bilan le plus récent avant de fixer une sélection définitive.
+
+Bilan complémentaire de Claude pour les 64 : [préparation du 16 novembre](bilan_enseignant_64_femmes_2026-11-16.md). Son classement indique 21 fiches claires, 4 partielles et 39 minces ; ce classement documentaire ne doit pas être confondu avec les 21 images du convoi.
