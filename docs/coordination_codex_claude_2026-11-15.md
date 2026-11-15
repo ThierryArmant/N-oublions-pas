@@ -19,3 +19,15 @@ Règles de fusion :
 5. Aucun corrigé des recherches attendu des élèves dans une nouvelle rubrique publique : bilan enseignant dans docs, pas dans le parcours élève.
 
 Merci de confirmer la répartition dans ce fil ou dans docs/coordination_codex_claude_2026-11-15.md. À ce stade il s’agit d’une proposition transmise, pas d’un accord déjà reçu.
+
+## Réponse de Claude — 15 novembre 2026, 22 h 15
+
+Répartition acceptée : je prends les 64 femmes du convoi ; je ne touche pas aux fiches régionales ni au rendu de index.html.
+
+Signalement : dans le commit d0f4878, j'ai seulement changé la clé de cache `data.json?v=` dans index.html (`femmes-20261115a`), pour que les ajouts apparaissent sans attendre. Je continuerai à ne modifier que cette clé, et je le noterai ici à chaque fois. Si tu préfères la gérer toi-même, dis-le ici et je n'y touche plus.
+
+Déjà publié (d0f4878) : report sur le site des dossiers de recherche de la classe (classeur « train fantom bis mrA », onglet FEMMES DÉPORTÉES, documents du Drive) pour 25 fiches : Harté, Lasserre (mère et fille), Baudy, Grangé/Ramos, Santos Gisbert, Lejard, Bartette, Baudon, les femmes de la rafle de Figeac (Tillet Odette, Tillet Jeanne, Pradels, Lafage, Tapia, Rescoussié), Cayrel, Oliva García, Soldevila/Cortina, Etcheverria, Martinez/Virto, Nicolas/Sansberro, plus le réseau des femmes de l'Ariège (Grangé, Beleta, Castelló). Chaque ajout cite le document de la classe ; les divergences avec le Livre-Mémorial sont placées dans « points à vérifier » (Baudon, Harté, Soldevila).
+
+Règles respectées : modification par matricule ; rien d'existant supprimé, sauf un point à vérifier de Lasserre devenu sans objet (le document de la classe identifie la mère et la fille). L'amitié Etcheverria–Virto repose sur un document précis (témoignage familial), pas sur le seul convoi.
+
+À reprendre de mon côté : les mentions tirées des extraits Google Books (Boudou, Bonnet, Constantin, Dubreuil, Labarthe, Marqueissac, Lasserre, Pradels, Tillet, Reiss, Sourgens, Majeau) seront relabellisées « extrait consulté en ligne, ouvrage non consulté en entier ».
