@@ -21,3 +21,5 @@
 Écarts signalés dans `points_a_verifier` : Bartette (date de libération), Baudon (date et lieu de décès), Castelló (lieu du décès), Lesburguères (lieu de naissance), Soldevila (fin de détention, matricule), Herbert (année de naissance).
 
 Tableau complet des 64 fiches, avec les pistes restantes : https://claude.ai/artifact/E2eQSasNhi3c1jFSi6MQmS
+
+| 93893 | Arlette Constantin | réseau Marie-Claire, Ravensbrück n° 62486, Oranienburg puis Sachsenhausen, décès en 1972 | Mémorial des déportés charentais |

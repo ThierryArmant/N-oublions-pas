@@ -2641,11 +2641,15 @@
       "parcours": "Da,Ra,Kpn,Sa",
       "situation": "R",
       "nom_affiche": "Arlette CONSTANTIN",
-      "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945.",
+      "complement_historique": "Rentrée de déportation. Date indiquée : ??/05/1945. Arlette Françoise Constantin, fille d'Albert Constantin et d'Irma Marchout, réside à Gond-Pontouvre. Résistante dès 1941 dans le réseau d'évasion Marie-Claire (Ruffec), qui convoie aviateurs et parlementaires vers Bagnères-de-Bigorre ; elle travaille aussi pour le réseau Béarn. Arrêtée par la Gestapo le 22 mars 1944 dans le train Paris–Pau, incarcérée à la prison Saint-Michel de Toulouse, puis à Biarritz et au fort du Hâ. Matricule 62486 à Ravensbrück ; affectée le 21 septembre 1944 au camp d'Oranienburg, puis le 15 mars 1945 à Sachsenhausen. Libérée début mai 1945, rapatriée le 19 mai 1945 par Hazebrouck. Décédée le 4 avril 1972 à Argelès-sur-Mer.",
       "sources_complementaires": [
         {
           "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
           "url": "https://www.bddm.org/liv/details.php?id=I.261."
+        },
+        {
+          "label": "Département de la Charente — Mémorial des déportés charentais : fiche Arlette Constantin (rédigée par Maya Héraud-Caignard, MFR La Péruse)",
+          "url": "https://explore.lacharente.fr/fileadmin/user_upload/Minisite-patrimoine/03-Explore_Patrimoine/EMRD/deportes/1944/C/CONSTANTIN_Arlette.pdf"
         }
       ],
       "biographie": {
@@ -2678,7 +2682,8 @@
             "url": "https://www.bddm.org/liv/details.php?id=I.261."
           }
         ]
-      }
+      },
+      "recherche_mise_a_jour": "2026-11-15"
     },
     {
       "nom": "Chaubard Marie-louise deportée du train fantome n°93842",
