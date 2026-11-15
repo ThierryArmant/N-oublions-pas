@@ -956,7 +956,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62440. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "JEANINE LEJEARD Déportée du TF n° 93849",
@@ -1043,7 +1046,10 @@
         "engagement": "Fille de Gabriel Lejard, syndicaliste communiste déporté à Auschwitz, elle s’engage à quinze ans, encore lycéenne à Dijon, aux Jeunesses communistes puis aux Forces unies de la jeunesse patriotique. Elle tape et diffuse des tracts, recrute des jeunes en Côte-d’Or, devient agente de liaison interrégionale des FTPF fin 1943, puis sous-lieutenant FTP dans la région de Bordeaux en mars 1944.",
         "deportation": "Dénoncée, elle est arrêtée par la Gestapo à Paris le 18 juin 1944 avec son responsable Paul Rochet ; torturée, elle ne livre aucun nom. Isolée au fort du Hâ, elle part de Bordeaux le 9 août 1944 dans le train fantôme, qui s’arrête en gare de Dijon les 23 et 24 août, tout près de chez elle.",
         "memoire": "Morte à Ravensbrück le 15 avril 1945, à dix-sept ans, elle reçoit à titre posthume la Légion d’honneur et la Croix de guerre avec palme. Une caserne de Dijon porte son nom depuis le 9 juin 1946 ; une plaque marque la maison familiale, 10 rue du Creux-d’Enfer."
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62442. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "MARIE LOUISE DAVANCENS LASSERRE déportée du TF n°93873",
@@ -1229,7 +1235,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62474. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "GINETTE BAUDY (VINCENT) Déportée du train fantôme n°93844",
@@ -1346,7 +1355,10 @@
         "code": "fr",
         "nom": "France"
       },
-      "reseau_affiche": "OCM (Organisation civile et militaire)"
+      "reseau_affiche": "OCM (Organisation civile et militaire)",
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62437. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "CONCHITA GRANGÉ Déportée du train fantôme n°93887 nom ramos",
@@ -1511,7 +1523,10 @@
         "code": "es",
         "nom": "Espagne"
       },
-      "reseau_affiche": "Résistance espagnole en Ariège (soutien aux guérilleros)"
+      "reseau_affiche": "Résistance espagnole en Ariège (soutien aux guérilleros)",
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62480. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "ELVIRA BELETA Déportée du train fantôme n°93885",
@@ -1997,7 +2012,8 @@
         ]
       },
       "points_a_verifier": [
-        "Date de libération : 27/04/1945 à München selon le Livre-Mémorial, 1er mai 1945 selon la SHAAPB."
+        "Date de libération : 27/04/1945 à München selon le Livre-Mémorial, 1er mai 1945 selon la SHAAPB.",
+        "Numéro probable à Ravensbrück : 62460. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
@@ -2069,7 +2085,8 @@
       "points_a_verifier": [
         "Décès : 26/09/1944 à Köpenick selon le Livre-Mémorial ; 25/09/1944 à Ravensbrück, de maladie, à 45 ans, selon la ville d'Eysines.",
         "Naissance : le dossier de la classe indique le 18 mars 1899, le Livre-Mémorial le 10/03/1899.",
-        "Décès : le dossier de la classe indique le 25 septembre 1944 à Ravensbrück, le Livre-Mémorial le 26/09/1944 à Köpenick."
+        "Décès : le dossier de la classe indique le 25 septembre 1944 à Ravensbrück, le Livre-Mémorial le 26/09/1944 à Köpenick.",
+        "Numéro probable à Ravensbrück : 62439. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
@@ -2121,6 +2138,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Barsacq%20Ir%C3%A8ne"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « BARSACQ, Irène », AC 21 P 703154 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=BARSACQ%20IRENE"
         }
       ],
       "nom_tri": "Barsacq",
@@ -2151,7 +2172,13 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "biographie": {
+        "memoire": "Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 703154."
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62443. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "ODETTE TILLET déportée du TF n° 93862",
@@ -2361,7 +2388,10 @@
         "code": "fr",
         "nom": "France"
       },
-      "reseau_affiche": "Rafle de Figeac (12 mai 1944)"
+      "reseau_affiche": "Rafle de Figeac (12 mai 1944)",
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62455. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "BOUDOU MATHILDE Déportée du train fantôme n°93856",
@@ -2486,7 +2516,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62449. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "BONNET MAURICETTE Déportée du train fantôme n°93855",
@@ -2518,6 +2551,10 @@
         {
           "label": "Laurent Lutaud et Patricia Di Scala, Les naufragés et les rescapés du « train fantôme », L’Harmattan, 2003 — p. 208 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=%22Mauricette%20Bonnet%22%20Siemens"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « BONNET, Mauricette / AIT HAMADOUCHE », AC 21 P 713177 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=BONNET%20MAURICETTE"
         }
       ],
       "nom_tri": "Bonnet",
@@ -2540,7 +2577,13 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "biographie": {
+        "memoire": "Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 713177."
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62448. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "JESUSA LESBURGIERE (née Del Campo) Déportée du TF n°93876",
@@ -2619,7 +2662,8 @@
         ]
       },
       "points_a_verifier": [
-        "Lieu de naissance : « Egui-Navarre » dans le Livre-Mémorial, Eugi (Esteribar) selon le fonds de l'UPNA."
+        "Lieu de naissance : « Egui-Navarre » dans le Livre-Mémorial, Eugi (Esteribar) selon le fonds de l'UPNA.",
+        "Numéro probable à Ravensbrück : 62469. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
@@ -2681,7 +2725,8 @@
         "nom": "France"
       },
       "points_a_verifier": [
-        "Prénom : les index d’Arolsen consultés par la classe enregistrent le matricule 93837 sous le prénom « Ginette » (avec des mentions de lieu abrégées « Angl… » et « Biar… », sans doute Anglet ou Biarritz), alors que la fiche porte « Eugénie » : vérifier sur le registre."
+        "Prénom : les index d’Arolsen consultés par la classe enregistrent le matricule 93837 sous le prénom « Ginette » (avec des mentions de lieu abrégées « Angl… » et « Biar… », sans doute Anglet ou Biarritz), alors que la fiche porte « Eugénie » : vérifier sur le registre.",
+        "Numéro probable à Ravensbrück : 62430. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
       ]
     },
     {
@@ -2726,7 +2771,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62454. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "SUZANNE PAYRA CAYREL déportée du TF n° 93866",
@@ -3101,7 +3149,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62467. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "Suzanne Cazaux deportée du train fantome n° 93875",
@@ -3137,6 +3188,10 @@
         {
           "label": "Arolsen Archives — document n° 70047096 repéré par la classe (capture « suzanne cazaux » du dossier élève ; scan non transcrit ici)",
           "url": "https://collections.arolsen-archives.org/fr/document/70047096"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « CAZAUX, Suzanne / JUSTINE », AC 21 P 723893 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=CAZAUX%20SUZANNE"
         }
       ],
       "photo_data": "data:image/jpeg;base64,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",
@@ -3147,7 +3202,7 @@
       "biographie": {
         "engagement": "Épicière à Ainhoa-Dantxaria, Suzanne Cazaux, alias Justine, aide au franchissement de la frontière pour rejoindre les Forces françaises libres. Selon Ana García Santamaría, elle est arrêtée le 15 avril 1944 et détenue au fort du Hâ.",
         "deportation": "La fiche reproduite dans Antzina porte « Caseaux, Justine », matricule 93875 à Dachau ; son numéro à Ravensbrück est 62468.",
-        "memoire": "Dates de naissance divergentes : tableau d’origine, 17 mars 1927 ; article, 8 août 1908 ; pièce de camp, 7 août 1909. Ces dates sont conservées comme telles, en attente de vérification. L’autrice identifie le portrait comme celui de Suzanne Cazaux."
+        "memoire": "Dates de naissance divergentes : tableau d’origine, 17 mars 1927 ; article, 8 août 1908 ; pièce de camp, 7 août 1909. Ces dates sont conservées comme telles, en attente de vérification. L’autrice identifie le portrait comme celui de Suzanne Cazaux. Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 723893."
       },
       "sources_biographiques": [
         {
@@ -3224,11 +3279,16 @@
         {
           "label": "Arolsen Archives — document n° 96334991 repéré par la classe (capture « constantin arlette » du dossier élève ; scan non transcrit ici)",
           "url": "https://collections.arolsen-archives.org/fr/document/96334991"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « CONSTANTIN, Arlette », AC 21 P 659584 (statut politique)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=CONSTANTIN%20ARLETTE"
         }
       ],
       "biographie": {
         "engagement": "Arlette Constantin accompagne des aviateurs alliés vers la frontière espagnole. Elle est arrêtée le 22 mars 1944 dans le train Paris–Toulouse, puis détenue au fort du Hâ.",
-        "deportation": "La notice du Musée de la Résistance en ligne indique son passage à Dachau puis à Ravensbrück et sa libération le 6 mai 1945."
+        "deportation": "La notice du Musée de la Résistance en ligne indique son passage à Dachau puis à Ravensbrück et sa libération le 6 mai 1945.",
+        "memoire": "Un dossier de demande de statut (statut politique : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 659584."
       },
       "sources_biographiques": [
         {
@@ -3315,7 +3375,11 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Le dossier SHD de Marthe Monmarin (93838) porte aussi le nom Chaubard : lien familial possible avec Marie-Louise Chaubard, non vérifié.",
+        "Numéro probable à Ravensbrück : 62435. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "Croner Jeanne deportée du train fantome n°93878",
@@ -3378,7 +3442,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62471. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "Dapere Marie deportée du train fantôme n°93889",
@@ -3446,7 +3513,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62482. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "De Puniet de Parry Sophie deportée du train fantome n°93836",
@@ -3483,6 +3553,10 @@
         {
           "label": "Arolsen Archives — document n° 10731847 repéré par la classe (capture « De puniet de parry sophie » du dossier élève ; scan non transcrit ici)",
           "url": "https://collections.arolsen-archives.org/fr/document/10731847"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « PUNIET DE PARRY, Sophie / KATCHALOFF », AC 21 P 659540 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=PUNIET%20DE%20PARRY%20SOPHIE"
         }
       ],
       "nom_tri": "de Puniet de Parry",
@@ -3505,7 +3579,13 @@
       "pays_naissance": {
         "code": "",
         "nom": "Empire russe"
-      }
+      },
+      "biographie": {
+        "memoire": "Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 659540."
+      },
+      "points_a_verifier": [
+        "Le dossier SHD porte aussi le nom Katchaloff : sans doute son nom de naissance (elle est née à Petrograd)."
+      ]
     },
     {
       "nom": "Deyris Louise deportée du train fantome n°93892",
@@ -3537,6 +3617,10 @@
         {
           "label": "Arolsen Archives — document n° 130432163 repéré par la classe (capture « Deyris Louise » du dossier élève ; scan non transcrit ici)",
           "url": "https://collections.arolsen-archives.org/fr/document/130432163"
+        },
+        {
+          "label": "Musée de la Résistance en ligne — « Jeanne-Marie Deyris », alias « Louise »",
+          "url": "https://museedelaresistanceenligne.org/personnedetail.php?id=24581"
         }
       ],
       "nom_tri": "Deyris",
@@ -3561,8 +3645,14 @@
         "nom": "France"
       },
       "points_a_verifier": [
-        "Naissance : l’index d’Arolsen (registre d’entrée de Dachau) donne un lieu abrégé « Poya… » (Poyanne, Landes ?) et un jour en « 06/… » : à compléter sur le registre."
-      ]
+        "Naissance : l’index d’Arolsen (registre d’entrée de Dachau) donne un lieu abrégé « Poya… » (Poyanne, Landes ?) et un jour en « 06/… » : à compléter sur le registre.",
+        "Identification à confirmer : la notice du Musée de la Résistance en ligne (Jeanne-Marie Deyris, alias Louise, Mugron, Buckmaster) correspond probablement à « Louise Deyris » du convoi, mais aucune date de naissance ne permet de le vérifier.",
+        "Numéro probable à Ravensbrück : 62485. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ],
+      "biographie": {
+        "engagement": "Le Musée de la Résistance en ligne (CD-ROM « La Résistance dans les Landes ») recense une Jeanne-Marie Deyris, alias « Louise », domiciliée à Mugron, membre du réseau Buckmaster (SOE)."
+      },
+      "reseau_affiche": "Buckmaster (SOE) — à confirmer"
     },
     {
       "nom": "Estrade Marie Alexandrine deportée du train fantome n°93839",
@@ -3604,6 +3694,10 @@
         {
           "label": "Arolsen Archives — document n° 10638850 repéré par la classe (capture « Estrade Marie Alexandrine » du dossier élève ; scan non transcrit ici)",
           "url": "https://collections.arolsen-archives.org/fr/document/10638850"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « ESTRADE, Marie », AC 21 P 659526 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=ESTRADE%20MARIE"
         }
       ],
       "nom_tri": "Estrade",
@@ -3630,6 +3724,9 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "biographie": {
+        "memoire": "Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 659526."
       }
     },
     {
@@ -3747,7 +3844,10 @@
         "engagement": "Elle aide à l’évasion de soldats alliés : un certificat signé par le général Eisenhower lui exprime la gratitude du peuple américain.",
         "deportation": "Au moment de l’évacuation d’Oranienburg-Sachsenhausen, en 1945, elle est grièvement blessée par un éclat d’obus ; son amie Félicie Virto la porte sur son dos. Toutes deux survivent à la marche de la mort, échappent à leurs gardiens et sont recueillies par l’armée américaine.",
         "memoire": "Elle reçoit la Medal of Freedom et des remerciements du général de Gaulle ; officier de la Légion d’honneur, elle refuse d’être promue commandeur par solidarité avec Félicie, restée sans distinction. Installée à Biarritz, elle reste liée à son amie jusqu’à la fin de sa vie."
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62461. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "Maria Josepha sensberro déportée du train fantôme n°93869",
@@ -3835,7 +3935,10 @@
       },
       "biographie": {
         "memoire": "En 1956, l’armée valide ses services de déportée et homologue ses blessures de guerre : le certificat est adressé à Lucien Nicolas, hôtel de la Poste, à Sare (Basses-Pyrénées)."
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62462. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "Félicie Martinez virto de cibourre déportée du train fantôme n° 93860",
@@ -3906,7 +4009,10 @@
       "biographie": {
         "deportation": "Pendant l’évacuation d’Oranienburg-Sachsenhausen, elle porte sur son dos son amie Marie-Jeanne Etcheverria, grièvement blessée, et lui sauve la vie ; elles survivent ensemble à la marche de la mort et sont recueillies par l’armée américaine.",
         "memoire": "Elle ne reçoit aucune distinction ; Marie-Jeanne Etcheverria refusera une promotion dans la Légion d’honneur par solidarité avec elle."
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62453. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "Fort Raymonde deportée du train fantome n°93894",
@@ -3938,6 +4044,10 @@
         {
           "label": "Arolsen Archives — document n° 10643057 repéré par la classe (capture « fort raymonde » du dossier élève ; scan non transcrit ici)",
           "url": "https://collections.arolsen-archives.org/fr/document/10643057"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « FORT, Raymonde », AC 21 P 607494 (statut politique)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=FORT%20RAYMONDE"
         }
       ],
       "nom_tri": "Fort",
@@ -3963,7 +4073,10 @@
       },
       "points_a_verifier": [
         "Nom : les index d’Arolsen associent le matricule 93894 à une « Raymonde LOIN » : nom de naissance ou d’épouse à vérifier."
-      ]
+      ],
+      "biographie": {
+        "memoire": "Un dossier de demande de statut (statut politique : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 607494."
+      }
     },
     {
       "nom": "Herbert Ferdinande deportée du train fantome n°93870",
@@ -4024,7 +4137,8 @@
         ]
       },
       "points_a_verifier": [
-        "Une fiche « Fernande Deville » du Musée de la Résistance en ligne (CD-ROM La Résistance en Charente) la dit née Herbert en Vendée en 1899 (1905 dans le Livre-Mémorial), arrêtée le 26/07/1944, détenue au fort du Hâ et libérée le 08/05/1945 : identification à confirmer."
+        "Une fiche « Fernande Deville » du Musée de la Résistance en ligne (CD-ROM La Résistance en Charente) la dit née Herbert en Vendée en 1899 (1905 dans le Livre-Mémorial), arrêtée le 26/07/1944, détenue au fort du Hâ et libérée le 08/05/1945 : identification à confirmer.",
+        "Numéro probable à Ravensbrück : 62463. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
@@ -4066,6 +4180,10 @@
         {
           "label": "Arolsen Archives — document n° 10690810 repéré par la classe (capture « labarthe jeanne » du dossier élève ; scan non transcrit ici)",
           "url": "https://collections.arolsen-archives.org/fr/document/10690810"
+        },
+        {
+          "label": "Sud Ouest — « Hommage à Jeanne Labarthe et à Pierre Ducasse » (Saint-Yaguen, journée de la Déportation) — article payant, chapô seul consulté",
+          "url": "https://www.sudouest.fr/landes/saint-yaguen/hommage-a-jeanne-labarthe-et-a-pierre-ducasse-9288110.php"
         }
       ],
       "nom_tri": "Labarthe",
@@ -4086,11 +4204,15 @@
         ]
       },
       "points_a_verifier": [
-        "L’extrait du Livre-Mémorial imprimé (2004, p. 59) consulté en ligne semble indiquer « DCD 29/08/1944 Ravensbrück », alors que nos fiches donnent avril 1945 à Hambourg : à vérifier sur l’ouvrage."
+        "L’extrait du Livre-Mémorial imprimé (2004, p. 59) consulté en ligne semble indiquer « DCD 29/08/1944 Ravensbrück », alors que nos fiches donnent avril 1945 à Hambourg : à vérifier sur l’ouvrage.",
+        "Numéro probable à Ravensbrück : 62436. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "biographie": {
+        "memoire": "Saint-Yaguen lui rend hommage, ainsi qu’à Pierre Ducasse, lors d’une journée nationale de la Déportation ; son fils Fernand est aussi cité."
       }
     },
     {
@@ -4223,7 +4345,10 @@
         "code": "fr",
         "nom": "France"
       },
-      "reseau_affiche": "Rafle de Figeac (12 mai 1944)"
+      "reseau_affiche": "Rafle de Figeac (12 mai 1944)",
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62472. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "Laurent Raymonde deportée du train fantome n°93895",
@@ -4277,7 +4402,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62488. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "LUCIENNE HARTE Déportée du train fantôme n°93834",
@@ -4338,6 +4466,10 @@
         {
           "label": "Arolsen Archives — registre d’entrée de Dachau (extrait du dossier de la classe)",
           "url": "https://drive.google.com/file/d/1obRORoZ7JgOZ-ks9ohpHrn8y9yC3EKnG/view"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « HARTÉ, Lucienne », AC 21 P 624115 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=HARTE%20LUCIENNE"
         }
       ],
       "nom_tri": "Harté",
@@ -4369,7 +4501,7 @@
       "biographie": {
         "engagement": "Agente de renseignement du mouvement Libération-Nord, elle est auxiliaire des PTT à Mont-de-Marsan (Landes).",
         "deportation": "Arrêtée le 9 juin 1944, elle est interrogée par la Gestapo à la villa Mathilde (Landes), puis emprisonnée au fort du Hâ à Bordeaux avant le départ du train fantôme. Arrivée à Ravensbrück le 1er septembre 1944, elle est envoyée le 15 septembre dans un kommando de Berlin, puis transférée à Oranienburg le 17 avril 1945. Elle est libérée par l’Armée rouge.",
-        "memoire": "Après la guerre, elle revient dans les Landes ; elle meurt le 22 mai 1992 à Mont-de-Marsan."
+        "memoire": "Après la guerre, elle revient dans les Landes ; elle meurt le 22 mai 1992 à Mont-de-Marsan. Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 624115."
       },
       "points_a_verifier": [
         "Date de libération : le dossier de la classe indique le 13 mai 1945 (par l’Armée rouge), le Livre-Mémorial le 03/05/1945 : à vérifier.",
@@ -4521,7 +4653,10 @@
         "code": "fr",
         "nom": "France"
       },
-      "reseau_affiche": "Rafle de Figeac (12 mai 1944)"
+      "reseau_affiche": "Rafle de Figeac (12 mai 1944)",
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62456. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "VIOLETTE SZABO",
@@ -6411,6 +6546,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Caubet%20Madeleine"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « CAUBET, Madeleine / RASPAUD », AC 21 P 723582 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=CAUBET%20MADELEINE"
         }
       ],
       "nom_tri": "Caubet",
@@ -6433,6 +6572,9 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "biographie": {
+        "memoire": "Un dossier de statut au SHD de Caen (AC 21 P 723582) porte aussi le nom Raspaud ; la base des déportés et internés du SHD la classe « internée résistante » : elle s’est évadée avant le passage de la frontière."
       }
     },
     {
@@ -6455,6 +6597,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Cazeaux%20Madeleine"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « CAZEAUX, Madeleine / DUFFIEUX », AC 21 P 659581 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=CAZEAUX%20MADELEINE"
         }
       ],
       "nom_tri": "Cazeaux",
@@ -6477,6 +6623,9 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "biographie": {
+        "memoire": "Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 659581."
       }
     },
     {
@@ -6503,6 +6652,10 @@
         {
           "label": "Bärbel Schindler-Saefkow (dir.), Gedenkbuch für die Opfer des Konzentrationslagers Ravensbrück 1939–1945, 2005 — p. 159 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=Gedenkbuch%20Ravensbr%C3%BCck%20Marqueissac"
+        },
+        {
+          "label": "Archives et patrimoine de Lorient — « Marqueissac Marie-Louise de (1902-1944) »",
+          "url": "https://patrimoine.lorient.bzh/histoire/personnalites/m/marqueissac-marie-louise-de"
         }
       ],
       "nom_tri": "de Marqueissac",
@@ -6524,12 +6677,19 @@
       },
       "points_a_verifier": [
         "Une ancienne version du classeur indiquait une mort le 06/08/1944 : c'est impossible, puisqu'elle reçoit le matricule 93896 à Dachau le 28/08/1944.",
-        "Le Gedenkbuch de Ravensbrück, qui ne recense que des femmes mortes au camp, dans ses kommandos ou peu après la libération, cite « Marqueissac, Marie Louise », alors que nos fiches la disent rentrée : à vérifier (consulter la page 159)."
+        "Le Gedenkbuch de Ravensbrück, qui ne recense que des femmes mortes au camp, dans ses kommandos ou peu après la libération, cite « Marqueissac, Marie Louise », alors que nos fiches la disent rentrée : à vérifier (consulter la page 159).",
+        "Date de naissance : 9 octobre 1902 selon les archives de Lorient, 9 septembre 1902 selon la FMD.",
+        "Numéro probable à Ravensbrück : 62489. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "biographie": {
+        "naissance": "Marie-Louise Henriette de Marqueissac, fille d’Alexandre de Marqueissac, commissaire de la Marine, née à Lorient. Mariée en 1920 à Lorient à André Pergeaux ; divorce prononcé en 1941.",
+        "deportation": "Après Ravensbrück, elle travaille au kommando de l’usine Pertrix (piles et batteries pour la Wehrmacht) à Niederschöneweide, dans la banlieue de Berlin.",
+        "deces": "Disparue en déportation : on ignore si elle est morte à Niederschöneweide en 1944 ou en 1945."
       }
     },
     {
@@ -6560,6 +6720,10 @@
         {
           "label": "Frauen im KZ : Möglichkeiten und Grenzen der historischen Forschung — p. 47 — extrait consulté en ligne ; ouvrage non consulté en entier",
           "url": "https://www.google.com/search?tbm=bks&q=%22Genevi%C3%A8ve%20Dubreuil%22%20Rohlau"
+        },
+        {
+          "label": "Association Flossenbürg — fiche « Dubreuil Geneviève »",
+          "url": "https://asso-flossenburg.com/wp-content/uploads/2020/04/Dubreuil-Genevieve.pdf"
         }
       ],
       "reference_archives": "Fonds Teissier, 228 J : dossier signalé au carton 4 par l’inventaire provisoire. Contenu du dossier non consulté.",
@@ -6585,11 +6749,19 @@
         ]
       },
       "points_a_verifier": [
-        "Le Livre-Mémorial imprimé (2004, p. 59) semble porter la mention « D » pour Geneviève Dubreuil alors que nos fiches la disent rentrée : à vérifier sur l’ouvrage."
+        "Le Livre-Mémorial imprimé (2004, p. 59) semble porter la mention « D » pour Geneviève Dubreuil alors que nos fiches la disent rentrée : à vérifier sur l’ouvrage.",
+        "La fiche de l’Association Flossenbürg porte « Dachau 93348 » : coquille probable pour 93848."
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "biographie": {
+        "naissance": "Née le 29 janvier 1924 à Petit-Palais (Gironde). Étudiante, célibataire, domiciliée à Bergerac.",
+        "engagement": "Arrêtée le 22 juin 1944 à La Réole ; le seul motif connu, dans son dossier, est « parachutages FFI ». Détenue au fort du Hâ à Bordeaux.",
+        "deportation": "Ravensbrück le 30 août 1944 (matricule 62441), puis le 22 novembre au kommando de Neurohlau (Nová Role), rattaché à Flossenbürg (matricule 58292), et le 28 janvier 1945 au kommando de Dresde.",
+        "deces": "Libérée par les Soviétiques à Dresde le 14 avril 1945 ; rapatriée par Hayange.",
+        "matricules": "Dachau 93848 ; Ravensbrück 62441 ; Flossenbürg 58292."
       }
     },
     {
@@ -6620,6 +6792,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Fau%20Espa%C3%B1ol%20Justina"
+        },
+        {
+          "label": "Républicains déportés (base de données) — « Justina Julia Fau Español »",
+          "url": "https://republicanosdeportados.org/deportados/justina-julia-fau-espanol/"
         }
       ],
       "nom_tri": "Fau Español",
@@ -6650,6 +6826,11 @@
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
+      },
+      "biographie": {
+        "engagement": "Internée au camp du Vernet, puis à la caserne Caffarelli de Toulouse.",
+        "deportation": "Entrée à Ravensbrück le 2 septembre 1944, matricule 62477. Situation en 1945 inconnue.",
+        "matricules": "Dachau 93884 ; Ravensbrück 62477."
       }
     },
     {
@@ -6677,6 +6858,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Feillou%20Marie"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « FEILLOU, Marie », AC 21 P 659528 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=FEILLOU%20MARIE"
         }
       ],
       "nom_tri": "Feillou",
@@ -6703,6 +6888,9 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "biographie": {
+        "memoire": "Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 659528."
       }
     },
     {
@@ -6747,7 +6935,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62446. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "LASSERRE",
@@ -6843,6 +7034,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Lezian%20Etiennette"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « DANTHEZ, Étiennette / LEZIAN », AC 21 P 628596 (statut politique)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=DANTHEZ%20ETIENNETTE"
         }
       ],
       "nom_tri": "Lezian",
@@ -6865,6 +7060,9 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "biographie": {
+        "memoire": "Un dossier de demande de statut (statut politique : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 628596."
       }
     },
     {
@@ -6922,7 +7120,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62444. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "MONMARIN",
@@ -6944,6 +7145,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Monmarin%20Marthe"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « MONMARIN, Marthe / CHAUBARD », AC 21 P 600009 (statut politique)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=MONMARIN%20MARTHE"
         }
       ],
       "nom_tri": "Monmarin",
@@ -6966,7 +7171,13 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "biographie": {
+        "memoire": "Un dossier de demande de statut (statut politique : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 600009."
+      },
+      "points_a_verifier": [
+        "Le dossier SHD porte « Monmarin, Marthe / Chaubard » : Marthe Monmarin semble née Chaubard. Le convoi compte aussi Marie-Louise Chaubard (93842, née en 1893 à Saint-Pey-de-Castets) : un lien mère-fille est possible mais non vérifié."
+      ]
     },
     {
       "nom": "PARADE",
@@ -6993,6 +7204,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Parade%20Aim%C3%A9e"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « PARADE, Aimée / SELPROT », AC 21 P 659533 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=PARADE%20AIMEE"
         }
       ],
       "nom_tri": "Parade",
@@ -7019,6 +7234,9 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "biographie": {
+        "memoire": "Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 659533."
       }
     },
     {
@@ -7069,6 +7287,10 @@
         {
           "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Lettre de la famille Tillet sur la rafle de Figeac (27 mai 1991) »",
           "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « PRADELS, Alida / DESTRUEL », AC 21 P 659537 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=PRADELS%20ALIDA"
         }
       ],
       "nom_tri": "Pradels",
@@ -7082,7 +7304,7 @@
         "matricules": "Dachau : 93835 ; matricule de Ravensbrück non établi dans les pièces consultées.",
         "engagement": "Alida Destruel épouse Pradels est répertoriée dans les dossiers d’homologation du SHD sous la cote GR 16 P 181240 ; réseau non établi ici.",
         "deportation": "Albert Tillet la désigne comme sa tante, arrêtée le 12 mai 1944 avec sa mère et son épouse. Il la situe avec Jeanne à Oranienburg, puis rapporte leur libération par les troupes soviétiques. La FMD indique Dachau, Ravensbrück et Sachsenhausen. Arrêtée lors de la rafle de Figeac du 12 mai 1944 avec les femmes de la famille Tillet et des employées de l’hôtel des Carmes, elle est détenue à Toulouse (caserne Caffarelli puis prison Saint-Michel), transférée à Bordeaux (fort du Hâ puis synagogue), avant le départ du train fantôme. Pendant le transbordement de Sorgues, la population leur distribue des fruits.",
-        "memoire": "Le témoignage de Jeanne Tillet et Alida Pradel est également signalé parmi les pièces 72AJ/333, dossier A.II, des Archives nationales par le répertoire Un certain voyage. La transcription n’a pas été consultée. Envoyées ensuite au kommando d’Oranienburg, Jeanne Tillet et sa sœur Alida Pradels sont libérées par les Soviétiques. Le mari de Jeanne, Cyprien Tillet, mutilé de 14-18, arrêté le 23 avril 1944, meurt en déportation à Hambourg en décembre 1944."
+        "memoire": "Le témoignage de Jeanne Tillet et Alida Pradel est également signalé parmi les pièces 72AJ/333, dossier A.II, des Archives nationales par le répertoire Un certain voyage. La transcription n’a pas été consultée. Envoyées ensuite au kommando d’Oranienburg, Jeanne Tillet et sa sœur Alida Pradels sont libérées par les Soviétiques. Le mari de Jeanne, Cyprien Tillet, mutilé de 14-18, arrêté le 23 avril 1944, meurt en déportation à Hambourg en décembre 1944. Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 659537."
       },
       "recherche_mise_a_jour": "2026-11-15",
       "sources_biographiques": [
@@ -7183,7 +7405,10 @@
         "code": "fr",
         "nom": "France"
       },
-      "reseau_affiche": "Rafle de Figeac (12 mai 1944)"
+      "reseau_affiche": "Rafle de Figeac (12 mai 1944)",
+      "points_a_verifier": [
+        "Alida Pradels et Jeanne Tillet (93865) ont toutes deux un dossier SHD au nom de Destruel et sont nées à Figeac : probablement sœurs, à confirmer par l’état civil."
+      ]
     },
     {
       "nom": "PUGNET-WARTZ",
@@ -7227,7 +7452,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62450. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "REISS",
@@ -7275,7 +7503,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62451. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "SAHOURET",
@@ -7301,6 +7532,26 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Sahouret%20Aim%C3%A9e"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « SAHOURET, Aimée / LARLUS », AC 21 P 668923 (statut politique)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=SAHOURET%20AIMEE"
+        },
+        {
+          "label": "Wikipédia (basque) — « Aimée Larlus »",
+          "url": "https://eu.wikipedia.org/wiki/Aim%C3%A9e_Larlus"
+        },
+        {
+          "label": "Berria — « Nazien sarekada Ospitalepean » (la rafle allemande à L’Hôpital-Saint-Blaise, 27 juin 1944), 21/12/2021",
+          "url": "https://www.berria.eus/bizigiro/nazien-sarekada-ospitalepean_1306451_102.html"
+        },
+        {
+          "label": "Berria — « Aimeeren zori madarikatu gaiztoa »",
+          "url": "https://www.berria.eus/bizigiro/aimeeren-zori-madarika-gaiztoa_1306450_102.html"
+        },
+        {
+          "label": "Antzina, revista de genealogía vasca, n° 35 (juin 2023)",
+          "url": "https://www.antzinako.org/Revistas/Antzina_35.pdf"
         }
       ],
       "nom_tri": "Sahouret",
@@ -7324,7 +7575,22 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "biographie": {
+        "memoire": "Un dossier de demande de statut (statut politique : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 668923.",
+        "naissance": "Née Aimée Larlus le 1er janvier 1914 à L’Hôpital-Saint-Blaise (Soule, Pyrénées-Atlantiques).",
+        "deces": "Morte à Ravensbrück, gazée. Date : février 1945 selon la FMD, 6 avril 1945 selon l’article de Wikipédia en basque."
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aim%C3%A9%C3%A9_Larlus_%28Aim%C3%A9%C3%A9_Sahouret%29_.eu.svg/500px-Aim%C3%A9%C3%A9_Larlus_%28Aim%C3%A9%C3%A9_Sahouret%29_.eu.svg.png",
+      "photo_source": {
+        "label": "Portrait dessiné par Mototsa (projet WikiEmakumeok), d’après la photographie de sa stèle — Wikimedia Commons, CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Aim%C3%A9%C3%A9_Larlus_(Aim%C3%A9%C3%A9_Sahouret)_.eu.svg"
+      },
+      "photo_alt": "Portrait dessiné d’Aimée Sahouret, née Larlus",
+      "points_a_verifier": [
+        "Date de décès divergente : février 1945 (FMD) ou 6 avril 1945 (Wikipédia en basque).",
+        "Le portrait est un dessin moderne fait d’après la photo de sa stèle, pas une photographie d’époque."
+      ]
     },
     {
       "nom": "SAHUQUÉ",
@@ -7346,6 +7612,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=Sahuqu%C3%A9%20Marguerite"
+        },
+        {
+          "label": "Musée de la Résistance en ligne — « Marguerite Sahuqué » (CD-ROM « La Résistance dans les Landes »)",
+          "url": "https://museedelaresistanceenligne.org/personnedetail.php?id=24333"
         }
       ],
       "nom_tri": "Sahuqué",
@@ -7368,7 +7638,13 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "biographie": {
+        "engagement": "Recensée parmi les résistantes des Landes par le Musée de la Résistance en ligne."
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62470. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "SICARD",
@@ -7412,7 +7688,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62457. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "SOURGENS",
@@ -7469,7 +7748,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62447. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "TAPIA ESTEBAN",
@@ -7508,6 +7790,10 @@
         {
           "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Lettre de la famille Tillet sur la rafle de Figeac (27 mai 1991) »",
           "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « TAPIA-ESTEBAN, Mila », AC 21 P 680209 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=TAPIA%20ESTEBAN%20MILA"
         }
       ],
       "nom_tri": "Tapia Esteban",
@@ -7522,7 +7808,8 @@
       "biographie": {
         "matricules": "Dachau : 93883 ; Ravensbrück : 62476 (étude espagnole déjà citée dans la fiche).",
         "deportation": "Arrêtée lors de la rafle de Figeac du 12 mai 1944 avec les femmes de la famille Tillet et des employées de l’hôtel des Carmes, elle est détenue à Toulouse (caserne Caffarelli puis prison Saint-Michel), transférée à Bordeaux (fort du Hâ puis synagogue), avant le départ du train fantôme. Pendant le transbordement de Sorgues, la population leur distribue des fruits.",
-        "engagement": "Employée de l’hôtel des Carmes, à Figeac, selon la lettre de la famille Tillet."
+        "engagement": "Employée de l’hôtel des Carmes, à Figeac, selon la lettre de la famille Tillet.",
+        "memoire": "Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 680209."
       },
       "etat_vital": {
         "statut": "non_confirme",
@@ -7595,7 +7882,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62445. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "TILLET",
@@ -7640,6 +7930,10 @@
         {
           "label": "Dossier de recherche de la classe CDSG (collège Jean Giono) — « Lettre de la famille Tillet sur la rafle de Figeac (27 mai 1991) »",
           "url": "https://drive.google.com/file/d/1arpctKtxGwxEu5DZJ48GCj4vklOupKoB/view"
+        },
+        {
+          "label": "Service historique de la Défense (Caen), dossier de statut AC 21 P — notice FranceArchives : « TILLET, Jeanne / DESTRUEL », AC 21 P 659558 (statut résistant)",
+          "url": "https://francearchives.gouv.fr/fr/search?q=TILLET%20JEANNE"
         }
       ],
       "nom_tri": "Tillet",
@@ -7653,7 +7947,7 @@
         "matricules": "Dachau : 93865 ; matricule de Ravensbrück non établi dans les pièces consultées.",
         "engagement": "Hôtelière à l’hôtel des Carmes de Figeac avec Cyprien Tillet. Un dossier d’homologation de ses services est signalé au SHD ; aucun réseau ni pseudonyme n’est déduit de cette seule référence.",
         "deportation": "Selon la lettre de son fils Albert du 27 mai 1991, arrêtée le 12 mai 1944 avec les femmes de la famille et des employées de l’hôtel. Internements à Toulouse puis Bordeaux ; déportation par le Train fantôme. Matricule 93865 à Dachau. La FMD indique ensuite Ravensbrück, Oranienburg et Sachsenhausen. Arrêtée lors de la rafle de Figeac du 12 mai 1944 avec les femmes de la famille Tillet et des employées de l’hôtel des Carmes, elle est détenue à Toulouse (caserne Caffarelli puis prison Saint-Michel), transférée à Bordeaux (fort du Hâ puis synagogue), avant le départ du train fantôme. Pendant le transbordement de Sorgues, la population leur distribue des fruits.",
-        "memoire": "Albert rapporte sa libération avec sa tante par les troupes soviétiques. Jeanne est la mère d’Albert et la belle-mère d’Odette. La lettre conserve le souvenir des secours reçus à Sorgues. Aucun portrait de Jeanne n’a été identifié dans les documents familiaux examinés. Envoyées ensuite au kommando d’Oranienburg, Jeanne Tillet et sa sœur Alida Pradels sont libérées par les Soviétiques. Le mari de Jeanne, Cyprien Tillet, mutilé de 14-18, arrêté le 23 avril 1944, meurt en déportation à Hambourg en décembre 1944."
+        "memoire": "Albert rapporte sa libération avec sa tante par les troupes soviétiques. Jeanne est la mère d’Albert et la belle-mère d’Odette. La lettre conserve le souvenir des secours reçus à Sorgues. Aucun portrait de Jeanne n’a été identifié dans les documents familiaux examinés. Envoyées ensuite au kommando d’Oranienburg, Jeanne Tillet et sa sœur Alida Pradels sont libérées par les Soviétiques. Le mari de Jeanne, Cyprien Tillet, mutilé de 14-18, arrêté le 23 avril 1944, meurt en déportation à Hambourg en décembre 1944. Un dossier de demande de statut (statut résistant : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 659558."
       },
       "recherche_mise_a_jour": "2026-11-15",
       "sources_biographiques": [
@@ -7759,7 +8053,10 @@
         "code": "fr",
         "nom": "France"
       },
-      "reseau_affiche": "Rafle de Figeac (12 mai 1944)"
+      "reseau_affiche": "Rafle de Figeac (12 mai 1944)",
+      "points_a_verifier": [
+        "Date de naissance : la base des déportés du SHD indique le 03/05/1896 à Figeac ; la fiche porte le 9 mai 1896. À vérifier sur l’acte de naissance."
+      ]
     },
     {
       "nom": "VACHER",
@@ -7803,7 +8100,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62452. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "VERGE",
@@ -7847,7 +8147,10 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "points_a_verifier": [
+        "Numéro probable à Ravensbrück : 62481. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
+      ]
     },
     {
       "nom": "SIMONE MICHEL-LÉVY",
