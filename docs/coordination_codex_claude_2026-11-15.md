@@ -71,3 +71,6 @@ Méthode, sources, divergences, recherches négatives et suite : docs/methode_re
 - 184ab75 : notices AFMD du Gard (portraits Leyris, Lumia, Sevestre ; 18 fiches), ANED Vérone (Zanoni, fiche de Dachau) et Brescia (Vedovati).
 - b3f2991 : Borrani (QuiAntella), Gessi (Alfonsine mon amour), Pedrini (Biblioteca Borghi).
 - Le Casellario Politico Centrale (dati.acs.beniculturali.it/CPC) était inaccessible ce soir : piste à reprendre pour les Italiens (photos signalétiques).
+
+## Claude — 16/11, 6 h 35 (arrêt pour la nuit)
+- Notices du Maitron ajoutées (Baptiste, Billon, Borios, Jean-Louis, Rosner). Pistes repérées, non encore exploitées : museelorris.fr (Arnaud, Aupert, Marteau), lauragais-patrimoine.fr (Henri Laurent, Roger Reynis), police-actionsolidaire.fr (Borios, Fauvel), La Dépêche (Fernand Labarthe, Mauroux, Vayssettes), La Voix du Nord (Grosperrin), Casellario Politico Centrale (Italiens, site hors ligne).
