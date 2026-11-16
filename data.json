@@ -29229,7 +29229,7 @@
       "date_sortie": "01/01/1945",
       "lieu_sortie": "Mauthausen",
       "observations": "—",
-      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Pieve di Soligo, mort le 01/01/1945 à Melk. Le Livre-Mémorial indique : 01/01/1945 à Mauthausen.",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Pieve di Soligo, mort le 01/01/1945 à Melk. Le Livre-Mémorial indique : 01/01/1945 à Mauthausen. Le Musée de la Résistance en ligne (CD-ROM La Résistance en Lot-et-Garonne) le compte parmi les combattants de la 35e brigade FTP-MOI, active en Lot-et-Garonne ; Lino et Lorenzo Barel, tous deux nés à Pieve di Soligo, y figurent ensemble.",
       "sources": [
         {
           "label": "Mémorial de Mauthausen — Salle des noms",
@@ -29238,13 +29238,18 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=BAREL%20Lino"
+        },
+        {
+          "label": "Musée de la Résistance en ligne — Lino Barel (35e brigade FTP-MOI)",
+          "url": "https://museedelaresistanceenligne.org/personne.php?id=25325"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "reseau_affiche": "35e brigade FTP-MOI"
     },
     {
       "nom": "BAREL",
@@ -29265,13 +29270,18 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Barel"
+        },
+        {
+          "label": "Musée de la Résistance en ligne — Lorenzo Barel (35e brigade FTP-MOI)",
+          "url": "https://museedelaresistanceenligne.org/personne.php?id=25323"
         }
       ],
-      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Laurenzo Barel » : mort à Dachau le 17/01/1945 (né à Pieve di Soligo (Treviso), domicilié à Penne-d'Agenais (Lot-et-Garonne), profession : employé d'hôtel). Nos fiches indiquaient le 25/12/1944 : écart à vérifier.",
+      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Laurenzo Barel » : mort à Dachau le 17/01/1945 (né à Pieve di Soligo (Treviso), domicilié à Penne-d'Agenais (Lot-et-Garonne), profession : employé d'hôtel). Nos fiches indiquaient le 25/12/1944 : écart à vérifier. Le Musée de la Résistance en ligne (CD-ROM La Résistance en Lot-et-Garonne) le compte parmi les combattants de la 35e brigade FTP-MOI, active en Lot-et-Garonne ; Lino et Lorenzo Barel, tous deux nés à Pieve di Soligo, y figurent ensemble.",
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "reseau_affiche": "35e brigade FTP-MOI"
     },
     {
       "nom": "BARRAGUE",
@@ -31200,12 +31210,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CARRARA%20Jean"
+        },
+        {
+          "label": "Musée de la Résistance en ligne — Jean-Baptiste Carrara (d’après la notice du Maitron par René Gaudy)",
+          "url": "https://museedelaresistanceenligne.org/personne.php?id=46529"
         }
       ],
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "histoire": "Né en Italie (Aviatico) en 1895, manœuvre domicilié à Argenteuil, membre de la cellule communiste de la centrale électrique de Gennevilliers. Arrêté sur dénonciation le 11 avril 1940 avec la plupart des responsables communistes de l'usine, il est interné à Gurs puis à Mauzac. Jugé en décembre 1940 par le tribunal militaire de Périgueux dans « l'affaire des 21 » (militants de l'Éclairage), il est condamné à deux ans d'internement, incarcéré à la centrale d'Eysses en janvier 1941 puis transféré au camp du Vernet (Ariège) en février 1942. Déporté par le Train fantôme le 3 juillet 1944, il survit à Dachau, libéré le 29 avril 1945, et ne rentre à Argenteuil qu'en mai 1945, après plus de quatre ans de détention."
     },
     {
       "nom": "CARRATU",
@@ -31539,12 +31554,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=CHAMPEL%20Raymond"
+        },
+        {
+          "label": "Musée de la Résistance en ligne — Raymond Champel (La Résistance dans la Drôme)",
+          "url": "https://museedelaresistanceenligne.org/personne.php?id=13417"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Né à Labégude (Ardèche) en 1925, porteur de journaux à Saint-Vallier (Drôme), membre des FTPF et du Front national. Le 11 novembre 1942, à 17 ans, il est arrêté avec trois camarades pour avoir collé des tracts de la CGT appelant à chômer ce jour férié supprimé par Vichy ; emprisonné quatre mois à Lyon (Montluc), puis à Valence et Grenoble, il est acquitté. Arrêté de nouveau le 17 décembre 1943, il est transféré à Montpellier puis Toulouse et embarqué dans le Train fantôme. Avec des compagnons, il perce le plancher du wagon et s'évade dans le Gard, à hauteur de Roquemaure (le musée écrit « Rochemaure (30) »)."
     },
     {
       "nom": "CHATRON",
@@ -34214,7 +34234,7 @@
       "date_sortie": "24/12/1944",
       "lieu_sortie": "Melk",
       "observations": "—",
-      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Villenauxe-la-Grande, mort le 24/12/1944 à Melk.",
+      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Villenauxe-la-Grande, mort le 24/12/1944 à Melk. Le Musée de la Résistance en ligne (CD-ROM La Résistance dans l'Aube) confirme : né le 6 septembre 1917 à Villenauxe-la-Grande, arrêté le 4 avril 1944 à Bordeaux pour un motif inconnu, déporté par le convoi parti de Bordeaux le 9 août 1944, puis transféré à Mauthausen ; mort au kommando de Melk le 24 décembre 1944. La notice écrit « Odile » et parle de lui au féminin, ce qui est une erreur probable : Melk était un kommando d'hommes.",
       "sources": [
         {
           "label": "Mémorial de Mauthausen — Salle des noms",
@@ -34223,6 +34243,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=GAGON%20Odyle"
+        },
+        {
+          "label": "Musée de la Résistance en ligne — Odile [Odyle] Gagon",
+          "url": "https://museedelaresistanceenligne.org/personne.php?id=6288"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -35131,7 +35155,7 @@
       "date_sortie": "24/08/1944",
       "lieu_sortie": "Montigny-le-Roi (52)",
       "observations": "* Lors du transport",
-      "histoire": "Né le 5 février 1924 en Pologne, Tadeusz Hamerlak vit avec sa famille à Foussignargues puis dans le bassin de Carmaux. Résistant FTP-MOI, arrêté en avril 1944, il est détenu à Toulouse puis embarqué dans le Train fantôme avec son père Wladislas, qui meurt pendant le transport. Il s’évade en Haute-Marne et retrouve ensuite le Tarn. Sa sœur Eugénie, dite Sophie, est déportée à Ravensbrück par un autre convoi. Il décède le 21 février 1997 à Saint-Benoît-de-Carmaux.",
+      "histoire": "Né le 5 février 1924 en Pologne, Tadeusz Hamerlak vit avec sa famille à Foussignargues puis dans le bassin de Carmaux. Résistant FTP-MOI, arrêté en avril 1944, il est détenu à Toulouse puis embarqué dans le Train fantôme avec son père Wladislas, qui meurt pendant le transport. Il s’évade en Haute-Marne et retrouve ensuite le Tarn. Sa sœur Eugénie, dite Sophie, est déportée à Ravensbrück par un autre convoi. Il décède le 21 février 1997 à Saint-Benoît-de-Carmaux. Selon la notice du Musée de la Résistance en ligne (Gérard Soufflet, d'après son dossier au SHD), mineur à Blaye-les-Mines (Tarn), il assure des tâches de logistique pour les FTP-MOI ; arrêté par la police française le 11 avril 1944 lors du démantèlement de la 35e brigade FTP-MOI de Toulouse, il est détenu à la prison Saint-Michel, part avec le Train fantôme le 3 juillet 1944 et s'évade avec quelques camarades le 25 août 1944 en gare de Licourt (Haute-Marne), puis se cache à Montigny-le-Roi jusqu'à la Libération (nos fiches : 24 août).",
       "sources": [
         {
           "label": "AFMD du Gard · notice biographique",
@@ -35140,6 +35164,10 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=HAMERLAK%20Tadeuz"
+        },
+        {
+          "label": "Musée de la Résistance en ligne — Tadeusz Hamerlak",
+          "url": "https://museedelaresistanceenligne.org/personne.php?id=30594"
         }
       ],
       "reseau_affiche": "FTP-MOI",
@@ -35558,12 +35586,18 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=HYLA%20Vincent"
+        },
+        {
+          "label": "Musée de la Résistance en ligne — Wincenty Hyla (notice de Jean Medrala, d’après le SHD)",
+          "url": "https://museedelaresistanceenligne.org/personne.php?id=30608"
         }
       ],
       "pays_naissance": {
         "code": "pl",
         "nom": "Pologne"
-      }
+      },
+      "histoire": "Wincenty (Vincent) Hyla, né en 1894 à Brzeznica (Pologne), régisseur agronome installé entre le Lot-et-Garonne et la Dordogne. Il entre dans la Résistance polonaise en France, réseau POWN-Monika, sous le pseudonyme « Potok » : il est chargé de récupérer les armes parachutées autour du château de la Hitte, à Moncrabeau (Lot-et-Garonne), et de missions clandestines en Dordogne. Arrêté le 21 juillet 1942, il est interné au camp du Vernet. Le 30 juin 1944, la Gestapo l'emmène comme détenu politique et il part avec le Train fantôme ; le 24 août 1944, il réussit à s'évader en Haute-Marne. Plusieurs de ses camarades du groupe POWN local sont fusillés par les Allemands. Reconnu résistant avec le grade d'adjudant, il reçoit la Croix de guerre polonaise.",
+      "reseau_affiche": "POWN-Monika (Résistance polonaise)"
     },
     {
       "nom": "IBANEZ IZCO",
