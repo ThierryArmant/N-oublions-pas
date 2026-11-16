@@ -44823,13 +44823,17 @@
         {
           "label": "Amicale des déportés du Train fantôme — Figeac : témoignage de Robert Robinet (1990)",
           "url": "https://www.lesdeportesdutrainfantome.org/ville_figeac.htm"
+        },
+        {
+          "label": "La Dépêche — « Résistant oublié… » (forum des lecteurs, 25 février 2004)",
+          "url": "https://www.ladepeche.fr/article/2004/02/25/411074-resistant-oublie.html"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
       },
-      "histoire": "Selon le témoignage de Robert Robinet (1990), il est arrêté avec lui dans la nuit du 22 mai 1944 près de Decazeville, lors d’une embuscade, alors qu’ils se rendaient à une réception de parachutage vers Fumel.",
+      "histoire": "Selon le témoignage de Robert Robinet (1990), il est arrêté avec lui dans la nuit du 22 mai 1944 près de Decazeville, lors d’une embuscade, alors qu’ils se rendaient à une réception de parachutage vers Fumel. Dans une lettre de lecteur publiée par La Dépêche en 2004, Fernand Brel le présente comme un grand résistant de Figeac, créateur de quatre maquis dans le nord du Lot, et regrette qu'aucune rue de la ville ne porte son nom ; la lettre date son arrestation de « fin 1944 », ce qui contredit le témoignage de Robert Robinet (mai 1944) et le départ du convoi en juillet 1944.",
       "reseau_affiche": "MUR — chef départemental (selon R. Robinet)"
     },
     {
