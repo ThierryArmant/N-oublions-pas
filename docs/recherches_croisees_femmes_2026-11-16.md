@@ -46,3 +46,27 @@ Les avis de décès de Solange Brunaud nées en 1910, 1911, 1925 ou 1938 ne sont
 ## Règle d'intégration
 
 Rapprocher nom et date ou lieu de naissance. Distinguer inventaire de dossier, dossier effectivement consulté et photographie identifiée. Ne jamais déduire un matricule de Ravensbrück d'une simple formule arithmétique.
+
+## Reprise : Pierrette Doize et contrôle de la piste Tatiana
+
+### Petra Folch / Pierrette Doize : photographie localisée et consultée
+
+La page nominative de l'Amicale de Ravensbrück de Catalogne présente une photographie de Pierrette Doize, créditée « Fotografía aportada por Alicia Pérez Comesana ». Le document lié a été ouvert : il s'agit d'un portrait photographique ancien avec inscription manuscrite de son nom. Identification éditoriale portée par l'Amicale ; aucune nouvelle attribution par simple ressemblance.
+- Notice : https://www.amicalravensbruck.org/portfolio-items/folch-petra-doize-pierette/
+- Image consultée : https://www.amicalravensbruck.org/wp-content/uploads/2021/01/EsiRYOQXAAMkQ0Q-400x562.jpg
+- Crédit à conserver : Amical de Ravensbrück, photographie apportée par Alicia Pérez Comesana. Aucune licence de réutilisation constatée sur la notice consultée.
+
+Le matricule 46854 et le départ de Paris du 11 juillet 1944 concordent entre cette page et l'AFMD Gard. Cette femme relève des résistantes régionales, pas du convoi du Train fantôme.
+
+Divergence de naissance : AFMD Gard = 31 décembre 1897 ; Amicale catalane = 1er janvier 1898. Ne pas écraser une date sans contrôle d'état civil. Castellfort est situé dans la province de Castellón (précision donnée par l'Amicale).
+
+La notice AFMD Gard fournit des références permettant de poursuivre : AD Gard 1 W 255 et 1 286 W 81 ; AD Rhône 3 335 W 18 et 3 335 W 23 ; Rouge Midi du 11 décembre 1945, p. 2. Ces documents sont cités par la notice, mais n'ont pas été consultés directement ici.
+Source : https://afmdgard.org/doize-petra-dite-pierrette-nee-folch/
+
+### Tatiana de Fleurieu : précision sur le mot « portraits »
+
+La page de Claire Pahaut sur Lily van Oost mentionne Tatiana de Fleurieu parmi les « portraits » du récit Le Faux Silence. Ce passage ne démontre pas l'existence d'une photographie de Tatiana : il peut désigner un portrait littéraire. Les images légendées de la page concernent Lily et sa famille. Maintenir cette piste comme témoignage bibliographique, sans annoncer une photographie retrouvée.
+Références signalées : Le Faux Silence, édition 1974 ; deuxième édition 2010.
+Source : https://www.belgiumwwii.be/belgique-en-guerre/personnes/van-oost-ep-de-gerlache-de-gomery-lily.html
+
+Statut de cette reprise : journal documentaire enrichi ; portrait de Pierrette localisé, non ajouté aux données publiques ; aucune modification de data.json ni des fiches des hommes.
