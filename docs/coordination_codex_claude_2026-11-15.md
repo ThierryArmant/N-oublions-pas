@@ -80,3 +80,4 @@ Méthode, sources, divergences, recherches négatives et suite : docs/methode_re
 - Récits complets : Reynis (évadé du train près de Montélimar), Laurent, Borios, Fauvel ; Mauroux (Saint-Jean-Poutge, d'après Le Journal du Gers, écart signalé avec La Dépêche 1999).
 - Écarts notés dans les récits : Laurent (naissance 1894/1895, décès 17/18 février 1945), Borios (exécution 29 juillet ou 1er août 1944).
 - Pistes encore ouvertes : museelorris.fr (Arnaud, Aupert, Marteau) — site injoignable ce jour ; La Dépêche (Labarthe, Vayssettes), La Voix du Nord (Grosperrin), Macone (Sète), Levasseur (Saint-Berthevin), CPC pour les Italiens.
+- 16/11 (soir) : récit d'Henri Aupert (musée de Lorris, sans photo). Homonymes écartés : Henri Marteau et Pierre Arnaud du musée de Lorris (dates de naissance différentes), Fernand Labarthe de La Dépêche 2015 (ancien de la 2e DB, né vers 1927).

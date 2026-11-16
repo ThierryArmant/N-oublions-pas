@@ -28773,12 +28773,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=AUPERT%20Henri"
+        },
+        {
+          "label": "Musée départemental de la Résistance et de la Déportation de Lorris — fiche Henri Aupert",
+          "url": "https://www.museelorris.fr/resistants/henri-aurelien-achille-aupert"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Né à Orléans en 1924, teinturier. Arrêté à Montpellier le 17 décembre 1943, il y est incarcéré jusqu'en janvier 1944, puis transféré à la prison Saint-Michel de Toulouse. Déporté le 3 juillet 1944 par le Train fantôme, il arrive à Dachau le 28 août (matricule 94342). Envoyé le 16 septembre à Mauthausen puis, le 21 septembre, au kommando de Melk, où les détenus creusent une usine souterraine de roulements à billes pour la firme Steyr-Daimler-Puch. Il y meurt le 22 février 1945, à 20 ans."
     },
     {
       "nom": "AUTER",
