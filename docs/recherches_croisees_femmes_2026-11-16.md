@@ -49,9 +49,9 @@ Rapprocher nom et date ou lieu de naissance. Distinguer inventaire de dossier, d
 
 ## Reprise : Pierrette Doize et contrôle de la piste Tatiana
 
-### Petra Folch / Pierrette Doize : photographie localisée et consultée
+### Petra Folch / Pierrette Doize : photographie de plaque commémorative
 
-La page nominative de l'Amicale de Ravensbrück de Catalogne présente une photographie de Pierrette Doize, créditée « Fotografía aportada por Alicia Pérez Comesana ». Le document lié a été ouvert : il s'agit d'un portrait photographique ancien avec inscription manuscrite de son nom. Identification éditoriale portée par l'Amicale ; aucune nouvelle attribution par simple ressemblance.
+La page nominative de l'Amicale de Ravensbrück de Catalogne présente une photographie de Pierrette Doize, créditée « Fotografía aportada por Alicia Pérez Comesana ». Correction après contrôle de la fiche actuelle : le document lié est une photographie de plaque commémorative nominative, pas un portrait de la déportée. La qualification précédente de portrait photographique était erronée. Ne pas utiliser cette image comme portrait du visage.
 - Notice : https://www.amicalravensbruck.org/portfolio-items/folch-petra-doize-pierette/
 - Image consultée : https://www.amicalravensbruck.org/wp-content/uploads/2021/01/EsiRYOQXAAMkQ0Q-400x562.jpg
 - Crédit à conserver : Amical de Ravensbrück, photographie apportée par Alicia Pérez Comesana. Aucune licence de réutilisation constatée sur la notice consultée.
@@ -69,4 +69,4 @@ La page de Claire Pahaut sur Lily van Oost mentionne Tatiana de Fleurieu parmi l
 Références signalées : Le Faux Silence, édition 1974 ; deuxième édition 2010.
 Source : https://www.belgiumwwii.be/belgique-en-guerre/personnes/van-oost-ep-de-gerlache-de-gomery-lily.html
 
-Statut de cette reprise : journal documentaire enrichi ; portrait de Pierrette localisé, non ajouté aux données publiques ; aucune modification de data.json ni des fiches des hommes.
+Statut corrigé : la photographie de plaque est déjà intégrée à documents_historiques dans la fiche publique de Pierrette Doize. Aucun portrait du visage authentifié dans cette reprise. Aucune modification de data.json ni des fiches des hommes.
