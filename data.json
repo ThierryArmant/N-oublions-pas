@@ -3379,12 +3379,17 @@
         {
           "label": "Registre d’entrée du camp de Dachau, 28 août 1944 : double page des femmes du convoi (matricules 93845 à 93896) — photographie conservée dans le dossier de la classe CDSG",
           "url": "https://drive.google.com/file/d/1rx8cgoioeem8GIhYsFTZdb3wCDbaxkQ2/view"
+        },
+        {
+          "label": "Relevé du fichier des décès INSEE — Françoise Louise Arlette Constantin, née le 20 juillet 1911 à Gond-Pontouvre, acte de décès n° 21",
+          "url": "https://www.acte-deces.fr/recherche-deces-famille-constantin-1972"
         }
       ],
       "biographie": {
         "engagement": "Arlette Constantin accompagne des aviateurs alliés vers la frontière espagnole. Elle est arrêtée le 22 mars 1944 dans le train Paris–Toulouse, puis détenue au fort du Hâ.",
         "deportation": "La notice du Musée de la Résistance en ligne indique son passage à Dachau puis à Ravensbrück et sa libération le 6 mai 1945.",
-        "memoire": "Un dossier de demande de statut (statut politique : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 659584."
+        "memoire": "Un dossier de demande de statut (statut politique : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 659584.",
+        "deces": "Décédée le 4 avril 1972 à Argelès-sur-Mer. Le relevé du fichier INSEE porte les prénoms Françoise Louise Arlette ; la date et la commune de naissance concordent avec la fiche de la déportée."
       },
       "sources_biographiques": [
         {
@@ -3399,25 +3404,25 @@
       },
       "convois_documentes": [],
       "etat_vital": {
-        "statut": "non_confirme",
-        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
-        "controle": "2026-11-15",
+        "statut": "decedee",
+        "precision": "Décédée le 4 avril 1972 à Argelès-sur-Mer, selon le relevé du fichier INSEE (acte n° 21), concordant sur la naissance du 20 juillet 1911 à Gond-Pontouvre. Ce relevé ne remplace pas une copie de l’acte d’état civil.",
+        "controle": "2026-11-16",
         "sources": [
           {
-            "label": "Musée de la Résistance en ligne — Arlette Constantin, données du DVD La Résistance en Charente (2005)",
-            "url": "https://www.museedelaresistanceenligne.org/personnedetail.php?id=8169"
-          },
-          {
-            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
-            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+            "label": "Relevé du fichier des décès INSEE — Françoise Louise Arlette Constantin, née le 20 juillet 1911 à Gond-Pontouvre, acte de décès n° 21",
+            "url": "https://www.acte-deces.fr/recherche-deces-famille-constantin-1972"
           }
         ]
       },
-      "recherche_mise_a_jour": "2026-11-15",
+      "recherche_mise_a_jour": "2026-11-16",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "deces": "04/04/1972",
+      "noms_recherche": [
+        "Françoise Louise Arlette Constantin"
+      ]
     },
     {
       "nom": "Chaubard Marie-louise deportée du train fantome n°93842",
@@ -7242,6 +7247,10 @@
         {
           "label": "Registre d’entrée du camp de Dachau, 28 août 1944 : double page des femmes du convoi (matricules 93845 à 93896) — photographie conservée dans le dossier de la classe CDSG",
           "url": "https://drive.google.com/file/d/1rx8cgoioeem8GIhYsFTZdb3wCDbaxkQ2/view"
+        },
+        {
+          "label": "Relevé du fichier des décès INSEE — Etiennette Lezian, née le 23 janvier 1921 à Mont-de-Marsan ; décès, acte n° 143",
+          "url": "https://www.acte-deces.fr/recherche-deces-famille-lezian"
         }
       ],
       "nom_tri": "Lezian",
@@ -7251,13 +7260,13 @@
       },
       "convois_documentes": [],
       "etat_vital": {
-        "statut": "non_confirme",
-        "precision": "Les sources renseignées dans cette fiche ne permettent pas de confirmer le statut actuel. Une libération ou un retour en 1945 ne constitue pas une preuve de vie actuelle.",
-        "controle": "2026-11-15",
+        "statut": "decedee",
+        "precision": "Décédée le 22 mars 1988 à Mont-de-Marsan, selon le relevé du fichier INSEE, concordant sur les nom, prénom, date et commune de naissance (23 janvier 1921, Mont-de-Marsan). Acte n° 143 ; relevé à distinguer de la copie de l’acte d’état civil.",
+        "controle": "2026-11-16",
         "sources": [
           {
-            "label": "Fondation pour la mémoire de la déportation — Livre-Mémorial, convoi I.261",
-            "url": "https://www.bddm.org/liv/details.php?id=I.261."
+            "label": "Relevé du fichier des décès INSEE — Etiennette Lezian, née le 23 janvier 1921 à Mont-de-Marsan ; décès, acte n° 143",
+            "url": "https://www.acte-deces.fr/recherche-deces-famille-lezian"
           }
         ]
       },
@@ -7266,8 +7275,11 @@
         "nom": "France"
       },
       "biographie": {
-        "memoire": "Un dossier de demande de statut (statut politique : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 628596."
-      }
+        "memoire": "Un dossier de demande de statut (statut politique : déportée résistante ou déportée politique) existe au SHD de Caen, cote AC 21 P 628596.",
+        "deces": "Décédée le 22 mars 1988 à Mont-de-Marsan, selon le relevé du fichier INSEE, concordant sur les nom, prénom, date et commune de naissance (23 janvier 1921, Mont-de-Marsan)."
+      },
+      "deces": "22/03/1988",
+      "recherche_mise_a_jour": "2026-11-16"
     },
     {
       "nom": "MAJEAU",
@@ -10294,7 +10306,7 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-15",
+      "recherche_mise_a_jour": "2026-11-16",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Marseille",
@@ -10318,13 +10330,24 @@
           }
         ]
       },
-      "complement_historique": "",
+      "complement_historique": "L’inventaire du SHD signale le dossier GR 16 P 562560 sous Victorine Émilienne Louise Tartat, ex-épouse Antetomaso, née à Marseille ; homologations FFC et DIR. Il s’agit d’un inventaire, non d’une consultation du dossier individuel.",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
       },
       "points_a_verifier": [
-        "Piste GR 16 P 562560 : Tartat, ex-épouse Antetomaso, Victorine Émilienne Louise, née le 28 septembre 1903 à Marseille ; la notice associative donne le 29. Répertoire indexé consulté, dossier original non consulté. Rapprochement à confirmer ; date actuelle conservée."
+        "Piste GR 16 P 562560 : Tartat, ex-épouse Antetomaso, Victorine Émilienne Louise, née le 28 septembre 1903 à Marseille ; la notice associative donne le 29. Répertoire indexé consulté, dossier original non consulté. Rapprochement à confirmer ; date actuelle conservée.",
+        "Divergence sur le jour de naissance : 28 septembre 1903 dans l’inventaire GR 16 P, contre 29 septembre 1903 dans le Livre-Mémorial et la fiche associative. Date d’origine conservée ; acte de naissance à consulter."
+      ],
+      "sources_complementaires": [
+        {
+          "label": "SHD — inventaire GR 16 P, lettre T : GR 16 P 562560, Victorine Emilienne Louise Tartat, ex-épouse Antetomaso",
+          "url": "https://museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_T.pdf"
+        }
+      ],
+      "noms_recherche": [
+        "Victorine Émilienne Louise Tartat",
+        "Emilienne Tartat Antetomaso"
       ]
     },
     {
@@ -10889,7 +10912,7 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-16",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Marseille · Miramas · Salon-de-Provence",
@@ -10918,11 +10941,34 @@
           }
         ]
       },
-      "complement_historique": "",
+      "complement_historique": "Les références détaillées de l’AFMD Gard permettent de poursuivre aux Archives du Gard (1 W 255 ; 1286 W 81), aux Archives du Rhône (3335 W 18 et 3335 W 23), ainsi que dans Rouge Midi du 11 décembre 1945, p. 2, qui publie son hommage funèbre. Ces pièces sont signalées par l’association ; elles n’ont pas été consultées ici.",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "sources_complementaires": [
+        {
+          "label": "Amical Ravensbrück — Petra Folch, dite Pierrette Doize, matricule 46854 ; photographie d’une plaque commémorative apportée par Alicia Pérez Comesana",
+          "url": "https://www.amicalravensbruck.org/portfolio-items/folch-petra-doize-pierette/"
+        }
+      ],
+      "noms_recherche": [
+        "Petra Folch",
+        "Petra Folch Doize",
+        "Pierette Doize"
+      ],
+      "points_a_verifier": [
+        "Divergence sur la naissance : l’Amical Ravensbrück indique le 1er janvier 1898 à Castellfort ; l’AFMD Gard indique le 31 décembre 1897. Les deux sources correspondent au matricule 46854. Date d’origine conservée en attente de l’acte."
+      ],
+      "documents_historiques": [
+        {
+          "titre": "Plaque commémorative au nom de Petra Folch (Pierrette Doize)",
+          "image": "https://www.amicalravensbruck.org/wp-content/uploads/2021/01/EsiRYOQXAAMkQ0Q-400x562.jpg",
+          "description": "Photographie d’une plaque nominative ; ce document ne représente pas le visage de la déportée. Le matricule 46854 concorde avec sa fiche.",
+          "source": "https://www.amicalravensbruck.org/portfolio-items/folch-petra-doize-pierette/",
+          "credit": "Amical Ravensbrück — photographie apportée par Alicia Pérez Comesana ; droits réservés."
+        }
+      ]
     },
     {
       "nom": "CATHERINE DIOR",
@@ -12400,7 +12446,7 @@
         }
       ],
       "archives_deportation": [],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-16",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Belgentier",
@@ -12429,7 +12475,21 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "sources_complementaires": [
+        {
+          "label": "SHD — GR 16 P 514430, Marie Louise Ripert épouse Souque, inventaire lettre R",
+          "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_R.pdf"
+        },
+        {
+          "label": "Amicale de Mauthausen — bulletin n° 104, vœux 1963 : rubrique décès, Marie-Louise Souque ; rapprochement d’identité restant à confirmer",
+          "url": "https://campmauthausen.org/wp-content/uploads/2013/07/MAUTHAUSEN-104.pdf"
+        }
+      ],
+      "points_a_verifier": [
+        "Divergence de naissance : l’inventaire SHD GR 16 P 514430 indique le 18 août 1898 à Belgentier ; la fiche associative indique le 4 août 1898. Ne pas trancher sans acte de naissance.",
+        "Le bulletin Mauthausen n° 104 annonce le décès de Marie-Louise Souque, ancienne de Ravensbrück, épouse d’André Souque, matricule 60557 à Mauthausen. Le texte ne donne ni naissance ni date précise de décès : rapprochement avec cette fiche à confirmer avant de modifier le statut vital."
+      ]
     },
     {
       "nom": "JULIETTE EYRAUD",
@@ -15817,7 +15877,7 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "recherche_mise_a_jour": "2026-11-12",
+      "recherche_mise_a_jour": "2026-11-16",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Menton",
@@ -15976,11 +16036,17 @@
           }
         ]
       },
-      "complement_historique": "",
+      "complement_historique": "La notice de Claire Pahaut consacrée à Lily van Oost sur Belgium WWII cite Tatiana de Fleurieu parmi les compagnes de déportation évoquées dans Le Faux Silence. Cette piste mène au témoignage publié à Mullem en 1974, réédité en 2010. Le mot « portraits » y désigne des évocations écrites ; aucune photographie de Tatiana n’a été identifiée sur cette page.",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "sources_complementaires": [
+        {
+          "label": "Belgium WWII / CegeSoma — Claire Pahaut, notice Lily van Oost, épouse de Gerlache de Gomery ; Tatiana de Fleurieu mentionnée parmi les compagnes évoquées dans Le Faux Silence",
+          "url": "https://www.belgiumwwii.be/belgique-en-guerre/personnes/van-oost-ep-de-gerlache-de-gomery-lily.html"
+        }
+      ]
     },
     {
       "nom": "HENRIETTE BARDI DE FOURTOU",
@@ -16194,7 +16260,7 @@
           "url": "https://www.bddm.org/liv/details.php?id=I.175."
         }
       ],
-      "recherche_mise_a_jour": "2026-11-15",
+      "recherche_mise_a_jour": "2026-11-16",
       "region": "Provence-Alpes-Côte d'Azur",
       "provenance_region": {
         "commune": "Marseille",
@@ -16356,11 +16422,21 @@
           }
         ]
       },
-      "complement_historique": "",
+      "complement_historique": "L’inventaire du SHD identifie un dossier au nom de Thérèse Matteo, épouse Floiras, née le 24 juin 1898 à Marseille : GR 16 P 404255. Référence à utiliser pour poursuivre la recherche de documents individuels ; dossier non consulté.",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "sources_complementaires": [
+        {
+          "label": "SHD — inventaire GR 16 P, lettre M : GR 16 P 404255, Thérèse Matteo épouse Floiras",
+          "url": "https://www.museedelaresistanceenligne.org/musee/doc/pdf/ressource_source/SHDGR_16P_M.pdf"
+        }
+      ],
+      "noms_recherche": [
+        "Thérèse Matteo",
+        "Thérèse Matteo Floiras"
+      ]
     },
     {
       "nom": "PAULETTE FLOIRAS",
