@@ -30140,13 +30140,24 @@
         {
           "label": "Le Maitron — notice « BORIOS Robert, pseudonyme Blanchard »",
           "url": "https://maitron.fr/borios-robert-pierre-leon-pseudonyme-blanchard/"
+        },
+        {
+          "label": "Mémorial des policiers français victimes du devoir — Robert Borios",
+          "url": "https://www.police-actionsolidaire.fr/memorial/robert-borios-19440729/"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
       },
-      "histoire": "Le 31 juillet 1944, il fait partie des dix détenus emmenés hors de la synagogue de Bordeaux, avec notamment Robert Borios, José Figueras, Pierre Fournera, Albert Lautman, David Litman-Nadler, Noël Peyrevidal et Meyer Rosner : selon le récit de Francesco F. Nitti, ils « marchaient sans le savoir au sacrifice suprême ». Né à Toulouse en 1919, capitaine de gendarmerie à Foix, résistant du mouvement Libérer et Fédérer, dit « Blanchard ». Exécuté sommairement au camp de Souge (Martignas-sur-Jalle) le 1er août 1944 (notice du Maitron)."
+      "histoire": "Né à Toulouse en 1919, fils des gérants du Grand Café Borios, place du Capitole. Inspecteur de police à Foix (Ariège), il rejoint dès novembre 1942 le Corps franc pyrénéen du capitaine Pommiès (ORA) : il profite de ses trajets entre Toulouse et Foix pour transporter des armes destinées aux maquis et fournit de faux papiers à des Français et des Espagnols qui passent la frontière. En janvier 1944, il entre au mouvement « Libérer et Fédérer » sous le pseudonyme de « Blanchard ». Arrêté par la Gestapo sur dénonciation le 16 juin 1944, il est interné et torturé à la prison Saint-Michel de Toulouse sans livrer de noms. Le 31 juillet 1944, il fait partie des dix détenus emmenés hors de la synagogue de Bordeaux (avec José Figueras, Pierre Fournera, Albert Lautman, David Litman-Nadler, Noël Peyrevidal, Meyer Rosner…) : selon le récit de Francesco F. Nitti, ils « marchaient sans le savoir au sacrifice suprême ». Il est exécuté au camp de Souge. Lieutenant FFI, médaille de la Résistance (1946), mort pour la France. Écarts entre sources : le Maitron et nos fiches datent l'exécution du 1er août 1944 ; le mémorial des policiers indique le 29 juillet 1944 en titre ; le Maitron le dit capitaine de gendarmerie, le mémorial inspecteur de police.",
+      "photo_url": "https://www.police-actionsolidaire.fr/wp-content/uploads/2026/01/borios-1944.jpg",
+      "photo_alt": "Portrait de Robert Borios",
+      "photo_source": {
+        "label": "Mémorial des policiers français victimes du devoir — fiche Robert Borios",
+        "url": "https://www.police-actionsolidaire.fr/memorial/robert-borios-19440729/"
+      },
+      "photo_identification": "attribution_a_confirmer"
     },
     {
       "nom": "BORRANI",
@@ -33476,7 +33487,7 @@
       "date_sortie": "25/12/1944",
       "lieu_sortie": "Melk",
       "observations": "—",
-      "histoire": "Le mémorial de Mauthausen (Salle des noms) le recense : né à Paris, mort le 25/12/1944 à Melk.",
+      "histoire": "Né à Paris (20e) en 1913. Entré dans la police en 1938, prisonnier de guerre en 1940 (Stalag II-B), il est libéré en novembre 1942 au titre de la « relève ». Inspecteur à la 17e brigade régionale de police judiciaire de Pau, il est résistant avec plusieurs collègues. Le 15 juin 1944, au lendemain de l'attaque du maquis de Rébénacq, il est arrêté par une patrouille allemande près d'Arudy ; le même jour, trois de ses camarades policiers sont fusillés au bois du Lannot, à Idron. Conduit à Pau puis au fort du Hâ à Bordeaux, il réussit à faire porter des nouvelles à son épouse en lui faisant remettre son alliance. Déporté par le Train fantôme, il est envoyé à Mauthausen puis au kommando de Melk, où il meurt le 25 décembre 1944. Mort pour la France, FFI, FFC, déporté-interné de la Résistance.",
       "sources": [
         {
           "label": "Mémorial de Mauthausen — Salle des noms",
@@ -33485,13 +33496,28 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=FAUVEL%20Guy"
+        },
+        {
+          "label": "Mémorial des policiers français victimes du devoir — Guy Fauvel",
+          "url": "https://www.police-actionsolidaire.fr/memorial/guy-fauvel-19441224/"
+        },
+        {
+          "label": "BPSGM — biographie de Guy Fauvel (17e brigade de Pau)",
+          "url": "https://www.bpsgm.fr/les-policiers-fusilles-didron-guy-fauvel/"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "photo_url": "https://bpsgm.fr/wp-content/uploads/2015/05/fauvel.jpg",
+      "photo_alt": "Portrait de Guy Fauvel",
+      "photo_source": {
+        "label": "BPSGM — « Policiers-résistants de la 17e brigade de Pau : Fauvel Guy »",
+        "url": "https://www.bpsgm.fr/les-policiers-fusilles-didron-guy-fauvel/"
+      },
+      "photo_identification": "attribution_a_confirmer"
     },
     {
       "nom": "FEDOSSENKO",
@@ -36643,13 +36669,24 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Laurent"
+        },
+        {
+          "label": "Lauragais Patrimoine — biographie d’Henri Laurent",
+          "url": "https://www.lauragais-patrimoine.fr/HISTOIRE/LA%20RESISTANCE/HENRI_LAURENT.html"
         }
       ],
-      "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Henri Laurent » : mort à Dachau le 17/02/1945 (né à Maxéville, domicilié à Revel (Haute-Garonne), profession : jardinier). Nos fiches indiquaient le 18/02/1945 : écart à vérifier. La date de naissance y est le 31/12/1895 (nos fiches : 31/12/1894).",
+      "histoire": "Terrassier, marié et père de cinq enfants, venu de Rouen se réfugier à Revel au printemps 1940. Résistant dès le début de 1943 (homologué adjudant), il assure le ravitaillement en viande du Corps franc de la Montagne Noire et tient chez lui une cantine pour de jeunes réfractaires au STO. Dénoncé, il est arrêté à Revel le 23 mars 1944 par la police française, le même jour que Roger Reynis ; tous deux sont internés à la prison Saint-Michel de Toulouse puis livrés à la Gestapo le 23 juin. Déporté par le Train fantôme, il arrive à Dachau le 28 août 1944 (matricule 94351). Épuisé, il meurt à l'infirmerie du camp en février 1945 et est inhumé dans la fosse commune du Leitenberg. Écarts entre sources : le livre mémorial de Dachau le dit né à « Maxéville » le 31/12/1895, mort le 17/02/1945, jardinier ; Lauragais Patrimoine et nos fiches donnent le 31/12/1894 et un décès le 18/02/1945.",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "photo_url": "https://www.lauragais-patrimoine.fr/HISTOIRE/LA%20RESISTANCE/HENRI_LAURENT.jpg",
+      "photo_alt": "Portrait d’Henri Laurent",
+      "photo_source": {
+        "label": "Lauragais Patrimoine — « Henri Laurent (1894-1945) »",
+        "url": "https://www.lauragais-patrimoine.fr/HISTOIRE/LA%20RESISTANCE/HENRI_LAURENT.html"
+      },
+      "photo_identification": "attribution_a_confirmer"
     },
     {
       "nom": "LAURICELLA",
@@ -38264,12 +38301,21 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=MAUROUX%20Louis"
+        },
+        {
+          "label": "Le Journal du Gers — « 75e anniversaire du Débarquement et de la Libération du Gers » (famille Mauroux, Saint-Jean-Poutge)",
+          "url": "https://lejournaldugers.fr/article/36649-75-eme-anniversaire-du-debarquement-et-de-la-liberation-du-gers"
+        },
+        {
+          "label": "La Dépêche — « Résistance et mémoire » (2 décembre 1999)",
+          "url": "https://www.ladepeche.fr/article/1999/12/02/226440-resistance-et-memoire.html"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Résistant gersois de Saint-Jean-Poutge, fils de Ferdinand Mauroux, présenté comme le premier chef de la Résistance dans le Gers (arrêté en 1942). D'après Le Journal du Gers, Louis Mauroux est capturé le 3 mai 1944 et meurt en déportation ; nos fiches le donnent mort à Melk (kommando de Mauthausen) le 17/01/1945. À vérifier : un article de La Dépêche (1999) évoque « l'arrestation de Louis Mauroux, chef de la Résistance, en août 1942 », ce qui semble viser plutôt son père."
     },
     {
       "nom": "MEDIAVILLA PAMPLONA",
@@ -41759,12 +41805,28 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=REYNIS%20Roger"
+        },
+        {
+          "label": "Lauragais Patrimoine — biographie de Roger Reynis",
+          "url": "https://www.lauragais-patrimoine.fr/HISTOIRE/LA%20RESISTANCE/ROGER_REYNIS.html"
+        },
+        {
+          "label": "Lauragais Patrimoine — témoignage de Roger Reynis sur la Résistance locale (dossier transmis par sa famille)",
+          "url": "https://www.lauragais-patrimoine.fr/HISTOIRE/LA%20RESISTANCE/ROGER_REYNIS_TEMOIGNAGE.html"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "histoire": "Ébéniste à Revel, ancien élève du collège de la ville. Mobilisé en 1939 au 12e Zouaves, fait prisonnier à Poitiers en 1940, il s'évade. Dès la fin de 1941, il rejoint à Revel le mouvement « Libération » autour du notaire Georges Sabo : il diffuse le journal clandestin et transmet des renseignements au réseau Gallia. En mars 1943, il participe à la création du premier maquis de la Montagne Noire, installe des postes émetteurs dans des fermes isolées et aide aux parachutages d'armes. Arrêté par la police française le 23 mars 1944 (le même jour qu'Henri Laurent), il est enfermé à la prison Saint-Michel de Toulouse, livré à la Gestapo puis transféré au fort du Hâ à Bordeaux. Déporté par le Train fantôme, il s'évade de son wagon dans la vallée du Rhône, près de Montélimar ; grièvement blessé en tombant, il est amputé de la jambe droite à l'hôpital de Montélimar le 20 août 1944. Rentré à Revel en septembre, il devient en 1947 professeur d'ébénisterie au collège technique de la ville. Chevalier de la Légion d'honneur, Croix de guerre, médaille des Évadés, lieutenant FFI. Il meurt en 1996.",
+      "photo_url": "https://www.lauragais-patrimoine.fr/HISTOIRE/LA%20RESISTANCE/ROGER_REYNIS.jpg",
+      "photo_alt": "Portrait de Roger Reynis",
+      "photo_source": {
+        "label": "Lauragais Patrimoine — « Roger Reynis (1910-1996) »",
+        "url": "https://www.lauragais-patrimoine.fr/HISTOIRE/LA%20RESISTANCE/ROGER_REYNIS.html"
+      },
+      "photo_identification": "attribution_a_confirmer"
     },
     {
       "nom": "RIMONT",

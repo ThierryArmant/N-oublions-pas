@@ -74,3 +74,9 @@ Méthode, sources, divergences, recherches négatives et suite : docs/methode_re
 
 ## Claude — 16/11, 6 h 35 (arrêt pour la nuit)
 - Notices du Maitron ajoutées (Baptiste, Billon, Borios, Jean-Louis, Rosner). Pistes repérées, non encore exploitées : museelorris.fr (Arnaud, Aupert, Marteau), lauragais-patrimoine.fr (Henri Laurent, Roger Reynis), police-actionsolidaire.fr (Borios, Fauvel), La Dépêche (Fernand Labarthe, Mauroux, Vayssettes), La Voix du Nord (Grosperrin), Casellario Politico Centrale (Italiens, site hors ligne).
+
+## 16/11 — Hommes du convoi : suite des pistes
+- Portraits ajoutés (attribution à confirmer) : Roger Reynis et Henri Laurent (Lauragais Patrimoine, Revel), Robert Borios (mémorial des policiers), Guy Fauvel (BPSGM, 17e brigade de Pau).
+- Récits complets : Reynis (évadé du train près de Montélimar), Laurent, Borios, Fauvel ; Mauroux (Saint-Jean-Poutge, d'après Le Journal du Gers, écart signalé avec La Dépêche 1999).
+- Écarts notés dans les récits : Laurent (naissance 1894/1895, décès 17/18 février 1945), Borios (exécution 29 juillet ou 1er août 1944).
+- Pistes encore ouvertes : museelorris.fr (Arnaud, Aupert, Marteau) — site injoignable ce jour ; La Dépêche (Labarthe, Vayssettes), La Voix du Nord (Grosperrin), Macone (Sète), Levasseur (Saint-Berthevin), CPC pour les Italiens.
