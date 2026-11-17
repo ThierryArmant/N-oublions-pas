@@ -81,3 +81,11 @@ Méthode, sources, divergences, recherches négatives et suite : docs/methode_re
 - Écarts notés dans les récits : Laurent (naissance 1894/1895, décès 17/18 février 1945), Borios (exécution 29 juillet ou 1er août 1944).
 - Pistes encore ouvertes : museelorris.fr (Arnaud, Aupert, Marteau) — site injoignable ce jour ; La Dépêche (Labarthe, Vayssettes), La Voix du Nord (Grosperrin), Macone (Sète), Levasseur (Saint-Berthevin), CPC pour les Italiens.
 - 16/11 (soir) : récit d'Henri Aupert (musée de Lorris, sans photo). Homonymes écartés : Henri Marteau et Pierre Arnaud du musée de Lorris (dates de naissance différentes), Fernand Labarthe de La Dépêche 2015 (ancien de la 2e DB, né vers 1927).
+
+## 17/11 — Mémoire des hommes (ministère des Armées), hommes et femmes du convoi
+- Recherche nominative croisée par date de naissance sur les bases « Victimes de la répression allemande », « Titres, homologations et services pour faits de résistance », « Déportés-résistants », « Médaillés de la Résistance ».
+- 243 hommes et 21 femmes complétés dans `reference_archives` : cotes SHD (AC 21 P à Caen, GR 16 P / GR 28 P à Vincennes), statut reconnu (DIR, FFI, FFC, RIF), réseau ou mouvement, pseudonyme, décès enregistré ; lien ark ajouté aux sources.
+- Réseau/mouvement reporté dans `reseau_affiche` quand il manquait.
+- Écarts de date de décès signalés dans `observations` (22 hommes, dont les fusillés de Souge du 29/07/1944 que nos tableaux datent du 01/08).
+- Homonymes écartés (prénom différent) : Borge Panero, Brafmann, Deboe, Hamerlak Tadeusz, Orgueil, Nibaut.
+- Deuxième passage (noms composés espagnols, noms très fréquents) en cours.
