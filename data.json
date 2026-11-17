@@ -33124,13 +33124,18 @@
         {
           "label": "Amicale des déportés du Train fantôme — Livron : témoignage de Jacques Delannoy (1999)",
           "url": "https://www.lesdeportesdutrainfantome.org/ville_livron.htm"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m0064536cd8a9bb6"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
       },
-      "histoire": "Témoignage recueilli en novembre 1999 : à Livron, pendant le transbordement au-dessus de la Drôme, il profite du passage d’une file de voyageurs civils pour prendre d’autorité leurs valises, monter sur leur charrette et s’éloigner avec eux, un soldat allemand assis à l’arrière ; son ami Roger Dureuil l’accompagne."
+      "histoire": "Témoignage recueilli en novembre 1999 : à Livron, pendant le transbordement au-dessus de la Drôme, il profite du passage d’une file de voyageurs civils pour prendre d’autorité leurs valises, monter sur leur charrette et s’éloigner avec eux, un soldat allemand assis à l’arrière ; son ami Roger Dureuil l’accompagne.",
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 631125 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 167872. Statut reconnu : déporté-interné de la Résistance (DIR)."
     },
     {
       "nom": "DELETTRE",
@@ -33152,13 +33157,18 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DELETTRE%20Eug%C3%A8ne"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb00507c6134"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 442110 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 169994. Statut reconnu : Résistance intérieure française (RIF). Décès enregistré : 4/3/1945 Mauthausen (Autriche)."
     },
     {
       "nom": "DEMELLE",
@@ -33230,13 +33240,18 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DESPIEGELAERES%20Ren%C3%A9"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb005144567f"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 443268 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 180247. Statut reconnu : déporté-interné de la Résistance (DIR). Décès enregistré : 10/3/1945 Melk (Autriche)."
     },
     {
       "nom": "DESZÔ *",
@@ -33289,13 +33304,18 @@
         {
           "label": "MémorialGenWeb — fiche individuelle (monuments et plaques où figure son nom)",
           "url": "https://www.memorialgenweb.org/memorial3/html/fr/complementter.php?id=10531984"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb005198d185"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 443619 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 183382. Statut reconnu : déporté-interné de la Résistance (DIR), Forces françaises de l’intérieur (FFI). Médaille de la Résistance (base des médaillés). Décès enregistré : 17/3/1945 Güsen (Autriche)."
     },
     {
       "nom": "DIALOU",
@@ -33394,13 +33414,18 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005a29507e2e19d"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « DÍAZ MENDOZA, Pedro », avec pour commune « Santa Cruz ».",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Vincennes (services de résistance) : GR 16 P 184302. Statut reconnu : Forces françaises de l’intérieur (FFI)."
     },
     {
       "nom": "DIAZ PEREZ GRUESO",
@@ -33417,12 +33442,18 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=DIAZ%20PEREZ%20GRUESO%20Francisco"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005a29507e84176"
         }
       ],
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Vincennes (services de résistance) : GR 16 P 184323. Statut reconnu : Résistance intérieure française (RIF) — mouvement Front National.",
+      "reseau_affiche": "Front national"
     },
     {
       "nom": "DIAZ TENDERO Y MERCHIAN",
@@ -33443,6 +33474,10 @@
         {
           "label": "Base de données « Republicanos deportados » — fiche de Eleuterio Diaz Tendero Y Merchian",
           "url": "https://republicanosdeportados.org/deportados/eleuterio-diaz-tendero-merchan/"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb0051b12eb2"
         }
       ],
       "pays_naissance": {
@@ -33454,7 +33489,8 @@
       "photo_source": {
         "label": "Base « Republicanos deportados » — photographie de la fiche",
         "url": "https://republicanosdeportados.org/deportados/eleuterio-diaz-tendero-merchan/"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 443747. Décès enregistré : 15/2/1945 Dachau (Allemagne)."
     },
     {
       "nom": "DICHARRY",
@@ -33750,13 +33786,18 @@
         {
           "label": "MémorialGenWeb — fiche individuelle (monuments et plaques où figure son nom)",
           "url": "https://www.memorialgenweb.org/memorial3/html/fr/complementter.php?id=1140755"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb0052fc97bb"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 445507 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 195737. Statut reconnu : déporté-interné de la Résistance (DIR), Forces françaises de l’intérieur (FFI). Médaille de la Résistance (base des médaillés). Décès enregistré : 12/11/1944 Melk (Autriche)."
     },
     {
       "nom": "DUCH ROQUER",
@@ -33918,13 +33959,18 @@
         {
           "label": "MémorialGenWeb — fiche individuelle (monuments et plaques où figure son nom)",
           "url": "https://www.memorialgenweb.org/memorial3/html/fr/complementter.php?id=10531995"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb0053851e58"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 446271."
     },
     {
       "nom": "DUREUIL",
@@ -34196,13 +34242,19 @@
         {
           "label": "Base de données « Republicanos deportados » — fiche de Joan Esteve Llusa",
           "url": "https://republicanosdeportados.org/deportados/joan-esteve-llussa/"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005a293e32bc949"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « ESTEVE LLUSA, Juan », avec pour commune « Borges Blanques (Les) ».",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Vincennes (services de résistance) : GR 16 P 211820. Statut reconnu : Résistance intérieure française (RIF) — mouvement Front National.",
+      "reseau_affiche": "Front national"
     },
     {
       "nom": "FACELINA",
@@ -34278,7 +34330,7 @@
       "situation": "DCD",
       "date_sortie": "25/12/1944",
       "lieu_sortie": "Melk",
-      "observations": "—",
+      "observations": "Écart de date : nos tableaux indiquent un décès le 25/12/1944, Mémoire des hommes enregistre le 24/12/1944 Dachau (Allemagne).",
       "histoire": "Né à Paris (20e) en 1913. Entré dans la police en 1938, prisonnier de guerre en 1940 (Stalag II-B), il est libéré en novembre 1942 au titre de la « relève ». Inspecteur à la 17e brigade régionale de police judiciaire de Pau, il est résistant avec plusieurs collègues. Le 15 juin 1944, au lendemain de l'attaque du maquis de Rébénacq, il est arrêté par une patrouille allemande près d'Arudy ; le même jour, trois de ses camarades policiers sont fusillés au bois du Lannot, à Idron. Conduit à Pau puis au fort du Hâ à Bordeaux, il réussit à faire porter des nouvelles à son épouse en lui faisant remettre son alliance. Déporté par le Train fantôme, il est envoyé à Mauthausen puis au kommando de Melk, où il meurt le 25 décembre 1944. Mort pour la France, FFI, FFC, déporté-interné de la Résistance.",
       "sources": [
         {
@@ -34296,6 +34348,10 @@
         {
           "label": "BPSGM — biographie de Guy Fauvel (17e brigade de Pau)",
           "url": "https://www.bpsgm.fr/les-policiers-fusilles-didron-guy-fauvel/"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb0055777566"
         }
       ],
       "recherche_mise_a_jour": "2026-11-15",
@@ -34309,7 +34365,8 @@
         "label": "BPSGM — « Policiers-résistants de la 17e brigade de Pau : Fauvel Guy »",
         "url": "https://www.bpsgm.fr/les-policiers-fusilles-didron-guy-fauvel/"
       },
-      "photo_identification": "attribution_a_confirmer"
+      "photo_identification": "attribution_a_confirmer",
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 182657, AC 21 P 448933 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 218394. Médaille de la Résistance (base des médaillés). Décès enregistré : 24/12/1944 Dachau (Allemagne)."
     },
     {
       "nom": "FEDOSSENKO",
@@ -34348,12 +34405,17 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=FELIX%20Andr%C3%A9"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb0055be647d"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 449405. Décès enregistré : 26/5/1945 Augsbourg (Allemagne)."
     },
     {
       "nom": "FERNANDEZ",
@@ -34414,13 +34476,18 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m0064536ba690ac5"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « FERNÁNDEZ MOLINA, Isaac », avec pour commune « Granada ». La fiche française indique « Puebla » : écart à vérifier (lieu de naissance ou de résidence).",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 644874 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 221024. Statut reconnu : déporté-interné de la Résistance (DIR)."
     },
     {
       "nom": "FERRARI",
@@ -34432,7 +34499,7 @@
       "situation": "DCD",
       "date_sortie": "07/04/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—",
+      "observations": "Écart de date : nos tableaux indiquent un décès le 07/04/1945, Mémoire des hommes enregistre le 1/2/1945 Dachau (Allemagne).",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
@@ -34445,13 +34512,18 @@
         {
           "label": "MémorialGenWeb — fiche individuelle (monuments et plaques où figure son nom)",
           "url": "https://www.memorialgenweb.org/memorial3/html/fr/complementter.php?id=4108333"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb0055fe9eb4"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Raoul Ferrari » : mort à Dachau le 07/04/1945 (né à Marseille (Bouches-du-Rhône), profession : coiffeur).",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 449704. Décès enregistré : 1/2/1945 Dachau (Allemagne)."
     },
     {
       "nom": "FERREIRA",
@@ -34494,13 +34566,18 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Ferri"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb00560b13ac"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Federico Ferri » : mort à Dachau le 10/03/1945 (né à Fermo, domicilié à (Puy-de-Dôme), profession : menuisier).",
       "pays_naissance": {
         "code": "it",
         "nom": "Italie"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 449775. Décès enregistré : 10/3/1945 Dachau (Allemagne)."
     },
     {
       "nom": "FIGUERAS",
@@ -35120,6 +35197,10 @@
         {
           "label": "Base de données « Republicanos deportados » (Amical de Mauthausen et autres camps) — fiche de José Garcia Miranda",
           "url": "https://republicanosdeportados.org/deportados/jose-maria-garcia-miranda-esteban-infantes/"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005a29495ca40e4"
         }
       ],
       "histoire": "Né à Tolède le 21 février 1897, José M. García-Miranda Esteban-Infantes est un officier républicain espagnol. Exilé avec son épouse Lucía à Vernet-les-Bains en février 1939, il exerce notamment comme enseignant. Son engagement dans le mouvement Combat entraîne son arrestation par la Gestapo à la fin de 1943. Il est détenu à Perpignan, puis au Vernet d’Ariège en janvier 1944, avant sa déportation par le Train fantôme à Dachau. Après la libération du camp le 29 avril 1945, il retrouve Lucía à Perpignan le 1er juin. Il enseigne ensuite à Prades et à Vernet-les-Bains. Revenu en Espagne en 1957, il meurt le 7 février 1971. Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GARCÍA MIRANDA, José », avec pour commune « Toledo ».",
@@ -35127,7 +35208,8 @@
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 611638 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 242844. Statut reconnu : déporté-interné de la Résistance (DIR), Résistance intérieure française (RIF) — mouvement Combat."
     },
     {
       "nom": "GARCIA MONTE",
@@ -35202,13 +35284,18 @@
         {
           "label": "PARES — Víctimas de la Guerra Civil (Libro Memorial, Bermejo & Checa)",
           "url": "https://pares.cultura.gob.es/victimasGCFPortal/buscadorSencillo.form"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005a29495d00d1f"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « GARCÍA SANTOS, Salvador », avec pour commune « Madrid ».",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Vincennes (services de résistance) : GR 16 P 242857. Statut reconnu : Forces françaises de l’intérieur (FFI), Résistance intérieure française (RIF)."
     },
     {
       "nom": "GAREL",
@@ -35807,13 +35894,18 @@
         {
           "label": "MémorialGenWeb — fiche individuelle (monuments et plaques où figure son nom)",
           "url": "https://www.memorialgenweb.org/memorial3/html/fr/complementter.php?id=4108426"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005a294b9b0c5ac"
         }
       ],
       "histoire": "Le portail espagnol PARES (Víctimas de la Guerra Civil, d’après le Libro Memorial de Benito Bermejo et Sandra Checa) l’enregistre sous le nom « CARDELLACH GRAU, Pablo », avec pour commune « Terrassa ». L’ordre des noms de famille y est inversé (Cardellach Grau) : identification à confirmer. Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Pablo Cardellach Grau » : mort à Dachau le 04/06/1945 (né à Terrassa, domicilié à Toulouse (Haute-Garonne), profession : tisserand).",
       "pays_naissance": {
         "code": "es",
         "nom": "Espagne"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Vincennes (services de résistance) : GR 16 P 268872."
     },
     {
       "nom": "GROOTE",
@@ -36178,12 +36270,18 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=HEIM%20Raymond"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005a2944b319dc3"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Vincennes (services de résistance) : GR 16 P 288351. Statut reconnu : déporté-interné de la Résistance (DIR), Forces françaises combattantes (FFC) — réseau SSMF-TR.",
+      "reseau_affiche": "Réseau SSMF-TR (FFC)"
     },
     {
       "nom": "HERNANDEZ GUZMAN",
@@ -36739,12 +36837,18 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=JACOB%20Ernest"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005a2945e68b308"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 575029 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 303079. Statut reconnu : déporté-interné de la Résistance (DIR), Forces françaises combattantes (FFC) — réseau Résistance-Fer.",
+      "reseau_affiche": "Réseau Résistance-Fer (FFC)"
     },
     {
       "nom": "JANDULA ARENAS",
@@ -37300,7 +37404,8 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 61182 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 324936. Statut reconnu : Forces françaises combattantes (FFC) — réseau Hunter. Médaille de la Résistance (base des médaillés). Décès enregistré : 18/3/1945 Melk (Autriche)."
     },
     {
       "nom": "LABRUNIE",
@@ -37325,13 +37430,18 @@
         {
           "label": "MémorialGenWeb — fiche individuelle (monuments et plaques où figure son nom)",
           "url": "https://www.memorialgenweb.org/memorial3/html/fr/complementter.php?id=239139"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb0065a1a4f8"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Alfred Labrunne » : mort à Dachau le 14/01/1945 (né à Saint-Cyprien (Dordogne), domicilié à Saint-Vincent-de-Cosse (Dordogne)).",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 471190 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 326205. Statut reconnu : déporté-interné de la Résistance (DIR), Forces françaises de l’intérieur (FFI). Médaille de la Résistance (base des médaillés). Décès enregistré : 14/1/1945 Dachau (Allemagne)."
     },
     {
       "nom": "LACOSTE",
@@ -37817,12 +37927,18 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LAVIGNE%20DU%20CADET%20Jean"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m0064536c52337ae"
         }
       ],
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 587656 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 344610. Statut reconnu : déporté-interné de la Résistance (DIR), Forces françaises combattantes (FFC) — réseau Andalousie.",
+      "reseau_affiche": "Réseau Andalousie (FFC)"
     },
     {
       "nom": "LAZZATI",
@@ -38109,7 +38225,7 @@
       "situation": "DCD",
       "date_sortie": "02/02/1945",
       "lieu_sortie": "Dachau",
-      "observations": "—",
+      "observations": "À vérifier : la base des victimes de Mémoire des hommes (AC 21 P 482568) enregistre pour un Benoît Lévy né le même jour un décès à Auschwitz le 5/7/1944, ce qui ne concorde pas avec le Train fantôme.",
       "sources": [
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
@@ -38118,13 +38234,18 @@
         {
           "label": "KZ-Gedenkstätte Dachau — Livre mémorial numérique des victimes",
           "url": "https://gedenkbuch.kz-gedenkstaette-dachau.de/en/memorial-interpretations/list?search=Levy"
+        },
+        {
+          "label": "Mémoire des hommes — fiches officielles (SHD)",
+          "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m005eb006e3944fe"
         }
       ],
       "histoire": "Le livre mémorial numérique du mémorial de Dachau le recense parmi les victimes du camp, sous le nom « Benoit Levy » : mort à Dachau le 02/02/1945 (né à Alexandrie, domicilié à Limoges (Haute-Vienne), profession : banquier).",
       "pays_naissance": {
         "code": "eg",
         "nom": "Égypte"
-      }
+      },
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 482568."
     },
     {
       "nom": "LEYRIS",

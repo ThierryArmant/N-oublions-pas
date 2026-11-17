@@ -88,4 +88,4 @@ Méthode, sources, divergences, recherches négatives et suite : docs/methode_re
 - Réseau/mouvement reporté dans `reseau_affiche` quand il manquait.
 - Écarts de date de décès signalés dans `observations` (22 hommes, dont les fusillés de Souge du 29/07/1944 que nos tableaux datent du 01/08).
 - Homonymes écartés (prénom différent) : Borge Panero, Brafmann, Deboe, Hamerlak Tadeusz, Orgueil, Nibaut.
-- Deuxième passage (noms composés espagnols, noms très fréquents) en cours.
+- Deuxième passage (noms composés, noms fréquents) interrompu à 237/436 à la demande : 24 hommes de plus ajoutés (Delannoy, Deyris, Fauvel, Ducasse, Labat…). Écartés : Demelle, Dubarry, Claude Lévy. Reprendre à partir de LEVY (index 337) et les noms suivants.
