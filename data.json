@@ -33293,7 +33293,14 @@
       "photo_source": {
         "label": "Document transmis par Thierry Armant — dessin portant le nom Jean de Pablo ; ouvrage et auteur non précisés",
         "url": "assets/jean-de-pablo/portrait-document.jpg"
-      }
+      },
+      "noms_recherche": [
+        "Jean de Pablo",
+        "Juan de Pablo",
+        "De Pablo Jean",
+        "De Pablo Juan",
+        "Jàsz Deszö"
+      ]
     },
     {
       "nom": "DEYRIS",
