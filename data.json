@@ -963,7 +963,16 @@
       },
       "points_a_verifier": [
         "Numéro probable à Ravensbrück : 62440. Il est déduit, non lu dans un document : pour toutes les femmes du convoi dont les deux numéros sont connus (Dubreuil, Fau Español, Cazaux, Lasserre, Cayrel…), le numéro de Ravensbrück vaut le numéro de Dachau moins 31 407. À confirmer dans les Arolsen Archives."
-      ]
+      ],
+      "photo_url": "assets/renee-lacoude/portrait.png",
+      "photo_alt": "Renée Bisserier, épouse Lacoude — photographie identifiée par Thierry Armant",
+      "photo_fit": "contain",
+      "photo_legende": "Renée Lacoude · photographie transmise par Thierry Armant",
+      "photo_source": {
+        "label": "Photographie d’album transmise et identifiée par Thierry Armant — voir l’original",
+        "url": "assets/renee-lacoude/photo-album-originale.jpg"
+      },
+      "photo_traitement": "Portrait recadré et nettoyé avec assistance IA à partir de la photographie d’album ; original conservé et accessible."
     },
     {
       "nom": "JEANINE LEJEARD Déportée du TF n° 93849",
@@ -33272,9 +33281,19 @@
         {
           "label": "Amicale des déportés du Train fantôme — Le Vernet : notice de Jàsz Deszö",
           "url": "https://www.lesdeportesdutrainfantome.org/ville_levernet.htm"
+        },
+        {
+          "label": "Portrait dessiné portant le nom Jean de Pablo — document transmis par Thierry Armant",
+          "url": "assets/jean-de-pablo/portrait-document.jpg"
         }
       ],
-      "histoire": "Dit « Jean de Pablo ». Ancien combattant des Brigades internationales devenu résistant, interné au camp du Vernet de juillet 1943 à juin 1944, il y dirige l’organisation militaire internationale clandestine du camp. Il s’évade du train en Haute-Marne. En 1947, il préside l’amicale des anciens internés du camp du Vernet."
+      "histoire": "Dit « Jean de Pablo ». Ancien combattant des Brigades internationales devenu résistant, interné au camp du Vernet de juillet 1943 à juin 1944, il y dirige l’organisation militaire internationale clandestine du camp. Il s’évade du train en Haute-Marne. En 1947, il préside l’amicale des anciens internés du camp du Vernet.",
+      "photo_url": "assets/jean-de-pablo/portrait-document.jpg",
+      "photo_alt": "Portrait dessiné portant le nom Jean de Pablo, document transmis par Thierry Armant",
+      "photo_source": {
+        "label": "Document transmis par Thierry Armant — dessin portant le nom Jean de Pablo ; ouvrage et auteur non précisés",
+        "url": "assets/jean-de-pablo/portrait-document.jpg"
+      }
     },
     {
       "nom": "DEYRIS",
