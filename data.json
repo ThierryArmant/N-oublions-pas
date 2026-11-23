@@ -956,7 +956,7 @@
           }
         ]
       },
-      "recherche_mise_a_jour": "2026-11-15",
+      "recherche_mise_a_jour": "2026-11-23",
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
@@ -972,7 +972,13 @@
         "label": "Photographie d’album transmise et identifiée par Thierry Armant — voir l’original",
         "url": "assets/renee-lacoude/photo-album-originale.jpg"
       },
-      "photo_traitement": "Portrait recadré et nettoyé avec assistance IA à partir de la photographie d’album ; original conservé et accessible."
+      "photo_traitement": "Portrait recadré et nettoyé avec assistance IA à partir de la photographie d’album ; original conservé et accessible.",
+      "sources": [
+        {
+          "label": "Photographie de Jean-René Lafond, Lucette, Renée Lacoude et Philippe Toureille — légende de la notice de Marine Charbonneau, collection familiale Lafond",
+          "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2024/06/Lafond-GB-A4-300-F.pdf"
+        }
+      ]
     },
     {
       "nom": "JEANINE LEJEARD Déportée du TF n° 93849",
@@ -28372,7 +28378,17 @@
         "code": "es",
         "nom": "Espagne"
       },
-      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 697343 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 10005. Statut reconnu : déporté-interné de la Résistance (DIR), Résistance intérieure française (RIF) — mouvement Front national."
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 697343 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 10005. Statut reconnu : déporté-interné de la Résistance (DIR), Résistance intérieure française (RIF) — mouvement Front national.",
+      "documents_historiques": [
+        {
+          "titre": "Ange Alvarez — ravivage de la flamme",
+          "image": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/ranimation-flamme-Ange-Alva.jpg",
+          "description": "L’Amicale associe ce cliché à Ange Alvarez. Le même cliché figure dans l’album numérisé par les élèves.",
+          "credit": "Amicale des déportés du Train fantôme",
+          "source": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-23"
     },
     {
       "nom": "ALVAREZ REQUEJO",
@@ -32955,6 +32971,10 @@
         {
           "label": "Mémoire des hommes — fiches officielles (SHD)",
           "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m0064536c54e5abe"
+        },
+        {
+          "label": "Amicale du Train fantôme — photographie légendée de Christian de Roquemaurel au pont de Roquemaure, retrouvée dans les scans des élèves",
+          "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
         }
       ],
       "histoire": "Résistant et prisonnier du Train fantôme, Christian de Roquemaurel relate dans les témoignages du convoi l’évasion d’Ange Alvarez à Sainte-Bazeille. Il est ensuite lié à l’action mémorielle de l’Amicale, dont le site présente plusieurs photographies légendées à son nom et le désigne comme ancien deuxième président.\n\nSelon cette même notice AFMD, il récupère à Sorgues une barre métallique utilisée pour démonter le plancher du wagon. Une fiche anthropométrique de la police de Montpellier, datée du 20 mai 1944 (n° 23540, nom orthographié « De Roquemorel »), le photographie de profil et de face après son arrestation.",
@@ -32963,7 +32983,7 @@
         "label": "Fiche anthropométrique, police de Montpellier, 20/05/1944, n° 23540 — document transmis par le collège Jean Giono (autorisation de diffusion)",
         "url": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
       },
-      "recherche_mise_a_jour": "2026-11-15",
+      "recherche_mise_a_jour": "2026-11-23",
       "relations_documentees": [
         {
           "nom": "Damien Nardone (Nardonne dans la liste)",
@@ -32988,7 +33008,23 @@
         "code": "fr",
         "nom": "France"
       },
-      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 665894 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 177154. Statut reconnu : déporté-interné de la Résistance (DIR), Forces françaises de l’intérieur (FFI). Médaille de la Résistance (base des médaillés)."
+      "reference_archives": "Mémoire des hommes (ministère des Armées) — dossier au SHD de Caen (victimes et déportés) : AC 21 P 665894 ; dossier au SHD de Vincennes (services de résistance) : GR 16 P 177154. Statut reconnu : déporté-interné de la Résistance (DIR), Forces françaises de l’intérieur (FFI). Médaille de la Résistance (base des médaillés).",
+      "documents_historiques": [
+        {
+          "titre": "Christian de Roquemaurel au pont de Roquemaure",
+          "image": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/Christian-De-Roquemaurel.jpg",
+          "description": "Le même cliché figure dans l’album numérisé par les élèves. La légende de l’Amicale nomme Christian de Roquemaurel.",
+          "credit": "Amicale des déportés du Train fantôme",
+          "source": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        },
+        {
+          "titre": "Christian de Roquemaurel — médaille de la ville de Sorgues",
+          "image": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/medaille-de-la-ville-de-Sor.jpg",
+          "description": "La légende de l’Amicale rattache cette photographie de commémoration à Christian de Roquemaurel. Le même cliché figure dans l’album numérisé par les élèves.",
+          "credit": "Amicale des déportés du Train fantôme",
+          "source": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        }
+      ]
     },
     {
       "nom": "DE SAN MARTIN BALDUQUE",
@@ -37295,7 +37331,17 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
-      }
+      },
+      "documents_historiques": [
+        {
+          "titre": "Meyer Kokine et Robert Silve",
+          "image": "https://www.lesdeportesdutrainfantome.org/images/photos/amicale/05-2016/Meyer-Kokine%2C-Robert-Silve.jpg",
+          "description": "Les deux hommes sont nommés dans la légende de l’Amicale. Le même cliché figure dans l’album numérisé par les élèves.",
+          "credit": "Amicale des déportés du Train fantôme",
+          "source": "https://www.lesdeportesdutrainfantome.org/galerie_photos_amicale.htm"
+        }
+      ],
+      "recherche_mise_a_jour": "2026-11-23"
     },
     {
       "nom": "KORNUS",
@@ -37547,7 +37593,7 @@
       "date_sortie": "29/04/1945",
       "lieu_sortie": "Dachau",
       "observations": "—",
-      "histoire": "René Lafond, ancien instructeur militaire, participe à l’organisation d’un maquis dans le Médoc. Arrêté par la Gestapo en juillet 1944 puis détenu au fort du Hâ à Bordeaux, il est intégré au Train fantôme. Selon les archives documentaires du film, il tente de s’évader à Valence, est repris, puis survit à Dachau, où l’aide du docteur Vicente Parra est évoquée. La notice de Marine Charbonneau (2024) l’identifie sous le nom de Jean-René Lafond, avec la même date et le même lieu de naissance. Couvreur et instructeur de mécaniciens d’aviation, il participe à la fabrication de faux documents et au secours de pilotes alliés. Après les tortures subies à Bordeaux et sa déportation, il connaît de longues périodes de maladie à Dachau. Rentré en France, il reprend son métier et organise des commémorations. Il meurt le 14 juin 1999.",
+      "histoire": "René Lafond, ancien instructeur militaire, participe à l’organisation d’un maquis dans le Médoc. Arrêté par la Gestapo en juillet 1944 puis détenu au fort du Hâ à Bordeaux, il est intégré au Train fantôme. Selon les archives documentaires du film, il tente de s’évader à Valence, est repris, puis survit à Dachau, où l’aide du docteur Vicente Parra est évoquée. La notice de Marine Charbonneau (2024) l’identifie sous le nom de Jean-René Lafond, avec la même date et le même lieu de naissance. Couvreur et instructeur de mécaniciens d’aviation, il participe à la fabrication de faux documents et au secours de pilotes alliés. Après les tortures subies à Bordeaux et sa déportation, il connaît de longues périodes de maladie à Dachau. Rentré en France, il reprend son métier et organise des commémorations. Il meurt le 14 juin 1999.\n\nLa notice publique de Marine Charbonneau cite son récit paru à Perpignan en 1999, De la Gestapo bordelaise au Block 30 à Dachau par le « Train Fantôme ». Marine Charbonneau précise qu’il a participé aux commémorations du maquis de Vignes-Oudides et témoigné dans les écoles de la région à partir des années 1980. La notice situe son décès à Saint-Estèphe, en Gironde.",
       "sources": [
         {
           "label": "Archives du documentaire — parcours de René Lafond",
@@ -37580,6 +37626,14 @@
         {
           "label": "Arolsen Archives — documents de déportation (registres, cartes de détenu)",
           "url": "https://collections.arolsen-archives.org/fr/search?s=LAFOND%20Ren%C3%A9"
+        },
+        {
+          "label": "Sources et bibliographie de la notice publique de Marine Charbonneau",
+          "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2024/06/Lafond-GB-A4-300-F.pdf"
+        },
+        {
+          "label": "Photographie de Jean-René Lafond, Lucette, Renée Lacoude et Philippe Toureille — légende de la notice de Marine Charbonneau, collection familiale Lafond",
+          "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2024/06/Lafond-GB-A4-300-F.pdf"
         }
       ],
       "photo_archive": {
@@ -37593,7 +37647,7 @@
         "label": "Gedächtnisbuch Dachau — portrait de René Lafond",
         "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2024/06/Lafond-GB-A4-300-F.pdf"
       },
-      "recherche_mise_a_jour": "2026-11-15",
+      "recherche_mise_a_jour": "2026-11-23",
       "relations_documentees": [
         {
           "nom": "Philippe TOUREILLE",
@@ -37607,6 +37661,18 @@
       "pays_naissance": {
         "code": "fr",
         "nom": "France"
+      },
+      "deces": "14/06/1999",
+      "etat_vital": {
+        "statut": "decedee",
+        "precision": "Décès le 14 juin 1999 à Saint-Estèphe (Gironde).",
+        "controle": "2026-11-23",
+        "sources": [
+          {
+            "label": "Notice de Marine Charbonneau, Gedächtnisbuch Dachau",
+            "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2024/06/Lafond-GB-A4-300-F.pdf"
+          }
+        ]
       }
     },
     {
@@ -45957,6 +46023,10 @@
         {
           "label": "Mémoire des hommes — fiches officielles (SHD)",
           "url": "https://www.memoiredeshommes.defense.gouv.fr/ark:40699/m0064536bf2031bd"
+        },
+        {
+          "label": "Photographie de Jean-René Lafond, Lucette, Renée Lacoude et Philippe Toureille — légende de la notice de Marine Charbonneau, collection familiale Lafond",
+          "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2024/06/Lafond-GB-A4-300-F.pdf"
         }
       ],
       "photo_data": "data:image/jpeg;base64,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",
@@ -45964,7 +46034,7 @@
         "label": "Gedächtnisbuch Dachau — portrait extrait de la notice de Philippe Toureille",
         "url": "https://www.gedaechtnisbuch.org/wp-content/uploads/2015/07/toureille_philippe.pdf"
       },
-      "recherche_mise_a_jour": "2026-11-15",
+      "recherche_mise_a_jour": "2026-11-23",
       "relations_documentees": [
         {
           "nom": "René LAFOND",
