@@ -340,7 +340,7 @@ function encadrerPortrait(front,scene,p,duConvoi){
  const texte=textes.filter(Boolean).join(' ');
  const infirmiere=/\binfirmi[eè]re\b/i.test(texte);
  const croixRouge=/\binfirmi[eè]re (?:volontaire )?(?:de la|à la|pour la) Croix[- ]Rouge\b/i.test(texte);
- const fort=/\bfort du H[âa]\b/i.test(texte);
+ const fort=/\bfort du H[âa](?!\p{L})/iu.test(texte);
  const decor=croixRouge?['croix-rouge','Croix-Rouge']:fort?['fort','Fort du Hâ']:infirmiere?['soins','Soins infirmiers']:duConvoi?['convoi','Mémorial de Sorgues']:null;
  if(decor){
   const [type,nom]=decor;
