@@ -406,7 +406,28 @@ function afficherEtatVital(parent,p,genre='femme'){
  }
 }
 
+const noticesFamilleGrange={
+ '93887':'Dans son témoignage, Conchita raconte qu’après le Débarquement, les détenues de Saint-Michel sont transférées à la caserne Caffarelli, où elles rejoignent des femmes venues du Vernet et de Noé.',
+ '93885':'Elvira, mère de María et tante de Conchita, est interrogée avec elles à la villa Lauquié, à Foix, puis emprisonnée à Saint-Michel, à Toulouse. Le témoignage de Conchita les situe à nouveau ensemble après Ravensbrück, dans le kommando Pertrix, près de Berlin.',
+ '93886':'Selon Amalia Rosado Orquín, María, fille d’Elvira et cousine de Conchita, est enceinte de quelques mois lors de sa déportation. Interrogée à Foix puis emprisonnée à Saint-Michel avec elles, elle est déportée par le Train fantôme, qui arrive à Dachau le 28 août 1944.'
+};
+
+function precisionsFamilleGrange(back,p){
+ const notice=noticesFamilleGrange[p.matricule];
+ if(!notice)return;
+ back.append(el('h3','Foix, Toulouse et le Train fantôme'),el('p',notice));
+ back.append(el('h3','Date de l’arrestation : deux sources divergent'));
+ back.append(el('p','24 mai 1944 à Peny (Ariège) : date donnée par Josep Calvet dans la brochure du Memorial Democràtic. Juin 1944, sans jour précisé : datation donnée par Amalia Rosado Orquín (p. 206). Les deux sources se rapportent à l’arrestation des trois femmes pour des faits de Résistance. Le récit de Conchita situe un transfert de prison après le Débarquement, ce qui ne permet pas de dater l’arrestation. La date exacte reste à confirmer sur pièce.'));
+ for(const [titre,url] of [
+  ['Memorial Democràtic · Conxita Grangé, résistante','https://memoria.gencat.cat/.content/00_agenda/MD/2019/img/20190726_Homenatge_Conxita_Grange_v7_FR_baixa.pdf'],
+  ['Amalia Rosado Orquín · Los triángulos rojos (2025), p. 206–209 et 323','https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE2401.pdf#page=207']
+ ]){
+  const lien=el('a',titre+' ↗');lien.href=url;lien.target='_blank';lien.rel='noopener';back.append(lien);
+ }
+}
+
 function afficherDossierDocumente(back,p){
+ precisionsFamilleGrange(back,p);
  const sourceLink=(url,label='Source ↗')=>{const a=el('a',label);a.href=url;a.target='_blank';a.rel='noopener';return a;};
  const ficheLink=r=>{const a=el('a',r.nom+' — ouvrir la fiche');a.href=r.vue==='hommes'?'?homme='+encodeURIComponent(r.recherche)+'#hommes':'?vue='+(r.vue||'portraits')+'&nom='+encodeURIComponent(r.recherche)+'#personnes';return a;};
  if(p.chronologie_documentee?.length){back.append(el('h3','Parcours daté et documenté'));const list=el('ol','');list.className='dossier-chronologie';p.chronologie_documentee.forEach(x=>{const li=el('li','');li.append(el('strong',x.date+' — '),document.createTextNode(x.texte+' '),sourceLink(x.source));list.append(li)});back.append(list);}
@@ -572,6 +593,15 @@ function render(){
  items.sort(comparerNoms);
  const imagesAssociees=items.filter(p=>p.photo_data||p.photo_url||p.photo).length;count.textContent=items.length+' fiche'+(items.length>1?'s':'')+' · '+imagesAssociees+' avec une image associée · '+(items.length-imagesAssociees)+' sans image';
  items.forEach(p=>{
+  if(noticesFamilleGrange[p.matricule]){
+   const biographie={...p.biographie};
+   if(p.matricule==='93887'){
+    biographie.deportation=biographie.deportation.replace('Le 24 mai 1944, la Milice','D’après la brochure du Memorial Democràtic, la Milice');
+    p={...p,complement_historique:p.complement_historique.replace('Arrêtée le 24/05/1944 avec Elvira Ibarz et María Castelló, elle est détenue à Foix, à la caserne Caffarelli puis à la prison Saint-Michel de Toulouse.','Arrêtée avec Elvira Ibarz et María Castelló, elle est interrogée à Foix, incarcérée à Saint-Michel puis transférée à la caserne Caffarelli, selon son témoignage.')};
+   }
+   if(p.matricule==='93885')biographie.deportation=biographie.deportation.replace('sont arrêtées le 24 mai 1944,','sont arrêtées ensemble,');
+   p={...p,biographie};
+  }
   const c=el('article','');c.className='portrait-card';const front=el('button','');front.type='button';front.className='portrait-front';front.setAttribute('aria-label','Découvrir la fiche de '+nomPrenomFiche(p));
   const scene=el('span','');
   if(p.photo_data){const img=document.createElement('img');img.loading='lazy';img.alt=p.photo_alt||'Portrait : '+(p.nom_affiche||p.nom);img.src=p.photo_data;scene.append(img)}else if(p.photo_url){const img=document.createElement('img');img.loading='lazy';img.alt=p.photo_alt||'Portrait : '+(p.nom_affiche||p.nom);img.src=p.photo_url;scene.append(img)}else if(p.photo){const img=document.createElement('img');img.loading='lazy';img.alt=p.photo_alt||'Portrait : '+(p.nom_affiche||p.nom);img.src='https://drive.google.com/thumbnail?id='+encodeURIComponent(p.photo.id)+'&sz=w800';img.onerror=()=>{img.replaceWith(Object.assign(el('div','Portrait indisponible'),{className:'portrait-placeholder'}))};scene.append(img)}else{let placeholder=el('div','Portrait non retrouvé');placeholder.className='portrait-placeholder';scene.append(placeholder)}
