@@ -215,6 +215,19 @@ body:has(.portrait-dialog[open]){overflow:hidden}
  font:600 .9rem system-ui,sans-serif;
  cursor:pointer;
 }
+.portrait-dossier{
+ float:right;
+ width:clamp(68px,17%,112px);
+ height:auto;
+ max-height:138px;
+ object-fit:contain;
+ margin:0 0 8px 14px;
+ padding:3px;
+ border:1px solid var(--archive-edge);
+ border-radius:4px;
+ background:#fff8e9;
+}
+.portrait-dossier ~ h3:first-of-type{clear:both}
 .portrait-dialog .portrait-back p,.portrait-dialog .fiche-identite dd{
  font-size:1rem;
  line-height:1.65;
@@ -463,6 +476,14 @@ function installerLecturePortrait(carte,front,contenu,initialiser){
  titre.remove();
  contenu.hidden=false;
  const scene=front.querySelector('.portrait-scene');
+ const portrait=scene.querySelector('.portrait-photo');
+ if(portrait){
+  const miniature=portrait.cloneNode(false);
+  miniature.className='portrait-dossier';
+  miniature.loading='lazy';
+  miniature.addEventListener('error',()=>miniature.remove(),{once:true});
+  contenu.prepend(miniature);
+ }
  const source=decorsPortraits[scene.dataset.decor];
  if(source){
   const credit=el('a','Décor : '+source[0]+' · '+source[3]+' · rendu en noir et blanc ↗');
