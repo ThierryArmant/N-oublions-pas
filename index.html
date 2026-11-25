@@ -59,10 +59,13 @@ html{scroll-behavior:smooth;scroll-padding-top:20px}a,button{touch-action:manipu
 }
 #personnes,#hommes,#temoignages{color:var(--archive-ink)}
 #personnes h2,#hommes h2,#temoignages h2{color:var(--archive-navy)}
+main:has(> :is(#personnes,#hommes):not(.screen-hidden)){
+ max-width:1440px;
+}
 #personnes .results,#hommes .results{
- grid-template-columns:repeat(auto-fill,minmax(min(100%,220px),1fr));
+ grid-template-columns:repeat(auto-fill,minmax(min(100%,205px),1fr));
  align-items:start;
- gap:16px;
+ gap:14px;
 }
 .portrait-card,.temoin-card{
  border:1px solid var(--archive-navy);
