@@ -419,7 +419,7 @@ html:not(.vue-justes) #justes{display:none}
 .justes-duo img{display:block;max-width:100%;width:auto;height:145px;object-fit:contain}
 .justes-duo figcaption{font-size:.86rem;line-height:1.35;margin-top:4px}
 
-#justes .justes-filtres{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.35fr);align-items:start;gap:16px;background:linear-gradient(125deg,#163754,#275779);color:#fff;padding:16px 20px;margin:18px 0 14px;border-radius:10px;box-shadow:0 5px 15px #1d3a5a33}
+#justes .justes-filtres{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.35fr) minmax(105px,.45fr);align-items:start;gap:16px;background:linear-gradient(125deg,#163754,#275779);color:#fff;padding:16px 20px;margin:18px 0 14px;border-radius:10px;box-shadow:0 5px 15px #1d3a5a33}
 #justes .justes-filtres label{display:block;margin:0 0 4px;font-weight:700}
 #justes .justes-filtres input,#justes .justes-filtres select{width:100%;max-width:none;min-height:43px;font:inherit;border:1px solid #a7c4dd;border-radius:6px;padding:7px 10px;background:#fff;color:#1b344a}
 #justes .justes-filtres small{display:block;margin-top:4px;color:#edf4fb}
@@ -532,6 +532,7 @@ html:not(.vue-justes) #justes{display:none}
 <small id="justes-aide-departement">Département indiqué dans la notice</small></div>
 <div><label for="justes-recherche">Nom, personne aidée ou commune</label>
 <input class="search" id="justes-recherche" type="search"></div>
+<div><label for="justes-taille-page">Fiches par page</label><select id="justes-taille-page"><option value="25" selected>25</option><option value="50">50</option><option value="100">100</option><option value="500">500</option></select></div>
 </div>
 <p id="justes-compteur" role="status"></p>
 <div id="justes-resultats" class="results"></div>
@@ -1599,7 +1600,7 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
  const precedentes = document.getElementById('justes-precedentes');
  const suivantes = document.getElementById('justes-suivantes');
  const pageLabel = document.getElementById('justes-page');
- const taillePage = 30;
+ const taillePage = document.getElementById('justes-taille-page');
  let page = 0;
  let chargement = 'Chargement de l’index national…';
  const dateRegistre = date => /^\d{8}$/.test(date) ? date.slice(6)+'/'+date.slice(4,6)+'/'+date.slice(0,4) : '';
@@ -1675,13 +1676,14 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
      norm([p.nom, p.prenom, p.prenom+' '+p.nom, p.alias, p.aide, p.commune, p.territoire, p.departement, p.dossier].join(' ')).includes(filtre)
    );
    compteur.textContent = chargement || (liste.length ? liste.length.toLocaleString('fr-FR') + ' fiches' : 'Aucune fiche pour cette recherche');
-   const totalPages = Math.max(1,Math.ceil(liste.length / taillePage));
+   const parPage = Number(taillePage.value) || 25;
+   const totalPages = Math.max(1,Math.ceil(liste.length / parPage));
    page = Math.max(0,Math.min(page,totalPages-1));
    precedentes.disabled = page===0;
    suivantes.disabled = page+1>=totalPages;
    pageLabel.textContent = 'Page '+(page+1)+' sur '+totalPages;
    grille.replaceChildren();
-   for (const p of liste.slice(page*taillePage,(page+1)*taillePage)) {
+   for (const p of liste.slice(page*parPage,(page+1)*parPage)) {
      const carte = el('article', '');
      carte.className = 'portrait-card';
      const nom = nomPrenomFiche(p);
@@ -1840,6 +1842,7 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
  function allerPage(delta){page+=delta;renderJustes();compteur.scrollIntoView({block:'start'})}
  recherche.addEventListener('input',reprendreRecherche);
  departement.addEventListener('change',reprendreRecherche);
+ taillePage.addEventListener('change',reprendreRecherche);
  precedentes.onclick=()=>allerPage(-1);
  suivantes.onclick=()=>allerPage(1);
  renderJustes();
