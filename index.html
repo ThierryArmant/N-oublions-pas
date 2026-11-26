@@ -1368,7 +1368,7 @@ function installerLecturePortrait(carte,front,contenu,initialiser){
  titre.remove();
  contenu.hidden=false;
  const scene=front.querySelector('.portrait-scene');
- const portrait=scene.querySelector('.portrait-photo');
+ const portrait=scene?.querySelector('.portrait-photo');
  if(portrait){
   const miniature=portrait.cloneNode(false);
   miniature.className='portrait-dossier';
@@ -1383,7 +1383,7 @@ function installerLecturePortrait(carte,front,contenu,initialiser){
    contenu.prepend(miniature);
   }
  }
- const source=decorsPortraits[scene.dataset.decor];
+ const source=decorsPortraits[scene?.dataset.decor];
  if(source){
   const credit=el('a','Décor : '+source[0]+' · '+source[3]+' · rendu en noir et blanc ↗');
   credit.href=source[2];
