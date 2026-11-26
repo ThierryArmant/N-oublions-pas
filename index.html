@@ -1002,6 +1002,33 @@ function signalerPortraitAbsent(scene,texte='Portrait non trouvé'){
  scene.append(legende);
 }
 
+const nomsCampsParCode={
+ Da:'Dachau', Ra:'Ravensbrück', Ma:'Mauthausen', Bu:'Buchenwald',
+ Ng:'Neuengamme', BB:'Bergen-Belsen', Sa:'Sachsenhausen',
+ Or:'Oranienburg', Kpn:'Köpenick', Pertrix:'Kommando Pertrix',
+ Melk:'Kommando de Melk', Eb:'Ebensee', Gu:'Gusen', NR:'Neurohlau',
+ Dresd:'Kommando de Dresde'
+};
+const campsDocumentesParNom={
+ 'adelaide hautval':['Auschwitz','Ravensbrück'],
+ 'marcelle henri':['Ravensbrück','Torgau'],
+ 'catherine dior':['Ravensbrück','Torgau','Abteroda','Markkleeberg']
+};
+
+function campsFiche(p){
+ const nom=norm([p.nom,p.prenom].filter(Boolean).join(' '));
+ if(campsDocumentesParNom[nom])return campsDocumentesParNom[nom];
+ const camps=(p.parcours||'').split(/[(),;]/)
+  .map(partie=>nomsCampsParCode[partie.trim().replace(/\*$/,'')])
+  .filter(Boolean);
+ // Les listes de matricules associent explicitement le nom du camp à la personne.
+ const matricules=[p.biographie?.matricules,p.matricules_camps].filter(Boolean).join(' ; ');
+ const campAvecMatricule=/\b(Dachau|Ravensbrück|Mauthausen|Buchenwald|Auschwitz(?:-Birkenau)?|Flossenbürg|Neuengamme|Sachsenhausen|Bergen-Belsen|Natzweiler(?:-Struthof)?)\s*:?\s*(?=\d)/gi;
+ for(const [,camp] of matricules.matchAll(campAvecMatricule))camps.push(camp);
+ if(!camps.length&&/^\d+$/.test(p.matricule||''))camps.push('Dachau');
+ return [...new Map(camps.map(camp=>[norm(camp),camp])).values()];
+}
+
 function resumePortrait(p,privilegierEngagement){
  const bloc=el('span','');
  bloc.className='portrait-label';
@@ -1034,6 +1061,13 @@ function resumePortrait(p,privilegierEngagement){
  rubrique('Rôle');
  const role=p.role||p.reseau_affiche||p.ordre_reseau||(decor==='croix-rouge'?'Infirmière de la Croix-Rouge':decor==='soins'?'Soins infirmiers':'');
  bloc.append(el('span',role?role.replace(/^~/,''):'—'));
+ const camps=campsFiche(p);
+ if(camps.length){
+  rubrique('Camps et kommandos');
+  const parcours=el('span',camps.join(' · '));
+  parcours.className='portrait-ligne';
+  bloc.append(parcours);
+ }
  const ouvrir=el('small','Ouvrir le dossier →');
  ouvrir.className='portrait-ouvrir';
  bloc.append(ouvrir);
