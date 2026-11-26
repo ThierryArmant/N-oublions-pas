@@ -465,6 +465,7 @@ html{scrollbar-gutter:stable}
 <nav class="navigation-galeries" aria-label="Accès direct aux galeries"><a href="#home">← Accueil</a><a href="?vue=femmes#personnes">Femmes du convoi</a><a href="#hommes">Hommes du convoi</a><a href="#temoignages">Témoignages</a></nav>
 <h2>Justes parmi les Nations</h2>
 <h3>Qui a aidé qui ?</h3>
+<p><a class="button secondary" href="?departement=84#justes">Découvrir les récits du Vaucluse</a> <a class="button secondary" href="?sauvetage=Meyer%20Kokine#justes">Suivre le sauvetage de Meyer Kokine</a></p>
 <p class="intro">Recherchez les Justes de France par nom ou département. Les fiches accompagnées d’un récit précisent qui a été aidé, où et comment.</p>
 <label for="justes-departement">Département indiqué dans la notice</label>
 <select id="justes-departement"><option value="">Tous les départements</option><option value="84">84 — Vaucluse</option></select>
@@ -1538,6 +1539,7 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
  let chargement = 'Chargement de l’index national…';
  const dateRegistre = date => /^\d{8}$/.test(date) ? date.slice(6)+'/'+date.slice(4,6)+'/'+date.slice(0,4) : '';
  const dossierURL = dossier => 'https://yadvashem-france.org/dossier/nom/'+encodeURIComponent(dossier)+'/';
+ const dossiersVaucluse = {"4293":["1943","Prévenir des familles menacées de rafle","Salomon Grumbacher et ses parents","Maire d’Apt, Théophile Gay fait prévenir des familles juives quand il apprend qu’une arrestation se prépare. En septembre 1943, il s’oppose directement à l’arrestation de la famille Grumbacher.",50,"95"],"4648":["1942–1944","Réunir et héberger une famille menacée","Meyer et Ona Séferis, Paulette, Jacqueline et Rachel","Henri Guigue obtient une réquisition de travail pour faire venir Meyer Séferis de Corrèze. À Vaison-la-Romaine, Claire, Henri et leur fils Pierre accueillent la famille, qui reste à l’abri jusqu’à la Libération.",51,"96"],"6092":["À partir de 1942","Abriter des réfugiés à l’hôpital","Madeleine et Aude Léon, Georges Epchtein et Georgette Kaminker","Directeur de l’hôpital de Valréas, Didier Delaunay met des réfugiés à l’abri en les faisant passer pour des employés ou en les hospitalisant. Il fait notamment venir de Bayonne le père de Madeleine et d’Aude Léon avec ses deux filles.",47,"89–90"],"9756":["1942–1944","Prêter des papiers pour protéger un adolescent","Marcel Verchezer","À Avignon, Fernande Roinac remet au jeune Marcel l’acte de naissance et le certificat de baptême de son fils André. Marcel obtient ainsi des papiers au nom d’André Roinac et conserve cette identité jusqu’à la Libération.",51,"97"],"10973":["Novembre 1943–janvier 1944","Héberger une famille et trouver un second refuge","Jacques, Elsa et Juliette Fajerstein","Après avoir échappé à la Gestapo à Cavaillon, les Fajerstein trouvent refuge chez Virginie Gambet. Elle les héberge jusqu’au 26 janvier 1944, puis les dirige vers des proches à Noves.",50,"94"],"12384":["1944","Cacher et nourrir des voisins","Léon, Berthe, Dora et Robert Pulvemacher, Maurice Wietrzniak","À Cabrières-d’Avignon, Marie et Attilio Garagnoli cachent leurs voisins juifs et deux proches du groupe. Ils leur apportent de la nourriture et les soutiennent jusqu’à la Libération.",50,"95"],"12686":["1943–1944","Héberger puis protéger une famille","Maurice et Germaine Seunanèche, Armand et Claudine","À Villes-sur-Auzon, René et Andréa Bézer accueillent d’abord les deux enfants, puis aident toute la famille à se loger. Lors d’une fouille du village en août 1944, les Seunanèche se cachent dans leur cabanon.",44,"82–83"],"12908":["1940–1942","Héberger des réfugiés polonais","Édith et Rose Margolis, la famille Sapir","À Bollène, Émilie et Fernand Devès logent les sœurs Margolis dans le quartier Saint-Blaise. Les sœurs y rejoignent la famille Sapir, déjà accueillie par le couple.",48,"91–92"],"12964":["1943–1944","Cacher une famille dans une dépendance agricole","André, Lisette et Michel Pereyre","Après une rafle à Carpentras, les Pereyre fuient à vélo vers Bédoin. Marie Dumont, l’ancienne nourrice de Lisette, et son mari Clément les abritent et les nourrissent pendant plusieurs mois.",49,"93"],"13353A":["Sous l’Occupation","Accueillir un enfant à la ferme","Lucien Sokolowski","À Roaix, Gabrielle et Émile Plaindoux cachent Lucien Sokolowski. Il vit à la ferme et fréquente l’école. Il retrouve sa mère et ses sœurs à la Libération."]};
  const complements = {
    '612': {
      periode:'Sous l’Occupation',geste:'Organiser l’accueil de réfugiés',aide:'Enfants et familles juives réfugiés au Chambon et dans les villages voisins',
@@ -1585,12 +1587,19 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
        locales.splice(locales.indexOf(local),1);
        return {...entree,...local,registre:dossier,notice:entree.source};
      }
+     const noticeVaucluse = dossiersVaucluse[dossier.toUpperCase()];
+     if(noticeVaucluse) {
+       const [periode,geste,aide,histoire,pageOuvrage,pagesOuvrage] = noticeVaucluse;
+       return {...entree,periode,geste,aide,histoire,pageOuvrage,pagesOuvrage,lieuAtteste:true,
+         annee:dossier.toUpperCase()==='13353A' ? 2016 : entree.annee};
+     }
      return {...entree,...complements[dossier]};
    });
    fiches = [...inscrits,...locales].sort(comparerNoms);
    const territoires = [...new Set(fiches.map(p=>p.territoire).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'fr'));
    departement.replaceChildren(new Option('Tous les départements',''),...territoires.map(t=>new Option(t,t)));
    chargement = '';
+   if (parametresFiches.get('departement') === '84') departement.value = 'Vaucluse';
  }
  recherche.value = parametresFiches.get('sauvetage') || '';
  function renderJustes() {
@@ -1616,7 +1625,7 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
      const titre = el('strong',nom);
      titre.className = 'portrait-name';
      const scene = el('span','');
-     const [periode,geste,pages,pagePdf] = reperesSauvetages[p.id] || [p.periode,p.geste];
+     const [periode,geste,pages,pagePdf] = reperesSauvetages[p.id] || [p.periode,p.geste,p.pagesOuvrage,p.pageOuvrage];
      const decor = p.id && (decorsSauvetages[p.id] || decorsSauvetages.sorgues);
      const portrait = portraitsJustes[p.slug] || (p.id==='kokine' && norm(p.nom)==='combe' ? portraitsJustes.combe : null);
      scene.className = 'portrait-scene';
@@ -1660,11 +1669,11 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
      ouvrir.className = 'portrait-ouvrir';
      const lieu = [p.commune,p.territoire].filter(Boolean).join(' · ');
      resume.append(el('strong',statut));
-     if (lieu) resume.append(ligne(p.id ? 'Lieu du sauvetage' : 'Localisation de la notice',lieu));
+     if (lieu) resume.append(ligne(p.id || p.lieuAtteste ? 'Lieu du sauvetage' : 'Localisation de la notice',lieu));
      if (periode) resume.append(ligne('Période',periode));
      if (geste) resume.append(ligne('Geste',geste));
      if (p.aide) resume.append(ligne('Personnes aidées',p.aide));
-     const apercu = apercusSauvetages[p.id || p.dossier];
+     const apercu = apercusSauvetages[p.id || p.dossier] || (p.lieuAtteste ? p.histoire : '');
      if (apercu) {
        const texte = el('span',apercu);
        texte.className = 'justes-apercu';
@@ -1690,7 +1699,7 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
      }
      if(p.alias) details.append(ligne('Autre nom',p.alias));
      details.append(el('h3','Rôle'),el('p',statut));
-     if(lieu) details.append(el('h3',p.id ? 'Lieu du sauvetage' : 'Localisation de la notice'),el('p',lieu));
+     if(lieu) details.append(el('h3',p.id || p.lieuAtteste ? 'Lieu du sauvetage' : 'Localisation de la notice'),el('p',lieu));
      if(p.aide) details.append(el('h3','Personnes aidées'),el('p',p.aide));
      if(p.histoire) details.append(el('h3','Le geste de sauvetage'),el('p',periode+' · '+geste),el('p',p.histoire));
      if(p.dossier) details.append(el('h3','Reconnaissance'),el('p',[p.annee,'Dossier Yad Vashem '+p.dossier].filter(Boolean).join(' · ')));
