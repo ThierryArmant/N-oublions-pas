@@ -569,10 +569,10 @@ function encadrerPortrait(front,scene,p,duConvoi){
 function signalerPortraitAbsent(scene,texte='Portrait non trouvé'){
  scene.querySelector('.portrait-placeholder')?.remove();
  if(scene.querySelector('.portrait-absence'))return;
- const note=el('small',texte);
+ const note=el('small',texte==='Portrait non trouvé' ? 'Son portrait reste à retrouver' : texte);
  note.className='portrait-absence';
  scene.append(note);
- const legende=el('small','Illustration · femmes engagées');
+ const legende=el('small','Illustration');
  legende.className='portrait-decor-label illustration-femmes-legende';
  scene.append(legende);
 }
