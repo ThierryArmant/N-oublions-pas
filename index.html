@@ -1761,9 +1761,6 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
      const legende = el('small',decor.label);
      legende.className = 'portrait-decor-label';
      scene.append(legende);
-     } else if (!portrait) {
-       signalerPortraitAbsent(scene,'Portrait à documenter');
-       scene.querySelector('.illustration-femmes-legende')?.remove();
      }
      if (portrait) {
        const img = el('img','');
@@ -1805,7 +1802,9 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
      }
      resume.append(ouvrir);
      face.setAttribute('aria-label','Ouvrir la fiche de '+nom);
-     face.append(titre,scene,resume);
+     face.append(titre);
+     if(decor || portrait) face.append(scene);
+     face.append(resume);
      const details = el('div','');
      details.className = 'portrait-back';
      const nomFiche = el('strong',nom);
