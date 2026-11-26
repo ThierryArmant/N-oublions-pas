@@ -459,13 +459,21 @@ html{scrollbar-gutter:stable}
 <nav class="navigation-galeries" aria-label="Accès direct aux galeries"><a href="#home">← Accueil</a><a href="?vue=femmes#personnes">Femmes du convoi</a><a href="#hommes">Hommes du convoi</a><a href="#temoignages">Témoignages</a></nav>
 <h2>Justes parmi les Nations</h2>
 <h3>Qui a aidé qui ?</h3>
-<p class="intro">Explorez les sauvetages par département. Les premières fiches concernent le Vaucluse. Pour chaque récit, retrouvez les personnes aidées, les sources et le statut de la reconnaissance.</p>
-<label for="justes-departement">Département du sauvetage</label>
+<p class="intro">Recherchez les Justes de France par nom ou département. Les fiches accompagnées d’un récit précisent qui a été aidé, où et comment.</p>
+<label for="justes-departement">Département indiqué dans la notice</label>
 <select id="justes-departement"><option value="">Tous les départements</option><option value="84">84 — Vaucluse</option></select>
 <label for="justes-recherche">Nom, personne aidée ou commune</label>
 <input class="search" id="justes-recherche" type="search">
 <p id="justes-compteur" role="status"></p>
 <div id="justes-resultats" class="results"></div>
+<div class="men-pagination" aria-label="Pagination des Justes"><button type="button" id="justes-precedentes">← Précédentes</button><span id="justes-page"></span><button type="button" id="justes-suivantes">Suivantes →</button></div>
+<h3>Sources et ouvrages</h3>
+<ul>
+<li><a href="https://www.yadvashem.org/fr/justes.html">Institut Yad Vashem</a> · <a href="https://wwv.yadvashem.org/yv/pdf-drupal/france.pdf">Liste officielle pour la France</a></li>
+<li><a href="https://yadvashem-france.org/documents-et-rapports/2777/">Les Justes d’Aquitaine · ouvrage en PDF</a></li>
+<li><a href="https://yadvashem-france.org/documents-et-rapports/170/">Les Justes de la région Centre · présentation et couverture</a></li>
+<li><a href="https://yadvashem-france.org/categorie/publications/">Publications du Comité français pour Yad Vashem</a></li>
+</ul>
 <p class="note">Photo de la bannière · <a href="https://commons.wikimedia.org/wiki/File:Sorgues_Gare_SNCF.JPG">Gare de Sorgues, Véronique PAGNIER, 2009, domaine public</a>.</p>
 <p><a href="https://yadvashem-france.org/recherche-justes/">Rechercher dans toute la France dans l’annuaire du Comité français pour Yad Vashem</a></p>
 </section></main><nav class="mobile-nav" aria-label="Navigation mobile"><a href="#home"><span aria-hidden="true">⌂</span>Accueil</a><a href="#histoire"><span aria-hidden="true">◷</span>Parcours</a><a href="#personnes"><span aria-hidden="true">♙</span>Personnes</a><a href="#archives"><span aria-hidden="true">⌕</span>Archives</a><a href="bleuet.html"><span aria-hidden="true">✿</span>Bleuet</a><a href="#justes"><span aria-hidden="true">◇</span>Justes</a></nav><script>
@@ -1475,8 +1483,8 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
 (() => {
  const livret = 'https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/56191/402999/file/Les%20Justes%20parmi%20les%20Nations%20de%20la%20re%CC%81gion%20Provence-Alpes-Co%CC%82te%20d%27Azur-%40.pdf#page=44';
  const sauvetages = [["landis","Avignon",2012,"12435 et 12435a","Abraham et Ryfka Borowski, leurs fils et la famille Topeza","La famille Landi héberge les Borowski après une intervention de la Gestapo. Yvonne va chercher Samuel et Marcel Topeza à Paris, puis les confie à Juliette Boudou.",[["LANDI","Giuseppe"],["LANDI","Henriette"],["LANDI-BOROWSKI","Yvonne"],["BOUDOU","Juliette"]]],["clement","Piolenc",2011,"12206","Bertrand Kahn","En 1944, Yvonne et Sidoine Clément hébergent Bertrand Kahn, dix ans, pendant trois mois et le présentent comme leur neveu.",[["CLÉMENT","Sidoine"],["CLÉMENT","Yvonne"]],"https://yadvashem-france.org/justes_de_france/12206/"],["charmaison","Bollène",2005,"10517","Jacob Cukier","Marie-Angèle et Georges Charmaison cachent Jacob Cukier dans leur ferme. L’enfant prend le nom de Jacques Cullerier.",[["CHARMAISON","Marie-Angèle"],["CHARMAISON","Georges"]]],["bezol","Apt",2004,"10356","Les familles Mekuzas et Dimenschstein","Agnès et François Bézol accueillent des personnes juives et demandent à leurs proches de garder leur présence secrète.",[["BÉZOL","Agnès"],["BÉZOL","François"]]],["chapelin","Roussillon",2004,"10356a","Les familles Mekuzas et Dimenschstein","Berthe et Fernand Chapelin cachent des personnes juives. Leur fils évoque la consigne de silence donnée par ses parents.",[["CHAPELIN","Berthe"],["CHAPELIN","Fernand"]]],["kokine","Sorgues",null,null,"Meyer Kokine","Le 18 août 1944, Juliette Combe vient en aide à trois évadés réfugiés dans son grenier et détourne un soldat allemand. Plus tard, Robert Establet conduit quatre évadés, dont Meyer Kokine, jusqu’à son lieutenant.",[["COMBE","Juliette"],["ESTABLET","Robert"]],"https://www.lesdeportesdutrainfantome.org/ville_sorgues.htm"],["fischer","Sorgues",null,null,"Willy von Fischer","Selon le récit publié par l’Amicale, Joseph Cortés-y-Marti conduit Willy von Fischer jusqu’au refuge de M. Pina et le ravitaille jusqu’à la Libération. Le père de Joseph avait accueilli l’évadé.",[["CORTÉS-Y-MARTI","Joseph"]],"https://www.lesdeportesdutrainfantome.org/ville_sorgues.htm"]];
- const fiches = sauvetages.flatMap(([id, commune, annee, dossier, aide, histoire, personnes, source]) =>
-   personnes.map(([nom, prenom]) => ({id, commune, departement:'84', annee, dossier, aide, histoire, nom, prenom, source:source || livret}))
+ let fiches = sauvetages.flatMap(([id, commune, annee, dossier, aide, histoire, personnes, source]) =>
+   personnes.map(([nom, prenom]) => ({id, commune, departement:'84', territoire:'Vaucluse', annee, dossier, aide, histoire, nom, prenom, source:source || livret}))
  ).sort(comparerNoms);
  const decorsSauvetages = {"sorgues":{"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sorgues_Gare_SNCF.JPG/960px-Sorgues_Gare_SNCF.JPG","url":"https://commons.wikimedia.org/wiki/File:Sorgues_Gare_SNCF.JPG","label":"Gare de Sorgues (2009)","author":"Véronique PAGNIER","license":"Domaine public"},"clement":{"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mairie_PIOLENC.jpg/960px-Mairie_PIOLENC.jpg","url":"https://commons.wikimedia.org/wiki/File:Mairie_PIOLENC.jpg","label":"Vue de Piolenc (2009)","author":"Jeanlouiszimmermann","license":"CC BY-SA 3.0"},"charmaison":{"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mairie_de_Boll%C3%A8ne.jpg/960px-Mairie_de_Boll%C3%A8ne.jpg","url":"https://commons.wikimedia.org/wiki/File:Mairie_de_Boll%C3%A8ne.jpg","label":"Vue de Bollène (2015)","author":"Ville de Bollène","license":"CC BY-SA 4.0"},"chapelin":{"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Vaucluse-roussillon-village.jpg/960px-Vaucluse-roussillon-village.jpg","url":"https://commons.wikimedia.org/wiki/File:Vaucluse-roussillon-village.jpg","label":"Vue de Roussillon (2003)","author":"Greudin","license":"Domaine public"},"landis":{"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rue_des_Teinturiers%2C_Avignon.jpg/960px-Rue_des_Teinturiers%2C_Avignon.jpg","url":"https://commons.wikimedia.org/wiki/File:Rue_des_Teinturiers%2C_Avignon.jpg","label":"Rue des Teinturiers, Avignon (2005)","author":"Shoshanah","license":"CC BY 2.0"},"bezol":{"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vue_g%C3%A9n%C3%A9rale_sur_Apt.JPG/960px-Vue_g%C3%A9n%C3%A9rale_sur_Apt.JPG","url":"https://commons.wikimedia.org/wiki/File:Vue_g%C3%A9n%C3%A9rale_sur_Apt.JPG","label":"Vue d’Apt","author":"Véronique PAGNIER","license":"CC0"}};
  const reperesSauvetages = {
@@ -1492,16 +1500,74 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
  const departement = document.getElementById('justes-departement');
  const grille = document.getElementById('justes-resultats');
  const compteur = document.getElementById('justes-compteur');
+ const precedentes = document.getElementById('justes-precedentes');
+ const suivantes = document.getElementById('justes-suivantes');
+ const pageLabel = document.getElementById('justes-page');
+ const taillePage = 30;
+ let page = 0;
+ let chargement = 'Chargement de l’index national…';
+ const dateRegistre = date => /^\d{8}$/.test(date) ? date.slice(6)+'/'+date.slice(4,6)+'/'+date.slice(0,4) : '';
+ const dossierURL = dossier => 'https://yadvashem-france.org/dossier/nom/'+encodeURIComponent(dossier)+'/';
+ const complements = {
+   '4393': {
+     periode:'Sous l’Occupation', geste:'Cacher des enfants à l’hôtel Stella',
+     aide:'Maurice Friedman, Jean Friedman, Fred Milhaud',
+     histoire:'Hôtelière à Paris, Marie Marteau réserve des chambres à des jeunes Juifs menacés et travaille avec l’Entraide temporaire pour les mettre à l’abri. Elle conserve les noms véritables, les alias et les lieux de refuge afin que les enfants puissent être retrouvés après la Libération.',
+     autre:'https://collections.yadvashem.org/en/righteous/4016310', label:'Notice de Yad Vashem Jérusalem (anglais)'
+   },
+   '10490': {
+     periode:'Décembre 1942', geste:'Accompagner des réfugiés par les Pyrénées',
+     aide:'Treize personnes juives, dont Claude Henlé et sa famille',
+     histoire:'Jeanne Acgouau, son père Jean-Pierre et Jean-Baptiste Rogalle guident treize personnes vers l’Espagne depuis Aulus-les-Bains. Jeanne porte Claude Henlé, encore bébé, pendant la traversée.'
+   },
+   '6091': {
+     periode:'1942–1944', geste:'Mettre une mère et ses enfants à l’abri',
+     aide:'Louise, Jean-Claude et Liliane Moscovici',
+     histoire:'Odette Blanchet, devenue Odette Bergoffen, accompagne Louise Moscovici vers Tours. Après la sortie des enfants de Drancy, elle les emmène en Touraine, puis réunit la famille. Le réseau de Jean Meunier les aide à obtenir des papiers et des cartes d’alimentation.',
+     autre:'https://yadvashem-france.org/la-vie-du-comite/actualites/je-me-suis-trouvee-la-au-bon-moment-juste-parmi-les-nations-odette-bergoffen-recoit-les-insignes-dofficier-de-la-legion-dhonneur/', label:'Récit du Comité français pour Yad Vashem'
+   },
+   '9473': {
+     periode:'Sous l’Occupation', geste:'Héberger deux enfants en Dordogne',
+     aide:'David et Rosette',
+     histoire:'À Ménesplet, Camille et Noémie Brugère accueillent David et Rosette. Les deux enfants vivent auprès de la famille jusqu’en 1945.',
+     autre:'https://yadvashem-france.org/wp-content/uploads/2020/08/Justes-daquitaine.pdf#page=21', label:'Ouvrage sur les Justes d’Aquitaine'
+   }
+ };
+ function installerIndex({personnes}) {
+   if (!Array.isArray(personnes) || !personnes.length) throw Error('Index national indisponible');
+   const locales = fiches.slice();
+   const inscrits = personnes.map(([slug,nom,prenom,alias,dossier,commune,territoire,postal,naissance,deces,annee]) => {
+     const local = locales.find(p => p.annee && p.commune === commune &&
+       norm(p.prenom) === norm(prenom) && (norm(p.nom) === norm(nom) || norm(p.nom) === norm(alias+'-'+nom)));
+     const entree = {slug,nom,prenom,alias,dossier,commune,territoire,
+       departement:postal.startsWith('97') || postal.startsWith('98') ? postal.slice(0,3) : postal.slice(0,2),
+       naissance:dateRegistre(naissance),deces:dateRegistre(deces),annee,reconnu:true,source:dossierURL(dossier)};
+     if(local) {
+       locales.splice(locales.indexOf(local),1);
+       return {...entree,...local,registre:dossier,notice:entree.source};
+     }
+     return {...entree,...complements[dossier]};
+   });
+   fiches = [...inscrits,...locales].sort(comparerNoms);
+   const territoires = [...new Set(fiches.map(p=>p.territoire).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'fr'));
+   departement.replaceChildren(new Option('Tous les départements',''),...territoires.map(t=>new Option(t,t)));
+   chargement = '';
+ }
  recherche.value = parametresFiches.get('sauvetage') || '';
  function renderJustes() {
    const filtre = norm(recherche.value.trim());
    const liste = fiches.filter(p =>
-     (!departement.value || p.departement === departement.value) &&
-     norm([p.nom, p.prenom, p.prenom+' '+p.nom, p.aide, p.commune, p.departement].join(' ')).includes(filtre)
+     (!departement.value || p.territoire === departement.value || p.departement === departement.value) &&
+     norm([p.nom, p.prenom, p.prenom+' '+p.nom, p.alias, p.aide, p.commune, p.territoire, p.departement, p.dossier].join(' ')).includes(filtre)
    );
-   compteur.textContent = liste.length ? liste.length + ' fiche(s)' : 'Aucune fiche pour cette recherche';
+   compteur.textContent = chargement || (liste.length ? liste.length.toLocaleString('fr-FR') + ' fiches' : 'Aucune fiche pour cette recherche');
+   const totalPages = Math.max(1,Math.ceil(liste.length / taillePage));
+   page = Math.max(0,Math.min(page,totalPages-1));
+   precedentes.disabled = page===0;
+   suivantes.disabled = page+1>=totalPages;
+   pageLabel.textContent = 'Page '+(page+1)+' sur '+totalPages;
    grille.replaceChildren();
-   for (const p of liste) {
+   for (const p of liste.slice(page*taillePage,(page+1)*taillePage)) {
      const carte = el('article', '');
      carte.className = 'portrait-card';
      const nom = nomPrenomFiche(p);
@@ -1511,9 +1577,10 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
      const titre = el('strong',nom);
      titre.className = 'portrait-name';
      const scene = el('span','');
-     const [periode,geste,pages,pagePdf] = reperesSauvetages[p.id];
-     const decor = decorsSauvetages[p.id] || decorsSauvetages.sorgues;
+     const [periode,geste,pages,pagePdf] = reperesSauvetages[p.id] || [p.periode,p.geste];
+     const decor = p.id && (decorsSauvetages[p.id] || decorsSauvetages.sorgues);
      scene.className = 'portrait-scene';
+     if (decor) {
      const photo = el('img','');
      photo.className = 'portrait-context';
      photo.alt = '';
@@ -1524,7 +1591,11 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
      const legende = el('small',decor.label);
      legende.className = 'portrait-decor-label';
      scene.append(legende);
-     const statut = p.annee ? 'Juste parmi les Nations' : 'Sauvetage documenté · reconnaissance à vérifier';
+     } else {
+       signalerPortraitAbsent(scene,'Portrait à documenter');
+       scene.querySelector('.illustration-femmes-legende')?.remove();
+     }
+     const statut = p.annee || p.reconnu ? 'Juste parmi les Nations' : 'Sauvetage documenté · reconnaissance à vérifier';
      const resume = el('span','');
      resume.className = 'portrait-label';
      const ligne = (label,texte) => {
@@ -1535,8 +1606,14 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
      };
      const ouvrir = el('span','Ouvrir la fiche →');
      ouvrir.className = 'portrait-ouvrir';
-     resume.append(el('strong',statut),ligne('Lieu',p.commune+' ('+p.departement+')'),ligne('Période',periode),
-       ligne('Geste',geste),ligne('Personnes aidées',p.aide),ouvrir);
+     const lieu = [p.commune,p.territoire].filter(Boolean).join(' · ');
+     resume.append(el('strong',statut));
+     if (lieu) resume.append(ligne(p.id ? 'Lieu du sauvetage' : 'Localisation de la notice',lieu));
+     if (periode) resume.append(ligne('Période',periode));
+     if (geste) resume.append(ligne('Geste',geste));
+     if (p.aide) resume.append(ligne('Personnes aidées',p.aide));
+     if (p.reconnu && !p.histoire) resume.append(ligne('Dossier Yad Vashem',p.dossier));
+     resume.append(ouvrir);
      face.setAttribute('aria-label','Ouvrir la fiche de '+nom);
      face.append(titre,scene,resume);
      const details = el('div','');
@@ -1544,32 +1621,58 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
      const nomFiche = el('strong',nom);
      nomFiche.className = 'back-title';
      details.append(nomFiche);
-     afficherDatesFiche(details,p);
-     details.append(el('h3','Rôle'),el('p',statut),el('h3','Lieu du sauvetage'),el('p',p.commune+' ('+p.departement+')'),
-       el('h3','Personnes aidées'),el('p',p.aide),el('h3','Le geste de sauvetage'),el('p',periode+' · '+geste),el('p',p.histoire));
-     if(p.annee) details.append(el('h3','Reconnaissance'),el('p',p.annee+' · Dossier Yad Vashem '+p.dossier));
+     if(p.naissance || p.deces) {
+       const dates = el('div','');
+       dates.className = 'fiche-dates';
+       if(p.naissance) dates.append(ligne('Naissance',p.naissance));
+       if(p.deces) dates.append(ligne('Décès',p.deces));
+       details.append(dates);
+     }
+     if(p.alias) details.append(ligne('Autre nom',p.alias));
+     details.append(el('h3','Rôle'),el('p',statut));
+     if(lieu) details.append(el('h3',p.id ? 'Lieu du sauvetage' : 'Localisation de la notice'),el('p',lieu));
+     if(p.aide) details.append(el('h3','Personnes aidées'),el('p',p.aide));
+     if(p.histoire) details.append(el('h3','Le geste de sauvetage'),el('p',periode+' · '+geste),el('p',p.histoire));
+     if(p.dossier) details.append(el('h3','Reconnaissance'),el('p',[p.annee,'Dossier Yad Vashem '+p.dossier].filter(Boolean).join(' · ')));
      if(p.id === 'kokine') {
        const kokine = el('a','Ouvrir la fiche de Meyer Kokine');
        kokine.href = '?homme=Kokine#hommes';
        details.append(kokine);
      }
-     const lien = el('a',p.annee ? 'Consulter le récit et les documents' : 'Consulter les témoignages et photographies de l’Amicale');
-     lien.href = p.source;
+     const lien = el('a',p.reconnu ? 'Lire le dossier en français au Comité français pour Yad Vashem' : p.annee ? 'Consulter le récit et les documents' : 'Consulter les témoignages et photographies de l’Amicale');
+     lien.href = p.notice || p.source;
      details.append(el('h3','Sources'),lien);
      if(pages) {
        const ouvrage = el('a','Ouvrage de l’ONACVG · p. '+pages);
        ouvrage.href = livret.replace(/#page=\d+$/,'#page='+pagePdf);
        details.append(ouvrage);
      }
+     if(p.autre) {
+       const autre = el('a',p.label);
+       autre.href = p.autre;
+       details.append(autre);
+     }
+     if (decor) {
      const credit = el('a','Photo de contexte · '+decor.label+' · '+decor.author+' · '+decor.license+' · affichage en noir et blanc');
      credit.href = decor.url;
      details.append(credit);
+     }
      installerLecturePortrait(carte,face,details);
      grille.append(carte);
    }
  }
- recherche.addEventListener('input',renderJustes);
- departement.addEventListener('change',renderJustes);
+ function reprendreRecherche(){page=0;renderJustes()}
+ function allerPage(delta){page+=delta;renderJustes();compteur.scrollIntoView({block:'start'})}
+ recherche.addEventListener('input',reprendreRecherche);
+ departement.addEventListener('change',reprendreRecherche);
+ precedentes.onclick=()=>allerPage(-1);
+ suivantes.onclick=()=>allerPage(1);
  renderJustes();
+ fetch('justes-france.json').then(r=>{
+   if(!r.ok) throw Error('Index national indisponible');
+   return r.json();
+ }).then(installerIndex).catch(()=>{
+   chargement='Index national indisponible. Les fiches locales restent consultables.';
+ }).finally(reprendreRecherche);
 })();
 </script></body></html>
