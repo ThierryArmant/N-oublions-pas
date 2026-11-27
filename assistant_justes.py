@@ -137,11 +137,19 @@ def main():
         [data-testid="stForm"] {border:0;padding:0}
         [data-testid="stTextInput"] input {background:#fff;color:#163754}
         [data-testid="stFormSubmitButton"] button {background:#163754;color:#fff;border:0;font-weight:650}
+        [data-testid="stForm"] [data-testid="stHorizontalBlock"] {flex-wrap:wrap;gap:.5rem}
+        [data-testid="stForm"] [data-testid="stColumn"]:first-child {flex:1 1 12rem;width:auto}
+        [data-testid="stForm"] [data-testid="stColumn"]:last-child {flex:0 0 auto;width:auto}
+        @media(max-width:700px) {
+            [data-testid="stHorizontalBlock"] {flex-wrap:wrap}
+            [data-testid="stHorizontalBlock"] > [data-testid="stColumn"] {flex:1 1 100%;width:100%;min-width:0}
+        }
         </style>""", unsafe_allow_html=True)
     else:
         st.title("Mémo · N’oublions pas !")
         st.caption("Recherche dans les fiches documentées des Justes")
-    with st.form("question", border=False):
+    panneau_question, panneau_reponse = st.columns([2, 3], gap="medium")
+    with panneau_question, st.form("question", border=False):
         champ, bouton = st.columns([5, 1])
         with champ:
             question = st.text_input(
@@ -152,30 +160,44 @@ def main():
             )
         with bouton:
             submitted = st.form_submit_button("Rechercher", use_container_width=True)
-    if not submitted or not question.strip():
+    active = submitted and bool(question.strip())
+    if integre:
+        from streamlit.components.v1 import html
+
+        html(
+            f"""<script>
+            window.top.postMessage(
+                {{type: 'memo-affichage', active: {json.dumps(active)}}},
+                'https://thierryarmant.github.io'
+            );
+            </script>""",
+            height=0,
+        )
+    if not active:
         return
-    results = rechercher(question)
-    if not results:
-        st.info("Les fiches documentées ne permettent pas de répondre à cette question.")
-        return
-    key = setting("ALBERT_API_KEY")
-    model = setting("ALBERT_MODEL")
-    if key and model:
-        try:
-            st.write(albert(question, results, key, model))
-        except (HTTPError, URLError, TimeoutError, ValueError, KeyError, IndexError):
-            st.info("Albert est momentanément indisponible. Vous pouvez consulter les extraits ci-dessous.")
-    else:
-        st.info("La rédaction avec Albert est en attente de configuration. Voici les extraits pertinents.")
-    st.subheader("Fiches en rapport avec la réponse")
-    for item in results:
-        link = SITE + "?vue=justes&sauvetage=" + quote(item["label"]) + "&ouvrir=1#justes"
-        st.link_button(f"Ouvrir la fiche de {item['label']}", link)
-    st.subheader("Dossiers consultés")
-    for index, item in enumerate(results, start=1):
-        st.markdown(f"**[{index}] {item['label']}** · {item['place']}")
-        st.write(item["facts"])
-        st.markdown(f"[Consulter la source]({item['source']})")
+    with panneau_reponse:
+        results = rechercher(question)
+        if not results:
+            st.info("Les fiches documentées ne permettent pas de répondre à cette question.")
+            return
+        key = setting("ALBERT_API_KEY")
+        model = setting("ALBERT_MODEL")
+        if key and model:
+            try:
+                st.write(albert(question, results, key, model))
+            except (HTTPError, URLError, TimeoutError, ValueError, KeyError, IndexError):
+                st.info("Albert est momentanément indisponible. Vous pouvez consulter les extraits ci-dessous.")
+        else:
+            st.info("La rédaction avec Albert est en attente de configuration. Voici les extraits pertinents.")
+        st.subheader("Fiches en rapport avec la réponse")
+        for item in results:
+            link = SITE + "?vue=justes&sauvetage=" + quote(item["label"]) + "&ouvrir=1#justes"
+            st.link_button(f"Ouvrir la fiche de {item['label']}", link)
+        with st.expander("Dossiers consultés"):
+            for index, item in enumerate(results, start=1):
+                st.markdown(f"**[{index}] {item['label']}** · {item['place']}")
+                st.write(item["facts"])
+                st.markdown(f"[Consulter la source]({item['source']})")
 
 
 if __name__ == "__main__":
