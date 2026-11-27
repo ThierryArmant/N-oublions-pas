@@ -111,12 +111,30 @@ def main():
         except StreamlitSecretNotFoundError:
             return ""
 
-    st.set_page_config(page_title="Recherche historique · N’oublions pas !")
-    st.title("Rechercher dans les dossiers des Justes")
-    st.caption("Recherche dans les fiches documentées de N’oublions pas !")
-    with st.form("question"):
-        question = st.text_input("Votre question", placeholder="Quel Juste était cheminot dans le Vaucluse ?", max_chars=300)
-        submitted = st.form_submit_button("Rechercher")
+    st.set_page_config(page_title="Mémo · N’oublions pas !", layout="wide")
+    integre = st.query_params.get("memo") == "accueil"
+    if integre:
+        st.markdown("""<style>
+        [data-testid="stAppViewContainer"], [data-testid="stApp"] {background:#eaf1f7}
+        [data-testid="stMainBlockContainer"] {padding:.15rem .2rem 1rem;max-width:none}
+        [data-testid="stForm"] {border:0;padding:0}
+        [data-testid="stTextInput"] input {background:#fff;color:#163754}
+        [data-testid="stFormSubmitButton"] button {background:#163754;color:#fff;border:0;font-weight:650}
+        </style>""", unsafe_allow_html=True)
+    else:
+        st.title("Mémo · N’oublions pas !")
+        st.caption("Recherche dans les fiches documentées des Justes")
+    with st.form("question", border=False):
+        champ, bouton = st.columns([5, 1])
+        with champ:
+            question = st.text_input(
+                "Votre question",
+                placeholder="Quel Juste était cheminot dans le Vaucluse ?",
+                max_chars=300,
+                label_visibility="collapsed",
+            )
+        with bouton:
+            submitted = st.form_submit_button("Rechercher", use_container_width=True)
     if not submitted or not question.strip():
         return
     results = rechercher(question)
