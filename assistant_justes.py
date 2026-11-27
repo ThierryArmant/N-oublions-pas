@@ -46,11 +46,13 @@ def notices():
             label = f"{given} {name}"
             key = next((k for k, row in entries.items() if tokens(row["label"]) == tokens(label)
                         and city in row["place"]), "local-" + label)
-            number = numbers.split()[0] if numbers else ""
+            url = entries[key]["source"] if key in entries else dossier_url(numbers.split()[0]) if numbers else ""
+            if not url:
+                url = source[0] if source else SITE
             entries[key] = dict(label=label, place=city + ", Vaucluse",
                                 facts=f"{story} Personnes aidées : {people}. " + (
                                     f"Reconnaissance par Yad Vashem : {year}." if year else "Sauvetage documenté, reconnaissance non établie."),
-                                source=source[0] if source else dossier_url(number), terms="")
+                                source=url, terms="")
     for key, entry in entries.items():
         if key == "landi-giuseppe":
             entry["facts"] += " Giuseppe Landi était agent de la SNCF (cheminot)."
@@ -62,14 +64,29 @@ def rechercher(question, limit=6):
     query = tokens(question)
     results = []
     for item in notices():
+        if not item["facts"]:
+            continue
         name = tokens(item["label"])
         place = tokens(item["place"])
         facts = tokens(item["facts"] + " " + item["terms"])
-        score = 5 * len(query & name) + 2 * len(query & place) + 4 * len(query & facts)
-        if score and item["facts"] and (query & (name | facts) or query <= place):
-            results.append((score, item))
-    results.sort(key=lambda row: -row[0])
-    return [item for _, item in results[:limit]]
+        matches = query & (name | place | facts)
+        strong = query & (name | facts)
+        if not matches or (not strong and matches != query):
+            continue
+        exact_name = len(name) >= 2 and name <= query
+        score = 6 * len(query & name) + 3 * len(query & place) + 4 * len(query & facts)
+        results.append((exact_name, len(matches), score, item))
+    results.sort(key=lambda row: row[:3], reverse=True)
+    if not results:
+        return []
+    # A single-word coincidence should not dilute a clearly better match.
+    best_exact, best_coverage = results[0][:2]
+    selected = [
+        item for exact, coverage, _, item in results
+        if (not best_exact or exact) and coverage >= max(1, best_coverage - 1)
+        and (best_coverage < 2 or coverage >= 2)
+    ]
+    return selected[:limit]
 
 
 def albert(question, results, key, model):
