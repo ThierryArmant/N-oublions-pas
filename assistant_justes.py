@@ -176,7 +176,7 @@ def main():
     if not active:
         return
     with panneau_reponse:
-        with st.spinner("Un instant, je fouille dans les fiches…"):
+        with st.spinner("Un instant, je fouille dans les archives…"):
             results = rechercher(question)
             if not results:
                 st.info("Les fiches documentées ne permettent pas de répondre à cette question.")
