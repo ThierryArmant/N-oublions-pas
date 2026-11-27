@@ -245,7 +245,7 @@ def main():
         st.title("Mémo · N’oublions pas !")
         st.caption("Recherche dans les fiches et témoignages de N’oublions pas !")
     panneau_question, panneau_reponse = st.columns([2, 3], gap="medium")
-    with panneau_question, st.form("question", border=False):
+    with panneau_question, st.form("question", border=False, clear_on_submit=True):
         champ, bouton = st.columns([5, 1])
         with champ:
             question = st.text_input(
@@ -256,7 +256,8 @@ def main():
             )
         with bouton:
             submitted = st.form_submit_button("Rechercher", use_container_width=True)
-    active = submitted and bool(question.strip())
+    question = question.strip()
+    active = submitted and bool(question)
     if integre:
         from streamlit.components.v1 import html
 
@@ -272,6 +273,7 @@ def main():
     if not active:
         return
     with panneau_reponse:
+        question_affichee = st.empty()
         with st.spinner("Un instant, je cherche dans les archives…"):
             results = rechercher(question)
             if not results:
@@ -290,6 +292,7 @@ def main():
                     if decision["status"] == "refuse":
                         st.info("Mémo répond aux questions historiques à partir des documents de N’oublions pas !")
                         return
+                    question_affichee.text(question)
                     st.write(decision["message"])
                     if decision["status"] == "clarify":
                         return
