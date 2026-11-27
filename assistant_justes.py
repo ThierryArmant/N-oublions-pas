@@ -36,6 +36,7 @@ def texte(valeur):
 
 
 ARCHIVES_TRAJET = "https://archives.toulouse.fr/litineraire-emprunte-par-le-train-fantome/"
+BULLETIN_EFFECTIFS = "https://www.campduvernet.eu/medias/files/guerrilleros-137-.pdf#page=3"
 
 
 @lru_cache(maxsize=1)
@@ -64,6 +65,9 @@ def bilan_catalogue(question):
         lignes.append((f"La galerie des hommes du Train fantôme contient {len(data['hommes'])} fiches.",
                        "Voir les hommes du convoi", SITE + "#hommes"))
     if convoi:
+        effectif = "64 femmes et 660 hommes" if femmes and hommes else "64 femmes" if femmes else "660 hommes"
+        lignes.append((f"Le Livre-Mémorial, dans sa mise à jour du 24 octobre 2014 reproduite par le bulletin Guerrilleros, recense {effectif} pour le convoi.",
+                       "Voir le bulletin Guerrilleros, page 3", BULLETIN_EFFECTIFS))
         chiffres = "62 femmes et 640 hommes" if femmes and hommes else "62 femmes" if femmes else "640 hommes"
         lignes.append((f"Les Archives municipales de Toulouse indiquent {chiffres} au départ du 3 juillet 1944.",
                        "Voir la source des Archives de Toulouse", ARCHIVES_TRAJET))
@@ -175,7 +179,13 @@ def notices():
         source="https://www.campduvernet.eu/pages/403-personnes-deportees-par-le-train-fantome.html",
         link=SITE + "#histoire",
     )
-    return [*entries.values(), *portraits(), *temoignages(page), trajet, vernet]
+    recensement = dict(
+        label="Le recensement du Train fantôme dans le Livre-Mémorial", place="Toulouse · Dachau",
+        surname="", rubrique="Repères historiques", terms="effectif total comptage convoi I.261 Farreny révision évasions",
+        facts="Le bulletin Guerrilleros n° 137 reproduit les chiffres du Livre-Mémorial mis à jour le 24 octobre 2014 : 660 hommes et 64 femmes recensés, dont 160 évasions au total durant un transport ou en déportation, sans ventilation par sexe. L’ajout de 68 identités concerne le passage du décompte masculin de 592 à 660. Ce recensement est distinct du chiffre indiqué pour le départ par les Archives de Toulouse.",
+        source=BULLETIN_EFFECTIFS, link=BULLETIN_EFFECTIFS,
+    )
+    return [*entries.values(), *portraits(), *temoignages(page), trajet, vernet, recensement]
 
 
 def rechercher(question, limit=6):
