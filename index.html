@@ -468,6 +468,10 @@ window.addEventListener("message", (event) => {
   if (event.origin !== "https://n-oublions-pas.streamlit.app" || !iframe || (event.source?.parent !== iframe.contentWindow && event.source?.parent?.parent !== iframe.contentWindow)) return;
   if (event.data?.type === "memo-affichage" && typeof event.data.active === "boolean") {
     iframe.classList.toggle("memo-reponse", event.data.active);
+    const height = event.data.height;
+    iframe.style.height = Number.isFinite(height)
+      ? Math.min(1200, Math.max(90, height + 42)) + "px"
+      : "";
   }
 });
 </script>
@@ -603,6 +607,21 @@ window.addEventListener("message", (event) => {
 <p><a href="https://yadvashem-france.org/recherche-justes/">Rechercher dans toute la France dans l’annuaire du Comité français pour Yad Vashem</a></p>
 </section></main><nav class="mobile-nav" aria-label="Navigation mobile"><a href="./#home"><span aria-hidden="true">⌂</span>Accueil</a><a href="./#histoire"><span aria-hidden="true">◷</span>Parcours</a><a href="./#personnes"><span aria-hidden="true">♙</span>Personnes</a><a href="./#archives"><span aria-hidden="true">⌕</span>Archives</a><a href="bleuet.html"><span aria-hidden="true">✿</span>Bleuet</a><a href="?vue=justes#justes"><span aria-hidden="true">◇</span>Justes</a></nav><script src="justes-photographies.js"></script><script>
 const parametresFiches=new URLSearchParams(location.search);const ficheMemo=parametresFiches.get('fiche');
+const retourMemo=parametresFiches.get('retour')==='memo';
+function revenirAccueilMemo(){
+ window.close();
+ location.replace('./#home');
+}
+if(retourMemo){
+ const temoin=document.getElementById(location.hash.slice(1));
+ if(temoin?.matches('.temoin-card')){
+  const lien=document.createElement('a');
+  lien.href='./#home';
+  lien.textContent='← Retour à Mémo';
+  lien.onclick=event=>{event.preventDefault();revenirAccueilMemo()};
+  temoin.prepend(lien);
+ }
+}
 function cleFicheMemo(p){return [p.nom,p.prenom,p.matricule].map(v=>v||'').join('|')}
 let data,mode=['femmes','portraits','region'].includes(parametresFiches.get('vue'))?parametresFiches.get('vue'):'femmes';const results=document.querySelector('#results'),query=document.querySelector('#query'),count=document.querySelector('#count');query.value=parametresFiches.get('nom')||'';function norm(s){return String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase()}function el(tag,text){let e=document.createElement(tag);e.textContent=text;return e}
 // Renseignements communs aux fiches féminines et masculines.
@@ -1408,7 +1427,7 @@ function installerLecturePortrait(carte,front,contenu,initialiser){
  const titre=contenu.querySelector('.back-title');
  const barre=el('div','');
  barre.className='portrait-dialog-bar';
- const fermer=el('button','Fermer ×');
+ const fermer=el('button',retourMemo?'Retour à Mémo ×':'Fermer ×');
  fermer.type='button';
  fermer.autofocus=true;
  barre.append(el('span',titre.textContent),fermer);
@@ -1451,6 +1470,7 @@ function installerLecturePortrait(carte,front,contenu,initialiser){
  dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close()});
  dialog.addEventListener('close',()=>{
   contenu.querySelector('iframe')?.removeAttribute('src');
+  if(retourMemo){revenirAccueilMemo();return;}
   if(front.isConnected&&dialog.isConnected&&!dialog.open)front.focus({preventScroll:true});
  });
  carte.append(front,dialog);
