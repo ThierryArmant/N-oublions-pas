@@ -451,7 +451,7 @@ html:not(.vue-justes) #justes{display:none}
 <script>
 window.addEventListener("message", (event) => {
   const iframe = document.querySelector(".memo-formulaire");
-  if (event.origin !== "https://n-oublions-pas.streamlit.app" || !iframe || event.source?.parent !== iframe.contentWindow) return;
+  if (event.origin !== "https://n-oublions-pas.streamlit.app" || !iframe || (event.source?.parent !== iframe.contentWindow && event.source?.parent?.parent !== iframe.contentWindow)) return;
   if (event.data?.type === "memo-affichage" && typeof event.data.active === "boolean") {
     iframe.classList.toggle("memo-reponse", event.data.active);
   }
