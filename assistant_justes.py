@@ -154,7 +154,7 @@ def main():
         with champ:
             question = st.text_input(
                 "Votre question",
-                placeholder="Quel Juste était cheminot dans le Vaucluse ?",
+                placeholder="Posez votre question…",
                 max_chars=300,
                 label_visibility="collapsed",
             )
@@ -176,19 +176,20 @@ def main():
     if not active:
         return
     with panneau_reponse:
-        results = rechercher(question)
-        if not results:
-            st.info("Les fiches documentées ne permettent pas de répondre à cette question.")
-            return
-        key = setting("ALBERT_API_KEY")
-        model = setting("ALBERT_MODEL")
-        if key and model:
-            try:
-                st.write(albert(question, results, key, model))
-            except (HTTPError, URLError, TimeoutError, ValueError, KeyError, IndexError):
-                st.info("Albert est momentanément indisponible. Vous pouvez consulter les extraits ci-dessous.")
-        else:
-            st.info("La rédaction avec Albert est en attente de configuration. Voici les extraits pertinents.")
+        with st.spinner("Un instant, je fouille dans les fiches…"):
+            results = rechercher(question)
+            if not results:
+                st.info("Les fiches documentées ne permettent pas de répondre à cette question.")
+                return
+            key = setting("ALBERT_API_KEY")
+            model = setting("ALBERT_MODEL")
+            if key and model:
+                try:
+                    st.write(albert(question, results, key, model))
+                except (HTTPError, URLError, TimeoutError, ValueError, KeyError, IndexError):
+                    st.info("Albert est momentanément indisponible. Vous pouvez consulter les extraits ci-dessous.")
+            else:
+                st.info("La rédaction avec Albert est en attente de configuration. Voici les extraits pertinents.")
         st.subheader("Fiches en rapport avec la réponse")
         for item in results:
             link = SITE + "?vue=justes&sauvetage=" + quote(item["label"]) + "&ouvrir=1#justes"
