@@ -6,7 +6,7 @@ from functools import lru_cache
 from html import unescape
 from pathlib import Path
 from urllib.error import HTTPError, URLError
-from urllib.parse import quote, urlencode
+from urllib.parse import quote, urlencode, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 HERE = Path(__file__).resolve().parent
@@ -258,15 +258,25 @@ def main():
             submitted = st.form_submit_button("Rechercher", use_container_width=True)
     question = question.strip()
     active = submitted and bool(question)
+    if active:
+        panneau_question.button("Replier la réponse")
     if integre:
         from streamlit.components.v1 import html
 
         html(
             f"""<script>
-            window.top.postMessage(
-                {{type: 'memo-affichage', active: {json.dumps(active)}}},
-                'https://thierryarmant.github.io'
-            );
+            const active = {json.dumps(active)};
+            const appOrigin = 'https://thierryarmant.github.io';
+            function envoyerTaille(height) {{
+                window.top.postMessage({{type: 'memo-affichage', active, height}}, appOrigin);
+            }}
+            envoyerTaille(null);
+            const bloc = window.parent.document.querySelector('[data-testid="stMainBlockContainer"]');
+            if (bloc) {{
+                const observer = new ResizeObserver(() => envoyerTaille(Math.ceil(bloc.getBoundingClientRect().height)));
+                observer.observe(bloc);
+                window.addEventListener('pagehide', () => observer.disconnect(), {{once: true}});
+            }}
             </script>""",
             height=0,
         )
@@ -306,7 +316,9 @@ def main():
                 return
         st.subheader("Fiches en rapport avec la réponse")
         for _, item in references:
-            st.link_button(f"Ouvrir la fiche de {item['label']}", item["link"])
+            url = urlsplit(item["link"])
+            query = "&".join(filter(None, (url.query, "retour=memo")))
+            st.link_button(f"Ouvrir la fiche de {item['label']}", urlunsplit(url._replace(query=query)))
         with st.expander("Dossiers consultés"):
             for index, item in references:
                 st.markdown(f"**[{index}] {item['label']}** · {item['place']}")
