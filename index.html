@@ -459,7 +459,15 @@ html:not(.vue-justes) #justes{display:none}
 @media(max-width:480px){#home .home-cards{grid-template-columns:1fr}}
 body>header>strong>a{text-decoration:none}
 
-</style></head><body id="top"><header><strong><a href="./#home">N’oublions pas !</a></strong><nav aria-label="Navigation"><a href="./#histoire">Le parcours</a><a href="./#personnes">Les personnes</a><a href="./#archives">Rechercher</a><a href="./#projet">Le projet</a><a href="?vue=justes#justes">Les Justes</a><a href="bleuet.html">Le Bleuet de France ✿</a></nav></header><main><div id="home" class="hero"><div class="memo-accueil" aria-label="Mémo, assistant de recherche">
+.memo-flottant{position:fixed;right:clamp(12px,3vw,36px);bottom:20px;z-index:30}
+.memo-flottant>summary{display:flex;align-items:center;gap:10px;width:max-content;margin-left:auto;padding:8px 15px;background:#163754;color:#fff;border-radius:99px;box-shadow:0 3px 12px #16375445;font-weight:650;cursor:pointer;list-style:none}
+.memo-flottant>summary::-webkit-details-marker{display:none}
+.memo-etat::before{content:'+'}
+.memo-flottant[open] .memo-etat::before{content:'×'}
+.memo-flottant .memo-accueil{position:absolute;bottom:calc(100% + 8px);right:0;width:min(740px,calc(100vw - 24px));max-height:calc(100dvh - 120px);overflow:auto;border:1px solid #b2c7da;border-left:4px solid #4778a8;box-shadow:0 8px 30px #16375440}
+.memo-flottant .memo-formulaire{max-height:calc(100dvh - 215px)}
+@media(max-width:700px){.memo-flottant{bottom:86px}}
+</style></head><body id="top"><header><strong><a href="./#home">N’oublions pas !</a></strong><nav aria-label="Navigation"><a href="./#histoire">Le parcours</a><a href="./#personnes">Les personnes</a><a href="./#archives">Rechercher</a><a href="./#projet">Le projet</a><a href="?vue=justes#justes">Les Justes</a><a href="bleuet.html">Le Bleuet de France ✿</a></nav></header><details id="memo-flottant" class="memo-flottant"><summary><span>Mémo</span><span class="memo-etat" aria-hidden="true"></span></summary><div class="memo-accueil" aria-label="Mémo, assistant de recherche">
 <p><strong>Bonjour, je suis Mémo, votre assistant de recherche.</strong></p>
 <iframe class="memo-formulaire" src="https://n-oublions-pas.streamlit.app/?embed=true&amp;memo=accueil" title="Poser une question à Mémo" loading="lazy"></iframe>
 <script>
@@ -476,7 +484,7 @@ window.addEventListener("message", (event) => {
 });
 </script>
 <a class="memo-direct" href="https://n-oublions-pas.streamlit.app/" target="_blank" rel="noopener">Ouvrir Mémo en plein écran ↗</a>
-</div><nav class="navigation-galeries" aria-label="Accès direct aux galeries"><a href="#home">← Accueil</a><a href="?vue=femmes#personnes">Femmes du convoi</a><a href="?vue=portraits#personnes">Autres femmes engagées</a><a href="?vue=region#personnes">Résistantes locales</a><a href="#hommes">Hommes du convoi</a><a href="#temoignages">Témoignages</a><a href="?vue=justes#justes">Les Justes</a></nav><div><div class="eyebrow">Un projet de mémoire</div><h1>N’oublions pas !</h1><p>Application réalisée et offerte par les élèves des classes de défense et de sécurité globale du collège Jean Giono d’Orange.</p><div class="home-cards">
+</div></details><main><div id="home" class="hero"><nav class="navigation-galeries" aria-label="Accès direct aux galeries"><a href="#home">← Accueil</a><a href="?vue=femmes#personnes">Femmes du convoi</a><a href="?vue=portraits#personnes">Autres femmes engagées</a><a href="?vue=region#personnes">Résistantes locales</a><a href="#hommes">Hommes du convoi</a><a href="#temoignages">Témoignages</a><a href="?vue=justes#justes">Les Justes</a></nav><div><div class="eyebrow">Un projet de mémoire</div><h1>N’oublions pas !</h1><p>Application réalisée et offerte par les élèves des classes de défense et de sécurité globale du collège Jean Giono d’Orange.</p><div class="home-cards">
 <a class="home-illustration" href="#histoire" style="--illustration-x:0%;--illustration-y:0%"><strong>Le Train fantôme</strong></a>
 <a class="home-illustration" href="#temoignages" style="--illustration-x:50%;--illustration-y:0%"><strong>Les témoignages</strong></a>
 <a class="home-illustration" href="#personnes" style="--illustration-x:100%;--illustration-y:0%"><strong>Les femmes déportées</strong></a>
@@ -1421,6 +1429,12 @@ function rendrePhotoAgrandissable(image,legende){
  return bouton;
 }
 
+const memoFlottant=document.getElementById('memo-flottant');
+function placerMemo(parent){
+ if(!memoFlottant||memoFlottant.parentNode===parent)return;
+ if(typeof parent.moveBefore==='function')parent.moveBefore(memoFlottant,null);
+ else parent.append(memoFlottant);
+}
 function installerLecturePortrait(carte,front,contenu,initialiser){
  const dialog=el('dialog','');
  dialog.className='portrait-dialog';
@@ -1463,12 +1477,21 @@ function installerLecturePortrait(carte,front,contenu,initialiser){
  front.onclick=()=>{
   if(dialog.open)return;
   dialog.showModal();
+  placerMemo(dialog);
   dialog.scrollTop=0;
   initialiser?.();
  };
  fermer.onclick=()=>dialog.close();
  dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close()});
+ dialog.addEventListener('cancel',e=>{
+  if(memoFlottant?.parentNode===dialog&&memoFlottant.open){
+   e.preventDefault();
+   memoFlottant.open=false;
+   memoFlottant.querySelector('summary').focus();
+  }
+ });
  dialog.addEventListener('close',()=>{
+  if(memoFlottant?.parentNode===dialog)placerMemo(document.body);
   contenu.querySelector('iframe')?.removeAttribute('src');
   if(retourMemo){revenirAccueilMemo();return;}
   if(front.isConnected&&dialog.isConnected&&!dialog.open)front.focus({preventScroll:true});
