@@ -101,10 +101,21 @@ def albert(question, results, key, model):
 def main():
     import streamlit as st
 
+    from streamlit.errors import StreamlitSecretNotFoundError
+
+    def setting(name):
+        value = os.environ.get(name)
+        if value:
+            return value
+        try:
+            return st.secrets.get(name, "")
+        except StreamlitSecretNotFoundError:
+            return ""
+
     st.set_page_config(page_title="Recherche historique · N’oublions pas !")
     st.title("Rechercher dans les dossiers des Justes")
     st.caption("Recherche dans les fiches documentées de N’oublions pas !")
-    access = os.environ.get("ASSISTANT_ACCESS_CODE") or st.secrets.get("ASSISTANT_ACCESS_CODE", "")
+    access = setting("ASSISTANT_ACCESS_CODE")
     if not access:
         st.info("La recherche assistée est en attente de configuration.")
         return
@@ -127,8 +138,8 @@ def main():
     if not results:
         st.info("Les fiches documentées ne permettent pas de répondre à cette question.")
         return
-    key = os.environ.get("ALBERT_API_KEY") or st.secrets.get("ALBERT_API_KEY", "")
-    model = os.environ.get("ALBERT_MODEL") or st.secrets.get("ALBERT_MODEL", "")
+    key = setting("ALBERT_API_KEY")
+    model = setting("ALBERT_MODEL")
     if key and model:
         try:
             st.write(albert(question, results, key, model))
