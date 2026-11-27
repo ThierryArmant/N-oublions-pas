@@ -246,7 +246,7 @@ def main():
         with champ:
             question = st.text_input(
                 "Votre question",
-                placeholder="Posez votre question…",
+                placeholder="Poser votre question...",
                 max_chars=300,
                 label_visibility="collapsed",
             )
