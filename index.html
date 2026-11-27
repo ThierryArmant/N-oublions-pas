@@ -1824,6 +1824,7 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
      carte.className = 'portrait-card justes-carte';
      const nom = nomPrenomFiche(p);
      const face = el('button','');
+     face.dataset.nomRecherche = [p.prenom, p.nom].filter(Boolean).join(' ');
      face.type = 'button';
      face.className = 'portrait-front';
      const titre = el('strong',nom);
@@ -1987,6 +1988,15 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
    return r.json();
  }).then(installerIndex).catch(()=>{
    chargement='Index national indisponible. Les fiches locales restent consultables.';
- }).finally(reprendreRecherche);
+ }).finally(()=>{
+   reprendreRecherche();
+   if(parametresFiches.get('ouvrir') !== '1') return;
+   const nom = norm(recherche.value.trim());
+   const carte = Array.from(grille.querySelectorAll('.portrait-front')).find(
+     face => norm(face.querySelector('.portrait-name')?.textContent.trim() || '') === nom
+       || norm(face.dataset.nomRecherche || '') === nom
+   );
+   carte?.click();
+ });
 })();
 </script></body></html>
