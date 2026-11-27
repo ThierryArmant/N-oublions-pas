@@ -167,7 +167,15 @@ def notices():
                  surname="", rubrique="Repères historiques", terms="itinéraire chronologie durée départ arrivée marche distance",
                  facts="Départ de Toulouse, gare Raynal, le 3 juillet 1944. Le 18 août, marche forcée d’environ 17 km de Roquemaure à Sorgues. Le convoi atteint Dachau le 28 août 1944. Les femmes sont transférées à Ravensbrück.",
                  source=ARCHIVES_TRAJET, link=SITE + "#histoire")
-    return [*entries.values(), *portraits(), *temoignages(page), trajet]
+    vernet = dict(
+        label="Du camp du Vernet au Train fantôme", place="Le Vernet d’Ariège · Toulouse",
+        surname="", rubrique="Repères historiques",
+        terms="effectif combien total transfert juin juillet internés camp fermeture",
+        facts="Selon l’Amicale du camp du Vernet, 398 hommes et 5 femmes, soit 403 des derniers internés du camp, sont transférés à Toulouse le 30 juin 1944. Ils rejoignent le Train fantôme le 3 juillet avec d’autres personnes. Le chiffre de 403 concerne le groupe transféré du Vernet, pas l’ensemble du convoi.",
+        source="https://www.campduvernet.eu/pages/403-personnes-deportees-par-le-train-fantome.html",
+        link=SITE + "#histoire",
+    )
+    return [*entries.values(), *portraits(), *temoignages(page), trajet, vernet]
 
 
 def rechercher(question, limit=6):
