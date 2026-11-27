@@ -222,6 +222,10 @@ def main():
 
     st.set_page_config(page_title="Mémo · N’oublions pas !", layout="wide")
     integre = st.query_params.get("memo") == "accueil"
+    st.markdown(
+        '<style>[data-testid="stTextInput"] [data-testid="InputInstructions"] {display:none}</style>',
+        unsafe_allow_html=True,
+    )
     if integre:
         st.markdown("""<style>
         [data-testid="stAppViewContainer"], [data-testid="stApp"] {background:#eaf1f7}
