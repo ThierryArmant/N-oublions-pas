@@ -95,7 +95,7 @@ def notices():
     page = (HERE / "index.html").read_text(encoding="utf-8")
     national = json.loads((HERE / "justes-france.json").read_text(encoding="utf-8"))["personnes"]
     regional = {}
-    for match in re.finditer(r"const dossiers(?:Vaucluse|BouchesDuRhone) = (\{[^\n]+\});", page):
+    for match in re.finditer(r"const dossiers(?:Vaucluse|BouchesDuRhone|Paca) = (\{[^\n]+\});", page):
         regional.update(json.loads(match[1]))
     for match in re.finditer(r"'([0-9]+[A-Za-z]?)':\s*\{\s*periode:'([^']*)',\s*geste:'([^']*)',\s*aide:'([^']*)',\s*histoire:'([^']*)'", page):
         number, period, action, people, story = match.groups()
