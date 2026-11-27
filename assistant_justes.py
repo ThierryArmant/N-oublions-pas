@@ -35,8 +35,43 @@ def texte(valeur):
     return str(valeur).strip()
 
 
+ARCHIVES_TRAJET = "https://archives.toulouse.fr/litineraire-emprunte-par-le-train-fantome/"
+
+
+@lru_cache(maxsize=1)
+def catalogue_portraits():
+    return json.loads((HERE / "data.json").read_text(encoding="utf-8"))
+
+
+def bilan_catalogue(question):
+    mots = tokens(question)
+    femmes = bool(mots & {"femme", "femmes"})
+    hommes = bool(mots & {"homme", "hommes"})
+    if not (femmes or hommes) or not mots & {"combien", "nombre", "total", "effectif", "effectifs"}:
+        return []
+    autorises = set("combien nombre total effectif effectifs femme femmes homme hommes train fantome convoi recense recensent recensees recenses compte comptes comptent liste listes fiches catalogue memoire memo site application toutes tous tout toute depart officiel historique repertories repertoriees deportees deportes embarque embarquees embarques faisait faisaient partie votre ta ton notre base yait yatil atil".split())
+    if mots - autorises:
+        return []
+    data = catalogue_portraits()
+    convoi = "convoi" in mots or {"train", "fantome"} <= mots
+    lignes = []
+    if femmes:
+        total = len(data["femmes"])
+        phrase = (f"Le relevé nominatif de N’oublions pas ! répertorie {total} femmes du Train fantôme."
+                  if convoi else f"L’application contient {len(data['portraits'])} portraits de femmes, dont {total} femmes dans le relevé du Train fantôme.")
+        lignes.append((phrase, "Voir les femmes du convoi", SITE + "?vue=femmes#personnes"))
+    if hommes:
+        lignes.append((f"La galerie des hommes du Train fantôme contient {len(data['hommes'])} fiches.",
+                       "Voir les hommes du convoi", SITE + "#hommes"))
+    if convoi:
+        chiffres = "62 femmes et 640 hommes" if femmes and hommes else "62 femmes" if femmes else "640 hommes"
+        lignes.append((f"Les Archives municipales de Toulouse indiquent {chiffres} au départ du 3 juillet 1944.",
+                       "Voir la source des Archives de Toulouse", ARCHIVES_TRAJET))
+    return lignes
+
+
 def portraits():
-    data = json.loads((HERE / "data.json").read_text(encoding="utf-8"))
+    data = catalogue_portraits()
     matricules = {p["matricule"] for p in data["femmes"] if p.get("matricule")}
     champs = {
         "naissance": "Naissance", "lieu": "Lieu de naissance", "deces": "Décès",
@@ -128,7 +163,11 @@ def notices():
     for entry in entries.values():
         entry["rubrique"] = "Justes parmi les Nations et sauveteurs"
         entry["link"] = SITE + "?" + urlencode({"vue": "justes", "sauvetage": entry["label"], "ouvrir": 1}) + "#justes"
-    return [*entries.values(), *portraits(), *temoignages(page)]
+    trajet = dict(label="Le trajet du Train fantôme", place="Toulouse · Roquemaure · Sorgues · Dachau",
+                 surname="", rubrique="Repères historiques", terms="itinéraire chronologie durée départ arrivée marche distance",
+                 facts="Départ de Toulouse, gare Raynal, le 3 juillet 1944. Le 18 août, marche forcée d’environ 17 km de Roquemaure à Sorgues. Le convoi atteint Dachau le 28 août 1944. Les femmes sont transférées à Ravensbrück.",
+                 source=ARCHIVES_TRAJET, link=SITE + "#histoire")
+    return [*entries.values(), *portraits(), *temoignages(page), trajet]
 
 
 def rechercher(question, limit=6):
@@ -184,7 +223,8 @@ def albert(question, results, key, model):
                 "Réponds uniquement par un objet JSON avec status parmi answer, clarify, refuse "
                 "et message contenant ta réponse. "
                 "Si les faits ne suffisent pas, indique-le. N’invente ni source ni détail. "
-                "Ne présente jamais une recherche comme exhaustive."
+                "Ne déduis jamais un total du nombre de notices retrouvées. "
+                "Pour un effectif, cite uniquement un chiffre explicite et son périmètre. Sans ce chiffre, indique que le total reste à établir."
             )},
             {"role": "user", "content": json.dumps({"question": question, "notices": context}, ensure_ascii=False)}
         ],
@@ -284,6 +324,13 @@ def main():
         return
     with panneau_reponse:
         question_affichee = st.empty()
+        bilan = bilan_catalogue(question)
+        if bilan:
+            question_affichee.text(question)
+            for phrase, libelle, lien in bilan:
+                st.write(phrase)
+                st.link_button(libelle, lien)
+            return
         with st.spinner("Un instant, je cherche dans les archives…"):
             results = rechercher(question)
             if not results:
