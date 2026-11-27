@@ -167,12 +167,15 @@ def main():
             st.info("Albert est momentanément indisponible. Vous pouvez consulter les extraits ci-dessous.")
     else:
         st.info("La rédaction avec Albert est en attente de configuration. Voici les extraits pertinents.")
+    st.subheader("Fiches en rapport avec la réponse")
+    for item in results:
+        link = SITE + "?vue=justes&sauvetage=" + quote(item["label"]) + "&ouvrir=1#justes"
+        st.link_button(f"Ouvrir la fiche de {item['label']}", link)
     st.subheader("Dossiers consultés")
     for index, item in enumerate(results, start=1):
         st.markdown(f"**[{index}] {item['label']}** · {item['place']}")
         st.write(item["facts"])
-        link = SITE + "?vue=justes&sauvetage=" + quote(item["label"]) + "#justes"
-        st.markdown(f"[Ouvrir la fiche]({link}) · [Consulter la source]({item['source']})")
+        st.markdown(f"[Consulter la source]({item['source']})")
 
 
 if __name__ == "__main__":
