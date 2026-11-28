@@ -2057,3 +2057,7 @@ Le Rhône est réservé à Codex. Le relevé initial identifie 119 références 
 ## Rhône (69) — contrôle du lot de 18 dossiers
 
 Les 18 récits du commit 966d49e sont en ligne et couvrent 28 fiches. Après vérification des notices du Comité français pour Yad Vashem, 21 visuels ont été ajoutés dans 12 galeries et 6 portraits individuels ont été associés aux fiches. Les 21 liens d’image ont été testés. [Commit des visuels](https://github.com/ThierryArmant/N-oublions-pas/commit/4fe16de7c2b8a7931cf3c7b6c1caa872f1dc13b4).
+
+## Alpes-Maritimes (06) — réservé à Codex
+
+Thierry a confié les Alpes-Maritimes à Codex. Claude peut avancer sur la Drôme et la Loire selon la répartition proposée. Le Rhône reste côté Codex.
