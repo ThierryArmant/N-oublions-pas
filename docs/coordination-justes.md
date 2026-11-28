@@ -1438,3 +1438,7 @@ Isère côté Codex. Les 79 références de l’index (137 fiches) ont un récit
 ## Haute-Savoie (74) — vérification des visuels
 
 Les 70 dossiers du Comité français pour Yad Vashem correspondant à l’index ont été consultés. 81 photographies ont été ajoutées dans 46 dossiers et 32 portraits individuels légendés ont été associés à leurs fiches. Les photos collectives figurent dans les galeries. Pour le dossier 6823, la légende de la photo indique Alphonse Hudry, tandis que le récit indique Édouard Hudry : photo conservée en galerie, attribution individuelle à confirmer. Le dossier 14562 (Migeois) demeure ouvert sur le récit du sauvetage. Les annexes documentaires ne sont pas incluses dans le décompte des photos.
+
+## Ardèche (07) — contrôle complémentaire des visuels
+
+Les 33 références couvrant 55 fiches ont été contrôlées. 34 visuels supplémentaires ont été intégrés dans 23 dossiers et 17 portraits individuels ont été associés aux fiches, dont Renée Gimenez, Léon Morel et Pauline Morel. Les variantes de résolution d’une même photo ont été écartées. Les liens d’images ajoutés ont renvoyé un fichier image. [Commit des visuels](https://github.com/ThierryArmant/N-oublions-pas/commit/5a22ec032074628a6229a2ab0f1f0b0f03d8f00f).
