@@ -358,3 +358,43 @@ Les 36 références de l’index local ont été recherchées. Sur les 56 fiches
 | [10235](https://yadvashem-france.org/dossier/nom/10235/) | Françoise Vigne, Paul Vigne | Récit ajouté | — |
 
 Hors filtre départemental, [10876](https://yadvashem-france.org/dossier/nom/10876/) est indexé à Bourganeuf (Creuse). Récit ajouté aux deux fiches de René et Mathilde Reitz pour le sauvetage d’Édith et Claire Blum à Chignat (Vertaizon). [Récit de cérémonie du Comité](https://yadvashem-france.org/articles-et-documents/5-nouveaux-justes-a-la-mairie-du-2-arrt-de-paris/) et [photo familiale repérée](https://www.ajpn.org/juste-Mathilde-Reitz-2815.html).
+
+## Lot Ardèche (07)
+
+Les 33 références de l’index ont été traitées. Les 55 fiches ont un récit, dont 40 enrichies avec 22 nouveaux récits. Les 41 photographies et documents ajoutés proviennent du Comité français pour Yad Vashem. Les adresses HTTPS des fichiers ont été vérifiées dans le navigateur. Un tiret dans la colonne des visuels indique qu’aucun visuel n’a été intégré pendant ce passage.
+
+| Dossier CFYV | Justes | Récit | Visuels ajoutés | Recoupement ou point ouvert |
+|---|---|---|---:|---|
+| [10095](https://yadvashem-france.org/dossier/nom/10095/) | Gaston Allibert, Lina Allibert | Déjà présent | 5 | — |
+| [9237](https://yadvashem-france.org/dossier/nom/9237/) | Marie-France Banc | Ajouté | 2 | — |
+| [10443](https://yadvashem-france.org/dossier/nom/10443/) | Lévy Bayle, Simone Bayle | Déjà présent | — | — |
+| [11646](https://yadvashem-france.org/dossier/nom/11646/) | Jean Brottes | Déjà présent | 5 | — |
+| [1962](https://yadvashem-france.org/dossier/nom/1962/) | Eugénie Brunel | Déjà présent | 1 | — |
+| [1533A](https://yadvashem-france.org/dossier/nom/1533A/) | Lydie Chapus | Déjà présent | — | — |
+| [12397](https://yadvashem-france.org/dossier/nom/12397/) | Emile Chastagner, Marie Chastagner | Ajouté | — | [AJPN](https://www.ajpn.org/juste-emile-Chastagner-3691.html) ; lien avec le dossier Vialle 10597 |
+| [1533B](https://yadvashem-france.org/dossier/nom/1533B/) | André Chave | Déjà présent | — | — |
+| [4501](https://yadvashem-france.org/dossier/nom/4501/) | Louis Dallière, Marie Dallière | Déjà présent | — | — |
+| [12907](https://yadvashem-france.org/dossier/nom/12907/) | Noémie Dejour, Samuel Dejour, Marthe Royer | Ajouté | 3 | — |
+| [14122](https://yadvashem-france.org/dossier/nom/14122/) | Hermine Delubac, Josette Samuel | Ajouté | — | — |
+| [13245](https://yadvashem-france.org/dossier/nom/13245/) | Madeleine Faure, René Faure | Ajouté | — | — |
+| [13096](https://yadvashem-france.org/dossier/nom/13096/) | Lucien Frachon, Marthe Frachon | Ajouté | — | — |
+| [11134](https://yadvashem-france.org/dossier/nom/11134/) | Renée Gimenez | Déjà présent | — | Portrait signalé dans la notice du Comité ; fichier direct non confirmé |
+| [8057](https://yadvashem-france.org/dossier/nom/8057/) | Berthe Lantheaume, Zoé Nègre | Déjà présent | 4 | — |
+| [13040](https://yadvashem-france.org/dossier/nom/13040/) | Daniel Lebrat, Yvonne Lebrat | Ajouté | 3 | — |
+| [11704](https://yadvashem-france.org/dossier/nom/11704/) | Emile Mandon, Noémie-Marie Mandon | Ajouté | — | — |
+| [13181A](https://yadvashem-france.org/dossier/nom/13181A/) | Henri Martin, Noélie Martin | Ajouté | — | — |
+| [11550](https://yadvashem-france.org/dossier/nom/11550/) | Alphonse Mazoyer, Firmin Mazoyer, Noémie Mazoyer | Ajouté | 1 | [Association des Ardéchois à Paris](https://www.ardechois-a-paris.org/actualites/personnages/juste-parmi-les-nations-en-ardeche/) |
+| [13083](https://yadvashem-france.org/dossier/nom/13083/) | Paul Merland, Paule Merland | Ajouté | — | [Témoignages de la cérémonie](https://yadvashem-france.org/la-vie-du-comite/actualites/grace-a-vous-je-suis-en-vie-aujourdhui/) |
+| [12907B](https://yadvashem-france.org/dossier/nom/12907B/) | Paulette Merland | Ajouté | — | — |
+| [12098](https://yadvashem-france.org/dossier/nom/12098/) | Léon Morel, Pauline Morel | Ajouté | — | [AJPN](https://www.ajpn.org/juste-Pauline-Morel-3516.html) ; portrait signalé |
+| [1533](https://yadvashem-france.org/dossier/nom/1533/) | André Péatier | Déjà présent | — | — |
+| [8127](https://yadvashem-france.org/dossier/nom/8127/) | Edouard Picot, Judith Picot | Ajouté | 1 | [AJPN](https://www.ajpn.org/personne-Isaie-Schwartz-2898.html) ; rôle de Jean Brottes (11646) |
+| [4272](https://yadvashem-france.org/dossier/nom/4272/) | Albert Pradier, Lucie Pradier | Ajouté | 5 | — |
+| [8817](https://yadvashem-france.org/dossier/nom/8817/) | Rosa Ranc | Déjà présent | — | — |
+| [12932](https://yadvashem-france.org/dossier/nom/12932/) | Hortense Rey | Ajouté | 6 | — |
+| [8496](https://yadvashem-france.org/dossier/nom/8496/) | Léa Rochedieu | Ajouté | — | — |
+| [11927A](https://yadvashem-france.org/dossier/nom/11927A/) | Marcel Roux | Ajouté | — | — |
+| [4183](https://yadvashem-france.org/dossier/nom/4183/) | Alice Sérusclat | Ajouté | — | — |
+| [4430](https://yadvashem-france.org/dossier/nom/4430/) | Madeleine Tartier, Roland Tartier | Ajouté | — | — |
+| [10597](https://yadvashem-france.org/dossier/nom/10597/) | Georges Vialle, Noémie Vialle | Ajouté | — | — |
+| [13181](https://yadvashem-france.org/dossier/nom/13181/) | Edouard Vigne, Julia Vigne | Ajouté | 5 | La notice emploie Julia et certaines légendes Julie |
