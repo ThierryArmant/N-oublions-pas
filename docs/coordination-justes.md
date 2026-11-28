@@ -17,7 +17,136 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est partie 1 : Gard, Hérault, Gers (86), tableaux ci-dessous. Lot en cours (pris le 28/11) : Occitanie est partie 2 (Tarn, Tarn-et-Garonne, Lot, 120 dossiers). Lozère et Aveyron laissés à Thierry (Massif central). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Occitanie est, partie 2 : Tarn, Tarn-et-Garonne, Lot (28/11/2026)
+
+Récit intégré sur `main` pour 120 dossiers ; 117 portraits et 201 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_occitanie_est_2_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10221 | Louis et Julie Plegades ; Joseph Vergnet | Aveyron | Joseph Vergnet ; Louis & Julie Plegades | [CFYV](https://yadvashem-france.org/dossier/nom/10221/) |
+| 9530C | Sœur Albert-Marie (Marie-Noélie Delpérié) et sœur Hyacinthe Galtier | Aveyron | Sœur Hyacinthe GALTIER ; Sœur Albert-Marie DELPERIE | [CFYV](https://yadvashem-france.org/dossier/nom/9530c/) |
+| 10001 | Esilda Arnouil (née Lassarrade) | Lot | Esilda Arnouil ; Cérémonie de remise de la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/10001/) |
+| 10002 | Élie Cavarroc | Lot | 17 Juin 2004, cérémonie à Camboulit | [CFYV](https://yadvashem-france.org/dossier/nom/10002/) |
+| 10320 | Marie Larroque | Lot | Marie LARROQUE ; Maurice fils de Marie LARROQUE | [CFYV](https://yadvashem-france.org/dossier/nom/10320/) |
+| 10723 | Marcellin et Lucie Grandou | Lot | M. et Mme Grandou chez leur fille Georgette dans les Ardennes, avec M. Collard, ex-FFI, lui aussi caché | [CFYV](https://yadvashem-france.org/dossier/nom/10723/) |
+| 10723A | Élie et Léa Louradour | Lot | Simone Cervera | [CFYV](https://yadvashem-france.org/dossier/nom/10723a/) |
+| 11162 | Pierre et Rosalie Lescure ; Maria Destruel (née Lescure) | Lot | Maria Destruel avec son père Pierre Lescure pendant l'occupation | [CFYV](https://yadvashem-france.org/dossier/nom/11162/) |
+| 11324 | Yvonne Féraud | Lot | Yvonne Féraud après la guerre ; 1944, Yvonne Féraud avec Jean-Claude et Denise ; 21 Mai 2005, Yvonne avec les personnes sauvées Jean-Claude et Denise | [CFYV](https://yadvashem-france.org/dossier/nom/11324/) |
+| 11324A | Alfred et Marie-Louise Aymard | Lot | Alfred & Marie-Louise AYMARD | [CFYV](https://yadvashem-france.org/dossier/nom/11324a/) |
+| 11324B | Lucie Nonorgues (sœur Émilia) | Lot | Lucie Nonorgues ; Au premier plan, Lucie Nonorgues | [CFYV](https://yadvashem-france.org/dossier/nom/11324b/) |
+| 11370 | Armand et Célestine Vergnes | Lot | Célestine Vergnes ; Armand Vergnes ; Lieu du sauvetage | [CFYV](https://yadvashem-france.org/dossier/nom/11370/) |
+| 11678 | Louis Forestier | Lot | Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/11678/) |
+| 11691 | Louis, Adeline et Hélène Cubaynes | Lot | Adeline Cubaynes ; Louis Cubaynes ; Hélène Cubaynes | [CFYV](https://yadvashem-france.org/dossier/nom/11691/) |
+| 11835 | Reine Arnaudet (née Fournié) | Lot | Reine Arnaudet en 1942 à Douelle (collection Yad Vashem) ; Reine Arnaudet en 1943 (encerclée) Credit: COLL.YAD | [CFYV](https://yadvashem-france.org/dossier/nom/11835/) |
+| 12067 | Noël Gozzi | Lot | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12067/) |
+| 1506 | Alphonse Puech | Lot | Alphonse Puech ; Arbre à Yad Vashem ; Plaque à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/1506/) |
+| 2698J | Louise Mireille Gardère | Lot | Louise Gardère | [CFYV](https://yadvashem-france.org/dossier/nom/2698j/) |
+| 3975 | Alain et Rosa Castagne | Lot | — | [CFYV](https://yadvashem-france.org/dossier/nom/3975/) |
+| 4004 | Jean et Marguerite Marnet | Lot | — | [CFYV](https://yadvashem-france.org/dossier/nom/4004/) |
+| 5067 | Abel et Laure Marès | Lot | — | [CFYV](https://yadvashem-france.org/dossier/nom/5067/) |
+| 5591 | Julien, Marie et Marie-Marguerite Vertut | Lot | — | [CFYV](https://yadvashem-france.org/dossier/nom/5591/) |
+| 5847 | Robert Ruscassié | Lot | Robert Ruscassié | [CFYV](https://yadvashem-france.org/dossier/nom/5847/) |
+| 6118 | Antoine et Louise Schyn | Lot | — | [CFYV](https://yadvashem-france.org/dossier/nom/6118/) |
+| 6129 | Françoise Lapeyre | Lot | Cérémonie de la remise de la médaille de Justes à Mlle Françoise Lapeyre, le 22 décembre 1994, au musée de la résistance de Cahors | [CFYV](https://yadvashem-france.org/dossier/nom/6129/) |
+| 6427 | Marinette Arjac (née Toujas) | Lot | Marinette en 1950 ; Marinette Arjac-Toujas, « La dernière lettre », raconté par Bénabar | [CFYV](https://yadvashem-france.org/dossier/nom/6427/) |
+| 7551 | Paul Gauthié | Lot | remise de la médaille le 29 mai 1998 à Paul Gauthié | [CFYV](https://yadvashem-france.org/dossier/nom/7551/) |
+| 8387 | Antonin et Pélagie Bargues | Lot | — | [CFYV](https://yadvashem-france.org/dossier/nom/8387/) |
+| 8483 | Berthe Fournier (née Albert) | Lot | — | [CFYV](https://yadvashem-france.org/dossier/nom/8483/) |
+| 8483A | Pierre et Raymonde Leglaive | Lot | Raymonde Leglaive en 2007 | [CFYV](https://yadvashem-france.org/dossier/nom/8483a/) |
+| 8512 | Marguerite Baillagou | Lot | — | [CFYV](https://yadvashem-france.org/dossier/nom/8512/) |
+| 9233 | Gabriel et Léonie Roussilhe | Lot | — | [CFYV](https://yadvashem-france.org/dossier/nom/9233/) |
+| 9724 | Louis et Eugénie Décremps | Lot | Eugénie ; Louis et Eugénie | [CFYV](https://yadvashem-france.org/dossier/nom/9724/) |
+| 10004 | Fernand Farssac | Tarn | Fernand Farssac, juillet 1943 ; Fernand Farssac, prévôté des Alpes, septembre 1939 ; médaille des Justes | [CFYV](https://yadvashem-france.org/dossier/nom/10004/) |
+| 10533 | Mgr Jean-Aimé Moussaron | Tarn | Monseigneur Moussaron avec Soeur Suzanne Marie ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/10533/) |
+| 10533A | Simone Bondurand (sœur Suzanne-Marie) | Tarn | Monseigneur Moussaron avec Soeur Suzanne Marie ; Simonne Bondurand avec Claude et Arlette Zénatti | [CFYV](https://yadvashem-france.org/dossier/nom/10533a/) |
+| 10533B | Père Raoul Manen | Tarn | Année 1943 ; Institution Saint Etienne 18 mai 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/10533b/) |
+| 10700 | Amédée et Henriette Breil | Tarn | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10700/) |
+| 10703 | Isidore-Émile et Alice Ribas | Tarn | Alice et Emile Ribas ; 1 juillet 2007 cérémonie à gauche régine Sigal ; Emile et Alice RIBAS avec régine Sigal | [CFYV](https://yadvashem-france.org/dossier/nom/10703/) |
+| 10894 | Rose Bonnet (Mère Saint-Léon) | Tarn | Décembre 1943 Janine Heyman née Zylbersztejn ; deuxième en partant de la gauche soeur Rose | [CFYV](https://yadvashem-france.org/dossier/nom/10894/) |
+| 10924 | Suzanne Loiseau (née Chevalley) | Tarn | LOISEAU Suzanne | [CFYV](https://yadvashem-france.org/dossier/nom/10924/) |
+| 11032 | Henri et Berthe Maurel | Tarn | Henri et Berthe Maurel ; Famille Perelman Léon, Esther et Serge ; Albert Seifer délégué du Comité Français pour Yad vashem ; Maison des Maurel | [CFYV](https://yadvashem-france.org/dossier/nom/11032/) |
+| 11046 | Marie-Louise Menou (née Bonnafon) | Tarn | Marie-Louise Menou | [CFYV](https://yadvashem-france.org/dossier/nom/11046/) |
+| 11397 | Henri et Louise Fournier ; Yvette Riou (née Fournier) | Tarn | Andrée Gugenheim, Paul Gugenheim, Yvette, Henri Fournier, Louise Fournier et Claudine Salvan Four ; Paul Gugenheim, Yvette et Roger RIOU ; Yvette Fournier Riou portant les petits Claude et Françis Gugenheim en automne 1944 ; Yvette Riou Fournier et Claude Pendzel en décembre 2001 à Albi ; Henri FOURNIER ; Louise FOURNIER ; Yvette Fournier Riou portant les petits Claude et Françis Gugenheim en automne 1944 ; Yvette FOURNIER RIOU | [CFYV](https://yadvashem-france.org/dossier/nom/11397/) |
+| 11557 | Charles et Julia Rey | Tarn | REY Charles ; REY Julia | [CFYV](https://yadvashem-france.org/dossier/nom/11557/) |
+| 11741 | Pasteur Marcel Ducommun et Hélène Ducommun | Tarn | Hélène Ducommun ; Marcel Ducommun ; Marcel et Hélène Ducommun | [CFYV](https://yadvashem-france.org/dossier/nom/11741/) |
+| 11863 | Père Léopold Rousseaux | Tarn | Léopold Rousseaux | [CFYV](https://yadvashem-france.org/dossier/nom/11863/) |
+| 11871 | Paul Sers | Tarn | Paul SERS | [CFYV](https://yadvashem-france.org/dossier/nom/11871/) |
+| 12065 | Toussaint et Mathilde Gazel ; Laure Tailhades | Tarn | Toussaint Gazel ; Laure Élodie Tailhades ; Mathilde Gazel | [CFYV](https://yadvashem-france.org/dossier/nom/12065/) |
+| 12091 | Henri et Reine Lefèbvre | Tarn | Henri Lefèbvre ; Reine Lefèbvre | [CFYV](https://yadvashem-france.org/dossier/nom/12091/) |
+| 12359 | Édouard et Jeanne Schwander | Tarn | Edouard Schwander ; Eric Schwander petit fils des Justes avec Jacqueline Grumbach | [CFYV](https://yadvashem-france.org/dossier/nom/12359/) |
+| 12359A | Antonia Alby | Tarn | 1945, les sauvés | [CFYV](https://yadvashem-france.org/dossier/nom/12359a/) |
+| 12576A | Sœur Anna Jalibert | Tarn | Sœur Jalibert à Blan ; Betty Both ; Hersh Both ; Scheindla Both après la guerre ; Betty Both en 2012 | [CFYV](https://yadvashem-france.org/dossier/nom/12576a/) |
+| 12576B | Pasteur Daniel Sens | Tarn | Le pasteur Daniel Sens ; Daniel Sens en uniforme, membre du corps médical de l’armée française, en 1939 ; Daniel Sens et sa famille ; Betty Both avec Monique Sens, la fille du pasteur Sens ; Un groupe de personnes juives caché par le pasteur Sens ; Betty est debout en haut du groupe ; Famille Sens, cérémonie des Justes ; Article de La Provence sur Daniel Sens, 19 juin 2015 | [CFYV](https://yadvashem-france.org/dossier/nom/12576b/) |
+| 12858 | Elisabeth Rol | Tarn | Elisabeth au mariage de Serge en 1956 | [CFYV](https://yadvashem-france.org/dossier/nom/12858/) |
+| 13049 | Laurent Escribe | Tarn | Laurent Escribe ; Laurent Escribe | [CFYV](https://yadvashem-france.org/dossier/nom/13049/) |
+| 13493A | Guillaume et Violette Dubec | Tarn | Violette Dubec ; Guillaume Dubec | [CFYV](https://yadvashem-france.org/dossier/nom/13493a/) |
+| 13493C | Camille Igalens | Tarn | Camille IGALENS | [CFYV](https://yadvashem-france.org/dossier/nom/13493c/) |
+| 13936 | Hubert Landes | Tarn | Hubert Landes | [CFYV](https://yadvashem-france.org/dossier/nom/13936/) |
+| 2173 | Norbert et Blanche Baux ; Andrée Baux | Tarn | — | [CFYV](https://yadvashem-france.org/dossier/nom/2173/) |
+| 2778 | Hélène et Simone Rulland | Tarn | — | [CFYV](https://yadvashem-france.org/dossier/nom/2778/) |
+| 3134 | Pasteur Albert Delord | Tarn | Albert Delord | [CFYV](https://yadvashem-france.org/dossier/nom/3134/) |
+| 4097 | Raoul et Fernande Durand | Tarn | Durand Raoul ; Fernande Durand | [CFYV](https://yadvashem-france.org/dossier/nom/4097/) |
+| 4680 | Pasteur Robert Cook | Tarn | Pasteur Robert Cook en chaire ; Mariage célébré au maquis | [CFYV](https://yadvashem-france.org/dossier/nom/4680/) |
+| 4732 | Pasteur Paul Haering et Suzanne Haering | Tarn | les Haering ; M et Mme Haering en 1943 ; Camp de vacances à Vabre en septembre 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/4732/) |
+| 4943 | Paul-Raymond, Marie-Louise et Jacqueline Rigaud | Tarn | Jacqueline RIGAUD et Mme DUDEL en chapeau ; Jacqueline Rigaud avec Jacques Pulver ; Diane la sauvée en rouge avec Jacqueline Rigaud ; Diana et Jacqueline devant la plaque des RIGAUD à Yad vashem Jérusalem ; Jacqueline Rigaud, « Désobéir pour sauver », raconté par Sophia Aram | [CFYV](https://yadvashem-france.org/dossier/nom/4943/) |
+| 5532 | Abbé Pierre-Marie Puech | Tarn | Pierre-Marie Puech | [CFYV](https://yadvashem-france.org/dossier/nom/5532/) |
+| 5593 | Jean et Elia Sudré | Tarn | Elia, Odette Sudré à 103 ans | [CFYV](https://yadvashem-france.org/dossier/nom/5593/) |
+| 5750 | André et Alice Ferran | Tarn | André et Alice Ferran | [CFYV](https://yadvashem-france.org/dossier/nom/5750/) |
+| 6656 | Mère Jeanne-Françoise Ramade | Tarn | — | [CFYV](https://yadvashem-france.org/dossier/nom/6656/) |
+| 6673 | Comte Maurice et comtesse Claire de Solages | Tarn | — | [CFYV](https://yadvashem-france.org/dossier/nom/6673/) |
+| 6870 | Louis, Amélie et Jeanine Rouxès | Tarn | Louis et Amélie Rouxès ; Jeanine Rouxès ; Jacques et Claude Fribourg avec Jeanine Rouxès (chemisier blanc) et une amie | [CFYV](https://yadvashem-france.org/dossier/nom/6870/) |
+| 6902 | Henriette Veaute (née Pagès) | Tarn | Henriette VEAUTE PAGES en 1945 ; Henriette VEAUTE PAGES | [CFYV](https://yadvashem-france.org/dossier/nom/6902/) |
+| 7177 | Rose Cahours | Tarn | — | [CFYV](https://yadvashem-france.org/dossier/nom/7177/) |
+| 7177A | Ernest Boulade ; Emma Gay et Maria Chabert (nées Boulade) | Tarn | Ernest Boulade ; Emma Gay Boulade ; Maria Chabert | [CFYV](https://yadvashem-france.org/dossier/nom/7177a/) |
+| 7189 | Raoul et Albertine Bonnafous | Tarn | — | [CFYV](https://yadvashem-france.org/dossier/nom/7189/) |
+| 7565 | Jeanne Cauquil | Tarn | Jeanne CAUQUIL | [CFYV](https://yadvashem-france.org/dossier/nom/7565/) |
+| 8321 | Eugène et Louise Fédou | Tarn | Ruth Hartz et les ayants droits Lucette Cormary et Andrée Delsol ; Remise de la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/8321/) |
+| 8321A | Henri et Jeanne Vallat | Tarn | Henri Vallat ; Jeanne Vallat | [CFYV](https://yadvashem-france.org/dossier/nom/8321a/) |
+| 8472 | Abbé Gilbert Cugnasse | Tarn | L’abbé Gilbert Cugnasse | [CFYV](https://yadvashem-france.org/dossier/nom/8472/) |
+| 8530 | François Houpe | Tarn | François Houpe ; Georges Wajnberg | [CFYV](https://yadvashem-france.org/dossier/nom/8530/) |
+| 8530A | Edmond Durand | Tarn | 2 mai 2000 devant l'hôtel de Lassay avant la cérémonie Edmond Durand & Georges Wajnberg ; en 1945 Georges Wajnberg | [CFYV](https://yadvashem-france.org/dossier/nom/8530a/) |
+| 9131A | Jean et Georgette Paulin | Tarn | — | [CFYV](https://yadvashem-france.org/dossier/nom/9131a/) |
+| 9344 | Charles, Jean et Maria Gasser | Tarn | Famille Gasser | [CFYV](https://yadvashem-france.org/dossier/nom/9344/) |
+| 9429 | Roger et Marcelle Maraval | Tarn | — | [CFYV](https://yadvashem-france.org/dossier/nom/9429/) |
+| 9719 | Élie et Suzanne Galtier | Tarn | Élie & Suzanne Galtier | [CFYV](https://yadvashem-france.org/dossier/nom/9719/) |
+| 9785 | Louise Fourgassié (née Escande) | Tarn | Louise Fourgassié ; Berthe Falcman Burko en avril 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/9785/) |
+| 9934A | Jeanne Bagaradès (sœur Marie-Paule) | Tarn | Sœur Jeanne Bagarades | [CFYV](https://yadvashem-france.org/dossier/nom/9934a/) |
+| 10321 | Hubert et Denise Ladevèze | Tarn-et-Garonne | Denise Ladeveze ; Hubert Ladeveze | [CFYV](https://yadvashem-france.org/dossier/nom/10321/) |
+| 10849 | Édouard et Alice Lebreil | Tarn-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/10849/) |
+| 11591 | Alfred et Louise Rey | Tarn-et-Garonne | Jacqueline avec les enfants Rey et un petit voisin ; jacqueline avec Maurice Rey devant l'étable ; Maurice Rey et Jacqueline | [CFYV](https://yadvashem-france.org/dossier/nom/11591/) |
+| 11688 | Éloi et Henriette Teulières | Tarn-et-Garonne | Éloi Teulières ; Henriette Teulières ; Membres du maquis en Tarn et Garonne | [CFYV](https://yadvashem-france.org/dossier/nom/11688/) |
+| 12059 | Ernestine Deltorn (née Teulières) | Tarn-et-Garonne | Ernestine DELTORN au centre ; Ferme Fillol ; Janine et Jacques Intraligator et le petit Jean-Bernard ; Les sauvés ; Groupe | [CFYV](https://yadvashem-france.org/dossier/nom/12059/) |
+| 12304 | Paul et Cécilia Pellet | Tarn-et-Garonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12304/) |
+| 12784 | Pierre et Suzanne Dreuilhe | Tarn-et-Garonne | Suzanne et Pierre Dreuilhe ; 1943, Malpeyre, famille Jacob et Lion | [CFYV](https://yadvashem-france.org/dossier/nom/12784/) |
+| 13642 | Jean-Marie et Jeanne Arquié | Tarn-et-Garonne | Jeanne et Jean-Marie Arquiè en 1913 ; Remise de la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/13642/) |
+| 1769A | Mère Marie Placide | Tarn-et-Garonne | Marie Placide recevant la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/1769a/) |
+| 1769B | Madeleine Royer (sœur Inès) | Tarn-et-Garonne | Madeleine Royer, sœur Ines en religion, recevant la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/1769b/) |
+| 1769F | Anne-Marie de Caunes (sœur Didier) | Tarn-et-Garonne | Sœur Anne-Marie recevant la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/1769f/) |
+| 1769G | Antoinette de Caunes (sœur Claire) | Tarn-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/1769g/) |
+| 197A | Mgr Pierre-Marie Théas | Tarn-et-Garonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/197a/) |
+| 3256 | Marie-Rose Gineste | Tarn-et-Garonne | Marie-Rose Gineste ; Arbre à yad Vashem ; plaque devant l'arbre à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/3256/) |
+| 4191 | Odette Allègre | Tarn-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4191/) |
+| 4423 | René Bessède | Tarn-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4423/) |
+| 4519 | Marguerite Dulaut | Tarn-et-Garonne | Marguerite Dulaut | [CFYV](https://yadvashem-france.org/dossier/nom/4519/) |
+| 4612 | André Félix Marty | Tarn-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4612/) |
+| 4669 | Michel et Colette Beuzon | Tarn-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4669/) |
+| 4968 | Nicolas, Maria et Anne-Marie Gobatto ; Joseph et Eugénie Meilhan ; Lydie Pradine | Tarn-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4968/) |
+| 4968B | Ernest, Henriette et Lydie Lafont | Tarn-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4968b/) |
+| 4968C | Docteur Simone Schmidt | Tarn-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4968c/) |
+| 4968D | Louis et Pierrette Cadène | Tarn-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4968d/) |
+| 5159 | Adélaïde Lagrange | Tarn-et-Garonne | Adélaïde LAGRANGE | [CFYV](https://yadvashem-france.org/dossier/nom/5159/) |
+| 5314 | Adeline Brachet | Tarn-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/5314/) |
+| 5360 | Émile et Geneviève Roberties | Tarn-et-Garonne | André Michel la personne sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/5360/) |
+| 7445 | Charles et Gabrielle Passeman | Tarn-et-Garonne | Gabrielle et Charles Passeman | [CFYV](https://yadvashem-france.org/dossier/nom/7445/) |
+| 7881 | Armand et Alice Fraysse | Tarn-et-Garonne | Alice Fraysse et son mari Armand | [CFYV](https://yadvashem-france.org/dossier/nom/7881/) |
+| 8815 | Fernand et Esther Salle | Tarn-et-Garonne | Esther et Fernand Salle | [CFYV](https://yadvashem-france.org/dossier/nom/8815/) |
+| 9041 | Jean-François et Henriette Labro | Tarn-et-Garonne | Jean-François et Henriette Labro ; Henriette Labro le jour de sa cérémonie entourée de ses 4 fils | [CFYV](https://yadvashem-france.org/dossier/nom/9041/) |
+| 9406 | Jean, Marguerite et Jeanne Guy | Tarn-et-Garonne | Dans les années 30 GUY Marguerite ; vers 1955 Jean & Marguerite GUY | [CFYV](https://yadvashem-france.org/dossier/nom/9406/) |
+| 9789 | Clément et Marie-Rose Vidaillan | Tarn-et-Garonne | Famille Vidaillan | [CFYV](https://yadvashem-france.org/dossier/nom/9789/) |
+
+Remarques : 10221 : Le sauvetage a lieu en Aveyron ; le dossier est rattaché au Tarn par Joseph Vergnet, de Lacaune. · 10533 : Dossiers liés : 10533A (Bondurand) et 10533B (Manen). · 10533A : Récit commun avec le dossier 10533. · 10533B : Récit commun avec le dossier 10533. · 10723 : Voir aussi le dossier 10723A (Louradour). · 10723A : Récit commun avec le dossier 10723. · 11324 : Dossiers liés : 11324A (Aymard) et 11324B (Nonorgues). · 11324A : Récit commun avec le dossier 11324. · 11324B : Récit commun avec le dossier 11324. · 12359 : Voir aussi le dossier 12359A (Alby). · 12359A : Récit commun avec le dossier 12359. · 12576A : Voir aussi 12576 (Trébuquet, Pyrénées-Atlantiques) et 12576B (Sens). · 12576B : Récit commun avec le dossier 12576A. · 13493A : Voir aussi le dossier 13493C (Igalens). · 13493C : Récit commun avec le dossier 13493A. · 1769A : Dossiers liés : 1769B, 1769F, 1769G. · 1769B : Récit commun avec le dossier 1769A. · 1769F : Récit commun avec le dossier 1769A. · 1769G : Récit commun avec le dossier 1769A. · 4968 : Dossiers liés : 4968B, 4968C, 4968D. · 4968B : Récit commun avec le dossier 4968. · 4968C : Récit commun avec le dossier 4968. · 4968D : Récit commun avec le dossier 4968. · 6118 : Voir aussi les dossiers 6427 (Arjac) et 6129 (Lapeyre). · 7177 : Voir aussi le dossier 7177A (Boulade). · 7177A : Récit commun avec le dossier 7177. · 8321 : Voir aussi le dossier 8321A (Vallat). · 8321A : Récit commun avec le dossier 8321. · 8387 : Voir aussi les dossiers 8483 et 8483A (Salviac). · 8483 : Voir aussi le dossier 8483A (Leglaive). · 8483A : Récit commun avec le dossier 8483. · 8530 : Voir aussi le dossier 8530A (Durand). · 8530A : Récit commun avec le dossier 8530. · 9530C : Récit commun avec le dossier 9530 (Hérault) ; le couvent est situé dans l’Aveyron. · 9785 : Voir aussi le dossier 10221 (Plegades et Vergnet).
 
 ## Lot Claude — Occitanie est, partie 1 : Gard, Hérault, Gers (28/11/2026)
 
