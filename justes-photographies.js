@@ -22,3 +22,25 @@ Object.assign(portraitsJustes, {
     "licence": "https://creativecommons.org/licenses/by-sa/4.0/"
   }
 });
+
+Object.assign(portraitsJustes, {
+  "brousse-jeanne": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jeanne_Brousse-_inauguration_2014.jpg",
+    "legende": "Jeanne Brousse à la préfecture de Haute-Savoie, le 18 avril 2014",
+    "credit": "LaMèreVeille · Wikimedia Commons · CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Jeanne_Brousse-_inauguration_2014.jpg",
+    "licence": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "blazer-louise": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lou_Blazer_20190217_16.jpg",
+    "legende": "Portrait de Louise Blazer, vers 1925",
+    "credit": "Photographe anonyme · Wikimedia Commons · domaine public selon la notice",
+    "url": "https://commons.wikimedia.org/wiki/File:Lou_Blazer_20190217_16.jpg"
+  },
+  "de-malherbe-maria": {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Maria_Dolores_de_Malherbe.png",
+    "legende": "Portrait de Maria Dolorès de Malherbe, vers 1938",
+    "credit": "Photographe anonyme · Wikimedia Commons · domaine public selon la notice",
+    "url": "https://commons.wikimedia.org/wiki/File:Maria_Dolores_de_Malherbe.png"
+  }
+});
