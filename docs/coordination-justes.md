@@ -27,7 +27,64 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Aucun lot en cours. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Loire (42). Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+
+## Lot Claude — Drôme
+
+Récit intégré sur `main` pour 48 dossiers ; 32 portraits et 67 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_drome.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10092 | Victor et Hélène Buffet (née Augras) | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/10092/) |
+| 10348 | André et Victorine Berger (née Boyer) | Drôme | André Berger ; Victorine Berger | [CFYV](https://yadvashem-france.org/dossier/nom/10348/) |
+| 106 | Henri Morin | Drôme | Henri Morin | [CFYV](https://yadvashem-france.org/dossier/nom/106/) |
+| 11452 | Élie et Marie-Louise Richaud (née Pape) | Drôme | Remise du diplôme (1) ; Remise du diplôme (2) | [CFYV](https://yadvashem-france.org/dossier/nom/11452/) |
+| 11610 | Robert Scheffer | Drôme | Robert Scheffer | [CFYV](https://yadvashem-france.org/dossier/nom/11610/) |
+| 11715 | Marie Monteillet (Mère Anselme) | Drôme | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11715/) |
+| 11747 | Augusta Paquien (née Chochat) | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/11747/) |
+| 11902 | Sully et Marie Amblard (née Perrin) | Drôme | Marie Amblard ; Sully Henri Amblard ; Remise du diplôme | [CFYV](https://yadvashem-france.org/dossier/nom/11902/) |
+| 11927 | Gaston Nogier | Drôme | Gaston Nogier | [CFYV](https://yadvashem-france.org/dossier/nom/11927/) |
+| 12057 | Louise Longueville | Drôme | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12057/) |
+| 12122 | Amédée et Suzanne François (née Reynaud) | Drôme | Amédée François avec Roger Samuel, Suzanne et René François en 1947 ; Amédée et Suzanne François en 1960 | [CFYV](https://yadvashem-france.org/dossier/nom/12122/) |
+| 12195 | René et Rose Raillon (née Loiseau) | Drôme | Mme Kahn et Mme Raillon | [CFYV](https://yadvashem-france.org/dossier/nom/12195/) |
+| 12206B | Pierre Descours | Drôme | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12206b/) |
+| 12217 | Madeleine Bady (née Delas) | Drôme | Madeleine Bady | [CFYV](https://yadvashem-france.org/dossier/nom/12217/) |
+| 12290 | Élie et Emmeline Abel (née Bres) | Drôme | Emmeline et Élie Abel | [CFYV](https://yadvashem-france.org/dossier/nom/12290/) |
+| 12589 | Louis et Lucie Lermine (née Guiraud) | Drôme | Nicole Mozis en 1945 ; La maison des Bouvier après la chute d’un obus, alors que les enfants y jouaient ; Monique Bouvier, Claude et Nicole Mozis en 1944 ; Monique Bouvier, Claude et Nicole Mozis en 1945 ; Monique et Yvette Bouvier, Claude et Nicole Mozis ; Nicole et Claude Mozis à Cannes en 1943 ; Nicole Mozis à Cannes en 1943 ; Silvio, Marthe, Nicole et Claude Mozis en région parisienne en 1945 | [CFYV](https://yadvashem-france.org/dossier/nom/12589/) |
+| 12598 | René et Léa Robin (née Roussin) | Drôme | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12598/) |
+| 12614 | Anna Chifflet (née Jacquemart) | Drôme | Marcel Kozuch | [CFYV](https://yadvashem-france.org/dossier/nom/12614/) |
+| 12816 | François et Antonine Tena (née Tête), Georgette Ricou (née Tena), Pierre et Georges Tena | Drôme | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12816/) |
+| 12816A | Denise Serret (née Cornillac) | Drôme | De gauche à droite : Georgette, Thérèse et Denise Serret ; Denise (à gauche), puis Marthe et son frère Martial | [CFYV](https://yadvashem-france.org/dossier/nom/12816a/) |
+| 13096A | Amédée et Renée Tena (née Valantin) | Drôme | Amédée Tena ; Amédée Tena ; Amédée et Renée Tena | [CFYV](https://yadvashem-france.org/dossier/nom/13096a/) |
+| 13134 | Yvon et Paulette Paturel | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/13134/) |
+| 13258 | L’abbé Georges Magnet | Drôme | Abbé Georges Magnet ; Les Barraques-en-Vercors, 1er juin 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/13258/) |
+| 13258A | Marcel et Colette Arsac (née Fouchier) | Drôme | Colette et Marcel Arsac | [CFYV](https://yadvashem-france.org/dossier/nom/13258a/) |
+| 13353 | Jeanne Touranche (née Borel) | Drôme | Jeanne Touranche | [CFYV](https://yadvashem-france.org/dossier/nom/13353/) |
+| 13505 | Abel et Marthe Marre | Drôme | Diplôme de Juste parmi les Nations | [CFYV](https://yadvashem-france.org/dossier/nom/13505/) |
+| 3270 | René Tardieu | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/3270/) |
+| 4002 | Pol et Madeleine Arcens (née Lebannier) | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/4002/) |
+| 4038 | Jean et Reine Oddon (née Prunier) | Drôme | Les personnes sauvées : Otto et Elisabeth Katz avec leur enfant en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/4038/) |
+| 4038A | Jean et Ninette Grassias | Drôme | Les personnes sauvées : Otto et Elisabeth Katz avec leur enfant en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/4038a/) |
+| 4520 | Clovis et Angèle Brunet | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/4520/) |
+| 4520A | Marcel et Élise Poizat | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/4520a/) |
+| 493A | Catherine Krafft | Drôme | Catherine Krafft ; Bernard Bernson | [CFYV](https://yadvashem-france.org/dossier/nom/493a/) |
+| 5536 | Auguste et Madeleine Dureau (née Loubie) | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/5536/) |
+| 568 | Germaine Chesneau | Drôme | Germaine Chesneau en 1936 ; Les enfants cachés, printemps 1943 ; Germaine Chesneau recevant la médaille des Justes | [CFYV](https://yadvashem-france.org/dossier/nom/568/) |
+| 5692 | André et Aimée Regache (née Detrat) | Drôme | Cérémonie en l’honneur d’Aimée Regache ; Aimée Regache avec M. Krol, personne sauvée, en 1993 ; Aimée Regache avec Mme Laufer, personne sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/5692/) |
+| 6160 | Camille et Fernande Rivoire | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/6160/) |
+| 6556 | Marcel et Madeleine Abeille (née Evesque), Aline Mottin (née Abeille) | Drôme | Madeleine et Marcel Abeille ; Françoise May, la personne sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/6556/) |
+| 6653 | Édouard et Émilie Badon, Jean et Monette Badon | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/6653/) |
+| 6669 | Auguste et Mathilde Eisenreich | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/6669/) |
+| 6821 | Marius et Andréa Genthon (née Ferlin) | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/6821/) |
+| 7184 | Jean et Renée Guillaud (née Delvaux) | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/7184/) |
+| 7221 | Marie-Magdeleine Giraudier | Drôme | Marie-Magdeleine Giraudier | [CFYV](https://yadvashem-france.org/dossier/nom/7221/) |
+| 7593A | Sully et Pauline Julien (née Charpenel) | Drôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/7593a/) |
+| 8259 | René et Germaine Bastide (née Cazalet) | Drôme | Lucy Causse, fille des Justes, recevant la distinction en l’honneur de René et Germaine Bastide | [CFYV](https://yadvashem-france.org/dossier/nom/8259/) |
+| 9373 | André et Louise Rostaing (née Charras), André-Noël Rostaing | Drôme | 1943-1944 : à droite, André-Noël Rostaing tenant la jument ; 1943-1944 : Marie-Madeleine et Marcel ; 1943-1944 : Simon Pilczer | [CFYV](https://yadvashem-france.org/dossier/nom/9373/) |
+| 9763 | Gaston Bonfils | Drôme | M. et Mme Blum avec Gaston Bonfils (qui porte un chapeau) | [CFYV](https://yadvashem-france.org/dossier/nom/9763/) |
+| 9997 | Joseph et Henriette Venance (née Tignet) | Drôme | Joseph et Henriette Venance | [CFYV](https://yadvashem-france.org/dossier/nom/9997/) |
+
+Remarques : 12206B : La fiche ne précise ni la ville ni le département ; l’hôpital est celui de Romans-sur-Isère (Drôme). · 12614 : La fiche ne précise ni la ville ni le département ; le récit situe les faits à Romans-sur-Isère. · 12816A : Récit commun avec le dossier 12816. · 13258A : Voir aussi le dossier 13258 (abbé Magnet). · 13505 : La fiche 13505 ne contient pas de récit : la partie « histoire » reprend le texte général du site. · 4038 : Voir aussi le dossier 4038A (Grassias). · 4038A : Voir aussi le dossier 4038 (Oddon). · 4520 : Voir aussi le dossier 4520A (Poizat). · 4520A : Voir aussi le dossier 4520 (Brunet). · 6160 : Voir aussi le dossier 5692 (Regache). · 6821 : La fiche ne précise ni la ville ni le département ; le récit situe les faits à Romans-sur-Isère. · 7593A : Voir aussi le dossier 7593 (Achard, Hérault).
 
 ## Lot Claude — Fiches sans département renseigné (28/11/2026)
 
