@@ -802,3 +802,20 @@ Object.assign(portraitsJustes, {
     "url": "https://yadvashem-france.org/dossier/nom/13825/"
   }
 });
+
+Object.assign(portraitsJustes, {
+  "argoud-emilienne": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/0f433931a12fbd437d7fd91f64c0a305.jpg.webp",
+    "legende": "José Gutfeld entre Émilienne et Joseph Argoud lors de leurs retrouvailles en 1982.",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/3035/",
+    "groupe": true
+  },
+  "argoud-joseph": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/0f433931a12fbd437d7fd91f64c0a305.jpg.webp",
+    "legende": "José Gutfeld entre Émilienne et Joseph Argoud lors de leurs retrouvailles en 1982.",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/3035/",
+    "groupe": true
+  }
+});
