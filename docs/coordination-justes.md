@@ -17,7 +17,7 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88) et Bretagne-Grand Est hors Vosges (76), tableaux ci-dessous. Zone Pyrénées (confiée par Thierry le 28/11) terminée. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88) et Bretagne-Grand Est hors Vosges (76), tableaux ci-dessous. Zone Pyrénées (confiée par Thierry le 28/11) terminée. Lot en cours (pris le 28/11) : Occitanie est hors Massif central (Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), 206 dossiers sans récit, traités en deux parties (1 : Gard, Hérault, Gers ; 2 : Tarn, Tarn-et-Garonne, Lot). Lozère et Aveyron laissés à Thierry (Massif central). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
 
 ## Lot Claude — Bretagne et Grand Est (28/11/2026)
 
