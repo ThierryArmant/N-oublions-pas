@@ -17,7 +17,85 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Centre-Val de Loire (146 dossiers) et Pays de la Loire (111 dossiers : Sarthe, Mayenne, Maine-et-Loire, Loire-Atlantique, Vendée) terminés, tableaux ci-dessous. Lot en cours : Normandie (Orne, Manche, Eure, Seine-Maritime, Calvados). Ensuite Poitou-Charentes (Vienne, Charente, Deux-Sèvres, Charente-Maritime). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central, Puy-de-Dôme) et l’indique ici avant chaque lot.
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111) et Normandie (69 : Orne, Manche, Eure, Seine-Maritime, Calvados), tableaux ci-dessous. Lot en cours : Poitou-Charentes (Vienne, Charente, Deux-Sèvres, Charente-Maritime). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central, Puy-de-Dôme) et l’indique ici avant chaque lot.
+
+## Lot Claude — Normandie (28/11/2026)
+
+Récit intégré sur `main` pour 69 dossiers ; 66 portraits et 108 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_normandie_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10651 | Georgette Verrier | Calvados | CRAZOVER Henri et Berthe EIDELMAN devant la chapelle à gauche de la ferme de courcy ; Henri CRAZOVER, Georgette VERRIER et Berthe EIDELMAN en 1943 à la ferme de courcy ; Henri CRAZOVER, Georgette VERRIER et Berthe Eidelman | [CFYV](https://yadvashem-france.org/dossier/nom/10651/) |
+| 12162 | Madeleine Herbert | Calvados | Madeleine Herbert ; Madeleine Lacroix ; Rivka Goldnadel - Camion Au Chic de Paris | [CFYV](https://yadvashem-france.org/dossier/nom/12162/) |
+| 9346 | Janine Gille | Calvados | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9346/) |
+| 11421C | René et Geneviève Gastelais | Eure | Mme DITTMANN et sa fille chez les GASTELAIS en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/11421c/) |
+| 11788 | Georges Lerat | Eure | Georges Lerat | [CFYV](https://yadvashem-france.org/dossier/nom/11788/) |
+| 11872 | François et Françoise Le Cardinal | Eure | Au centre Monsieur et Madame Le cardinal, premier rang 3 gauche Pierre Bleuer elsner | [CFYV](https://yadvashem-france.org/dossier/nom/11872/) |
+| 12511 | Louis et Marguerite Grenouillet | Eure | Louis & Marguerite GRENOUILLET | [CFYV](https://yadvashem-france.org/dossier/nom/12511/) |
+| 13775 | Albert et Prospérine Blottière | Eure | Malca Lupu avec sa fille Irène au 3ème rang sa fille Jeanine (la brune) | [CFYV](https://yadvashem-france.org/dossier/nom/13775/) |
+| 14098 | Maria Constantin | Eure | Maria Constantin avec Michel Frucht en 1961 | [CFYV](https://yadvashem-france.org/dossier/nom/14098/) |
+| 14098A | Jeanne Kreutzer (sœur Ferdinand) | Eure | Sœur Jeanne (sœur Ferdinand) à 60 ans | [CFYV](https://yadvashem-france.org/dossier/nom/14098a/) |
+| 14147 | Robert et Louise Litez-Tiverval | Eure | Louise Litez lors d’une visite à Osséja ; Robert Litez lors d’une visite à Osséja | [CFYV](https://yadvashem-france.org/dossier/nom/14147/) |
+| 14455 | Julien et Joséphine Eustache | Eure | Portrait couple EUSTACHE (Julien & Joséphine) ; Photo Ida & Chaim avec Famille EUSTACHE à Caumont (Eure) été 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/14455/) |
+| 2292 | Henriette Duchemin | Eure | Henriette Duchemin lors de la remise de la médaille ; Arbre Duchemin à Yad Vashem ; Plaque devant l'arbre | [CFYV](https://yadvashem-france.org/dossier/nom/2292/) |
+| 6397 | Pasteur Émile Dallière | Eure | — | [CFYV](https://yadvashem-france.org/dossier/nom/6397/) |
+| 6962 | Marie Bailly ; Odette Jouan | Eure | — | [CFYV](https://yadvashem-france.org/dossier/nom/6962/) |
+| 7070 | Pauline Lebarbier | Eure | — | [CFYV](https://yadvashem-france.org/dossier/nom/7070/) |
+| 9738 | Bernardus et Agnès Zoetelief-Tromp | Eure | En 1957 Agnès ZOETELIEF TROMP DE SITTER et Bernard ZOETELIEF TROMP | [CFYV](https://yadvashem-france.org/dossier/nom/9738/) |
+| 11180 | Marie-Louise Parry ; Bernard et Guy Gérard | Manche | Bernard GERARD avec Elie BOUHANA et Guy GERARD ; Elie BOUHANA, personne sauvée ; Cérémonie ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/11180/) |
+| 11564 | Pierre et Marthe Lebrun | Manche | Marthe Lebrun ; Pierre Lebrun ; Denise Wolnerman en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/11564/) |
+| 11578 | Armand et Marie-Thérèse Piel | Manche | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11578/) |
+| 11578A | Marcel et Angèle Bodin | Manche | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11578a/) |
+| 12103 | Lucienne Chaumont | Manche | Cérémonie de remise de la médaille ; Gisèle Degrenne-Chaumont et son époux ; Bernard ZELMAN en 1944 ; Lucienne Chaumont ; Lucienne Chaumont entourée de René Chaumont et Michel Chaumont ; Lucienne Louise CHAUMONT à la fin de l'occupation | [CFYV](https://yadvashem-france.org/dossier/nom/12103/) |
+| 12596 | Henri et Madeleine Bitard | Manche | Juin 1941 à Avranches, Henri & Madeleine BITARD | [CFYV](https://yadvashem-france.org/dossier/nom/12596/) |
+| 13051 | François et Angèle Parigny | Manche | Marion Deichman et Claudine Parigny le 25 Mai 1944 ; Cérémonie de la remise de la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/13051/) |
+| 13178 | André et Clémentine Mesnage | Manche | André et clémentine Mesnage avec Charles Vagner son fils Gérard | [CFYV](https://yadvashem-france.org/dossier/nom/13178/) |
+| 13178A | Ferruccio et Suzanne Pedrelli | Manche | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13178a/) |
+| 4200 | Maurice et Andrée Lemarchands | Manche | Maurice Lemarchands ; Andrée Lemarchands ; SLAVKO KLARA Juin 1927 les parents de Monique Frankston | [CFYV](https://yadvashem-france.org/dossier/nom/4200/) |
+| 5100 | Paul et Élise Thomas | Manche | Paul et Elise Thomas | [CFYV](https://yadvashem-france.org/dossier/nom/5100/) |
+| 5317 | Maxime Leluan | Manche | Maxime Leluan | [CFYV](https://yadvashem-france.org/dossier/nom/5317/) |
+| 5319 | Gérard et Louise Bouquey | Manche | Gérard Bouquey ; Louise Bouquey | [CFYV](https://yadvashem-france.org/dossier/nom/5319/) |
+| 692 | Abbé Louis Gosselin | Manche | Cérémonie en honneur à l'abbé Gosselin le 10 juin 1981 | [CFYV](https://yadvashem-france.org/dossier/nom/692/) |
+| 7111 | Ernest et Renée Lepileur ; Denise Levallois | Manche | Ernest et Renée Lepileur ; Denise Lepilleur Levallois ; Suzy et Janine Fruchter | [CFYV](https://yadvashem-france.org/dossier/nom/7111/) |
+| 8039 | Suzanne Lerouxel | Manche | — | [CFYV](https://yadvashem-france.org/dossier/nom/8039/) |
+| 8040 | Ferdinand et Angélina Huault | Manche | — | [CFYV](https://yadvashem-france.org/dossier/nom/8040/) |
+| 11056 | Yvonne Maillard | Orne | Yvonne Maillard assise au premier rang au milieu ; 25 novembre 2007 cérémonie en l'honneur de Yvonne Maillard | [CFYV](https://yadvashem-france.org/dossier/nom/11056/) |
+| 11590 | Angelo et Angèle Tamietti ; Jules et Berthe Trouillet | Orne | La famille Trouillet avec Rebecca and Paulette Ajzenberg en 1943 ; 1946 les familles Ajzenberg et Trouillet ; Rachel Ajzenberg à son mariage avec Léon Klein devant Angèle & Angelo Tamietti | [CFYV](https://yadvashem-france.org/dossier/nom/11590/) |
+| 11807 | Alphonse et Berthe Vovard | Orne | Ouest-France, jeudi 9 juin 2011 ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/11807/) |
+| 11811 | Émile et Denise Prestavoine | Orne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11811/) |
+| 11908 | Roland et Jeanne Ricordeau | Orne | Mariage des RICORDEAU le 20 juillet 1935 | [CFYV](https://yadvashem-france.org/dossier/nom/11908/) |
+| 11934 | Pierre et Berthe Neveu | Orne | Famille NEVEU ; Huguette & Georges ; Huguette | [CFYV](https://yadvashem-france.org/dossier/nom/11934/) |
+| 11975 | Albert et Juliette Chaussée | Orne | Albert & Juliette Chaussée | [CFYV](https://yadvashem-france.org/dossier/nom/11975/) |
+| 12034 | Henri et Solange Lecoq | Orne | Henri et Solange ; henri, solange et leurs 2 filles Madeleine l'aînée et Jeanne la benjamine | [CFYV](https://yadvashem-france.org/dossier/nom/12034/) |
+| 12041 | Georges et Claudia Russeau | Orne | Claudia Russeau Monique Grinhaus Léopold Golstein et sa mère ; Léopold Goldstein avec les filles RUSSEAU ; Les filles RUSSEAU | [CFYV](https://yadvashem-france.org/dossier/nom/12041/) |
+| 12162A | Joseph et Léontine Papillon | Orne | — | [CFYV](https://yadvashem-france.org/dossier/nom/12162a/) |
+| 12526 | Mathurin et Anne-Marie Boutté | Orne | Boutté Mathurin et Anne Marie ; Maurice et Mireille | [CFYV](https://yadvashem-france.org/dossier/nom/12526/) |
+| 13259 | Lucien Leconte | Orne | Plaque commémorative ; Plaque commémorative | [CFYV](https://yadvashem-france.org/dossier/nom/13259/) |
+| 13259A | Fernand Prével | Orne | — | [CFYV](https://yadvashem-france.org/dossier/nom/13259a/) |
+| 14571 | Arsène et Lucienne Cornu | Orne | Arsène CORNU | [CFYV](https://yadvashem-france.org/dossier/nom/14571/) |
+| 14580 | Paul et Marie Gilain | Orne | — | [CFYV](https://yadvashem-france.org/dossier/nom/14580/) |
+| 14605 | Bernard et Léa Passard | Orne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14605/) |
+| 4424 | Augustin et Jeanne Devaux | Orne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4424/) |
+| 4611 | André Renard | Orne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4611/) |
+| 5161 | Sœur Marie-Louise Pannelay | Orne | — | [CFYV](https://yadvashem-france.org/dossier/nom/5161/) |
+| 5161A | Sœur Madeleine Malolepszy | Orne | — | [CFYV](https://yadvashem-france.org/dossier/nom/5161a/) |
+| 5161B | Sœur Anne-Marie Le Cahérec | Orne | — | [CFYV](https://yadvashem-france.org/dossier/nom/5161b/) |
+| 6366 | René, Hélène et Jean Bondoux | Orne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6366/) |
+| 6901 | Roger et Madeleine Ménard | Orne | Roger et Madeleine MENARD | [CFYV](https://yadvashem-france.org/dossier/nom/6901/) |
+| 7855 | Marie Ledier | Orne | — | [CFYV](https://yadvashem-france.org/dossier/nom/7855/) |
+| 7866 | Madeleine Perret ; Gustave et Lucienne Richard | Orne | Madeleine Perret lors de la cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/7866/) |
+| 9232 | Fernand et Madeleine Jouvencel | Orne | Fernand Jouvencel maire de Perrou | [CFYV](https://yadvashem-france.org/dossier/nom/9232/) |
+| 10239 | Professeur Georges Lauret | Seine-Maritime | Georges LAURET en 1936 | [CFYV](https://yadvashem-france.org/dossier/nom/10239/) |
+| 11279B | Pierre et Élisabeth Mauger | Seine-Maritime | Élisabeth MAUGER ; Pierre MAUGER | [CFYV](https://yadvashem-france.org/dossier/nom/11279b/) |
+| 11292 | Paul et Andrée Waltispurger | Seine-Maritime | Andrée & Paul Waltispurger ; liliane ZAJDOW | [CFYV](https://yadvashem-france.org/dossier/nom/11292/) |
+| 11526 | Léopold et Marie Ermel | Seine-Maritime | Léopold & Marie ERMEL ; Max KETTLER en 1948 avec Maurice BOUTEILLER | [CFYV](https://yadvashem-france.org/dossier/nom/11526/) |
+| 6965 | Marie-Louise Fourquemin | Seine-Maritime | — | [CFYV](https://yadvashem-france.org/dossier/nom/6965/) |
+| 7202 | Elizabeth Besnard | Seine-Maritime | — | [CFYV](https://yadvashem-france.org/dossier/nom/7202/) |
+| 8250 | Charles et Louise Chevassus | Seine-Maritime | Louise Chevassus ; Charles Chevassus ; 1944, Jean à la Libération 5eme bataillon de marche de Seine Supérieure | [CFYV](https://yadvashem-france.org/dossier/nom/8250/) |
+| 9236 | Édouard et Joséphine Vain | Seine-Maritime | Joséphine et Edouard Vain | [CFYV](https://yadvashem-france.org/dossier/nom/9236/) |
+| 9566 | Louis et Hélène Cardon | Seine-Maritime | Hélène et Louis Cardon | [CFYV](https://yadvashem-france.org/dossier/nom/9566/) |
+
+Remarques : 11590 : La fiche rattache le dossier à Saint-Hilaire-la-Gérard (Orne), mais le récit commence à Montlhéry. · 12162A : Récit commun avec le dossier 12162 (Madeleine Herbert, Calvados). · 13259A : Récit commun avec le dossier 13259. · 14580 : Récit absent de la fiche au 28/11/2026. · 4611 : La fiche indique le département « Oise », mais Boucé est situé dans l’Orne. · 5161A : Récit commun avec les dossiers 5161 et 5161B. · 5161B : Récit commun avec les dossiers 5161 et 5161A. · 11578A : Récit commun avec le dossier 11578. · 13178A : Récit commun avec le dossier 13178. · 14098A : Récit commun avec le dossier 14098.
 
 ## Lot Claude — Pays de la Loire (28/11/2026)
 
