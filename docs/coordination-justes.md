@@ -17,7 +17,74 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63) et Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), tableaux ci-dessous. Lot en cours (zone Pyrénées confiée par Thierry le 28/11) : Pyrénées-Atlantiques. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45) et Pyrénées-Atlantiques (58), tableaux ci-dessous. Zone Pyrénées (confiée par Thierry le 28/11) terminée. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Pyrénées-Atlantiques (28/11/2026)
+
+Récit intégré sur `main` pour 58 dossiers ; 62 portraits et 104 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_pyrenees_atlantiques_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10000 | Henri et Jeanne Autaà | Pyrénées-Atlantiques | Henri et Jeanne Autaa | [CFYV](https://yadvashem-france.org/dossier/nom/10000/) |
+| 10033 | Émile et Marie Frémé | Pyrénées-Atlantiques | Marie Frémé ; En 1943, Emile FREME & Denise sa fille | [CFYV](https://yadvashem-france.org/dossier/nom/10033/) |
+| 10089 | Jean et Marie-Jeanne Pommès | Pyrénées-Atlantiques | Jean Pommès ; Marie-Jeanne Pommès | [CFYV](https://yadvashem-france.org/dossier/nom/10089/) |
+| 10170 | Sauveur Cozzolino | Pyrénées-Atlantiques | — | [CFYV](https://yadvashem-france.org/dossier/nom/10170/) |
+| 10244 | Jean et Catherine Arripe | Pyrénées-Atlantiques | Jean Arripe et sa fille | [CFYV](https://yadvashem-france.org/dossier/nom/10244/) |
+| 10272 | Elysée et Léontine Artiguenave | Pyrénées-Atlantiques | ARTIGUENAVE ELysée & Léontine | [CFYV](https://yadvashem-france.org/dossier/nom/10272/) |
+| 10339 | Léopold et Marie Terré ; Jean, Germaine et Fernande Terré | Pyrénées-Atlantiques | Marie la mère, Jean, Fernande et Germaine les enfants et Léopold le père ; M. Pinkas Bochner, la personne sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/10339/) |
+| 10630 | Jeanne-Hélène Camino ; Suzanne Chevalier | Pyrénées-Atlantiques | Jeanne Camino à droite et sa fille Suzanne Chevalier ; En 1943 Jeanne Camino assise à l'extrême droite derrière elle sa fille Suzanne Chevalier | [CFYV](https://yadvashem-france.org/dossier/nom/10630/) |
+| 10838 | Théodore Mora | Pyrénées-Atlantiques | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10838/) |
+| 10838A | Élise Mora | Pyrénées-Atlantiques | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10838a/) |
+| 11312 | Antoinette Trieulet | Pyrénées-Atlantiques | Antoinette trieulet à gauche avec sa famille en 1939 ; Le Château de Gayon | [CFYV](https://yadvashem-france.org/dossier/nom/11312/) |
+| 11455 | Léon et Claire Dubois | Pyrénées-Atlantiques | La ferme de Mirassou à Bosdarros ; Léon DUBOIS, Liéba Ruck Brant et Claire DUBOIS en septembre 1944 ; Septembre 1944, à la Libération Léon et Claire DUBOIS (en haut au milieu) | [CFYV](https://yadvashem-france.org/dossier/nom/11455/) |
+| 11690 | Geneviève et Jeanne Crutchelar ; Pierre Lartigue | Pyrénées-Atlantiques | La maison du sauvetage à castetnau ; Marie Jeanne Crutchelar sous l'occupation ; De gauche à droite en 1944 Castetnau Camblong Ginette Lisa Madeleine Szafran ; Madeleine MARSH née Szafran enfant sauvée ; Cérémonie ; Plaque commémorative | [CFYV](https://yadvashem-france.org/dossier/nom/11690/) |
+| 11794 | Marie Bébiot | Pyrénées-Atlantiques | Marie Bébiot | [CFYV](https://yadvashem-france.org/dossier/nom/11794/) |
+| 11868 | Pierre et Louise Magendie | Pyrénées-Atlantiques | Famille MAGENDIE ; Famille LANDAUER en 1946 | [CFYV](https://yadvashem-france.org/dossier/nom/11868/) |
+| 11909A | Émilie Hourcade ; Jean et Marie Cazenave | Pyrénées-Atlantiques | Jean Cazenave ; Marie Cazenave ; Pierre et Lalie Frydman et leurs fils René et Guy | [CFYV](https://yadvashem-france.org/dossier/nom/11909a/) |
+| 12179 | Pierre et Ida Darricau | Pyrénées-Atlantiques | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12179/) |
+| 12556 | Lucien Lirou | Pyrénées-Atlantiques | Lucien Lirou | [CFYV](https://yadvashem-france.org/dossier/nom/12556/) |
+| 12576 | Thérèse Trébuquet | Pyrénées-Atlantiques | Madame Thérèse Trébuquet ; Le père de Betty Both, Szmul, là où il a été pris, dans sa chambre au dernier étage | [CFYV](https://yadvashem-france.org/dossier/nom/12576/) |
+| 12595 | Antoine, Henriette et Louise Sala ; Giovanni et Marie-Paule Angéli | Pyrénées-Atlantiques | Marie-Paule Angeli ; Antoine Sala ; Jean Angeli ; Henri Dzik et les descendants des sauveurs | [CFYV](https://yadvashem-france.org/dossier/nom/12595/) |
+| 12678 | Simone Lorimier (née Maurel) | Pyrénées-Atlantiques | Armand Rafalovitch ; Armand et Parents ; Henry et Armand ; Henry et Mery | [CFYV](https://yadvashem-france.org/dossier/nom/12678/) |
+| 12793 | Gabrielle Navaillès | Pyrénées-Atlantiques | Gabrielle Navailles, assise au centre | [CFYV](https://yadvashem-france.org/dossier/nom/12793/) |
+| 1288 | Pasteur André Morel | Pyrénées-Atlantiques | André Morel en 1947 ; André Morel à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/1288/) |
+| 12912 | Marie-Josèphe Marquehosse | Pyrénées-Atlantiques | Marie-Josèphe Marquehosse | [CFYV](https://yadvashem-france.org/dossier/nom/12912/) |
+| 13107 | Marie Cazaux | Pyrénées-Atlantiques | Julita Echevarrieta, Marie Cazaux, Maurice ; Jon et Marie Cazaux en 1938 | [CFYV](https://yadvashem-france.org/dossier/nom/13107/) |
+| 13714 | Louis, Jeanne et Jacqueline Artigue | Pyrénées-Atlantiques | — | [CFYV](https://yadvashem-france.org/dossier/nom/13714/) |
+| 14367 | Abbé Jean Ithurbide | Pyrénées-Atlantiques | Abbé Jean Ithurbide | [CFYV](https://yadvashem-france.org/dossier/nom/14367/) |
+| 1830 | Pierre et Madeleine Barthe | Pyrénées-Atlantiques | — | [CFYV](https://yadvashem-france.org/dossier/nom/1830/) |
+| 2258 | Frédéric Doerr | Pyrénées-Atlantiques | DOERR Frédéric ; Plaque de l'arbre Frédéric Doerr ; L'arbre de Frédéric Doerr dans le jardin des Justes | [CFYV](https://yadvashem-france.org/dossier/nom/2258/) |
+| 2698 | Pasteur Marc Boegner | Pyrénées-Atlantiques | Le pasteur Marc Boegner | [CFYV](https://yadvashem-france.org/dossier/nom/2698/) |
+| 3830 | Madeleine Barot | Pyrénées-Atlantiques | Madeleine Barot | [CFYV](https://yadvashem-france.org/dossier/nom/3830/) |
+| 3904 | Dominique Elichiry | Pyrénées-Atlantiques | Dominique Elichiry et son épouse | [CFYV](https://yadvashem-france.org/dossier/nom/3904/) |
+| 4074 | Victor, Gaston, Elisabeth, Marie-Jeanne et Henriette Mesplé-Somps | Pyrénées-Atlantiques | Henriette Mesplé-Somps | [CFYV](https://yadvashem-france.org/dossier/nom/4074/) |
+| 4096 | Père Albert Gross | Pyrénées-Atlantiques | Albert Gross | [CFYV](https://yadvashem-france.org/dossier/nom/4096/) |
+| 4981A | Yves et Yvette Cadier | Pyrénées-Atlantiques | Yves et Yvette Cadier ; De gauche à droite Francoise Cadier, Fanny Dawidowicz, Hélène et André Cadier, Simon Dawidowicz | [CFYV](https://yadvashem-france.org/dossier/nom/4981a/) |
+| 5392 | Joseph et Eletta Enard | Pyrénées-Atlantiques | Eletta ENARD | [CFYV](https://yadvashem-france.org/dossier/nom/5392/) |
+| 6493 | Pierre Majesté | Pyrénées-Atlantiques | — | [CFYV](https://yadvashem-france.org/dossier/nom/6493/) |
+| 6574 | Jean-Élie et Lucie Larribau | Pyrénées-Atlantiques | — | [CFYV](https://yadvashem-france.org/dossier/nom/6574/) |
+| 6888 | Étienne et Gilberte Ballini | Pyrénées-Atlantiques | Etienne Ballini ; Gilberte Ballini | [CFYV](https://yadvashem-france.org/dossier/nom/6888/) |
+| 6888A | Léodie Montalibet (née Cazaux) | Pyrénées-Atlantiques | Léonie Montalibet ; Danielle Knoll | [CFYV](https://yadvashem-france.org/dossier/nom/6888a/) |
+| 6967 | Lucie Pees | Pyrénées-Atlantiques | Lucie Pees | [CFYV](https://yadvashem-france.org/dossier/nom/6967/) |
+| 7419 | Jean et Andrée Orgeval | Pyrénées-Atlantiques | Jean & Andrée Orgeval | [CFYV](https://yadvashem-france.org/dossier/nom/7419/) |
+| 762 | Père Roger Braun | Pyrénées-Atlantiques | — | [CFYV](https://yadvashem-france.org/dossier/nom/762/) |
+| 7664 | Raoul et Jeanne Frédez | Pyrénées-Atlantiques | Raoul et Jeanne FREDEZ | [CFYV](https://yadvashem-france.org/dossier/nom/7664/) |
+| 7664A | Émile et Félicie Treyture | Pyrénées-Atlantiques | Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/7664a/) |
+| 8023 | Prosper et Marthe Lassoureille ; Jeanne et Caroline Privat | Pyrénées-Atlantiques | Prosper et Marthe Lassourreille et les enfants sauvés ; Caroline Privat ; Jeanne Privat | [CFYV](https://yadvashem-france.org/dossier/nom/8023/) |
+| 8816 | Léonce Souverbielle | Pyrénées-Atlantiques | — | [CFYV](https://yadvashem-france.org/dossier/nom/8816/) |
+| 8922 | Marie et Pierre Bellocq ; Albert et Sidonie Labedays | Pyrénées-Atlantiques | — | [CFYV](https://yadvashem-france.org/dossier/nom/8922/) |
+| 9054 | Pierre, Marie, Anne et Jeanne Pladepousaux | Pyrénées-Atlantiques | Jeanne Pladeplouseaux ; Jeanne Pladepousaux, « Cette nuit-là… », raconté par Joey Starr | [CFYV](https://yadvashem-france.org/dossier/nom/9054/) |
+| 9054A | Pierre, Marie-Louise, Madeleine et Micheline Sanchou | Pyrénées-Atlantiques | — | [CFYV](https://yadvashem-france.org/dossier/nom/9054a/) |
+| 9105 | Albert et Simonne Naudé | Pyrénées-Atlantiques | Famille NAUDE à Bizanor en janvier 1941 ; Famille Naudé et famille Krancenblum | [CFYV](https://yadvashem-france.org/dossier/nom/9105/) |
+| 9197 | Joseph Labeyrie | Pyrénées-Atlantiques | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9197/) |
+| 9200 | Marguerite Schwab | Pyrénées-Atlantiques | Marguerite Schwab ; Stèle Marguerite Schwab à Arbonne | [CFYV](https://yadvashem-france.org/dossier/nom/9200/) |
+| 9239 | Roger, Inès et Jules Jézéquel | Pyrénées-Atlantiques | — | [CFYV](https://yadvashem-france.org/dossier/nom/9239/) |
+| 9296 | Sœur Saint-Jean (Marie Uthurriague) | Pyrénées-Atlantiques | Soeur Saint Jean UTHURRIAGE ; 1943 René et son petit-frère Lucien | [CFYV](https://yadvashem-france.org/dossier/nom/9296/) |
+| 9472 | Louis et Marguerite Sautié ; Jeanne (Jane) Laborde | Pyrénées-Atlantiques | Famille Sautie, les parents et leurs 2 enfants Jeanne et son frère avec les 3 petits sauvés Marcel, Natan et Ita ; Jeanne Sautié Laborde avec les 3 petits sauvés Marcel, Nathan et Ita ; Marcel-Grinberg, Ita Meingut &Nathan Frydmann ; Nathan et Ita | [CFYV](https://yadvashem-france.org/dossier/nom/9472/) |
+| 9528 | Marthe Ladebat-Crestiaa ; Renée Fontaine (née Ladebat-Crestiaa) | Pyrénées-Atlantiques | Renée Ladebat-Crestiaa devant la maison familiale en 1944 ; Marthe Ladebat (collection Yad Vashem) | [CFYV](https://yadvashem-france.org/dossier/nom/9528/) |
+| 9932 | Andréa Jacotin, « Cheftaine » | Pyrénées-Atlantiques | Eté 1945, Andréa Jacotin ; Les personnes sauvées en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/9932/) |
+
+Remarques : 10838A : Récit commun avec le dossier 10838. · 1288 : Ce récit figure aussi, par erreur, sur la fiche 1293 (Péraud, Charente). · 6888A : Voir aussi le dossier 6888 (Ballini). · 7664A : Voir aussi le dossier 7664 (Frédez). · 8023 : Voir aussi le dossier 10000 (Autaà), qui a accueilli Roger. · 9054A : Récit commun avec le dossier 9054.
 
 ## Lot Claude — Hautes-Pyrénées, Pyrénées-Orientales et Aude (28/11/2026)
 
