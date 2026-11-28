@@ -17,7 +17,127 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Centre-Val de Loire terminé (146 dossiers, tableau ci-dessous). Lot en cours : Pays de la Loire (Sarthe, Mayenne, Maine-et-Loire, Loire-Atlantique, Vendée, 113 dossiers). Ensuite, Claude poursuit seul de proche en proche hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central) et l’indique ici avant chaque lot.
+Centre-Val de Loire (146 dossiers) et Pays de la Loire (111 dossiers : Sarthe, Mayenne, Maine-et-Loire, Loire-Atlantique, Vendée) terminés, tableaux ci-dessous. Lot en cours : Normandie (Orne, Manche, Eure, Seine-Maritime, Calvados). Ensuite Poitou-Charentes (Vienne, Charente, Deux-Sèvres, Charente-Maritime). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central, Puy-de-Dôme) et l’indique ici avant chaque lot.
+
+## Lot Claude — Pays de la Loire (28/11/2026)
+
+Récit intégré sur `main` pour 111 dossiers ; 117 portraits et 195 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_pays_de_la_loire_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 11480 | Louis Malécot | Loire-Atlantique | Louis Malécot | [CFYV](https://yadvashem-france.org/dossier/nom/11480/) |
+| 11480A | Henri Gillot | Loire-Atlantique | Henri Gillot | [CFYV](https://yadvashem-france.org/dossier/nom/11480a/) |
+| 12124A | Louis Rabu ; Marie Rabu | Loire-Atlantique | — | [CFYV](https://yadvashem-france.org/dossier/nom/12124a/) |
+| 12746 | Marie-Yvonne Rahir | Loire-Atlantique | Marie-Yvonne Rahir ; Maryvonne et Dov ; Marie-Yvonne, Maryvonne et Dov | [CFYV](https://yadvashem-france.org/dossier/nom/12746/) |
+| 13185 | Théodule et Marie Guilbaud ; Madeleine et Yvette Guilbaud | Loire-Atlantique | D gauche à droite Bertrand, Léonard, André, Georges, Madeleine et Yvette et Yvon ; Marie Guilbaud ; De droite à gauche Monique Courigaru, Georges Guilbaud, et Sylviane Guilbaud ; Théodule chef de gare | [CFYV](https://yadvashem-france.org/dossier/nom/13185/) |
+| 13313 | Euphrasie Lahue | Loire-Atlantique | Jeanne-Yvonne Riveret | [CFYV](https://yadvashem-france.org/dossier/nom/13313/) |
+| 13313A | Jeanne-Yvonne Riveret | Loire-Atlantique | — | [CFYV](https://yadvashem-france.org/dossier/nom/13313a/) |
+| 13313B | Raoul Guyot ; Alice Guyot | Loire-Atlantique | 28 octobre 1919, mariage de Raoul et Alice Guyot | [CFYV](https://yadvashem-france.org/dossier/nom/13313b/) |
+| 5286 | Auguste-Émile Mousson ; Marie-Esther Mousson | Loire-Atlantique | Auguste-Emile & Marie Mousson ; Robert & Bella chez les MOUSSON en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/5286/) |
+| 8449 | Adolphe et Gilberte Le Gualès de Mézaubran | Loire-Atlantique | Adolphe Le Gualès De Mézaubran | [CFYV](https://yadvashem-france.org/dossier/nom/8449/) |
+| 10336 | René Maussion ; Marie Maussion | Maine-et-Loire | Marie Maussion ; René Maussion | [CFYV](https://yadvashem-france.org/dossier/nom/10336/) |
+| 10737 | René Maurice ; Yvonne Maurice | Maine-et-Loire | René MAURICE ; Yvonne MAURICE ; Famille Nepomiatzi | [CFYV](https://yadvashem-france.org/dossier/nom/10737/) |
+| 11181A | Charlotte Audureau (Mère supérieure) | Maine-et-Loire | Charlotte Audureau | [CFYV](https://yadvashem-france.org/dossier/nom/11181a/) |
+| 11410 | Anne-Marie Pinguet ; abbé Xavier Terrien | Maine-et-Loire | Abbé Xavier Terrien ; Anne Marie Pinguet ; Certificat d'honneur de Terrien Xavier | [CFYV](https://yadvashem-france.org/dossier/nom/11410/) |
+| 11437 | Auguste et Marie-Joséphine Antier ; Auguste Antier fils | Maine-et-Loire | de G à D, David Wagener, Auguste Antier, Mme Antier son épouse | [CFYV](https://yadvashem-france.org/dossier/nom/11437/) |
+| 11709 | Marie-Eugénie Pacteau | Maine-et-Loire | Marie Eugénie PACTEAU ; Albert Popiolek et Marie Pacteau | [CFYV](https://yadvashem-france.org/dossier/nom/11709/) |
+| 11745 | André Dossogne ; Evelina Dossogne | Maine-et-Loire | France & Évelina Dossogne ; Cérémonie de remise de médaille le 18/10/2012 à la mairie d'Issy les Moulineaux | [CFYV](https://yadvashem-france.org/dossier/nom/11745/) |
+| 14595 | Ernest Bévilis ; Marie-Louise Bévilis | Maine-et-Loire | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14595/) |
+| 6091 | Odette Bergoffen née Blanchet | Maine-et-Loire | Odette Blanchet Bergoffen | [CFYV](https://yadvashem-france.org/dossier/nom/6091/) |
+| 6091A | Jean Meunier | Maine-et-Loire | Jean Meunier ; La famille Meunier | [CFYV](https://yadvashem-france.org/dossier/nom/6091a/) |
+| 6550 | Mathilde Heintz ; ses filles Marguerite, Cécile et Marie-Thérèse | Maine-et-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/6550/) |
+| 7069 | Jean Gaultier ; Joséphine Gaultier | Maine-et-Loire | Jean et Joséphine Gaultier ; Descendante des Gaultier | [CFYV](https://yadvashem-france.org/dossier/nom/7069/) |
+| 8617 | Albert Martin ; Juliette Martin née Chaussepied | Maine-et-Loire | Rosette avec M. & Mme MARTIN ; Rosette toute petite avec un mouton de la ferme tenue par Odile la cadette des enfants MARTIN | [CFYV](https://yadvashem-france.org/dossier/nom/8617/) |
+| 9083 | Ernest Androuin ; Marie Androuin | Maine-et-Loire | Ernest Androuin ; Marie Androuin | [CFYV](https://yadvashem-france.org/dossier/nom/9083/) |
+| 9235 | André Gioux | Maine-et-Loire | André Gioux | [CFYV](https://yadvashem-france.org/dossier/nom/9235/) |
+| 9675 | Henriette Launay ; Henriette Bochereau | Maine-et-Loire | Edith, âgée de 8 mois, dans les bras de sa mère Mira, entourée de son père Szlama et de sa tante ; Henriette et Edith en mars 2019 ; Henriette Launay-Bochereau, « Le petit sac rouge », raconté par Claire Chazal | [CFYV](https://yadvashem-france.org/dossier/nom/9675/) |
+| 10006 | Ferdinand Chassaing ; Armandine Chassaing | Mayenne | Armandine Chassaing ; Ferdinand Chassaing | [CFYV](https://yadvashem-france.org/dossier/nom/10006/) |
+| 10096 | Louis Fleuroux ; Marguerite Fleuroux née Portier | Mayenne | Louis & Marguerite FLEUROUX | [CFYV](https://yadvashem-france.org/dossier/nom/10096/) |
+| 10096A | Azéline-Louise Portier | Mayenne | Azéline Portier | [CFYV](https://yadvashem-france.org/dossier/nom/10096a/) |
+| 10365 | Joseph Triguel ; Marie-Louise Triguel | Mayenne | Joseph & Marie Triguel ; Mme Triguel, sa famille, au 1er rang, Armand Goldstein et Albert London | [CFYV](https://yadvashem-france.org/dossier/nom/10365/) |
+| 10579 | Constant Martin ; Henriette Martin née Daussy | Mayenne | Louis MARTIN, l'ayant-droit lors de la cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/10579/) |
+| 10886 | Marcel Médée ; Marie Médée | Mayenne | Marcel Médée ; Marie Médée | [CFYV](https://yadvashem-france.org/dossier/nom/10886/) |
+| 11505 | Auguste Fauque ; Marie-Louise Fauque | Mayenne | — | [CFYV](https://yadvashem-france.org/dossier/nom/11505/) |
+| 11505A | Michel Rousseau ; Françoise Rousseau | Mayenne | — | [CFYV](https://yadvashem-france.org/dossier/nom/11505a/) |
+| 11734 | Raoul Montebran ; Marie Montebran | Mayenne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11734/) |
+| 11734A | Robert Grenon ; Andrée Grenon | Mayenne | au centre Marie Montebran et à gauche Andrée Genon | [CFYV](https://yadvashem-france.org/dossier/nom/11734a/) |
+| 12184 | Victor Lefèvre ; Germaine Lefèvre | Mayenne | Famille Lefevre et les enfants ; les enfants Marie Bernard et Simon Szpizajen ; Enfants SZPIZAJEN | [CFYV](https://yadvashem-france.org/dossier/nom/12184/) |
+| 12797 | Eugène Paillard ; Valentine Paillard | Mayenne | Sylvain Algazi ; Sylvain avec Marguerite la fille des Paillard ; Sylvain avec Victor Paillard le fils de Eugène & Valentine ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/12797/) |
+| 12930 | Joseph Boulanger ; Clémentine Boulanger | Mayenne | Boucherie Lemonnier ; Landivy Ecole Publique ; Cérémonie, Edmond Boulanger au centre | [CFYV](https://yadvashem-france.org/dossier/nom/12930/) |
+| 12945 | Marie-Louise Cordier | Mayenne | Famille Cordier Georges le 26 Mars 1944 Marie Louise Cordier et ses enfants ; Amélie avec ses enfants ; Amélie Bruneau avec Roger et André ; Auguste Cribier ; Eyna Jakubowicz et ses 3 enfants Romain marcel et Rosette au Buret en 1946 ; Janvier 1933 ; Joseph Bruneau ; Mars 1942 Romain Rosette et Marcel Jakubowicz | [CFYV](https://yadvashem-france.org/dossier/nom/12945/) |
+| 12945A | Auguste Cribier | Mayenne | Amélie avec ses enfants ; Amélie Bruneau avec Roger et André ; Auguste Cribier ; Eyna Jakubowicz et ses 3 enfants Romain marcel et Rosette au Buret en 1946 ; Janvier 1933 ; Joseph Bruneau ; Mars 1942 Romain Rosette et Marcel Jakubowicz | [CFYV](https://yadvashem-france.org/dossier/nom/12945a/) |
+| 13413 | Augustin Paris ; Georgette Paris (avec Lucienne Muller) | Mayenne | Famille PARIS avec le petit Serge Taradach | [CFYV](https://yadvashem-france.org/dossier/nom/13413/) |
+| 13428 | Joséphine Maréchal | Mayenne | Joséphine Maréchal | [CFYV](https://yadvashem-france.org/dossier/nom/13428/) |
+| 3193 | André, Denise et Madeleine Counord ; Hélène, Janeau et Monette Gardon | Mayenne | Denise et André Counord | [CFYV](https://yadvashem-france.org/dossier/nom/3193/) |
+| 4202 | Marie Mellangé | Mayenne | Marie Mellangé | [CFYV](https://yadvashem-france.org/dossier/nom/4202/) |
+| 7463 | Pierre Le Donné | Mayenne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/7463/) |
+| 8375 | Louis Derennes | Mayenne | — | [CFYV](https://yadvashem-france.org/dossier/nom/8375/) |
+| 8375A | Constant Chevris ; Reine Chevris | Mayenne | — | [CFYV](https://yadvashem-france.org/dossier/nom/8375a/) |
+| 8497 | Albert Lepec ; Gabrielle Lepec | Mayenne | — | [CFYV](https://yadvashem-france.org/dossier/nom/8497/) |
+| 9931 | Joseph et Alice Gautier ; Joseph Gautier fils | Mayenne | Joseph et Alice Gautier avec les sauvés ; Joseph Gautier avec henri Ciarka ; Joseph Gautier et ses parents | [CFYV](https://yadvashem-france.org/dossier/nom/9931/) |
+| 10369 | Arthur et Henriette Dupuy ; Gilbert et Germaine Chevrieux | Sarthe | Germaine Chevrieux | [CFYV](https://yadvashem-france.org/dossier/nom/10369/) |
+| 10489 | Aristide Gasnier | Sarthe | Aristide Gasnier avec les personnes sauvées | [CFYV](https://yadvashem-france.org/dossier/nom/10489/) |
+| 10622 | André Lebas ; Mathilde Lebas | Sarthe | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10622/) |
+| 11371 | Léon Lefèbvre et son épouse | Sarthe | Simonne et Léon Lefebvre | [CFYV](https://yadvashem-france.org/dossier/nom/11371/) |
+| 11587 | Henri Foulard ; Berthe Foulard | Sarthe | Henri & Berthe FOULARD | [CFYV](https://yadvashem-france.org/dossier/nom/11587/) |
+| 11626 | Gabrielle Morin | Sarthe | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11626/) |
+| 12006 | Albert Busson ; Marie-Louise Busson | Sarthe | Les enfants de la famille Matjelès | [CFYV](https://yadvashem-france.org/dossier/nom/12006/) |
+| 12130 | Eugène Fagault ; Pauline Fagault | Sarthe | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12130/) |
+| 12427 | Léon, Hortense et Simone Coudreuse | Sarthe | La famille Coudreuse et des amis : Simone Coudreuse et Éliane Rubinsztein debout, Hortense avec Monique sur ses genoux et Léon assis ; La maison ; M. Coudreuse ; M. Coudreuse joue ; Simone et Éliane ; Dans les prés, Simone et nous ; Le cheval Cocotte | [CFYV](https://yadvashem-france.org/dossier/nom/12427/) |
+| 12555 | René Simier ; Anna Simier | Sarthe | Anna Simier ; René Simier | [CFYV](https://yadvashem-france.org/dossier/nom/12555/) |
+| 12785 | Pierre Jousse ; Denise Jousse | Sarthe | Pierre et Denise Jousse | [CFYV](https://yadvashem-france.org/dossier/nom/12785/) |
+| 12943 | Alexis, Hélène et Marcel Lépinay | Sarthe | Alexis et Hélène Lépinay ; Marcel Lépinay | [CFYV](https://yadvashem-france.org/dossier/nom/12943/) |
+| 13422 | Élie Rondel | Sarthe | Élie Rondel | [CFYV](https://yadvashem-france.org/dossier/nom/13422/) |
+| 13734 | Maurice Brault ; Juliette Brault | Sarthe | Maurice et Juliette Brault | [CFYV](https://yadvashem-france.org/dossier/nom/13734/) |
+| 13904 | Esther Guilmin ; Georges Lesiourd | Sarthe | Jacques et Ginette, Mme Guilmin et M. Lesiour | [CFYV](https://yadvashem-france.org/dossier/nom/13904/) |
+| 13929 | Adolphe Busson ; Suzanne Busson | Sarthe | Suzanne Busson ; Adolphe Busson ; Famille RASZEWSKI 1935 Annette , Laura & David | [CFYV](https://yadvashem-france.org/dossier/nom/13929/) |
+| 13929A | Yvonne Castille | Sarthe | Yvonne Castille ; Famille RASZEWSKI 1935 Annette , Laura & David | [CFYV](https://yadvashem-france.org/dossier/nom/13929a/) |
+| 14014 | Léontine Bracchi | Sarthe | Mathilde Gauthier ; Yvonne, Daniel et René | [CFYV](https://yadvashem-france.org/dossier/nom/14014/) |
+| 14090 | Marguerite Avignon | Sarthe | Marguerite Avignon ; Dora Gersten avec ses filles Berthe et Bella à Paris en 1935 | [CFYV](https://yadvashem-france.org/dossier/nom/14090/) |
+| 14090A | Alexandre Thérouin ; Madeleine Thérouin | Sarthe | La famille Thérouin en 1943 ; Dora Gersten avec ses filles Berthe et Bella à Paris en 1935 | [CFYV](https://yadvashem-france.org/dossier/nom/14090a/) |
+| 14110 | Basile et Blanche Fourré ; Hélène Clément | Sarthe | Blanche et Basile Fourré et leur fille Hélène ; 2010 : Hélène Clément raconte au fils de Catherine l'histoire des parents de Catherine | [CFYV](https://yadvashem-france.org/dossier/nom/14110/) |
+| 14294A | René Candas ; Edith Candas | Sarthe | Edith et René Candas en 1945 | [CFYV](https://yadvashem-france.org/dossier/nom/14294a/) |
+| 14347 | Jean-Louis Choquet ; Marie Choquet | Sarthe | Marie et Jean Choquet | [CFYV](https://yadvashem-france.org/dossier/nom/14347/) |
+| 14347A | Aloys Roille ; Émilienne Roille | Sarthe | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14347a/) |
+| 14347B | René Briand ; Madeleine Briand | Sarthe | — | [CFYV](https://yadvashem-france.org/dossier/nom/14347b/) |
+| 3212 | Albert Guilmin ; Germaine Guilmin | Sarthe | Cérémonie en l'honneur d'Albert et Germaine Guilmin | [CFYV](https://yadvashem-france.org/dossier/nom/3212/) |
+| 4184 | Raymond Beulé ; Adolphine Beulé | Sarthe | — | [CFYV](https://yadvashem-france.org/dossier/nom/4184/) |
+| 4280 | Georges Mary ; Yvonne Mary | Sarthe | — | [CFYV](https://yadvashem-france.org/dossier/nom/4280/) |
+| 4387 | Jean Méry ; Jeanne Méry | Sarthe | Le Maine Libre, 21 janvier 1996 | [CFYV](https://yadvashem-france.org/dossier/nom/4387/) |
+| 4455 | Ernest Guitton ; Alice Guitton née Boulay | Sarthe | Alice Guitton et la médaille ; Ernest Guitton | [CFYV](https://yadvashem-france.org/dossier/nom/4455/) |
+| 4555 | Édouard Cartier ; Louise Cartier | Sarthe | Edouard et Louise CARTIER | [CFYV](https://yadvashem-france.org/dossier/nom/4555/) |
+| 4621 | Jules Boussard ; Marie Boussard | Sarthe | Marie et Jules Boussard ; Charles Fechtembaum ; Marcel Fechtembaum ; Albert Fechtembaum ; Cécile, Albert et Charles Fechtembaum | [CFYV](https://yadvashem-france.org/dossier/nom/4621/) |
+| 4621A | Henri Brossard ; Marie-Louise Brossard | Sarthe | — | [CFYV](https://yadvashem-france.org/dossier/nom/4621a/) |
+| 5117 | Yvonne Come née Batard ; Régis Come | Sarthe | Yvonne COME assise au milieu et son fils Régis (2° à gauche) | [CFYV](https://yadvashem-france.org/dossier/nom/5117/) |
+| 6655 | Marie-Thérèse Bazoge | Sarthe | — | [CFYV](https://yadvashem-france.org/dossier/nom/6655/) |
+| 6671 | Andrée Chéramy ; Marie-Louise Déré | Sarthe | — | [CFYV](https://yadvashem-france.org/dossier/nom/6671/) |
+| 6957 | Juliette Papin ; Suzanne Ménard | Sarthe | 9 avril 2011 Légion d'honneur | [CFYV](https://yadvashem-france.org/dossier/nom/6957/) |
+| 6964 | Alexandrine Epineau | Sarthe | Alexandrine Épineau ; de gauche à droite, Nelly, Alberte Frydman ; Fen. de gauche: Tante Rachel, Mme Epineau et son chien, fen. de droite: Alberte, Nelly | [CFYV](https://yadvashem-france.org/dossier/nom/6964/) |
+| 6964A | Jeanine Chérot | Sarthe | De gauche à droite: Raymond Epineau, Albert Rab, Bernard Chérot, Avi Pazner | [CFYV](https://yadvashem-france.org/dossier/nom/6964a/) |
+| 7168 | William Dewing ; Germaine Dewing | Sarthe | Catherine Haas témoignant dans les écoles | [CFYV](https://yadvashem-france.org/dossier/nom/7168/) |
+| 7910 | Émile Lecas ; Marguerite Lecas | Sarthe | — | [CFYV](https://yadvashem-france.org/dossier/nom/7910/) |
+| 8138 | Louis Pottier ; Rolande Pottier | Sarthe | — | [CFYV](https://yadvashem-france.org/dossier/nom/8138/) |
+| 8202 | Henri Martineau ; Suzanne Martineau | Sarthe | Henri et Suzanne MARTINEAU ; Les fils Martineau | [CFYV](https://yadvashem-france.org/dossier/nom/8202/) |
+| 8333 | Gabriel Bacle ; Angèle Bacle | Sarthe | Gabriel et Angèle Bacle | [CFYV](https://yadvashem-france.org/dossier/nom/8333/) |
+| 8476 | Georges Louveau ; Marie Louveau | Sarthe | Georges & Marie LOUVEAU en 1931 ; Famille Barman en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/8476/) |
+| 9349 | Auguste Landeau ; Marie Landeau née Rose | Sarthe | Marie et Auguste LANDEAU | [CFYV](https://yadvashem-france.org/dossier/nom/9349/) |
+| 9783 | Albert Gendron ; Marie-Louise Gendron | Sarthe | Albert Gendron ; Marie-Louise Gendron | [CFYV](https://yadvashem-france.org/dossier/nom/9783/) |
+| 9928 | Georges Hertaux ; Lucie Hertaux | Sarthe | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9928/) |
+| 10572 | Charles Grasset ; Marie-Louise Grasset | Vendée | Grasset Charles ; Marie-Louise GRASSET ; Jean-Claude Charhon | [CFYV](https://yadvashem-france.org/dossier/nom/10572/) |
+| 10908 | Adrien Chasserieau ; Héloïse Chasserieau | Vendée | Adrien & Héloïse CHASSERIAU ; Héloïse CHASSERIAU | [CFYV](https://yadvashem-france.org/dossier/nom/10908/) |
+| 10909 | Marthe Rouhaud | Vendée | Marthe Rouhaud et sa fille Denise ; 23 juillet 1943 Saint Valérien Marcelle Goldenberg | [CFYV](https://yadvashem-france.org/dossier/nom/10909/) |
+| 11510 | Pierre de Chabot ; Zoé de Chabot | Vendée | Famille De CHABOT ; M. LEBOVICI ; Papier d'identité Lebovici ; Pierre de CHABOT en 1938 | [CFYV](https://yadvashem-france.org/dossier/nom/11510/) |
+| 12841 | Émile Rautureau ; Marie-Louise Rautureau | Vendée | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12841/) |
+| 12841A | Denise Moreau | Vendée | Alice Moreau et sa fille Denise (nov 1943) ; Jacques Salmona avec les cousines Moreau (été 1944) ; Jacques et un petit copain en 1943 ; Jacques Salmona avec Denise Moreau | [CFYV](https://yadvashem-france.org/dossier/nom/12841a/) |
+| 13662 | Justinien Gillaizeau | Vendée | Justinien Gillaizeau (Ouest-France) | [CFYV](https://yadvashem-france.org/dossier/nom/13662/) |
+| 14441 | Armand de Baudry d’Asson ; Louise de Baudry d’Asson | Vendée | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14441/) |
+| 4020 | Julien Caquineau ; Clémentine Caquineau | Vendée | — | [CFYV](https://yadvashem-france.org/dossier/nom/4020/) |
+| 5063 | Auguste Raffin ; Marie Raffin née Moisette | Vendée | 4 fillettes juives recueillies par Auguste et Moisette RAFFIN, au centre les 2 fils RAFFIN en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/5063/) |
+| 6237 | Jean Thibaudeau ; Angéline Thibaudeau | Vendée | Angéline THIBAUDEAU | [CFYV](https://yadvashem-france.org/dossier/nom/6237/) |
+| 8323 | Marie-Élise Roger née Chapeleau | Vendée | Marie-Elise Roger | [CFYV](https://yadvashem-france.org/dossier/nom/8323/) |
+| 9343 | Madeleine Chauvet née Piveteau | Vendée | Madeleine Chauvet lors de sa cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/9343/) |
+
+Remarques : 11371 : Prénom de l’épouse : Simonne ou Mireille selon la fiche. · 11587 : Dossier lié 12943. · 12943 : Dossier lié 11587. · 13929 : Même récit que 13929A. · 13929A : Même récit que 13929. · 14090 : Même récit que 14090A. · 14090A : Même récit que 14090. · 14347 : Chaîne Abramczyk : dossiers 11587, 12943, 14347, 14347A, 14347B. · 14347A : Chaîne Abramczyk. · 14347B : Chaîne Abramczyk. · 4555 : Dossier lié 10740 (Nabineau). · 4621 : Dossier lié 4621A. · 4621A : Dossier lié 4621. · 6964 : Même récit que 6964A. · 6964A : Même récit que 6964. · 7168 : Dossier lié 14110. · 8138 : Dossiers liés 4387 et 6655. · 10096 : Même récit que 10096A. · 10096A : Même récit que 10096. · 11505 : Dossier lié 11505A. · 11505A : Dossier lié 11505. · 11734 : Dossier lié 11734A. · 11734A : Dossier lié 11734. · 12945 : Dossier lié 12945A. · 12945A : Dossier lié 12945. · 7463 : Dossiers liés 11505 et 11505A. · 8375 : Dossier lié 8375A. · 8375A : Dossier lié 8375. · 14595 : Titre décerné en 2026. · 6091 : Dossier lié 6091A. · 6091A : Dossier lié 6091. · 11480 : Dossier lié 11480A. · 11480A : Dossier lié 11480. · 13313 : Dossiers liés 13313A et 13313B. · 13313A : Dossiers liés 13313 et 13313B. · 13313B : Dossiers liés 13313 et 13313A. · 12841 : Dossier lié 12841A. · 12841A : Dossier lié 12841. · 14441 : Titre décerné en 2025.
 
 ## Lot Claude — Centre-Val de Loire (28/11/2026)
 
