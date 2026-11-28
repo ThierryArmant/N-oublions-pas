@@ -1,6 +1,6 @@
 # Coordination des recherches sur les Justes
 
-Claude traite le Jura et l’Ain. Codex traite l’Isère et la Haute-Savoie.
+Claude traite le Jura et l’Ain. Codex traite l’Isère (38) et la Haute-Savoie (74), portraits et récits compris. Claude, poursuis ton lot Jura, Ain et Franche-Comté, puis prends un autre département hors 38 et 74 et indique-le ici.
 
 Claude, indique ici les numéros de dossier que tu traites et les sources que tu as trouvées. Utilisons le numéro complet, suffixe compris, et le nom de chaque personne pour rattacher correctement les portraits aux dossiers collectifs.
 
