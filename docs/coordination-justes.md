@@ -15,9 +15,164 @@ Pour chaque lot, indique le dossier, les personnes, les liens des sources, la l�
 
 Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dessous). Lot Bourgogne terminé le 28/11/2026 (tableau ci-dessous). Hors 38 et 74.
 
-## Lot Claude en cours — Centre-Val de Loire (pris le 28/11/2026)
+## Avancement Claude
 
-Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret : 146 dossiers sans récit. Ensuite, Claude poursuit seul de proche en proche hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central) et l’indique ici avant chaque lot.
+Centre-Val de Loire terminé (146 dossiers, tableau ci-dessous). Ensuite, Claude poursuit seul de proche en proche hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central) et l’indique ici avant chaque lot.
+
+## Lot Claude — Centre-Val de Loire (28/11/2026)
+
+Récit intégré sur `main` pour 146 dossiers ; 111 portraits et 280 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_centre_val_de_loire_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10695 | Hermine Lasne née Durand | Cher | Hermine Lasne ; Hermine Lasne et Régine, l'enfant sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/10695/) |
+| 10977 | Louise Labussière (Mère Guillaume) | Cher | — | [CFYV](https://yadvashem-france.org/dossier/nom/10977/) |
+| 11206 | Hélène Zemmour née Cornu (avec Louis Martin) | Cher | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11206/) |
+| 12133 | Camille Guillaumin ; Marie Guillaumin née Pichon | Cher | Camille et Marie Guillaumin ; Camille et Marie Guillaumin et leur fille Madeleine ; Camille et Marie Guillaumin | [CFYV](https://yadvashem-france.org/dossier/nom/12133/) |
+| 12133A | Edmond Bauger ; Marie-Germaine Bauger | Cher | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12133a/) |
+| 12390 | Jean Dherbier ; Elise Dherbier née Boulet | Cher | Annette Waldman et Rolland Torte ; Annette Waldman ; Annette Waldman ; Les Dherbier et Annette Waldman ; Les Dherbier et Annette Waldman ; Les Dherbier et Annette Waldman ; Mariage Dherbier ; Cérémonie, habitants de Boulleret ; Défilé de la fanfare ; La diplomate israélienne et Annette, l'enfant sauvée ; Le maire, François Guguenheim et Michal Philosoph, de l'ambassade d'Israël ; Place Elise et Jean Dherbier, 15 mars 2015 | [CFYV](https://yadvashem-france.org/dossier/nom/12390/) |
+| 4127 | Suzanne Mercier née Blondeau | Cher | Suzanne Mercier | [CFYV](https://yadvashem-france.org/dossier/nom/4127/) |
+| 4827 | Pierre-Aimé Laneurie ; Juliette Laneurie | Cher | Pierre-Aimé Laneurie ; Juliette Laneurie | [CFYV](https://yadvashem-france.org/dossier/nom/4827/) |
+| 7100 | Isidore Boyau ; Léontine Boyau | Cher | Isidore et Léontine Boyau, après la guerre, avec leur petite protégée | [CFYV](https://yadvashem-france.org/dossier/nom/7100/) |
+| 7564 | Maurice Fagnot ; Henriette Fagnot née Lesage | Cher | Monique Ascher avec Henriette et Maurice Fagnot ; Henriette Fagnot avec une robe à pois, sa sœur Geneviève à sa droite | [CFYV](https://yadvashem-france.org/dossier/nom/7564/) |
+| 9130 | Étienne Boissery ; Marie Boissery ; leurs filles Annette et Pierrette | Cher | De gauche à droite, Étienne Boissery, sa fille Pierrette, son épouse Marie et Annette ; Remise de la médaille des Justes, juin 2001 | [CFYV](https://yadvashem-france.org/dossier/nom/9130/) |
+| 9621 | Germaine Vigne | Cher | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9621/) |
+| 11201 | Henri Bagault ; Marcelle Bagault née Baillon | Eure-et-Loir | Henri et Marcelle Bagault | [CFYV](https://yadvashem-france.org/dossier/nom/11201/) |
+| 11220 | Fernand Laigneau ; Lucie Laigneau née Louvet | Eure-et-Loir | Juillet 1943, Joël Krolik avec Lucie et Fernand Laigneau | [CFYV](https://yadvashem-france.org/dossier/nom/11220/) |
+| 11253 | André Baccary ; Clémence Baccary ; Yvonne Guillaume | Eure-et-Loir | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11253/) |
+| 11421 | Aimé Breton | Eure-et-Loir | Aimé Breton en 1957 ; Aimé Breton et Albert Moreau ; Aimé Breton ; Plaque commémorative ; La famille Breton | [CFYV](https://yadvashem-france.org/dossier/nom/11421/) |
+| 11421A | Roger Breton ; Thérèse Breton | Eure-et-Loir | Thérésia Breton ; La famille Breton ; Mariage de Roger et Thérèse Breton | [CFYV](https://yadvashem-france.org/dossier/nom/11421a/) |
+| 11421B | René et Geneviève Gastelais ; Albert et Marguerite Moreau | Eure-et-Loir | Aimé Breton et Albert Moreau | [CFYV](https://yadvashem-france.org/dossier/nom/11421b/) |
+| 12320 | Blanche Coudray | Eure-et-Loir | Paul et Léontine Baillon | [CFYV](https://yadvashem-france.org/dossier/nom/12320/) |
+| 12320A | Paul Baillon ; Léontine Baillon | Eure-et-Loir | Paul et Léontine Baillon | [CFYV](https://yadvashem-france.org/dossier/nom/12320a/) |
+| 13364 | Albert Jouvelin ; Lucienne Jouvelin | Eure-et-Loir | Albert Jouvelin ; Lucienne Jouvelin | [CFYV](https://yadvashem-france.org/dossier/nom/13364/) |
+| 13497 | Gilberte Lallée | Eure-et-Loir | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13497/) |
+| 7187 | Adrien Philippe ; Germaine Philippe | Eure-et-Loir | — | [CFYV](https://yadvashem-france.org/dossier/nom/7187/) |
+| 8037 | Denis Arsène ; Louise Arsène née Blin | Eure-et-Loir | Denis et Louise Arsène pendant les vacances, bien après la guerre ; Marcel Kerszner au centre, avec des petits Parisiens gardés par les Arsène | [CFYV](https://yadvashem-france.org/dossier/nom/8037/) |
+| 8613 | Alexandre Coursimault ; Aimée Coursimault née Barillet | Eure-et-Loir | Aimée et Alexandre Coursimault et Régine Rybak | [CFYV](https://yadvashem-france.org/dossier/nom/8613/) |
+| 9278 | Georges Mathurin ; Juliette Mathurin | Eure-et-Loir | Joseph Drzymalkowski | [CFYV](https://yadvashem-france.org/dossier/nom/9278/) |
+| 9992 | Paul Coche ; Marthe Coche née Carré | Eure-et-Loir | Paul Coche, avec Gérard, Raymond et Pitchi ; Paulette, Paul et Roger Coche ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/9992/) |
+| 10583 | Eugène de La Ferté ; Henriette de La Ferté née Porgès | Indre | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10583/) |
+| 10623 | Fernande Trémine (avec sa mère Louise) | Indre | — | [CFYV](https://yadvashem-france.org/dossier/nom/10623/) |
+| 10638 | Clément Lavillonnière ; Clémentine Lavillonnière | Indre | Clément, Clémentine et Marcel devant la maison ; Clément, Clémentine et Jacky en culotte courte, 1952 ; Clément en 1960 ; Clémentine en 1980 ; Remise de la médaille des Justes à Jeannine Lavillonnière, fille des Justes ; M. et Mme Lavillonnière avec leur fille Jeannine | [CFYV](https://yadvashem-france.org/dossier/nom/10638/) |
+| 10879 | Roger Perret ; Esther Perret née Corset | Indre | Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/10879/) |
+| 10887 | Henriette Le Pelley du Manoir | Indre | Henriette Le Pelley du Manoir ; La cabane où les Juifs se cachaient ; Le château | [CFYV](https://yadvashem-france.org/dossier/nom/10887/) |
+| 10888 | Daniel Baranger ; Lucienne Baranger | Indre | Daniel Baranger ; Mme Baranger | [CFYV](https://yadvashem-france.org/dossier/nom/10888/) |
+| 11668 | André Berthet ; Yvonne Berthet née Naudon | Indre | 1943, Yvonne, Andrée et Rachel ; Rachel Gebrowicz à son mariage, au bras de M. Berthet | [CFYV](https://yadvashem-france.org/dossier/nom/11668/) |
+| 11816 | Albert Prévault ; Jeanne Prévault | Indre | Albert et Jeanne Prévault ; Albert et Jeanne Prévault le 1er juillet 1947 | [CFYV](https://yadvashem-france.org/dossier/nom/11816/) |
+| 11816A | Louis Gauvin ; Raymonde Gauvin | Indre | Louis et Charlotte Gauvin à Levroux | [CFYV](https://yadvashem-france.org/dossier/nom/11816a/) |
+| 11829 | Joseph Chérioux ; Marthe Chérioux | Indre | Marthe et Joseph à La Ballière après la naissance de leur fils André, 1935 | [CFYV](https://yadvashem-france.org/dossier/nom/11829/) |
+| 11897 | Félix Fontenaille | Indre | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11897/) |
+| 11897A | François Moreau ; Marie-Louise Moreau | Indre | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11897a/) |
+| 11899 | Louis Saulnier ; Fernande Saulnier née Prot | Indre | Fernande Saulnier en 1943 ; Louis Saulnier | [CFYV](https://yadvashem-france.org/dossier/nom/11899/) |
+| 11998 | Hubert Mayeux ; Emilia Mayeux | Indre | Mme Mayeux avec la médaille des Justes ; Mme Mayeux et Solange Lourie née Korenbaum ; Mme Mayeux entourée de ses enfants | [CFYV](https://yadvashem-france.org/dossier/nom/11998/) |
+| 12153 | Marie-Louise Forget née Devaux | Indre | Marie-Louise Forget | [CFYV](https://yadvashem-france.org/dossier/nom/12153/) |
+| 12194 | Suzanne Baron née Morand | Indre | Suzanne Baron née Morand | [CFYV](https://yadvashem-france.org/dossier/nom/12194/) |
+| 1234 | Edmond Dauphin | Indre | Edmond Dauphin, 1954 | [CFYV](https://yadvashem-france.org/dossier/nom/1234/) |
+| 12351A | Paul Lecomte ; Fernande Lecomte | Indre | 1939, avant que la boutique ne soit bombardée ; 1942, Châtillon-sur-Indre, Henri Grosman au dernier rang ; En 1954, Henri Grosman avec Paul et Fernande Lecomte ; Famille Grosman et famille Lecomte | [CFYV](https://yadvashem-france.org/dossier/nom/12351a/) |
+| 12660 | Jacqueline Prandi | Indre | Jacqueline Prandi et Zilla Cahn en 1941 ; Jacqueline Prandi et Zilla Cahn en 1983 ; Jacqueline Prandi, Zilla Cahn et son fils en 1982 | [CFYV](https://yadvashem-france.org/dossier/nom/12660/) |
+| 12730 | Eugène Langlois ; Alexandrine Langlois ; Suzanne Langlois | Indre | Eugène et Alexandrine Langlois ; Suzanne Langlois ; Léon à Néret | [CFYV](https://yadvashem-france.org/dossier/nom/12730/) |
+| 13127 | Henri Morissé ; Thérèse Morissé née Lavergne | Indre | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13127/) |
+| 14282 | Marie Bertrand née Trainquat | Indre | Marie Bertrand | [CFYV](https://yadvashem-france.org/dossier/nom/14282/) |
+| 14348 | Stanislas Després ; Marie Després | Indre | Stanislas et Marie Després | [CFYV](https://yadvashem-france.org/dossier/nom/14348/) |
+| 2932 | Aimé Lépine ; Marcelle Lépine | Indre | Aimé et Marcelle Lépine ; Arbre Lépine à Yad Vashem ; Plaque devant l'arbre | [CFYV](https://yadvashem-france.org/dossier/nom/2932/) |
+| 3875 | Lucienne Wisberg née Detiche | Indre | Lucienne Wisberg ; Arbre Lucienne Wisberg ; Plaque Wisberg devant son arbre | [CFYV](https://yadvashem-france.org/dossier/nom/3875/) |
+| 4039 | Raymonde Dayan-Thomas | Indre | — | [CFYV](https://yadvashem-france.org/dossier/nom/4039/) |
+| 4160 | Jules Roger ; Jeanne Roger ; Louise Roger | Indre | Louise Roger ; Jules et Jeanne Roger en 1942 ; Ehud Loeb à la Libération | [CFYV](https://yadvashem-france.org/dossier/nom/4160/) |
+| 466 | Pierre Dubuis | Indre | — | [CFYV](https://yadvashem-france.org/dossier/nom/466/) |
+| 4831 | Gérald Dru ; Paule Dru née Cayré | Indre | — | [CFYV](https://yadvashem-france.org/dossier/nom/4831/) |
+| 4831A | Ernest Cayre ; Charlotte Cayre | Indre | — | [CFYV](https://yadvashem-france.org/dossier/nom/4831a/) |
+| 528 | Maurice Clément ; Germaine-Marie Clément | Indre | Maurice et Germaine Clément ; Arbre des Clément ; Plaque devant l'arbre | [CFYV](https://yadvashem-france.org/dossier/nom/528/) |
+| 5534 | Roger Cazala | Indre | — | [CFYV](https://yadvashem-france.org/dossier/nom/5534/) |
+| 5637 | Paul Rouzeau ; Jeanne Rouzeau | Indre | — | [CFYV](https://yadvashem-france.org/dossier/nom/5637/) |
+| 708 | Gaston Patoux ; Juliette Patoux | Indre | Juliette Patoux et Felice Zimmern en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/708/) |
+| 8324 | Odette Androt née Marais | Indre | Odette Androt ; Odette Androt lors de la cérémonie de remise du titre de Juste ; Maison habitée par les personnes sauvées | [CFYV](https://yadvashem-france.org/dossier/nom/8324/) |
+| 8513 | Victor Couagnon ; Clémentine Couagnon née Salmon | Indre | Les personnes sauvées, Eve-Line et Sylvie ; Cérémonie ; Photo de classe, 1943 ; Eve-Line, Serge et Sylvie ; Photo de classe, 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/8513/) |
+| 8672 | Camille Viollette | Indre | — | [CFYV](https://yadvashem-france.org/dossier/nom/8672/) |
+| 9506 | Stephan Janicki ; Bronia Janicki | Indre | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9506/) |
+| 9727 | Eugène Désiré ; Hélène Désiré | Indre | — | [CFYV](https://yadvashem-france.org/dossier/nom/9727/) |
+| 9779 | Pierre Moreau ; Simone Moreau | Indre | La famille Moreau | [CFYV](https://yadvashem-france.org/dossier/nom/9779/) |
+| 9815 | Paul Béal ; Palmire Béal | Indre | — | [CFYV](https://yadvashem-france.org/dossier/nom/9815/) |
+| 9815A | Henriette Gateault ; Pierre Doliveux | Indre | Pierre Doliveux ; Juillet 1944, Henriette Gateault et Pierre Doliveux | [CFYV](https://yadvashem-france.org/dossier/nom/9815a/) |
+| 9927 | Raymond Martin ; Julia Martin née Veauvy | Indre | Raymond et Julia Martin | [CFYV](https://yadvashem-france.org/dossier/nom/9927/) |
+| 10276 | Alexis Lignoux ; Augustine Lignoux née Giaume ; Odette Lignoux (Mme Balenci) | Indre-et-Loire | Augustine Lignoux | [CFYV](https://yadvashem-france.org/dossier/nom/10276/) |
+| 10442 | Maurice Genest | Indre-et-Loire | Maurice Genest | [CFYV](https://yadvashem-france.org/dossier/nom/10442/) |
+| 10560 | Pierre Merlin ; Odile Merlin | Indre-et-Loire | Pierre Merlin ; Pierre et Odile Merlin recevant la médaille et le diplôme | [CFYV](https://yadvashem-france.org/dossier/nom/10560/) |
+| 10740 | René Nabineau ; Jeanne Nabineau née Maitray | Indre-et-Loire | René et Jeanne Nabineau avec le petit Henri Joinovici | [CFYV](https://yadvashem-france.org/dossier/nom/10740/) |
+| 10788 | Paul Haviland | Indre-et-Loire | Paul Haviland | [CFYV](https://yadvashem-france.org/dossier/nom/10788/) |
+| 11262 | Henriette Beaudiot | Indre-et-Loire | Henriette Beaudiot en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/11262/) |
+| 11946 | Geneviève Cadart (sœur Sainte-Monique) | Indre-et-Loire | Geneviève Cadart, sœur Sainte-Monique | [CFYV](https://yadvashem-france.org/dossier/nom/11946/) |
+| 12507 | René Goussé ; Marie Goussé | Indre-et-Loire | Les Goussé dans leur appartement ; Josette et Gérard Danon, les enfants sauvés, en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/12507/) |
+| 12507A | Paulette Renault (Mme Hertz) | Indre-et-Loire | Paulette Renault et Josette Danon | [CFYV](https://yadvashem-france.org/dossier/nom/12507a/) |
+| 12834 | Paul Girard ; Régine Girard née Guespin | Indre-et-Loire | Simon et Henri Muflasz et Max Perl, les enfants sauvés | [CFYV](https://yadvashem-france.org/dossier/nom/12834/) |
+| 12855B | Auguste Marchand ; Hortense Marchand | Indre-et-Loire | Auguste Marchand ; Ferme de la Gagneraie, fin de l'hiver 1944, les cinq enfants ; Lieu du sauvetage | [CFYV](https://yadvashem-france.org/dossier/nom/12855b/) |
+| 13878 | Henri Pierre ; Yvonne Pierre | Indre-et-Loire | Henri et Yvonne Pierre | [CFYV](https://yadvashem-france.org/dossier/nom/13878/) |
+| 14323 | Robert Voisin | Indre-et-Loire | Robert Voisin | [CFYV](https://yadvashem-france.org/dossier/nom/14323/) |
+| 3128 | Marcelle Blain née Vah | Indre-et-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/3128/) |
+| 3977 | Geneviève Liaume ; Roger Liaume | Indre-et-Loire | Geneviève Liaume à 101 ans | [CFYV](https://yadvashem-france.org/dossier/nom/3977/) |
+| 4588 | Jean Prouteau ; Isabelle Prouteau | Indre-et-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4588/) |
+| 4769 | Georgette, André, Henri et René Blanchet | Indre-et-Loire | Henri Blanchet sur sa barque | [CFYV](https://yadvashem-france.org/dossier/nom/4769/) |
+| 5934 | Anne-Marie Bigot née Gallier | Indre-et-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/5934/) |
+| 8328 | Lucien Clément ; Madeleine Clément | Indre-et-Loire | Helen Ullrich et la fille des Justes, Gisèle Milet | [CFYV](https://yadvashem-france.org/dossier/nom/8328/) |
+| 8630 | Louis Jeudi ; Madeleine Jeudi | Indre-et-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/8630/) |
+| 9199 | Armande Tremblay née Raimbault | Indre-et-Loire | Armande Tremblay | [CFYV](https://yadvashem-france.org/dossier/nom/9199/) |
+| 9718 | Bernard Louault ; Jeanne-Marie Louault | Indre-et-Loire | Famille Louault | [CFYV](https://yadvashem-france.org/dossier/nom/9718/) |
+| 10344 | Vincent Chaufournais ; Odette Chaufournais | Loir-et-Cher | Odette et Vincent Chaufournais en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/10344/) |
+| 10446 | Blanche Osselin ; Léopold Blineau | Loir-et-Cher | Blanche Osselin ; Léopold Blineau ; Les personnes sauvées | [CFYV](https://yadvashem-france.org/dossier/nom/10446/) |
+| 10446A | Claire Beignet ; Andrée et Jeanne Beignet | Loir-et-Cher | Claire Beignet ; Jeanne Beignet ; Andrée Beignet | [CFYV](https://yadvashem-france.org/dossier/nom/10446a/) |
+| 10482 | Roger et Madeleine Botineau ; Madeleine Lucas ; Marie Fauveau | Loir-et-Cher | Madeleine Lucas ; Marie Fauveau ; Madeleine Botineau ; Roger Botineau ; Cérémonie de remise de médaille | [CFYV](https://yadvashem-france.org/dossier/nom/10482/) |
+| 10594 | Suzanne Marsollier | Loir-et-Cher | Suzanne Marsollier | [CFYV](https://yadvashem-france.org/dossier/nom/10594/) |
+| 10659 | Marie Jousselin née Landron | Loir-et-Cher | Alexandre Jousselin, René Fleischer et Marie Jousselin ; Madame Fleischer ; Marie Jousselin et son mari Alexandre ; Monsieur Fleischer ; René Fleischer après la guerre ; René Fleischer et sa mère avant la guerre | [CFYV](https://yadvashem-france.org/dossier/nom/10659/) |
+| 10941 | Charles Ferrand | Loir-et-Cher | Charles Ferrand ; Automne 1943 : Suzy Vahl, Yvette et Philippe Chauvin, Charles Ferrand et Edith Vahl | [CFYV](https://yadvashem-france.org/dossier/nom/10941/) |
+| 11342 | Raymonde Piedallu | Loir-et-Cher | Raymonde Piedallu et deux petites filles qu'elle a sauvées ; Raymonde Piedallu lors de la cérémonie ; Raymonde Piedallu lors de la remise de sa Légion d'honneur ; Raymonde Piedallu lors de la remise de sa Légion d'honneur ; Article de journal | [CFYV](https://yadvashem-france.org/dossier/nom/11342/) |
+| 11602 | Silvine Girault | Loir-et-Cher | Ilicz Fizycki, sauvé par Blanche Grillet, et Claire | [CFYV](https://yadvashem-france.org/dossier/nom/11602/) |
+| 11602A | Blanche Grillet née Jousselin | Loir-et-Cher | Blanche-Renée Grillet et son fils Gérard en 1955 | [CFYV](https://yadvashem-france.org/dossier/nom/11602a/) |
+| 11735 | Andrée (Dédée) Pasquier née Roland | Loir-et-Cher | Andrée Pasquier | [CFYV](https://yadvashem-france.org/dossier/nom/11735/) |
+| 11956 | Robert Ripé ; Gisèle Ripé | Loir-et-Cher | Robert et Gisèle Ripé ; Les Ripé et les Szermanski | [CFYV](https://yadvashem-france.org/dossier/nom/11956/) |
+| 12080 | Anne-Marie Pavot née Parisot | Loir-et-Cher | Anne-Marie Pavot et son mari | [CFYV](https://yadvashem-france.org/dossier/nom/12080/) |
+| 12171 | Ernest Maurice ; Yvonne Maurice née Chardon | Loir-et-Cher | — | [CFYV](https://yadvashem-france.org/dossier/nom/12171/) |
+| 12447 | Rémy Moyer ; Louise Moyer née Glaume | Loir-et-Cher | Louise Moyer et Rachel Dratler, la personne sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/12447/) |
+| 13454 | Henri Houbron ; Andrée Houbron | Loir-et-Cher | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13454/) |
+| 14266 | Jean Philippeau ; Jeanne Philippeau | Loir-et-Cher | Jean et Jeanne Philippeau ; Arlette Testyler, l'enfant sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/14266/) |
+| 5391 | Jean-Marie Buron et son épouse | Loir-et-Cher | Jean-Marie Buron | [CFYV](https://yadvashem-france.org/dossier/nom/5391/) |
+| 6158 | Robert Gestre ; Geneviève Gestre | Loir-et-Cher | — | [CFYV](https://yadvashem-france.org/dossier/nom/6158/) |
+| 6850 | Roger Chilloux ; Marcelle Chilloux | Loir-et-Cher | Roger et Marcelle Chilloux ; Roger, et la photo de Marcelle dans le cadre derrière ; Roger et Colette ; Ginette et Colette Sétion | [CFYV](https://yadvashem-france.org/dossier/nom/6850/) |
+| 7074 | Bernard Charrault ; Raymonde Charrault née Fameau | Loir-et-Cher | — | [CFYV](https://yadvashem-france.org/dossier/nom/7074/) |
+| 7613 | Berthe Doré née Besson | Loir-et-Cher | Pèlerinage à Pezou des enfants cachés | [CFYV](https://yadvashem-france.org/dossier/nom/7613/) |
+| 7637 | Louis Vaillant ; Florentine Vaillant née Fourmy ; Lucien Besnard | Loir-et-Cher | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/7637/) |
+| 7902 | Raymonde Roger | Loir-et-Cher | Raymonde Roger en 1994 ; 1942, Félix Jastreb ; Famille Roger ; Félix Jastreb ; Golda Jastreb ; Raymonde Roger et Félix Jastreb ; Remise de la médaille des Justes ; Raymonde avec sa fille et ses parents, les Leroy | [CFYV](https://yadvashem-france.org/dossier/nom/7902/) |
+| 8257 | Pierre Allart ; Blanche Allart | Loir-et-Cher | Blanche et Pierre Allart avec Léa Goldberg | [CFYV](https://yadvashem-france.org/dossier/nom/8257/) |
+| 837 | Laurent Leboutet | Loir-et-Cher | Laurent Leboutet ; Cérémonie en l'honneur de Laurent Leboutet le 20 mai 1974 à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/837/) |
+| 9590 | Henriette Chautard | Loir-et-Cher | Henriette Chautard au centre | [CFYV](https://yadvashem-france.org/dossier/nom/9590/) |
+| 9996 | Léon Breton ; Charlotte Breton | Loir-et-Cher | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9996/) |
+| 10639 | Hélène Bedu | Loiret | Été 1938 à Berck ; Famille Graber ; À gauche Hélène Bedu en 1945, sur les deux autres photos Lili ; Elise Graber-Lerner et Raymond Bedu ; Elise Graber, première enfant à partir de la droite ; Elise Graber au mur des Justes à Paris | [CFYV](https://yadvashem-france.org/dossier/nom/10639/) |
+| 11008 | André Poulin ; Raymonde Poulin | Loiret | La famille Poulin | [CFYV](https://yadvashem-france.org/dossier/nom/11008/) |
+| 11876 | Thérèse Bouchet | Loiret | 1943, maison de Thérèse Bouchet : Régine, son frère Albert et des enfants ; Les enfants de l'école à Baule ; Thérèse Bouchet en 1943 avec Monique Damsky | [CFYV](https://yadvashem-france.org/dossier/nom/11876/) |
+| 11915 | Alfred Mazaureix ; Marie-Odile Mazaureix | Loiret | Le couple Mazaureix | [CFYV](https://yadvashem-france.org/dossier/nom/11915/) |
+| 11917 | René Petit ; Lucienne Petit | Loiret | René et Lucienne Petit | [CFYV](https://yadvashem-france.org/dossier/nom/11917/) |
+| 11973 | Roland Boulas ; Jeanne Boulas | Loiret | Famille Boulas ; Tuba à la fin de la guerre ; Tuba Debas-Dorfman après la guerre | [CFYV](https://yadvashem-france.org/dossier/nom/11973/) |
+| 12516 | Coralie Beluse | Loiret | Coralie Beluse | [CFYV](https://yadvashem-france.org/dossier/nom/12516/) |
+| 12535 | Rodolphe Ménigault ; Marie-Madeleine Ménigault née Cribellier | Loiret | Cérémonie ; Équipe des poseurs ; Maman à la gare ; Tournée d'inspection | [CFYV](https://yadvashem-france.org/dossier/nom/12535/) |
+| 12654 | Marie Legout | Loiret | En 1946, Mme Birkan et ses deux fils Bernard, 9 ans, et Marcel, 4 ans | [CFYV](https://yadvashem-france.org/dossier/nom/12654/) |
+| 13275 | Joseph Labidoire ; Marguerite Labidoire | Loiret | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13275/) |
+| 13275A | Louis Leocournet ; Louise Leocournet | Loiret | Les Labidoire et les Leocournet | [CFYV](https://yadvashem-france.org/dossier/nom/13275a/) |
+| 13495 | René Poignard ; Marguerite Poignard | Loiret | René et Marguerite Poignard au premier rang ; La ferme | [CFYV](https://yadvashem-france.org/dossier/nom/13495/) |
+| 13688 | Madeleine Fauconneau du Fresne | Loiret | Yvonne Netter et Madeleine Fauconneau ; Yvonne Netter et Madeleine Fauconneau | [CFYV](https://yadvashem-france.org/dossier/nom/13688/) |
+| 14065 | Fernand Malé ; Renée Malé née Besnard | Loiret | Renée et Fernand Malé ; Au camp, Jean avec un béret au centre | [CFYV](https://yadvashem-france.org/dossier/nom/14065/) |
+| 14100 | Pierre Batut ; Maria Batut | Loiret | Maria et Pierre Batut, 1950 ; Laja Vadrarue | [CFYV](https://yadvashem-france.org/dossier/nom/14100/) |
+| 14179 | Abbé Robert Crespin | Loiret | Abbé Robert Crespin | [CFYV](https://yadvashem-france.org/dossier/nom/14179/) |
+| 14317 | Léon Ronceray ; Marie Ronceray | Loiret | Famille Ronceray ; Paerle Kornbaum | [CFYV](https://yadvashem-france.org/dossier/nom/14317/) |
+| 14366 | France Dressen née Durrleman | Loiret | France Dressen | [CFYV](https://yadvashem-france.org/dossier/nom/14366/) |
+| 14564 | Rolande Gaboriaud | Loiret | Rolande Gaboriaud ; Simonne Gerstenhaber entourée de ses trois fils, vers 1950 | [CFYV](https://yadvashem-france.org/dossier/nom/14564/) |
+| 1484I | Henriette de Mornac | Loiret | Plantation de l'arbre à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/1484i/) |
+| 2900 | Henri Tessier ; Noémie Tessier ; Jeanine Tessier | Loiret | Famille Tessier | [CFYV](https://yadvashem-france.org/dossier/nom/2900/) |
+| 3847 | Jacqueline Guillemot née Thiercelin | Loiret | — | [CFYV](https://yadvashem-france.org/dossier/nom/3847/) |
+| 7101 | Gabriel, Marcelle et Jacqueline Bory | Loiret | Gabriel Bory ; Marcelle Bory | [CFYV](https://yadvashem-france.org/dossier/nom/7101/) |
+| 7101A | Gérard Lagier ; Marcelle Lagier | Loiret | Gérard et Marcelle Lagier | [CFYV](https://yadvashem-france.org/dossier/nom/7101a/) |
+| 7132 | Thérèse Chauvineau | Loiret | — | [CFYV](https://yadvashem-france.org/dossier/nom/7132/) |
+| 7422 | Lucien Chesnoy ; Denise Chesnoy | Loiret | — | [CFYV](https://yadvashem-france.org/dossier/nom/7422/) |
+
+Remarques : 12133 : Dossier lié 12133A. · 12133A : Dossier lié 12133. · 11421 : Même récit que 11421A et 11421B. · 11421A : Même récit que 11421 et 11421B. · 11421B : Même récit que 11421 et 11421A. · 12320 : Même récit que 12320A. · 12320A : Même récit que 12320. · 10887 : Dossier lié 10888. · 10888 : Dossier lié 10887. · 11816 : Même récit que 11816A. · 11816A : Même récit que 11816. · 11897 : Dossier lié 11897A. · 11897A : Dossier lié 11897. · 4831 : Dossier lié 4831A. · 4831A : Dossier lié 4831. · 9815 : La fiche situe les faits dans la Somme ; la base rattache la notice à l’Indre. · 12507 : Même récit que 12507A. · 12507A : Même récit que 12507. · 4588 : Dossier lié 9718. · 9718 : Dossier lié 4588. · 10446 : Même récit que 10446A. · 10446A : Même récit que 10446. · 11602 : Dossier lié 11602A. · 11602A : Dossier lié 11602. · 11008 : Dossier lié 11876. · 11876 : Dossier lié 11008. · 13275 : Même récit que 13275A. · 13275A : Même récit que 13275. · 13688 : La fiche indique « Gabrielle » en en-tête. · 14564 : La fiche situe les faits dans la Loire et la Haute-Loire ; la base rattache la notice au Loiret. · 2900 : Henri Tessier aide aussi Yvonne Netter (dossier 13688). · 7101 : Même récit que 7101A. · 7101A : Même récit que 7101.
 
 ## Lot Claude — Bourgogne (28/11/2026)
 
