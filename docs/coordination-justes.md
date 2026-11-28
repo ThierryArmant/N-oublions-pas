@@ -17,7 +17,92 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58) et Hauts-de-France (88 : Nord, Pas-de-Calais, Somme, Aisne, Oise), tableaux ci-dessous. Zone Pyrénées (confiée par Thierry le 28/11) terminée. Lot en cours (pris le 28/11) : Bretagne (Côtes-d’Armor, Morbihan, Ille-et-Vilaine) et Grand Est hors Vosges (Ardennes, Aube, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle), 76 dossiers sans récit. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88) et Bretagne-Grand Est hors Vosges (76), tableaux ci-dessous. Zone Pyrénées (confiée par Thierry le 28/11) terminée. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Bretagne et Grand Est (28/11/2026)
+
+Récit intégré sur `main` pour 76 dossiers ; 74 portraits et 100 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_bretagne_grand_est_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10810 | Daniel et Juliette Brunet | Ardennes | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10810/) |
+| 10875 | Jean et Juliette Tarradou | Ardennes | Jean TARRADOU ; Juliette TARRADOU | [CFYV](https://yadvashem-france.org/dossier/nom/10875/) |
+| 10912 | Émile Fontaine | Ardennes | Emile Fontaine | [CFYV](https://yadvashem-france.org/dossier/nom/10912/) |
+| 10912A | Annette et Camille Pierron | Ardennes | Annette Pierron ; Camille Pierron | [CFYV](https://yadvashem-france.org/dossier/nom/10912a/) |
+| 10949 | Louis et Mélanie Maljean ; Camille Maljean ; Odette Chauveau | Ardennes | Odette CHAUVEAU ; Camille Maljean ; Mélanie et Louis Maljean | [CFYV](https://yadvashem-france.org/dossier/nom/10949/) |
+| 10954A | Nestor et Roger Prime | Ardennes | Nestor & Roger PRIME | [CFYV](https://yadvashem-france.org/dossier/nom/10954a/) |
+| 11102 | Lucien et Marie Achart | Ardennes | Familles Achart et Dereims | [CFYV](https://yadvashem-france.org/dossier/nom/11102/) |
+| 11102A | Georges et Lucienne Dereims | Ardennes | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11102a/) |
+| 11812 | Gabriel et Sara Cailac | Ardennes | Gabriel & Sara et la personne sauvée Raymonde Natanson | [CFYV](https://yadvashem-france.org/dossier/nom/11812/) |
+| 12106 | Albert et Suzanne Didier | Ardennes | Suzanne et Albert Didier ; Alexis Brytenyszok et sa sœur Lucette | [CFYV](https://yadvashem-france.org/dossier/nom/12106/) |
+| 12449 | Albert et Clémence Ducloux | Ardennes | En 1941, Albert Ducloux (deuxième à gauche), Clémence sa femme (troisième à gauche) et leurs enfants Jean et Bernadette ; 1943 dans les Ardennes la famille des sauvées | [CFYV](https://yadvashem-france.org/dossier/nom/12449/) |
+| 13596B | André et Léa Quatreville | Ardennes | 23 juillet 1945, les enfants Quatreville et les enfants Rozencwajg ; Les enfants Quatreville et les enfants Rozencwajg à Beaumont en Argonne | [CFYV](https://yadvashem-france.org/dossier/nom/13596b/) |
+| 5287 | Jeanne Wimart ; Denise et Georges Wimart | Ardennes | Jeanne Wimart ; Denise Wimart ; Georges Wimart | [CFYV](https://yadvashem-france.org/dossier/nom/5287/) |
+| 6188 | Alice Laroche (née Ficher) | Ardennes | — | [CFYV](https://yadvashem-france.org/dossier/nom/6188/) |
+| 1098 | Camille et Denise Mathieu ; Blanche Mathieu | Aube | MATHIEU Camille aux JOURNEES EUROPEENNES DU PATRIMOINE 2012 ; Cérémonie 21 juin 1978 à Yad Vashem ; Plantation de l'arbre ; Camille & Denise le 11 novembre 2010 ; Camille Mathieu et Manuel Valls | [CFYV](https://yadvashem-france.org/dossier/nom/1098/) |
+| 11429 | Pasteur André Funé, Alice Funé et Jeanne Mare (née Funé) | Aube | 7 juillet 2009 cérémonie FUNE, le Maire et Edith Moskovic ; M. et Mme Funé, les enfants sauvés | [CFYV](https://yadvashem-france.org/dossier/nom/11429/) |
+| 327 | Jeannette Roth (née Schwartz) | Aube | — | [CFYV](https://yadvashem-france.org/dossier/nom/327/) |
+| 4386 | Abbé Roger Riebert | Aube | — | [CFYV](https://yadvashem-france.org/dossier/nom/4386/) |
+| 5193 | Marcel et Raymonde Perrin ; Jacqueline Jacquenet (née Perrin) | Aube | Louise, Marcel Perrin, Raymonde et Jacqueline | [CFYV](https://yadvashem-france.org/dossier/nom/5193/) |
+| 5193A | Isidore, Anastase et Félicie Schmitt ; Simone Martin-Daunet | Aube | — | [CFYV](https://yadvashem-france.org/dossier/nom/5193a/) |
+| 6161 | Georges et Jeanne-Marie Marcelot | Aube | Georges et Jeanne Marie MARCELOT ; Jeanne-Marie Marcelot avec Fani, jacques Badarau, Monique et Irène | [CFYV](https://yadvashem-france.org/dossier/nom/6161/) |
+| 6890 | Suzanne Gombault | Aube | — | [CFYV](https://yadvashem-france.org/dossier/nom/6890/) |
+| 6898 | Rolland Delarche | Aube | — | [CFYV](https://yadvashem-france.org/dossier/nom/6898/) |
+| 11266 | Marie et Elisa Josse | Côtes-d’Armor | Elisa et Marie Josse en 1952 ; Marie Josse avec jacques la personne sauvée en 1952 crédit collYV | [CFYV](https://yadvashem-france.org/dossier/nom/11266/) |
+| 12859 | Césarine Rosemberg (née Le Floc’h) | Côtes-d’Armor | Maria Césarine | [CFYV](https://yadvashem-france.org/dossier/nom/12859/) |
+| 12859A | Francine Girot (née Jégou) | Côtes-d’Armor | En 1938, Françoise GIROT | [CFYV](https://yadvashem-france.org/dossier/nom/12859a/) |
+| 13266A | Jean-François Le Lay | Côtes-d’Armor | Diplôme de Juste des Nations | [CFYV](https://yadvashem-france.org/dossier/nom/13266a/) |
+| 13527 | Alexandre Dubos | Côtes-d’Armor | Ayants droit, élus, représentants de l’État, enfant sauvé | [CFYV](https://yadvashem-france.org/dossier/nom/13527/) |
+| 1474 | Henri et Léa Chaumont | Haute-Marne | Henri et Léa Chaumont | [CFYV](https://yadvashem-france.org/dossier/nom/1474/) |
+| 13404A | Angèle Breton (née Lesage) | Ille-et-Vilaine | Angèle Breton ; Angèle Breton, Liliane Mazuras et Raymond Breton, en 1943 à Fougères. ; Liliane Brulant, enfant cachée | [CFYV](https://yadvashem-france.org/dossier/nom/13404a/) |
+| 14303 | Joseph et Anna Sénéchal | Ille-et-Vilaine | Joseph et Anna Sénéchal en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/14303/) |
+| 10954 | Jean-Marie Leroux ; Marie-Thérèse Trouillet (née Leroux) | Marne | Jean-Marie Leroux et Marie-Thérèse Trouillet | [CFYV](https://yadvashem-france.org/dossier/nom/10954/) |
+| 11629 | René et Odette Deguay | Marne | René et Odette Deguay ; Jacqueline Jumel Michel Harel et Pierre Osowiechi | [CFYV](https://yadvashem-france.org/dossier/nom/11629/) |
+| 11900 | Lucien et Henriette Ponson | Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11900/) |
+| 12351 | Catherine Bourgeteau | Marne | Eté 1941 ; Madame Bourgeteau à 40 ans avec Françoise nourrisson ; Vers 1945 la personne sauvée avec son bébé | [CFYV](https://yadvashem-france.org/dossier/nom/12351/) |
+| 13736 | Louise et Auguste Héry | Marne | Marcel et Louise | [CFYV](https://yadvashem-france.org/dossier/nom/13736/) |
+| 14251 | Clothilde Denis | Marne | Clotilde Denis et ses élèves en 1910 à La Forestière | [CFYV](https://yadvashem-france.org/dossier/nom/14251/) |
+| 14251A | Adrien et Marceline François | Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/14251a/) |
+| 14251B | André et Huguette François | Marne | André François ; Huguette François | [CFYV](https://yadvashem-france.org/dossier/nom/14251b/) |
+| 14251D | Henri et Gilberte François | Marne | Henri, Gilberte François, Léa et famille | [CFYV](https://yadvashem-france.org/dossier/nom/14251d/) |
+| 1760 | Aimée Lallement | Marne | Aimée Lallement | [CFYV](https://yadvashem-france.org/dossier/nom/1760/) |
+| 5770 | André et Lucienne Laurent | Marne | André et Lucienne Laurent avec leur fils Claude | [CFYV](https://yadvashem-france.org/dossier/nom/5770/) |
+| 5771 | Daniel Bachet | Marne | Daniel Bachet en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/5771/) |
+| 7525 | Jean Royer | Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/7525/) |
+| 8182 | Père Jean Renou | Marne | Père Jean Renou | [CFYV](https://yadvashem-france.org/dossier/nom/8182/) |
+| 10246 | Émile et Camille Marchal | Meurthe-et-Moselle | Émile & Camille Marchal en 1934 | [CFYV](https://yadvashem-france.org/dossier/nom/10246/) |
+| 11146 | Victor et Anna Gouy | Meurthe-et-Moselle | Victor & Anna GOUY | [CFYV](https://yadvashem-france.org/dossier/nom/11146/) |
+| 11259 | Arthur Varoquaux | Meurthe-et-Moselle | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11259/) |
+| 2268 | Pierre Marie | Meurthe-et-Moselle | Pierre Marie ; Plantation de l’arbre en hommage à Pierre Marie ; Plaque en hommage à Pierre Marie ; Arbre de Pierre Marie | [CFYV](https://yadvashem-france.org/dossier/nom/2268/) |
+| 2268A | Édouard Vigneron | Meurthe-et-Moselle | Édouard Vigneron | [CFYV](https://yadvashem-france.org/dossier/nom/2268a/) |
+| 4274A | Marie et Paul Grosse | Meurthe-et-Moselle | Marie-Luce (Gaby) Grosse*, Renée, Lily et Ginette et Monique au premier rang | [CFYV](https://yadvashem-france.org/dossier/nom/4274a/) |
+| 4274B | Abbé Roger Ledain | Meurthe-et-Moselle | — | [CFYV](https://yadvashem-france.org/dossier/nom/4274b/) |
+| 4556 | Marcel Galliot | Meurthe-et-Moselle | Marcel Galliot | [CFYV](https://yadvashem-france.org/dossier/nom/4556/) |
+| 4589 | Étienne Roch | Meurthe-et-Moselle | — | [CFYV](https://yadvashem-france.org/dossier/nom/4589/) |
+| 4729 | Charles Bouy | Meurthe-et-Moselle | Charles Bouy | [CFYV](https://yadvashem-france.org/dossier/nom/4729/) |
+| 4731 | Camille Kleinclauss | Meurthe-et-Moselle | — | [CFYV](https://yadvashem-france.org/dossier/nom/4731/) |
+| 4736 | François Pinot | Meurthe-et-Moselle | — | [CFYV](https://yadvashem-france.org/dossier/nom/4736/) |
+| 4737 | Jean Dantonel | Meurthe-et-Moselle | — | [CFYV](https://yadvashem-france.org/dossier/nom/4737/) |
+| 4826 | Marguerite Pagès | Meurthe-et-Moselle | — | [CFYV](https://yadvashem-france.org/dossier/nom/4826/) |
+| 4967 | Lucien Louyot | Meurthe-et-Moselle | — | [CFYV](https://yadvashem-france.org/dossier/nom/4967/) |
+| 6370 | Paul et Georgette Larchet | Meurthe-et-Moselle | Georgette Larchet ; Paul Larchet | [CFYV](https://yadvashem-france.org/dossier/nom/6370/) |
+| 6381 | Émile et Geneviève Thouvenin | Meurthe-et-Moselle | Famille Thouvenin au complet en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/6381/) |
+| 6381A | Victor et Cécile Hergott | Meurthe-et-Moselle | En 1940 Cécile & Victor HERGOTT | [CFYV](https://yadvashem-france.org/dossier/nom/6381a/) |
+| 6381B | Germaine Bour | Meurthe-et-Moselle | — | [CFYV](https://yadvashem-france.org/dossier/nom/6381b/) |
+| 7169 | Charles Thouron | Meurthe-et-Moselle | Charles THOURON décoré de la Médaille de la police | [CFYV](https://yadvashem-france.org/dossier/nom/7169/) |
+| 9167 | Marcel Courtot | Meurthe-et-Moselle | — | [CFYV](https://yadvashem-france.org/dossier/nom/9167/) |
+| 10962 | Gabriel et Simonne Philbert | Meuse | Simonne avec sa fille adoptive | [CFYV](https://yadvashem-france.org/dossier/nom/10962/) |
+| 11196 | Achille et Simone Domice | Meuse | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11196/) |
+| 12083 | Auguste-Louis et Jeanne Bieber | Meuse | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12083/) |
+| 12202 | René, Fernande et Louise Bernard | Meuse | Louise BERNARD ; Fernande BERNARD ; René BERNARD ; Roger Gerschel alias René Leprun | [CFYV](https://yadvashem-france.org/dossier/nom/12202/) |
+| 1233 | Charles Gombert | Meuse | Cérémonie ; Charles Gombert recevant la médaille ; Meir Shamir, consul général d’Israël, signe le parchemin | [CFYV](https://yadvashem-france.org/dossier/nom/1233/) |
+| 4244 | Marcel et Mariette Médard | Meuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/4244/) |
+| 6229 | Ernest et Anne Schoellen | Meuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/6229/) |
+| 7072 | Alfred et Lucie Pinck ; Henriette Dodo (née Pinck) | Meuse | Alfred et Lucie PINCK | [CFYV](https://yadvashem-france.org/dossier/nom/7072/) |
+| 10775 | Augustine Le May (née Faucheux) | Morbihan | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10775/) |
+| 11323C | Georges Pierrot | Moselle | — | [CFYV](https://yadvashem-france.org/dossier/nom/11323c/) |
+
+Remarques : 1233 : La fiche situe Nançois-sur-Ornain dans les Vosges ; la commune est dans la Meuse. · 2268 : Voir aussi le dossier 4736 (Pinot). · 6381 : Les autres enfants Hoffmann : dossiers 6381A et 6381B. · 10912 : Voir aussi le dossier 10912A. · 10912A : Récit commun avec le dossier 10912. · 10954 : Voir aussi le dossier 10954A. · 11102 : Voir aussi le dossier 11102A (Dereims). · 11102A : Récit commun avec le dossier 11102. · 11146 : Voir aussi le dossier 6381 (Thouvenin). · 12859 : Voir aussi le dossier 12859A (Girot). · 12859A : Récit commun avec le dossier 12859. · 14251 : Dossiers liés : 14251A, 14251B et 14251D (familles François). · 14251A : Récit commun avec le dossier 14251. · 14251B : Récit commun avec le dossier 14251. · 14251D : Récit commun avec le dossier 14251. · 10954A : Voir aussi le dossier 10954. · 11323C : Le dossier est rattaché à Sarreguemines (Moselle), lieu de résidence ; le sauvetage a lieu en Tchécoslovaquie. · 13266A : La fiche 13266A ne contient pas de récit du sauvetage. · 4274A : Voir aussi 4274B (abbé Ledain), 4826 (Pagès) et 4967 (Louyot). · 4274B : Récit commun avec le dossier 4274A. · 2268A : Voir aussi 2268 (Marie), 4736 (Pinot), 4729 (Bouy), 7169 (Thouron). · 5193A : Récit commun avec le dossier 5193. · 6381A : Voir aussi 6381 (Thouvenin) et 6381B (Bour). · 6381B : Récit commun avec le dossier 6381A.
 
 ## Lot Claude — Hauts-de-France (28/11/2026)
 
