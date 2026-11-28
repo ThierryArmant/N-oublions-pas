@@ -405,3 +405,400 @@ Object.assign(portraitsJustes, {
     "url": "https://yadvashem-france.org/dossier/nom/6569/"
   }
 });
+
+// Photographies publiées dans les dossiers du Comité français pour Yad Vashem, affichées dans la fiche
+const photosDossiersJustes = {
+ "899": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/10/Rene-Nodot-en-1940.jpg",
+   "legende": "René Nodot en 1940"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/10/Plantation-de-larbre-Rene-Nodot-a-Yad-Vashem.jpg",
+   "legende": "Plantation de l’arbre René Nodot à Yad Vashem"
+  }
+ ],
+ "3595": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/04/Famille-Van-der-Post-1536x1436.jpg",
+   "legende": "Famille Van der Post"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/0c3133488f6db3c405bdce34c5258988.jpg",
+   "legende": "Lieu du sauvetage"
+  }
+ ],
+ "3848": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/04/Image1.png",
+   "legende": "Olga Saint-Blancat pendant la guerre"
+  }
+ ],
+ "4734": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/09/Emile-et-Henriette-Delavenna-1536x843.jpg",
+   "legende": "Emile et Henriette Delavenna"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/09/Dr-Jacques-Lévy-scaled.jpg",
+   "legende": "Le docteur Jacques Lévy, père des fillettes cachées"
+  }
+ ],
+ "6569": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/09/Les-Saulnier-et-les-personnes-sauvées-1536x1050.jpg",
+   "legende": "Les Saulnier et les personnes sauvées"
+  }
+ ],
+ "7930": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/12/Marie-Lacroix.jpg",
+   "legende": "Marie Lacroix"
+  }
+ ],
+ "9947": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/8512164df2834d138666f57ff8d0ad59.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/5a335814d4521f2a846a3c3e2e5fca0a.jpg",
+   "legende": "Alexandre Nicolot en 1952"
+  }
+ ],
+ "10274": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/04/Mathilde-Parisey.jpg",
+   "legende": "Mathilde Parisey"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/04/Armand-Parisey.jpg",
+   "legende": "Armand Parisey"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/04/Ceremonie-de-la-remise-de-la-medaille.jpg",
+   "legende": "Cérémonie de remise de la médaille"
+  }
+ ],
+ "10654": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/dd20c0c16782f054fd618fdde2bc2ea5.jpg",
+   "legende": "Marcel et Olga Marty"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/1a3d49e70212a9b5879110f59789af0e.jpg",
+   "legende": "Léa Dluganoga, la personne sauvée"
+  }
+ ],
+ "10738": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/60699cca3c4dd0952c6e56b8b71e92e0.jpg",
+   "legende": "Germaine Jurquet"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/bd6b48371b945438b9aea1ec2f1d1bcd.jpg",
+   "legende": "Albert Jurquet"
+  }
+ ],
+ "11135": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2023/05/Arthur-et-Wilhelmine-Jaccard-en-1940-web.jpg",
+   "legende": "Arthur et Wilhelmine Jaccard en 1940"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2023/05/Ruth-Monney-en-1943.jpg",
+   "legende": "Ruth Monney en 1943"
+  }
+ ],
+ "11443": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/fac5ea0066ac793c6a27391e0a2bb5e5.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/79ddc3894c2b8d2c2cfaf72d5014aa3a.jpg",
+   "legende": "Les Felten et Yvan et Maria Rueff"
+  }
+ ],
+ "11703": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2874326e2035b61ba1e8ad3900c93a26.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/cc266355b150afb9579e9240bf4b669e.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/585396ebb394429568e7a9bb750dc8f0.jpg",
+   "legende": "Emile et Christiane, 20 mars 1944 (inscription sur la photo)"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/c7436a209d0233d1536654a485d1e94e.jpg",
+   "legende": "« Les sauvés : ceux qui n’auraient jamais pu naître sans eux », Olivier, Christiane, Pierre, 15/07/2003 (inscription)"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b4ba81c9a7e37b7e654a2fec74341bd4.jpg",
+   "legende": "Annie Deusy à Hauteville avec Christiane, 25 septembre 1943"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/12ce3c328ed77e9ee3669e47fd8a5a7f.jpg",
+   "legende": "Chana Groman, dite Annie"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/6a969335e4ef2f709016b51b53a84a0f.jpg",
+   "legende": "Edmond Deusy et sa fille Christiane"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/afb43c876b38d68628987c3d4ceb7f2e.jpg",
+   "legende": "Edmond, Annie et Christiane, 1943"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/688ac38c431185598facc6225eed6306.jpg",
+   "legende": "Edmond Deusy en 1942"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/61714c3555aa9bd7683d5f26c27ce00f.jpg",
+   "legende": "Emile et Edmond Deusy"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a77a4ba8a3e8795d7ae52058a54c579a.jpg",
+   "legende": "Sarah Groman, dite Mamouchy, avec Christiane dans les bras"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/8fa78471d577a0cddbf3c3862aaef6a2.jpg",
+   "legende": "Sarah Groman à la fin des années 1960"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b435f511f13a381ffcf735d89564cae3.jpg",
+   "legende": "Cérémonie"
+  }
+ ],
+ "11756": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/021f7c14e52239afe7d421423635cf44.jpg",
+   "legende": "Pierre Convert"
+  }
+ ],
+ "11841": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/be8be66d8587e171d980ca6f70ae7c68.jpg",
+   "legende": "Louise Martinand"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/02/saul-janou-a-gauche-a-cote-de-louisette-martinand-photo-frederic-domain-saul-janou-a-gauche-aux-cotes-de-louisette-martinand-photo-frederic-domain-1507641987.jpg",
+   "legende": "Saul Janou (à gauche) à côté de Louisette Martinand, photo Frédéric Domain"
+  }
+ ],
+ "11841A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/02/saul-janou-a-gauche-a-cote-de-louisette-martinand-photo-frederic-domain-saul-janou-a-gauche-aux-cotes-de-louisette-martinand-photo-frederic-domain-1507641987.jpg",
+   "legende": "Saul Janou (à gauche) à côté de Louisette Martinand, photo Frédéric Domain"
+  }
+ ],
+ "11855": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/5d2c5f2084a83f96a4301437134dd5bc.jpg",
+   "legende": "Marie Dauphin née Debise, dite Mme Bourrat"
+  }
+ ],
+ "11949": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/aa7207fdd8c81b2fe21e88651933439c.jpg",
+   "legende": "Maurice Baigue"
+  }
+ ],
+ "12131": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/1b0d38b671d8186ae41b1a362dc0dd1c.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/cb858971ed6d23fd1194fb61e4de7e38.jpg",
+   "legende": "La maison rouge, où Ossias Klein est resté avec les Reveyron"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/eda706c90c4cafb9d859e75e4bada98d.jpg",
+   "legende": "M. Klein et M. Reveyron"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/aeac9248bba272b4fb382ecf6ff23f83.jpg",
+   "legende": "Ossias Klein (à gauche) avec André Reveyron"
+  }
+ ],
+ "12151": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/05/Henry-de-Menthon.jpg",
+   "legende": "Henry de Menthon"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/05/12151_32.jpg",
+   "legende": "Médaille et diplôme de Juste parmi les Nations"
+  }
+ ],
+ "12205": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/8db243ebdc8c773ea4d149b48c101a40.jpg",
+   "legende": "Marius et Julia Billion"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/063c002fb51da72432a76657d5f135f7.jpg",
+   "legende": "Cérémonie du 30 juin 2013"
+  }
+ ],
+ "12237": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/e3d89632b0651ff4ed3d76d486fbc7f3.jpg",
+   "legende": "Benoît et Annette Neroud"
+  }
+ ],
+ "12289": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/10/Raoul-Houdaille.jpg",
+   "legende": "Raoul Houdaille"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/10/Gabrielle-Houdaille.jpg",
+   "legende": "Gabrielle Houdaille"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/10/Jeannine-Cheremetieff.jpg",
+   "legende": "Jeannine Cheremetieff"
+  }
+ ],
+ "12347": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/16ef2a19ba1449aa79c5bd330c446fa3.jpg",
+   "legende": "Georges et Jeanne Mignotet"
+  }
+ ],
+ "12374": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/1110a4e6c2977983d5f5169d19faf0ad.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/607498b96dbd93ae3556996ae6b921df.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/f17e5fadd8a97e218dae8e4d9102ea84.jpg",
+   "legende": "1948, Thérèse Fourtier et Elise Karcher"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/74b807535fc54ebd31839865226599fc.jpg",
+   "legende": "1949, famille de Paul Fourtier et Gérard Keller"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ebf16f72b4320cbe256a3dd32d922f90.jpg",
+   "legende": "Famille Fourtier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/41bfd527a97b24dc4695dd864a5d784f.jpg",
+   "legende": "Les personnes sauvées"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/090c1dce41c0a246a1ec5fdcaf04d8b6.jpg",
+   "legende": "Les personnes sauvées"
+  }
+ ],
+ "12478": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2023/12/Rosine-Schiari-en-1940.jpg",
+   "legende": "Rosine Schiari en 1940"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/cc017957fd0797a1ac37f0b5ac88ee42.jpg",
+   "legende": "Rosine Schiari, à sa droite sa fille Odette, à sa gauche Mina Grobel, la personne sauvée"
+  }
+ ],
+ "12951": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/6411a59234dd2a0a52ffd70bd0a59b93.jpg",
+   "legende": "Emile Arnaud-Goddet, Frère Marc en religion"
+  }
+ ],
+ "13449": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/c1c3ed8136b8322bd37cee98e8edf5ea.jpg",
+   "legende": "Famille Maître"
+  }
+ ],
+ "13825": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/5c15b786b33e13a6aff5dab28b355f99.jpg",
+   "legende": "Charles et Liliane Schneider, 1955"
+  }
+ ],
+ "14238D": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/09/Reine-et-Jules-Delidais.jpg",
+   "legende": "Reine et Jules Délidais"
+  }
+ ],
+ "14227A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/09/Robert-Joly.jpg",
+   "legende": "Robert Joly"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/09/Henriette-Joly.jpg",
+   "legende": "Henriette Joly"
+  }
+ ],
+ "14227B": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/09/Jeanne-Floccard.jpg",
+   "legende": "Jeanne Floccard"
+  }
+ ],
+ "6569A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/10/Mme-Jacqueline-Salvi.jpg",
+   "legende": "Mme Jacqueline Salvi"
+  }
+ ],
+ "3195C": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/7469cd407f9d2bd268d1bc84172d20dc.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/09/2002-Madeleine-Victoire-CORDIER-dans-leur-maison-800x492.jpg",
+   "legende": "Madeleine et Victoire Cordier dans leur maison, 2002"
+  }
+ ],
+ "5315A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/01/Marcel-Pasche.jpg",
+   "legende": "Marcel Pasche"
+  }
+ ],
+ "5315C": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/COGHE-Léon.jpeg",
+   "legende": "Léon Coghe"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/Les-personnes-sauvées.jpeg",
+   "legende": "Les personnes sauvées"
+  }
+ ]
+};
+
+Object.assign(portraitsJustes, {
+  "schneider-charles": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/5c15b786b33e13a6aff5dab28b355f99.jpg",
+    "legende": "Charles et Liliane Schneider, 1955",
+    "groupe": true,
+    "credit": "Charles et Liliane Schneider, 1955 · Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/13825/"
+  },
+  "schneider-lilian": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/5c15b786b33e13a6aff5dab28b355f99.jpg",
+    "legende": "Charles et Liliane Schneider, 1955",
+    "groupe": true,
+    "credit": "Charles et Liliane Schneider, 1955 · Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/13825/"
+  }
+});

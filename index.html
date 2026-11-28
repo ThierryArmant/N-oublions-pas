@@ -2022,6 +2022,24 @@ hquery.addEventListener('input',()=>{menPage=0;renderHommes()});document.getElem
        creditAide.href = documentAide.url || livret.replace(/#page=\d+$/,'#page='+documentAide.page);
        details.append(el('h3','Le sauveteur et les personnes aidées en images'),duo,creditAide);
      }
+     const galerie = typeof photosDossiersJustes === 'undefined' ? null : photosDossiersJustes[(p.registre || p.dossier || '').toUpperCase()];
+     if(galerie && galerie.length) {
+       const grille = el('div','');
+       grille.className = 'justes-duo';
+       for(const photo of galerie) {
+         const figure = el('figure','');
+         const image = el('img','');
+         image.src = photo.image;
+         image.alt = photo.legende;
+         image.loading = 'lazy';
+         image.addEventListener('error',()=>figure.remove(),{once:true});
+         figure.append(rendrePhotoAgrandissable(image,photo.legende),el('figcaption',photo.legende));
+         grille.append(figure);
+       }
+       const creditDossier = el('a','Photographies : Comité français pour Yad Vashem, dossier '+(p.registre || p.dossier));
+       creditDossier.href = dossierURL(p.registre || p.dossier);
+       details.append(el('h3','Photographies du dossier'),grille,creditDossier);
+     }
      if(p.histoire) details.append(el('h3','Le geste de sauvetage'),el('p',periode+' · '+geste),el('p',p.histoire));
      if(p.dossier) details.append(el('h3','Reconnaissance'),el('p',[p.annee,'Dossier Yad Vashem '+p.dossier].filter(Boolean).join(' · ')));
      if(p.id === 'kokine') {

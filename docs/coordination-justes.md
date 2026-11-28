@@ -62,4 +62,4 @@ Récit intégré sur `main` pour chaque dossier ci-dessous (`dossiersFrance`). P
 | 13458 | Roger Roy | Jura | — | [CFYV](https://yadvashem-france.org/dossier/nom/13458/) — fiche sans récit, non intégrée |
 
 Dossiers liés laissés à l’autre lot (zone Pyrénées) : 3195, 3195A, 3195B, 3195D (foyer de La Hille), reliés à 3195C (sœurs Cordier).
-Photos repérées non intégrées faute de légende identifiant la personne : 11443 (Felten et Rueff), 13825 (Schneider), 12374 et 11703 (photos sans légende), 4734 (Dr Jacques Lévy, personne sauvée).
+Toutes les photographies des fiches du Comité (76 photos, 36 dossiers) sont affichées dans la fiche, rubrique « Photographies du dossier » (`photosDossiersJustes`), avec la légende originale ; les photos sans légende portent la mention « Photographie publiée dans le dossier ». Feu vert des responsables ONACVG / Comité donné le 28/11/2026.
