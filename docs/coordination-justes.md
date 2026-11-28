@@ -17,7 +17,111 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Lot en cours (pris le 28/11) : Île-de-France, 417 dossiers sans récit, en quatre parties (1 : Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne ; 2 : Val-d’Oise, Yvelines, Essonne, Seine-et-Marne ; 3 et 4 : Paris). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Île-de-France partie 1 (95 dossiers : Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Lot en cours (pris le 28/11) : Île-de-France, parties 2 (Val-d’Oise, Yvelines, Essonne, Seine-et-Marne, 90 dossiers) puis 3 et 4 (Paris, 229 dossiers). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Île-de-France, partie 1 : Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne (28/11/2026)
+
+Récit intégré sur `main` pour 95 dossiers ; 85 portraits et 158 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_ile_de_france_1_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10273 | Joséphine Labolle (née Dirieul) | Hauts-de-Seine | En 1957 Joséphine Labolle accompagnée de Mireille Benhamou née Jankelovis | [CFYV](https://yadvashem-france.org/dossier/nom/10273/) |
+| 1027A | Abbé Maurice Brasdu | Hauts-de-Seine | Père Maurice Brasdu | [CFYV](https://yadvashem-france.org/dossier/nom/1027a/) |
+| 11001 | Andrée Nicol | Hauts-de-Seine | Andrée Nicol | [CFYV](https://yadvashem-france.org/dossier/nom/11001/) |
+| 11030 | Marthe Potvin (née Grard) | Hauts-de-Seine | Marthe Potvin | [CFYV](https://yadvashem-france.org/dossier/nom/11030/) |
+| 11055 | Aline, Anna, Augusta, Émilie et Marthe Charra ; Emma Lecomte (née Charra) | Hauts-de-Seine | Famille à la cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/11055/) |
+| 11279 | Jacques et Gisèle Prévost | Hauts-de-Seine | Gisèle Prevost ; Jacques Prevost ; Jacques Prevost en 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/11279/) |
+| 11544 | Edmond et Yvonne Fournier | Hauts-de-Seine | Yvonne en 1943 ; Yvonne et Rachel ; Yvonne (à gauche) a caché Esther, Rachel et Serge à Clichy à partir de l’hiver 1942. | [CFYV](https://yadvashem-france.org/dossier/nom/11544/) |
+| 11618 | Louis et Marthe Maçon ; Lucienne Caruel | Hauts-de-Seine | Danielle Amon avec Louis et Marthe Maçon en août 1949 (collection privée) ; Lucienne Caruel et Danielle Amon (collection Yad Vashem) | [CFYV](https://yadvashem-france.org/dossier/nom/11618/) |
+| 11766 | Émile et Rose Chassagnot | Hauts-de-Seine | Maurice & Rose Chassagnot | [CFYV](https://yadvashem-france.org/dossier/nom/11766/) |
+| 11910A | Fernand et Marie Bibal | Hauts-de-Seine | Fernand et Marie Bibal ; Cartes d’identité des Bibal | [CFYV](https://yadvashem-france.org/dossier/nom/11910a/) |
+| 12562 | Marguerite Roure | Hauts-de-Seine | André à 4 ans au préventorium, dans le Maine-et-Loire | [CFYV](https://yadvashem-france.org/dossier/nom/12562/) |
+| 13843 | Jules et Albertine Nottré | Hauts-de-Seine | — | [CFYV](https://yadvashem-france.org/dossier/nom/13843/) |
+| 1386 | Gabriel Boulle | Hauts-de-Seine | Gabriel Boulle ; Plaque devant l’arbre ; Arbre Gabriel Boulle | [CFYV](https://yadvashem-france.org/dossier/nom/1386/) |
+| 13873 | Edmond et Vallodia Thonet | Hauts-de-Seine | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13873/) |
+| 2381 | Yervante et Elbis Beurkdjian | Hauts-de-Seine | Yervante & Elbis Beurkdjian | [CFYV](https://yadvashem-france.org/dossier/nom/2381/) |
+| 298 | Colonel Eugène Van der Meersch | Hauts-de-Seine | Eugène Van der Meersch ; Plaque devant l'arbre ; Arbre à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/298/) |
+| 4518 | Eve Jacquier | Hauts-de-Seine | — | [CFYV](https://yadvashem-france.org/dossier/nom/4518/) |
+| 5023 | Gabriel et Aimée Galop | Hauts-de-Seine | Aimée Galop et ses filles - juillet 1942 - rue Gentilly ; Gabriel Galop et ses filles - juillet 1942 - dans le jardin | [CFYV](https://yadvashem-france.org/dossier/nom/5023/) |
+| 5023A | Robert et Suzanne Ménétrier | Hauts-de-Seine | — | [CFYV](https://yadvashem-france.org/dossier/nom/5023a/) |
+| 535 | Comte Xavier et comtesse Marthe de Roany de Gavelle | Hauts-de-Seine | Marthe de Gavelle de Roany ; Xavier de Gavelle de Roany | [CFYV](https://yadvashem-france.org/dossier/nom/535/) |
+| 5840 | Georges Bodin | Hauts-de-Seine | Georges Bodin | [CFYV](https://yadvashem-france.org/dossier/nom/5840/) |
+| 6156 | Roger et Daisy Lanier | Hauts-de-Seine | Roger Lanier ; Daisy Lanier ; Roger Lanier en gardien de la paix, peu avant la guerre ; Roger et Daisy Lanier avec les personnes sauvées le couple Sora et Isaac Taklender | [CFYV](https://yadvashem-france.org/dossier/nom/6156/) |
+| 640 | André et Jane Perrot | Hauts-de-Seine | André et Jeanne Perrot | [CFYV](https://yadvashem-france.org/dossier/nom/640/) |
+| 6546 | Ernest, Marie et Roger Corbéry | Hauts-de-Seine | Invitation à la cérémonie de Bagneux ; Lucienne Corbéry tient dans ses bras Maurice Mazalto, le frère de Claire, debout près du landau | [CFYV](https://yadvashem-france.org/dossier/nom/6546/) |
+| 7044 | Solange Maisonnier (Soupeaux) | Hauts-de-Seine | — | [CFYV](https://yadvashem-france.org/dossier/nom/7044/) |
+| 7091A | Mère Marie-Joséphine Labbé de la Génardière | Hauts-de-Seine | Marie à 23 ans ; Marie à 18 ans à Chalon-sur-Saône | [CFYV](https://yadvashem-france.org/dossier/nom/7091a/) |
+| 7769 | Adrien et Simone Chaye | Hauts-de-Seine | Adrien et Simone Chaye en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/7769/) |
+| 8477 | Mercédès et Hélène Cocquet | Hauts-de-Seine | Les Cocquet en 1941 ; Remise du diplôme à Mme Hélène Cocquet | [CFYV](https://yadvashem-france.org/dossier/nom/8477/) |
+| 906 | Yvonne Hagnauer | Hauts-de-Seine | Roger et Yvonne Hagnauer ; Yvonne Hagnauer, la deuxième à droite ; La maison d’enfants de Sèvres | [CFYV](https://yadvashem-france.org/dossier/nom/906/) |
+| 9731 | Clémence Doly (née Ginisty) | Hauts-de-Seine | Clémence Doly ; La dépêche 16 7 2023 | [CFYV](https://yadvashem-france.org/dossier/nom/9731/) |
+| 10184 | Joseph et Marie-Louise Brito-Mendes | Seine-Saint-Denis | Médaille | [CFYV](https://yadvashem-france.org/dossier/nom/10184/) |
+| 10217 | Henri Christin | Seine-Saint-Denis | Henri Christin en 1941 ; Henri Christin | [CFYV](https://yadvashem-france.org/dossier/nom/10217/) |
+| 10481 | Marcel et Lucienne Clerbois | Seine-Saint-Denis | Marcel et Lucienne Clerbois en 1955 | [CFYV](https://yadvashem-france.org/dossier/nom/10481/) |
+| 10717 | Antoine et Dorine Carini | Seine-Saint-Denis | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10717/) |
+| 10877 | Léon et Louise Recoupé | Seine-Saint-Denis | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10877/) |
+| 11334 | Pierre et Alphonsine Batisse | Seine-Saint-Denis | Pierre Batisse ; Alphonsine Batisse ; Les personnes sauvées par les Batisse | [CFYV](https://yadvashem-france.org/dossier/nom/11334/) |
+| 11453 | Marcel et Marcelle Bastien | Seine-Saint-Denis | De gauche à droite Lea Kothler, sa mère et Marcelle Bastien | [CFYV](https://yadvashem-france.org/dossier/nom/11453/) |
+| 11636 | Benjamin Gibrat | Seine-Saint-Denis | Benjamin Gibrat ; M. & Mme GIBRAT Benjamin & M. Michel Lazar | [CFYV](https://yadvashem-france.org/dossier/nom/11636/) |
+| 12030 | Maurice et Elvire Pouget | Seine-Saint-Denis | En 1944 Françoise Mandelbaum ; Mariage de Françoise MANDELBAUM REINER ; Maurice & Elvire à gauche avec des amis en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/12030/) |
+| 12031 | Pierre et Elisa Lempereur | Seine-Saint-Denis | Pierre Lempereur ; Pierre Lempereur et Otylia Sznajder en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/12031/) |
+| 12105 | Marcelle Paret | Seine-Saint-Denis | Marcelle Paret en 1946 | [CFYV](https://yadvashem-france.org/dossier/nom/12105/) |
+| 12157 | René et Hélène Drouhin | Seine-Saint-Denis | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12157/) |
+| 12352 | Clément et Jeanne Houth | Seine-Saint-Denis | Samy chez les Houth en 1945 ; Libération de Sevran en 1945 | [CFYV](https://yadvashem-france.org/dossier/nom/12352/) |
+| 12534 | Renée Février | Seine-Saint-Denis | Renée Février ; La famille de Renée Février et celle de Renée Cechman avant la guerre | [CFYV](https://yadvashem-france.org/dossier/nom/12534/) |
+| 12601A | Léontine (Jeanne) Blézat | Seine-Saint-Denis | Léontine Blézat | [CFYV](https://yadvashem-france.org/dossier/nom/12601a/) |
+| 13169 | Slavko Zaffani | Seine-Saint-Denis | Slavko Zaffani ; Lieu de sauvetage | [CFYV](https://yadvashem-france.org/dossier/nom/13169/) |
+| 13397 | Philippe et Éléonore Charret | Seine-Saint-Denis | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13397/) |
+| 14148 | Charles Henri et Victorine Vigier | Seine-Saint-Denis | Henri et Victorine Vigier en 1950 ; Michel Golstein en 1945 | [CFYV](https://yadvashem-france.org/dossier/nom/14148/) |
+| 14548 | Céline Racca (née Carrier) | Seine-Saint-Denis | Famille Racca ; Sarah Mimoun (née Fryde), personne sauvée et Céline Racca | [CFYV](https://yadvashem-france.org/dossier/nom/14548/) |
+| 14647 | Paul et Anne Lepage | Seine-Saint-Denis | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14647/) |
+| 3468 | Maurice et Jacques Ségaux | Seine-Saint-Denis | Maurice Ségaux ; Jacques Ségaux | [CFYV](https://yadvashem-france.org/dossier/nom/3468/) |
+| 4021 | René et Simone Cordon | Seine-Saint-Denis | Remise du titre Cordon ; Plaque arbre à Yad vashem ; Arbre Cordon | [CFYV](https://yadvashem-france.org/dossier/nom/4021/) |
+| 4098 | Louis et Henriette Terral | Seine-Saint-Denis | En 1993 à Villemomble : Henriette Terral (deuxième en partant de la gauche) et Louis Terral avec sa canne ; à côté, en rouge, Alice Tordjman ; Lazare Tordjmann avec sa femme Alice et leur fille Denise, épouse Brener | [CFYV](https://yadvashem-france.org/dossier/nom/4098/) |
+| 4487 | Germain et Camille Lecureur | Seine-Saint-Denis | — | [CFYV](https://yadvashem-france.org/dossier/nom/4487/) |
+| 6030 | Émile et Joséphine Marie ; Janine Guyot, Léonie Cléron et Micheline Klein (nées Marie) | Seine-Saint-Denis | — | [CFYV](https://yadvashem-france.org/dossier/nom/6030/) |
+| 7509 | Suzanne Pierre-Tschieret-Geringer | Seine-Saint-Denis | Mme Pierre Tschieret Geringer Suzanne, Comtesse GARRAN DE BALZAN ; Dans la synagogue de Dijon le 22 juin 1997 | [CFYV](https://yadvashem-france.org/dossier/nom/7509/) |
+| 7842 | Lucien et Marie Noël | Seine-Saint-Denis | Lucien et Marie Noël ; Souvenir de Clairette | [CFYV](https://yadvashem-france.org/dossier/nom/7842/) |
+| 8722 | Albert et Maria Defontaine | Seine-Saint-Denis | — | [CFYV](https://yadvashem-france.org/dossier/nom/8722/) |
+| 9073 | Renée Berman (née Mesureur) et Marie-Germaine Mesureur | Seine-Saint-Denis | — | [CFYV](https://yadvashem-france.org/dossier/nom/9073/) |
+| 9523 | Humbert et Gabrielle Melli | Seine-Saint-Denis | — | [CFYV](https://yadvashem-france.org/dossier/nom/9523/) |
+| 9807 | Jean Leaustic | Seine-Saint-Denis | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9807/) |
+| 9816 | Jacques et Maria Chemin | Seine-Saint-Denis | Le couple Chemin | [CFYV](https://yadvashem-france.org/dossier/nom/9816/) |
+| 9945 | Henri et Simone Voisin (née Churlet) | Seine-Saint-Denis | Colette Flake-Bunz, la personne sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/9945/) |
+| 10445 | Marguerite Pasquine (sœur Marie) | Val-de-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10445/) |
+| 10493 | Marcel Sternfeld | Val-de-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/10493/) |
+| 1052 | Albert et Fernande Loilier | Val-de-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/1052/) |
+| 10972 | Francis et Julienne Mélisson | Val-de-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10972/) |
+| 11099 | Jean-Baptiste et Louise Biewer | Val-de-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11099/) |
+| 11577 | Louis, Pauline, Georges et Simone Cordier | Val-de-Marne | La famille Cordier en 1939 : Louis, Pauline, Georges et Simone ; Simone Cordier, « Le pont du danger », raconté par Carla Bruni | [CFYV](https://yadvashem-france.org/dossier/nom/11577/) |
+| 11599 | René et Charlotte Chevallier | Val-de-Marne | Charlotte Chevallier en novembre 1943 ; Mme CHEVALLIER avec jean & Charlotte colette Chevallier et Jean-Pierre BRING nov 43 ; René Chevallier en novembre 1943 ; Dory Bring ; Michel Bring ; 25 novembre 1987 : René et Charlotte Chevallier à leur 60e anniversaire de mariage | [CFYV](https://yadvashem-france.org/dossier/nom/11599/) |
+| 11616 | Julie Barrau ; Valentine Guiot (née Barrau) | Val-de-Marne | Valentine Barrau ; Julie Barrau | [CFYV](https://yadvashem-france.org/dossier/nom/11616/) |
+| 11808 | François et Henriette Lizzardi | Val-de-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11808/) |
+| 12134 | Henri et Solange Ardourel | Val-de-Marne | Solange Ardourel ; Henri Ardourel | [CFYV](https://yadvashem-france.org/dossier/nom/12134/) |
+| 12990 | Jeanne Chollet (née Vaillard) | Val-de-Marne | Bernard Ebenstein en 1946 à l'orphelinat juif ; Bernard-Ebenstein et Maryse-Chollet petite-fille de Jeanne Chollet ; Denise Kadecke cachée chez Madame Chollet dont les parents furent déportés en 1942 ; En 1943 Carnaval, Denise Kadecké et Bernard Ebenstein avec trois petits enfants ; En 1946 Monsieur Ebenstein au retour de guerre avec son fils Bernard ; Famille Ebenstein Simon déporté à Auschwitz décédé en 1943, son épouse Germaine ; Madame Chollet née en 1885 décédée en 1955 avec trois de ses petits enfants ; Madame Ebenstein avec son fils Bernard ; Madame Ebenstein tenant son fils Bernard en 1936 avec son frère Maurice mort en 1937 ; Printemps 1940 Bernard Ebenstein avec sa maman Antler Ebenstein | [CFYV](https://yadvashem-france.org/dossier/nom/12990/) |
+| 13018 | Albert et Irma Bonneau | Val-de-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/13018/) |
+| 13588 | André, Jeanne et Roland Marchoix | Val-de-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13588/) |
+| 13890 | Marcel et Suzanne Maloberti | Val-de-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/13890/) |
+| 14123 | Gaston et Emma Bourdon | Val-de-Marne | Emma et Gaston Bourdon ; Les parents Klapisch en 1930 | [CFYV](https://yadvashem-france.org/dossier/nom/14123/) |
+| 2198 | Antoine et Ellen Géraud | Val-de-Marne | Ellen Géraud ; Plaque Géraud dans le jardin des Justes | [CFYV](https://yadvashem-france.org/dossier/nom/2198/) |
+| 2198A | François et Francine Burtin | Val-de-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/2198a/) |
+| 2203 | Hélène, René et Jean Bindel ; Clothilde Pava | Val-de-Marne | Frère Raymond Boccard | [CFYV](https://yadvashem-france.org/dossier/nom/2203/) |
+| 4591 | André Delaplace | Val-de-Marne | Les personnes sauvées | [CFYV](https://yadvashem-france.org/dossier/nom/4591/) |
+| 4795 | Lucien Granger | Val-de-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4795/) |
+| 5535 | Albertine et Joseph-Marie Cardin ; Josèphe Massé (née Cardin) | Val-de-Marne | Albertine Cardin ; Josèphe Massé ; Joseph-Marie Cardin | [CFYV](https://yadvashem-france.org/dossier/nom/5535/) |
+| 6519 | Marthe Abramowitch (née Laborde) | Val-de-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6519/) |
+| 6559 | Renée Vérité (née Bachelier) | Val-de-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/6559/) |
+| 6876 | Docteur François Emmanuelli et Yvonne Emmanuelli | Val-de-Marne | Yvonne-Constance Emmanuelli ; François Emmanuelli en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/6876/) |
+| 7300 | François et Berthe Bousson | Val-de-Marne | à gauche Berthe Bousson Nacha et Hillel Rutkowski François Bousson et jacques Rutkowski dans les bras ; Jacques Rutkowski chez la famille Bousson | [CFYV](https://yadvashem-france.org/dossier/nom/7300/) |
+| 7387 | Jacques Bories | Val-de-Marne | Jacques Bories ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/7387/) |
+| 7636 | Georges et Amélie Perret | Val-de-Marne | Georges Perret ; Amélie Perret | [CFYV](https://yadvashem-france.org/dossier/nom/7636/) |
+| 7822 | Albert et Elia Lecoq | Val-de-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/7822/) |
+| 8484 | Yvette Trachtenberg (née Joseph-Henri) | Val-de-Marne | Yvette Trachtenberg | [CFYV](https://yadvashem-france.org/dossier/nom/8484/) |
+| 9527 | Docteur Marc Labouré | Val-de-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/9527/) |
+| 9619 | Madeleine Quinquet (née Touraine) | Val-de-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9619/) |
+| 9925 | Marcelle Noël (née Gardier) | Val-de-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9925/) |
+
+Remarques : 11618 : Le sauvetage a lieu dans les Alpes-Maritimes. · 13890 : Voir aussi le dossier 13890A (Lamboux, Oise). · 2198 : Voir aussi le dossier 2198A (Burtin). · 2198A : Récit commun avec le dossier 2198. · 298 : La fiche ne détaille pas les sauvetages. · 5023 : Voir aussi le dossier 5023A (Ménétrier). · 5023A : Voir aussi le dossier 5023. · 7091A : Voir aussi le dossier 7091 (Lecocq, Nord). · 7822 : Voir aussi le dossier 11599 (Chevallier). · 9945 : La fiche situe Aulnay-sous-Bois en Seine-et-Marne et dit Simone infirmière, alors que l’en-tête la donne couturière.
 
 ## Lot Claude — Occitanie est, partie 2 : Tarn, Tarn-et-Garonne, Lot (28/11/2026)
 
