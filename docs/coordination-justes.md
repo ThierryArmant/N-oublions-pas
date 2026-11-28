@@ -17,7 +17,104 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Lot en cours (pris le 28/11) : les 88 fiches sans département renseigné. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Aucun lot en cours. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Fiches sans département renseigné (28/11/2026)
+
+Récit intégré sur `main` pour 88 dossiers ; 61 portraits et 97 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_sans_departement_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 100 | Docteure Adélaïde Hautval |  | Adélaïde Hautval ; Plaque devant l’arbre ; L’arbre à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/100/) |
+| 10105 | Georges Pauthe |  | Georges Pauthe | [CFYV](https://yadvashem-france.org/dossier/nom/10105/) |
+| 10130 | Justinien Blazy |  | Remise de la médaille des Justes, le 9 septembre 2004 à La Roche-Guyon ; Exposition de photos souvenirs de Justinien Blazy ; La famille de Justinien Blazy | [CFYV](https://yadvashem-france.org/dossier/nom/10130/) |
+| 10151 | Anna, Władysław et Józef Łazowski |  | Łazowski Władysław ; Józef Łazowski ; Anna Łazowski | [CFYV](https://yadvashem-france.org/dossier/nom/10151/) |
+| 10305 | Ferenc (Francis) Berend |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/10305/) |
+| 10305A | Zoltán Kékesi |  | Remise de la Légion d’honneur à Zoltán Kékesi par l’amiral de Gaulle, le 25 juin 2007 | [CFYV](https://yadvashem-france.org/dossier/nom/10305a/) |
+| 1039 | Pasteur Jean-Séverin Lemaire |  | Jean Séverin Lemaire en 1958 ; Cérémonie en l’honneur de Jean-Séverin Lemaire, le 28 avril 1976 (collection Yad Vashem) | [CFYV](https://yadvashem-france.org/dossier/nom/1039/) |
+| 1040 | Françoise Froment (née Senejoux) |  | Cérémonie en hommage à Françoise Froment à Nice | [CFYV](https://yadvashem-france.org/dossier/nom/1040/) |
+| 10494 | Paul et Henriette Saïssi (née Isnard) ; Fanny Vassallo (née Boin) |  | Fanny Vassallo en 1943 à l’hôtel Stéfany ; Henriette et Paul Saïssi | [CFYV](https://yadvashem-france.org/dossier/nom/10494/) |
+| 11576 | Mère Anne-Marie Cécile Ardoin |  | Madeleine Kahn, la rescapée (avec un ruban dans les cheveux), au monastère (collection Yad Vashem) ; Mère Ardoin, à l’extrême gauche (collection Yad Vashem) | [CFYV](https://yadvashem-france.org/dossier/nom/11576/) |
+| 11736 | Anne-Marie Orveillon (née Gouvary) |  | Anne-Marie Orveillon ; Mme Orveillon avec Roland et Gérard Moryoussef en 1942 ; 1942, Madame Orveillon avec leur nièce Geneviève | [CFYV](https://yadvashem-france.org/dossier/nom/11736/) |
+| 11994 | Gitta Mallász |  | Gitta Mallasz | [CFYV](https://yadvashem-france.org/dossier/nom/11994/) |
+| 1239 | Yvonne Deltour |  | Yvonne Deltour | [CFYV](https://yadvashem-france.org/dossier/nom/1239/) |
+| 12551 | Maria Winnicka (née Jaroszewicz) |  | Maria Winnicka | [CFYV](https://yadvashem-france.org/dossier/nom/12551/) |
+| 126 | Suzanne Rodi-Boyer |  | Cérémonie du 25 avril 1965 | [CFYV](https://yadvashem-france.org/dossier/nom/126/) |
+| 1277 | Charles et Joséphine Baud (née Lagorio) |  | La famille Baud | [CFYV](https://yadvashem-france.org/dossier/nom/1277/) |
+| 1283 | Pierre et Maria Gesse |  | Pierre Gesse ; Maria Gesse | [CFYV](https://yadvashem-france.org/dossier/nom/1283/) |
+| 13266 | Guillaume et Marie Le Quéré (née Droniou) |  | Guillaume et Marie Le Quéré ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/13266/) |
+| 13553 | Cardinal Eugène Tisserant |  | Le cardinal Eugène Tisserant | [CFYV](https://yadvashem-france.org/dossier/nom/13553/) |
+| 13553A | Pasteur André Bouquin |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/13553a/) |
+| 13553B | François de Vial |  | François de Vial en 1933 | [CFYV](https://yadvashem-france.org/dossier/nom/13553b/) |
+| 13960 | Silvio et Armilde Pes |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/13960/) |
+| 1409 | Antoine-Paul Grimaldi |  | De gauche à droite : Laurent Leboutet (assis), Ivan Beltrami, David Soussana, consul général d’Israël | [CFYV](https://yadvashem-france.org/dossier/nom/1409/) |
+| 14097 | Pierre, Marthe (née Seichon) et Paul Gilles |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/14097/) |
+| 14373 | Albert-Louis Ponsard |  | Albert Ponsard | [CFYV](https://yadvashem-france.org/dossier/nom/14373/) |
+| 14445 | Jeanne Huet-Pasquier |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/14445/) |
+| 1571 | Frère Léon Perret |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/1571/) |
+| 1572 | Jean Grange |  | Jean Grange en 1947 | [CFYV](https://yadvashem-france.org/dossier/nom/1572/) |
+| 1573 | Marie Metton (née Bonamour) |  | Marie Metton-Ceschino | [CFYV](https://yadvashem-france.org/dossier/nom/1573/) |
+| 1574 | Frère Louis (André Bagny) |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/1574/) |
+| 1726 | Auguste et Ennat Léger |  | Ennat Léger ; Cérémonie de plantation de l’arbre, le 8 octobre 1980 à Yad Vashem (collection Yad Vashem) ; Plaque à Yad Vashem ; Arbre à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/1726/) |
+| 1813 | Cécile Cuccaroni (née Faloci) |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/1813/) |
+| 1831 | Maria Canty |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/1831/) |
+| 2008 | Frère Albert Pfleger |  | Frère Albert Pfleger | [CFYV](https://yadvashem-france.org/dossier/nom/2008/) |
+| 2008A | Frère Louis Prucser |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/2008a/) |
+| 2008B | Frère Ferdinand Fischer |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/2008b/) |
+| 2008C | Frère Bernard Clerc |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/2008c/) |
+| 2008D | Frère Jean-Baptiste Bonnetbeltz |  | Frère Jean-Baptiste Bonnetbeltz | [CFYV](https://yadvashem-france.org/dossier/nom/2008d/) |
+| 2008E | Frère Joseph (Alexandre Hegedüs) |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/2008e/) |
+| 2008F | Frère François Angyal |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/2008f/) |
+| 2008G | Frère Étienne (Ladislas Pingiczer) |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/2008g/) |
+| 201 | Père Marie-Benoît (Pierre Péteul) |  | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/201/) |
+| 2204 | Hélène et Françoise Charpiot |  | Les Charpiot à Jérusalem | [CFYV](https://yadvashem-france.org/dossier/nom/2204/) |
+| 2291 | Docteurs Charles et Marie-Louise Chatelin |  | Charles Chatelin ; Marie-Louise Chatelin | [CFYV](https://yadvashem-france.org/dossier/nom/2291/) |
+| 2337 | Lucie-Berthe Morin |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/2337/) |
+| 2433 | Marie-Louise Chazall |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/2433/) |
+| 2521 | Antoine, Germaine, Ernest et Césarine Beille |  | Antoine Beille en 1940 ; Germaine Beille en 1940 ; Ernest Beille ; Césarine Beille en 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/2521/) |
+| 2594 | Georges et Marie-Eugénie Fricker (née Stocker) |  | Georges Fricker ; Marie-Eugénie Fricker | [CFYV](https://yadvashem-france.org/dossier/nom/2594/) |
+| 2613 | Rolande Birgy |  | Rolande Birgy | [CFYV](https://yadvashem-france.org/dossier/nom/2613/) |
+| 2674 | Marie Fradet |  | Louis, Marie Fradet et leur fille Jeanne | [CFYV](https://yadvashem-france.org/dossier/nom/2674/) |
+| 2752 | Karol et Marianna Orzakiewicz |  | Karol et Marianna Orzakiewicz lors de la remise de la médaille, avec Efraïm (debout), le sauvé | [CFYV](https://yadvashem-france.org/dossier/nom/2752/) |
+| 3100 | Rémy Dumoncel |  | Rémy Dumoncel | [CFYV](https://yadvashem-france.org/dossier/nom/3100/) |
+| 3125 | Marie Chotel et Henri Briard |  | Henri Briard et Marie Chotel | [CFYV](https://yadvashem-france.org/dossier/nom/3125/) |
+| 3145 | Paul et Edwidge Isoart |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/3145/) |
+| 395 | Germaine Muehlenthaler |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/395/) |
+| 5302 | Julien et Germaine Lannoo (née Desmet) |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/5302/) |
+| 5302A | Annie Van de Wiele (née Lannoo) |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/5302a/) |
+| 537 | Charles, Marthe et Kurt Kettschau |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/537/) |
+| 57 | Abbé Jean Fleury |  | L’abbé Jean Fleury à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/57/) |
+| 575 | Joseph et Henriette Owczarek |  | Joseph Owczarek, sa femme Henriette et leur fille au centre ; Henriette Owczarek à gauche avec sa soeur ; Henriette Owczarek avec Myriam ; Au milieu, Henriette Owczarek | [CFYV](https://yadvashem-france.org/dossier/nom/575/) |
+| 6159 | François Flageollet |  | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/6159/) |
+| 6398B | Germaine Lefebvre |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/6398b/) |
+| 659 | César et Marie-Jeanne Ottino (née Robin) |  | César et Marie-Jeanne Ottino ; Carte de combattant de César Ottino | [CFYV](https://yadvashem-france.org/dossier/nom/659/) |
+| 7001 | Henri Michel Wroński |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/7001/) |
+| 7444 | Louise Osterberger (née Morganti) |  | Louise Osterberger | [CFYV](https://yadvashem-france.org/dossier/nom/7444/) |
+| 783 | Louis et Angèle Mauro |  | — | [CFYV](https://yadvashem-france.org/dossier/nom/783/) |
+| 7844 | Anne-Marie Épaud (née Machefaux) |  | Anne-Marie Épaud ; Plaque commémorative | [CFYV](https://yadvashem-france.org/dossier/nom/7844/) |
+| 870 | Abbé Joseph Richard |  | Abbé Joseph Richard ; Plaque à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/870/) |
+| 9240 | Roland Huillet |  | Roland Huillet | [CFYV](https://yadvashem-france.org/dossier/nom/9240/) |
+| 933 | Pierre Merli |  | Pierre Merli ; Cérémonie du 26 septembre 1978 à Yad Vashem, Jérusalem | [CFYV](https://yadvashem-france.org/dossier/nom/933/) |
+| 10685 | András Mészáros | – | András Mészáros en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/10685/) |
+| 11323 | Pierre Nicolini | – | Usine où les personnes sauvées travaillaient ; Pierre Nicolini en 1955 | [CFYV](https://yadvashem-france.org/dossier/nom/11323/) |
+| 11402 | Zofia Jeżewska (née Czartkowska) | – | — | [CFYV](https://yadvashem-france.org/dossier/nom/11402/) |
+| 12074 | Mère Marie-Cécile Biard | – | Mère Marie-Cécile Biard ; Diplôme de Juste, 30 juin 2013 ; Médaille de Juste, 30 juin 2013 ; Les personnes sauvées, Miriam Ben Gigi et Céleste Anav, avec leurs maris en septembre 2007 | [CFYV](https://yadvashem-france.org/dossier/nom/12074/) |
+| 12215 | Hendrik Josephus et Marcelle Pos (née Honig) | – | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12215/) |
+| 12489 | Marcel et Léa Hiquet (née Malrechauffe) | – | Léa Hiquet et Myriam (Marie-Claire) Rakowski ; Le couple Hiquet avec la petite Myriam (Marie-Claire) Rakowski | [CFYV](https://yadvashem-france.org/dossier/nom/12489/) |
+| 4429 | Arthur et Jeanne Lavergnat | – | — | [CFYV](https://yadvashem-france.org/dossier/nom/4429/) |
+| 5340 | Anna Magdalena Tichauer (née Jarosch) | – | — | [CFYV](https://yadvashem-france.org/dossier/nom/5340/) |
+| 6539 | Alfred et Marie Dessart (née Henrion) | – | — | [CFYV](https://yadvashem-france.org/dossier/nom/6539/) |
+| 7342 | Zsófia Ditróy (née Nendtvich) | – | Ákos Ditróy, fils de la Juste ; Ákos Ditróy | [CFYV](https://yadvashem-france.org/dossier/nom/7342/) |
+| 7749 | Ludwik Rostkowski | – | — | [CFYV](https://yadvashem-france.org/dossier/nom/7749/) |
+| 8454 | Ana Kohn (née Turković) | – | Ana Kohn | [CFYV](https://yadvashem-france.org/dossier/nom/8454/) |
+| 8570 | Maurice et Jeanne Noël (née Rocoup) | – | — | [CFYV](https://yadvashem-france.org/dossier/nom/8570/) |
+| 8824 | Raymond et Thérèse Denis (née Debray) | – | — | [CFYV](https://yadvashem-france.org/dossier/nom/8824/) |
+| 898 | Sœur Marguerite Bernes | – | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/898/) |
+| 9274 | August, Branka (née Kerdić) et Duška Roth | – | — | [CFYV](https://yadvashem-france.org/dossier/nom/9274/) |
+| 9539 | Henryk et Czesława Kess | – | — | [CFYV](https://yadvashem-france.org/dossier/nom/9539/) |
+| 9687 | Theodorus et Elisabeth Meddens | – | — | [CFYV](https://yadvashem-france.org/dossier/nom/9687/) |
+
+Remarques : 100 : Département non renseigné sur la fiche ; les faits commencent à Bourges. · 10105 : Sauvetage hors de France. · 10151 : Sauvetage en Pologne. · 10305 : Sauvetage en Hongrie. Voir aussi le dossier 10305A (Kékesi). · 10305A : Sauvetage en Hongrie. Voir aussi le dossier 10305 (Berend). · 10685 : Sauvetage en Hongrie. · 11323 : Sauvetage hors de France. · 11402 : Sauvetage en Pologne. · 11576 : Sauvetage en Roumanie. · 11994 : Sauvetage en Hongrie. · 12074 : Sauvetage en Italie. · 12215 : Sauvetage aux Pays-Bas. · 12489 : Sauvetage en Belgique. · 12551 : Sauvetage en Pologne. · 13266 : La fiche ne précise pas le département. · 13553 : Sauvetage en Italie. Fiche sans récit propre ; voir le dossier 13553B (de Vial). · 13553A : Sauvetage en Italie. Fiche sans récit ; voir le dossier 13553B (de Vial). · 13553B : Sauvetage en Italie. · 13960 : Fiche sans récit. · 14373 : Sauvetage hors de France. · 14445 : Fiche sans récit. · 1571 : Voir aussi les dossiers 1572, 1573 et 1574. · 1572 : Voir aussi le dossier 1571 (Perret). · 1573 : Voir aussi le dossier 1571 (Perret). · 1574 : Voir aussi le dossier 1571 (Perret). · 2008 : Sauvetage en Hongrie. Voir aussi les dossiers 2008A à 2008G. · 2008A : Sauvetage en Hongrie. Voir aussi le dossier 2008. · 2008B : Sauvetage en Hongrie. Voir aussi le dossier 2008. · 2008C : Sauvetage en Hongrie. Voir aussi le dossier 2008. · 2008D : Sauvetage en Hongrie. Voir aussi le dossier 2008. · 2008E : Sauvetage en Hongrie. Voir aussi le dossier 2008. · 2008F : Sauvetage en Hongrie. Voir aussi le dossier 2008. · 2008G : Sauvetage en Hongrie. Voir aussi le dossier 2008. · 2291 : Voir aussi le dossier 2290 (Breton). · 395 : Voir aussi le dossier 395A (Leenhardt). · 4429 : Voir aussi le dossier 2613 (Birgy). · 5302 : Sauvetage en Belgique. Voir aussi le dossier 5302A (Annie Van de Wiele). · 5302A : Sauvetage en Belgique. Voir aussi le dossier 5302. · 5340 : Sauvetage en Belgique. · 6159 : Sauvetage hors de France. · 6398B : Voir aussi les dossiers 6398 (Lafon) et 6398A (Pommay). · 6539 : Sauvetage en Belgique. · 7001 : Sauvetage en Pologne. · 7342 : Sauvetage en Hongrie. · 7749 : Sauvetage en Pologne. · 7844 : Sauvetage hors de France. · 8454 : Sauvetage en Croatie. · 8570 : Sauvetage en Belgique. · 8824 : Sauvetage en Belgique. · 898 : Sauvetage en Italie. · 9240 : Sauvetage hors de France. · 9274 : Sauvetage en Croatie. · 9539 : Sauvetage en Pologne. · 9687 : Sauvetage en Belgique. La fiche dit les Meddens danois ; ils étaient peut-être néerlandais.
 
 ## Lot Claude — Bouches-du-Rhône, Vaucluse, Var (28/11/2026)
 
