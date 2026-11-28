@@ -13,7 +13,84 @@ Pour chaque lot, indique le dossier, les personnes, les liens des sources, la l�
 
 ## Prochain lot Claude — Bourgogne (pris le 28/11/2026)
 
-Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dessous). Prochain lot : Côte-d’Or, Saône-et-Loire, Nièvre et Yonne — 68 dossiers, 119 notices, aucun récit encore intégré. Hors 38 et 74.
+Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dessous). Lot Bourgogne terminé le 28/11/2026 (tableau ci-dessous). Hors 38 et 74.
+
+## Lot Claude — Bourgogne (28/11/2026)
+
+Récit intégré sur `main` pour les 68 dossiers ci-dessous ; 94 portraits et 120 photographies de dossier (légende originale, crédit et lien vers la fiche). Feu vert ONACVG / Comité. Relevé complet : `docs/recherches/lot_bourgogne_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 12394 | Gilbert Pasquier | Côte-d’Or | Gilbert Pasquier ; Gilbert Pasquier sur sa moto | [CFYV](https://yadvashem-france.org/dossier/nom/12394/) |
+| 14097A | Ernest Mitaine ; Marthe Mitaine (avec Paul, Marthe et Pierre Gilles, dossier 14097) | Côte-d’Or | Ernest Mitaine ; Marthe Mitaine | [CFYV](https://yadvashem-france.org/dossier/nom/14097a/) |
+| 10238 | Augustin Aubert ; Juliette Aubert | Nièvre | Juliette et Augustin Aubert à Ménestreau ; Annette Mandel ; Monique Mandel, cinq ans et demi, en 1946 | [CFYV](https://yadvashem-france.org/dossier/nom/10238/) |
+| 10976 | François Perrot ; Marie Perrot née Robin ; Marguerite Perrot | Nièvre | François et Marie Perrot ; Famille Perrot ; Famille Perrot | [CFYV](https://yadvashem-france.org/dossier/nom/10976/) |
+| 11474 | François Ciron ; Françoise Ciron née Moreau ; Raymond Cloiseau ; Germaine Cloiseau née Desjours | Nièvre | Georges Kolebka ; Françoise Ciron, Georges Kolebka à sa droite | [CFYV](https://yadvashem-france.org/dossier/nom/11474/) |
+| 11723A | Jean-Marie Bompis ; Francine Bompis | Nièvre | Jean-Marie Bompis ; Francine Bompis, la fille ; Charlotte avec ses enfants | [CFYV](https://yadvashem-france.org/dossier/nom/11723a/) |
+| 11889A | Maxime Aucoin ; Yvonne Aucoin | Nièvre | Yvonne et Maxime Aucoin | [CFYV](https://yadvashem-france.org/dossier/nom/11889a/) |
+| 11933 | Georges Dussert ; Louise Dussert née Froidefond | Nièvre | — | [CFYV](https://yadvashem-france.org/dossier/nom/11933/) |
+| 12174 | Emile Pasquette ; Marie-Jeanne Pasquette née Navarre | Nièvre | Emile et Marie-Jeanne Pasquette | [CFYV](https://yadvashem-france.org/dossier/nom/12174/) |
+| 12725 | Jean Chevolot ; Odette Chevolot née Odant | Nièvre | Jean Chevolot en 1944 ; Odette Chevolot en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/12725/) |
+| 12980 | Georges Duchesne ; Thérèse Duchesne née Rossi | Nièvre | Georges Duchesne ; Thérèse Duchesne ; Rosa Cynamon | [CFYV](https://yadvashem-france.org/dossier/nom/12980/) |
+| 13377 | Jules Charton ; Claudine Charton née Lemaître | Nièvre | Albert et Annette Rajchert | [CFYV](https://yadvashem-france.org/dossier/nom/13377/) |
+| 13627 | Marie Boucheron née Corde | Nièvre | Marie Boucheron devant sa maison à Donzy en 1945 ; 1943 : Suzanne Choder, un an et demi, Rachel, six ans, et Simone, treize ans | [CFYV](https://yadvashem-france.org/dossier/nom/13627/) |
+| 5753 | Antoine Arnoux ; Marie-Louise Arnoux (avec Hélène Arnoux) | Nièvre | Antoine et Marie-Louise Arnoux ; Hélène Arnoux | [CFYV](https://yadvashem-france.org/dossier/nom/5753/) |
+| 7417 | Urbain Lescanne ; Gabrielle Lescanne née Routy | Nièvre | Gabrielle Lescanne | [CFYV](https://yadvashem-france.org/dossier/nom/7417/) |
+| 8126 | Marie Paillard | Nièvre | Marie Paillard | [CFYV](https://yadvashem-france.org/dossier/nom/8126/) |
+| 9498 | Gustave Tompa | Nièvre | Gustave Tompa ; 1944, le fils de Gustave Tompa et Liliane Fischer-Farkas, petite fille sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/9498/) |
+| 9526 | Suzanne Glasser-Felin | Nièvre | Famille Szyferman ; Village de Ciez, lieu du sauvetage | [CFYV](https://yadvashem-france.org/dossier/nom/9526/) |
+| 9588 | Edouard Bondoux ; Francine Bondoux (avec Geneviève Blanchot) | Nièvre | Félix Bondoux ; Geneviève Blanchot ; Édouard Félix et Francine Bondoux (au centre), fin des années 1930 | [CFYV](https://yadvashem-france.org/dossier/nom/9588/) |
+| 10028 | Françoise Gratien (avec Elise et Marcel Gratien) | Saône-et-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/10028/) |
+| 10189 | André Proudhon | Saône-et-Loire | André Proudhon ; Netty Westreich et André Proudhon dans le Morvan | [CFYV](https://yadvashem-france.org/dossier/nom/10189/) |
+| 10448 | Jean-Claude Genet ; Marthe (Eugénie) Genet | Saône-et-Loire | Jean-Claude Genet ; Marthe Genet ; Henri Cwajg, l’enfant sauvé | [CFYV](https://yadvashem-france.org/dossier/nom/10448/) |
+| 10593 | Albert Blanvillain ; Renée Blanvillain | Saône-et-Loire | Renée Blanvillain ; Albert Blanvillain | [CFYV](https://yadvashem-france.org/dossier/nom/10593/) |
+| 11133 | Marie-Aimée Gaillard ; Clotilde Gaillard | Saône-et-Loire | Clotilde Gaillard ; Marie-Aimée Gaillard ; La Clayette | [CFYV](https://yadvashem-france.org/dossier/nom/11133/) |
+| 12015 | Ferdinand Morel ; Marie Morel née Veuillot | Saône-et-Loire | Ferdinand et Marie Morel | [CFYV](https://yadvashem-france.org/dossier/nom/12015/) |
+| 12015A | Constantin Guillemin ; Hélène Guillemin née Puget | Saône-et-Loire | Constantin Guillemin ; Hélène Guillemin | [CFYV](https://yadvashem-france.org/dossier/nom/12015a/) |
+| 12015B | Claude Berthaud ; Marie Berthaud née Limard | Saône-et-Loire | Claude François et Marie-Joséphine Berthaud (collection privée) | [CFYV](https://yadvashem-france.org/dossier/nom/12015b/) |
+| 12158 | Pierrette Pauchard née Guyard | Saône-et-Loire | Pierrette Pauchard ; Pierrette Pauchard et les enfants Frydman | [CFYV](https://yadvashem-france.org/dossier/nom/12158/) |
+| 12548 | Marcel Plancoulaine ; Marie-Jeanne Plancoulaine née Beugnon | Saône-et-Loire | Marie-Jeanne Plancoulaine ; Marcel Plancoulaine ; La famille Plancoulaine et Édouard Luntz à la Libération | [CFYV](https://yadvashem-france.org/dossier/nom/12548/) |
+| 13115 | Anne-Marie Phal | Saône-et-Loire | Anne-Marie Phal | [CFYV](https://yadvashem-france.org/dossier/nom/13115/) |
+| 14390 | Francine Mactoux née Cognard | Saône-et-Loire | Francine Mactoux ; Simone Poportz avec Germain et Edith | [CFYV](https://yadvashem-france.org/dossier/nom/14390/) |
+| 14589 | Claire Michel | Saône-et-Loire | Institution Sainte-Marie, Cuisery | [CFYV](https://yadvashem-france.org/dossier/nom/14589/) |
+| 4472 | Jeanne Jouvenceau ; Eugène Cordelier ; Marcelle Cordelier | Saône-et-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4472/) |
+| 5086 | Louis Gruillot ; Andrée Gruillot | Saône-et-Loire | Andrée Gruillot ; Louis Gruillot | [CFYV](https://yadvashem-france.org/dossier/nom/5086/) |
+| 5654 | Paul Chevalier ; Alice Chevalier née Prudent | Saône-et-Loire | Paul et Alice Chevalier | [CFYV](https://yadvashem-france.org/dossier/nom/5654/) |
+| 6803 | Jean Augeard ; Marcel Augeard ; Fernande Augeard née Lassiat | Saône-et-Loire | Marcel, Fernande et leur fils Jean à Montagny ; Ruth Ways | [CFYV](https://yadvashem-france.org/dossier/nom/6803/) |
+| 8260 | Roger Demon | Saône-et-Loire | Louis Demon, lieutenant pendant la guerre de 1914, commandeur de la Légion d’honneur ; Fausse carte d’identité pour François Boris ; Fausse carte d’identité pour Sonia Boris | [CFYV](https://yadvashem-france.org/dossier/nom/8260/) |
+| 8458 | Claude Chaise ; Anna Chaise | Saône-et-Loire | Claude Marie et Anna Chaise en 1951 ; Claude Marie Chaise et ses enfants, 1930 | [CFYV](https://yadvashem-france.org/dossier/nom/8458/) |
+| 10185 | Désiré Nizier ; Marie Nizier | Yonne | Marie et Désiré Nizier ; Muguette Szpajzer en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/10185/) |
+| 10190 | Basile Roy ; Léonide Roy | Yonne | De gauche à droite Marcel, Basile, Léonide et Maurice Roy ; Joseph Szpajzer, la personne sauvée, en 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/10190/) |
+| 10220 | Hélène Meunier née Fèvre ; Marie-Adolphe Meunier | Yonne | Marie-Adolphe et Hélène Meunier | [CFYV](https://yadvashem-france.org/dossier/nom/10220/) |
+| 10495 | Marie Arnol (sœur Léocadie) | Yonne | Marie Arnol ; Au centre Marie Arnol, à sa gauche sœur Placide Augustine Rigollat ; Sœur Arnol en habit laïc avec deux fillettes de la pension | [CFYV](https://yadvashem-france.org/dossier/nom/10495/) |
+| 10613 | Fernande Roy née Horry | Yonne | Fernande Roy née Horry | [CFYV](https://yadvashem-france.org/dossier/nom/10613/) |
+| 10970 | Abel Fournier ; Suzanne Fournier née Morin | Yonne | Suzanne et Abel Fournier en 1945 ; Les personnes sauvées | [CFYV](https://yadvashem-france.org/dossier/nom/10970/) |
+| 11023 | René Bouland ; Mélina Bouland née Lebrun | Yonne | Henri, l’enfant sauvé ; Mélina et René Bouland | [CFYV](https://yadvashem-france.org/dossier/nom/11023/) |
+| 11136 | Raymond Mare (avec Jeanne Mare) | Yonne | Raymond et Jeanne Mare | [CFYV](https://yadvashem-france.org/dossier/nom/11136/) |
+| 11213 | Paul Gibaud ; Suzanne Gibaud née Goury | Yonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11213/) |
+| 11213A | Louis Barthélemy ; Georgette Barthélemy née Regnier | Yonne | Louis Barthélemy ; Georgette Barthélemy | [CFYV](https://yadvashem-france.org/dossier/nom/11213a/) |
+| 11213B | Albert Sarro ; Renée Sarro née Gaumer | Yonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11213b/) |
+| 11317 | Emmanuel Peteuil ; Eugénie Peteuil née Bretagnol | Yonne | Eugénie Peteuil ; Emmanuel Peteuil ; Emmanuel et Eugénie Peteuil avec les enfants sauvés Claude et Eliane Grodner, été 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/11317/) |
+| 11339 | Fernand Poulet (avec Marcelle Robineau) | Yonne | Marcelle Robineau ; Fernand Poulet ; Jacques Jaklimovitch et sa sœur Sarah | [CFYV](https://yadvashem-france.org/dossier/nom/11339/) |
+| 11427 | Clémence Munier née Lenoir | Yonne | Clémence Munier en 1989 | [CFYV](https://yadvashem-france.org/dossier/nom/11427/) |
+| 11531 | Michel Martiré | Yonne | Michel Martiré en chef scout vers 1938 | [CFYV](https://yadvashem-france.org/dossier/nom/11531/) |
+| 11531A | Pierre André | Yonne | Pierre André en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/11531a/) |
+| 11828 | Jeanne Voinot ; Roger Voinot | Yonne | Jeanne et Roger Voinot ; Fin 1944, de gauche à droite : Gilbert Voinot, Roger et Jeanne Voinot, Maurice Michaud, Rachel Kokotek, Reine ; au premier plan Nicole Voinot ; Roger et Jeanne Voinot, leur fille Nicole et Mme Sameroff-Kokotek | [CFYV](https://yadvashem-france.org/dossier/nom/11828/) |
+| 12049 | André-Gustave Dilsizian (avec son père Georges) | Yonne | Georges Dilsizian | [CFYV](https://yadvashem-france.org/dossier/nom/12049/) |
+| 12449A | Paul Mercier ; Cécile Mercier née Perreau | Yonne | Cécile et Paul Mercier | [CFYV](https://yadvashem-france.org/dossier/nom/12449a/) |
+| 12790 | Albertine Roche née Fassier | Yonne | Albertine Fassier tenant dans ses bras Gérard Azouvi ; Albertine à gauche | [CFYV](https://yadvashem-france.org/dossier/nom/12790/) |
+| 13050 | Jean-Charles Rigazio ; Marie-Thérèse Rigazio | Yonne | Marie-Thérèse Rigazio ; En 1937, Jean-Charles Rigazio, son épouse et leur fille Rolande | [CFYV](https://yadvashem-france.org/dossier/nom/13050/) |
+| 1655 | Lucienne Guyollot née Caron ; Rémond Guyollot | Yonne | En 1943, le couple Guyollot à droite de l’image ; Arbre des Guyollot à Jérusalem | [CFYV](https://yadvashem-france.org/dossier/nom/1655/) |
+| 4391 | Eugène Rouille ; Louise Rouille | Yonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4391/) |
+| 7190 | André Vallenot ; Marie-Louise Vallenot née Couperat | Yonne | André et Marie-Louise Vallenot | [CFYV](https://yadvashem-france.org/dossier/nom/7190/) |
+| 9295 | Paul Riboulot ; Renée Riboulot | Yonne | Cérémonie Riboulot | [CFYV](https://yadvashem-france.org/dossier/nom/9295/) |
+| 9734 | Guy Verrier ; Valentine Verrier née Soupey | Yonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9734/) |
+| 9734A | Jane Godard de Donville ; René Godard de Donville | Yonne | Jane et René Godard de Donville | [CFYV](https://yadvashem-france.org/dossier/nom/9734a/) |
+| 9787 | Alphonse Parent ; Lisa Parent née Bocquet | Yonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9787/) |
+| 9787A | Roger Roussy ; Simone Roussy née Parent | Yonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/9787a/) |
+| 9811 | Alfred Abadir ; Suzanne Abadir née Zirnhelt | Yonne | Alfred et Suzanne Abadir ; Claude Avram pendant la guerre | [CFYV](https://yadvashem-france.org/dossier/nom/9811/) |
+
+Dossiers liés hors lot : 14097 (famille Gilles), 11723 (voisine parisienne des Wisniewski), 11889 (famille Anne, Argenteuil), 12449 (Saint-Père). Le dossier 10028 couvre aussi Elise et Marcel Gratien, rattachés à la Haute-Savoie (lot Codex) : récit commun, à vérifier de ce côté.
 
 ## Lot Claude — Jura, Franche-Comté et Ain (28/11/2026)
 
