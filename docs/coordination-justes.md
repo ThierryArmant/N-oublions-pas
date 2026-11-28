@@ -17,7 +17,81 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68) et Gironde-Landes-Lot-et-Garonne (69), tableaux ci-dessous. Lot en cours : Dordogne. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées dont Pyrénées-Atlantiques, Massif central, Puy-de-Dôme) et l’indique ici avant chaque lot.
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69) et Dordogne (65), tableaux ci-dessous. Prochain lot Claude : Hauts-de-France (Nord, Aisne, Oise…), à confirmer ici avant de commencer. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées dont Pyrénées-Atlantiques, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Dordogne (28/11/2026)
+
+Récit intégré sur `main` pour 65 dossiers ; 67 portraits et 120 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_dordogne_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10215 | Louis et Amélie Delbos | Dordogne | Louis Delbos et Roland Lévy | [CFYV](https://yadvashem-france.org/dossier/nom/10215/) |
+| 10240 | Urbain Haag | Dordogne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10240/) |
+| 10245 | Amédée et Jeanne Jouan | Dordogne | Amédée JOUAN ; Jeanne JOUAN ; 25 novembre 2004, la cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/10245/) |
+| 10279 | Lucien Garrigou | Dordogne | Lucien Garrigou ; La remise de la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/10279/) |
+| 10402 | Alexandre et Marcelle Berbonde | Dordogne | Alexandre Berbonde ; Marcelle Berbonde ; De gauche à droite, Wielhem Baer, Ellen Baer, Paula Baer, Gertrude Baer, M. Maier, Walter-Simon Hahn en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/10402/) |
+| 10491 | Michel et Geneviève Dieras | Dordogne | Michel Dieras | [CFYV](https://yadvashem-france.org/dossier/nom/10491/) |
+| 10515 | Hélène Duc ; Jeanne Duc | Dordogne | Hélène Duc, « On ne joue plus », raconté par Lucie Lucas | [CFYV](https://yadvashem-france.org/dossier/nom/10515/) |
+| 10515A | Jacques et Simone Rousseau | Dordogne | Jacques & Simone ROUSSEAU en 1943 ; Jacques Rousseau ; Simone Rousseau et, derrière, son mari Jacques | [CFYV](https://yadvashem-france.org/dossier/nom/10515a/) |
+| 10573 | Jean et Marie Veyssière | Dordogne | Jean Veyssière ; Marie Veyssière ; Plaque commémorative des familles juives déportées en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/10573/) |
+| 10576 | Pasteur Roland et Marthe Dubois | Dordogne | 1952 Roland & son épouse dans le jardin du presbytère de Masevaux Haut-Rhin | [CFYV](https://yadvashem-france.org/dossier/nom/10576/) |
+| 10589 | Élisabeth Roubinet | Dordogne | Elisabeth ROUBINET | [CFYV](https://yadvashem-france.org/dossier/nom/10589/) |
+| 10880 | Jean et Catherine Deschamps | Dordogne | La maison des Deschamps ; 1945-Jean & catherine Deschamps et leur petit fils ; en 1944 Fête de famille lors de la communion solenelle des 2 petites filles Deschamps ; Jean & Catherine vers 1944 dans leur jardin à la campagne ; 1944-Rachel Urwicz ; 1945 Jean Tremouville | [CFYV](https://yadvashem-france.org/dossier/nom/10880/) |
+| 10885 | Jean-Albert Bousquet | Dordogne | Jean-Albert Bousquet | [CFYV](https://yadvashem-france.org/dossier/nom/10885/) |
+| 11093 | Pierre et Marguerite Bouty | Dordogne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11093/) |
+| 11295A | Jean-Bernard et Louise Bissou ; Hélène Ségurel ; Louis et Léontine Chamon | Dordogne | Jean-Bernard & Louise Bissou ; le couple Bissou et au centre leur fille Hélène Ségurel | [CFYV](https://yadvashem-france.org/dossier/nom/11295a/) |
+| 11295C | Joseph, Marcel et Joséphine Dalesme | Dordogne | Famille Dalesme ; Famille Dalesme | [CFYV](https://yadvashem-france.org/dossier/nom/11295c/) |
+| 11295E | François et Louise Doche | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/11295e/) |
+| 11295F | Paulette Claude (née Granger) | Dordogne | CLAUDE Paulette ; 13 juin 2010 remise des insignes de chevalier de la légion d'Honneur | [CFYV](https://yadvashem-france.org/dossier/nom/11295f/) |
+| 11442 | Albert Faurel | Dordogne | Photographie du personnel de l’école | [CFYV](https://yadvashem-france.org/dossier/nom/11442/) |
+| 11512A | Jeanne Guilhem | Dordogne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11512a/) |
+| 11643 | Docteur Antonin et Madeleine Debidour ; Joséphine Mathès | Dordogne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11643/) |
+| 11877 | Jean et Éléonore Louis | Dordogne | Mariage Jean et Eléonore LOUIS ; Frédérique Holder Jarnac en octobre 1944 ; Les jumelles Holder en 1949 | [CFYV](https://yadvashem-france.org/dossier/nom/11877/) |
+| 11888 | Auguste et Alice Brionne | Dordogne | Auguste BRIONNE ; Alice BRIONNE | [CFYV](https://yadvashem-france.org/dossier/nom/11888/) |
+| 1220 | Aloyse et Mélanie Strebler | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/1220/) |
+| 12250 | Docteur Frédebert Baylac | Dordogne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12250/) |
+| 12309 | Pierre Pinson | Dordogne | Mariage Pinson ; Maison Fenster Klapholz à La Force ; Monument en Hommage Pinson ; Fausse carte d'identité Mme Klapholz ; Fausse carte d'identité Mme Pinson | [CFYV](https://yadvashem-france.org/dossier/nom/12309/) |
+| 12331 | Jean et Jeanne Villot | Dordogne | Jean et Jeanne Villot ; Jean et Jeanne Villot ; Jean-Pierre Marie Villot ayant droit et mme Simonet enfant caché ; Mme Simonet Sonia enfant cachée | [CFYV](https://yadvashem-france.org/dossier/nom/12331/) |
+| 12547 | Jean et Rose Bleynie | Dordogne | Les époux BLEYNIE en 1936 | [CFYV](https://yadvashem-france.org/dossier/nom/12547/) |
+| 12621 | André et Élise Boussarie ; Renée Puybonnieux | Dordogne | Élise et André Boussarie ; En 1942 la Famille Kryger | [CFYV](https://yadvashem-france.org/dossier/nom/12621/) |
+| 12769 | Pierre et Marie Laboureur | Dordogne | Pierre Laboureur en 1944 ; Marie Laboureur dans les années 50 | [CFYV](https://yadvashem-france.org/dossier/nom/12769/) |
+| 12904 | Paul Delpech | Dordogne | Plaque Commémorative | [CFYV](https://yadvashem-france.org/dossier/nom/12904/) |
+| 13077 | Jean et Rachel Lamargie | Dordogne | Jean et Rachel LAMARGIE ; Jean et Rachel Lamargie | [CFYV](https://yadvashem-france.org/dossier/nom/13077/) |
+| 13473 | Angèle Laurier | Dordogne | En 1960, Angèle Laurier | [CFYV](https://yadvashem-france.org/dossier/nom/13473/) |
+| 13694 | Lucien et Marcelle Cousinet | Dordogne | Marcelle et Lucien Cousinet (photographie de Charles Brener) ; Jean-Luc Lescure, fils de la personne sauvée, sa femme Isabelle et leurs deux enfants, avec M. et Mme Cousinet | [CFYV](https://yadvashem-france.org/dossier/nom/13694/) |
+| 14000 | Raoul et Marie-Josèphe Beylot | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/14000/) |
+| 14000A | Émile Combelas | Dordogne | Émile Combelas | [CFYV](https://yadvashem-france.org/dossier/nom/14000a/) |
+| 14047B | Paul et Caroline Faure | Dordogne | Paul Faure ; Caroline Faure | [CFYV](https://yadvashem-france.org/dossier/nom/14047b/) |
+| 14662 | Ernest et Yvonne Picard | Dordogne | Mariage d’Ernest et Yvonne Picard ; Roland et sa mère ; Marguerite Lévy, Roland et la grand-mère ; Claudine Picard et Roland Lévy | [CFYV](https://yadvashem-france.org/dossier/nom/14662/) |
+| 1829 | Abbé Georges Rocal (« abbé Julien ») | Dordogne | Georges Rocal alias Abbé Julien | [CFYV](https://yadvashem-france.org/dossier/nom/1829/) |
+| 2339 | Joseph Roux ; Yvonne Mignot (née Roux) | Dordogne | Yvonne (Roux) Mignot ; Joseph Roux | [CFYV](https://yadvashem-france.org/dossier/nom/2339/) |
+| 2936 | Henri, Hélène et Raymonde Dupuy | Dordogne | Henri Dupuy ; Hélène Dupuy ; Raymonde Dupuy | [CFYV](https://yadvashem-france.org/dossier/nom/2936/) |
+| 3360 | Maxime et Éléonore Sarlat | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/3360/) |
+| 4420 | Marie-Louise Taphanel | Dordogne | Marie-Louise TAPHANEL plante un arbre dans l'allée des Justes en 1990 | [CFYV](https://yadvashem-france.org/dossier/nom/4420/) |
+| 4590 | Sœur Agnès Granier ; sœur Clara Walsh (sœur Agnès) | Dordogne | Soeur Agnès | [CFYV](https://yadvashem-france.org/dossier/nom/4590/) |
+| 4832 | Jean Lagorce | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4832/) |
+| 4832A | Léo, Jean, Eva et Victorine Teyssandier | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4832a/) |
+| 4873 | Paul et Marguerite Jacquin ; Armelle Jacquin | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4873/) |
+| 4898 | Gaston et Jeanne de Créty | Dordogne | Château d’Excideuil, demeure des Créty (© Isabelle Cochin de Créty) ; Jeanne de Créty (© Isabelle Cochin de Créty) ; Gaston de Créty (© Isabelle Cochin de Créty) ; Les enfants Bernheim entourant les filles de Gaston et Jeanne de Créty (© Isabelle Cochin de Créty) | [CFYV](https://yadvashem-france.org/dossier/nom/4898/) |
+| 4933 | Louis, Palmyre et Muguette Jouy | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4933/) |
+| 5616 | Paul et Jeanne Berthoumeyrou | Dordogne | Paul et Jeanne Berthoumeyrou avec leur fils Jean et Paulette Bergman (Greiner) ; Paulette Bergman | [CFYV](https://yadvashem-france.org/dossier/nom/5616/) |
+| 5662 | Robert et Marie Geneste | Dordogne | En juin 1943 Marie et Robert Geneste ; Ancienne école | [CFYV](https://yadvashem-france.org/dossier/nom/5662/) |
+| 5792C | André, Marguerite et Albert Veliska | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/5792c/) |
+| 6236 | Henri et Marcelle Mathieu | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6236/) |
+| 6507 | Adrien Bouthier | Dordogne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/6507/) |
+| 6878 | Louis, Marie et Marie-Louise Basbayon | Dordogne | Louis et Marie Basbayon | [CFYV](https://yadvashem-france.org/dossier/nom/6878/) |
+| 7423 | René et Henriette Mathieu | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/7423/) |
+| 7837 | Sœur Bernadette ; sœur Placide (Émilie Kamper) | Dordogne | Août 1944, devant le couvent Saint-Joseph de Bergerac ; Mai 1945, près de Bergerac : au milieu, sœur Placide et le petit Gilbert | [CFYV](https://yadvashem-france.org/dossier/nom/7837/) |
+| 8331 | Alexis et Carmen Félix | Dordogne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/8331/) |
+| 8619A | Louis et Yvonne Ongaro | Dordogne | restaurant Belle Etoile | [CFYV](https://yadvashem-france.org/dossier/nom/8619a/) |
+| 8636 | Marie-Louise Lafon (née Duboureau) | Dordogne | La famille Weill à Ligueux 29/03/44 en haut à droite Rose Weill camouflée par Mme LAFON ; Mme LAFON 14 ans, entre les deux neveux de Rose Weill fusillés le 29/03/44 ; De gauche à droite Mme Strauss fille de Rose Weill notre délégué M.Llazare et Mme Lafon | [CFYV](https://yadvashem-france.org/dossier/nom/8636/) |
+| 9408 | Pasteur Charles Altorffer | Dordogne | Charles Altorffer | [CFYV](https://yadvashem-france.org/dossier/nom/9408/) |
+| 9473 | Camille et Noémie Brugère | Dordogne | — | [CFYV](https://yadvashem-france.org/dossier/nom/9473/) |
+| 9489 | Éloi et Marguerite Parre | Dordogne | Marguerite Parre et les deux enfants Shaines ; Sauveurs et sauvés ; Cazoulès, lieu du sauvetage ; M. et Mme Schaines ; Marguerite Parre et les deux enfants Shaines après la guerre | [CFYV](https://yadvashem-france.org/dossier/nom/9489/) |
+| 9508 | Fernand Peyronnet | Dordogne | Odette en 1942, une des enfants sauvées ; Lieu du sauvetage | [CFYV](https://yadvashem-france.org/dossier/nom/9508/) |
+| 9676 | Gabrielle Roche | Dordogne | Feyga Simler à droite avec Gabrielle Roche | [CFYV](https://yadvashem-france.org/dossier/nom/9676/) |
+
+Remarques : 10515A : Récit commun avec les dossiers 10515 et 10515B. · 11295A : Récit commun avec les dossiers 11295 à 11295F. · 11295C : Récit commun avec les dossiers 11295 à 11295F. · 11295E : Récit commun avec les dossiers 11295 à 11295F. · 11295F : Récit commun avec les dossiers 11295 à 11295E. · 14000A : Récit commun avec le dossier 14000. · 14047B : Récit commun avec les dossiers 14047, 14047A et 14047C. · 14662 : Dossier lié au 10215 (Louis et Amélie Delbos). · 4832A : Récit lié au dossier 4832. · 5792C : Récit lié aux dossiers 5792, 5792A et 5792B. · 8619A : Récit lié au dossier 8619 (Raymonde Fanouillaire).
 
 ## Lot Claude — Gironde, Landes et Lot-et-Garonne (28/11/2026)
 

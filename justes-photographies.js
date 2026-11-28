@@ -8957,3 +8957,1064 @@ Object.assign(photosDossiersJustes, {
   }
  ]
 });
+
+// Dordogne (28/11/2026) (images des fiches du Comité français pour Yad Vashem)
+Object.assign(portraitsJustes, {
+ "altorffer-charles": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2024/05/Charles-Altorffer.jpeg",
+  "legende": "Charles Altorffer",
+  "groupe": false,
+  "credit": "Charles Altorffer · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/9408/"
+ },
+ "basbayon-louis": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/07/Louis-et-Marie-Basbayon.jpg",
+  "legende": "Louis et Marie Basbayon",
+  "groupe": true,
+  "credit": "Louis et Marie Basbayon · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/6878/"
+ },
+ "basbayon-marie": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/07/Louis-et-Marie-Basbayon.jpg",
+  "legende": "Louis et Marie Basbayon",
+  "groupe": true,
+  "credit": "Louis et Marie Basbayon · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/6878/"
+ },
+ "berbonde-alexandre": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2023/04/Alexandre-Berbonde.jpg",
+  "legende": "Alexandre Berbonde",
+  "groupe": false,
+  "credit": "Alexandre Berbonde · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10402/"
+ },
+ "berbonde-marcelle": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2023/04/Marcelle-Berbonde.jpg",
+  "legende": "Marcelle Berbonde",
+  "groupe": false,
+  "credit": "Marcelle Berbonde · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10402/"
+ },
+ "berthoumeyrou-jeanne": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/02/Paul-et-Jeanne-Berthoumeyrou-avec-leur-fils-Jean-et-Paulette-Greiner.jpg",
+  "legende": "Paul et Jeanne Berthoumeyrou avec leur fils Jean et Paulette Bergman (Greiner)",
+  "groupe": true,
+  "credit": "Paul et Jeanne Berthoumeyrou avec leur fils Jean et Paulette Bergman (Greiner) · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/5616/"
+ },
+ "berthoumeyrou-paul": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/02/Paul-et-Jeanne-Berthoumeyrou-avec-leur-fils-Jean-et-Paulette-Greiner.jpg",
+  "legende": "Paul et Jeanne Berthoumeyrou avec leur fils Jean et Paulette Bergman (Greiner)",
+  "groupe": true,
+  "credit": "Paul et Jeanne Berthoumeyrou avec leur fils Jean et Paulette Bergman (Greiner) · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/5616/"
+ },
+ "bissou-jean": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/32ed05673bf84734fb750f9df423c16c.jpg",
+  "legende": "Jean-Bernard & Louise Bissou",
+  "groupe": true,
+  "credit": "Jean-Bernard & Louise Bissou · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/11295a/"
+ },
+ "bissou-louise": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/32ed05673bf84734fb750f9df423c16c.jpg",
+  "legende": "Jean-Bernard & Louise Bissou",
+  "groupe": true,
+  "credit": "Jean-Bernard & Louise Bissou · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/11295a/"
+ },
+ "bleynie-jean": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/84ebe2ad1685aab5b92d981b8979b594.jpg",
+  "legende": "Les époux BLEYNIE en 1936",
+  "groupe": true,
+  "credit": "Les époux BLEYNIE en 1936 · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12547/"
+ },
+ "bleynie-rose": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/84ebe2ad1685aab5b92d981b8979b594.jpg",
+  "legende": "Les époux BLEYNIE en 1936",
+  "groupe": true,
+  "credit": "Les époux BLEYNIE en 1936 · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12547/"
+ },
+ "bousquet-jean-albert": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/90ab85da409e729c2f36ac33245fcd2b.jpg",
+  "legende": "Jean-Albert Bousquet",
+  "groupe": false,
+  "credit": "Jean-Albert Bousquet · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10885/"
+ },
+ "boussarie-andre": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/93f584a1dd6817a29d1297d13aaa3556.jpg",
+  "legende": "Élise et André Boussarie",
+  "groupe": true,
+  "credit": "Élise et André Boussarie · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12621/"
+ },
+ "boussarie-elise": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/93f584a1dd6817a29d1297d13aaa3556.jpg",
+  "legende": "Élise et André Boussarie",
+  "groupe": true,
+  "credit": "Élise et André Boussarie · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12621/"
+ },
+ "brionne-alice": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/e508ecc278ac385c4ba48093ed584edd.jpg",
+  "legende": "Alice BRIONNE",
+  "groupe": false,
+  "credit": "Alice BRIONNE · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/11888/"
+ },
+ "brionne-auguste": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/3e685678d7e428012010795b58d45635.jpg",
+  "legende": "Auguste BRIONNE",
+  "groupe": false,
+  "credit": "Auguste BRIONNE · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/11888/"
+ },
+ "claude-paulette": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/0e3a41b3b5d6232f4db72a7502255852.jpg",
+  "legende": "CLAUDE Paulette",
+  "groupe": false,
+  "credit": "CLAUDE Paulette · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/11295f/"
+ },
+ "emile-combelas": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2021/06/Emile-Combelas.png",
+  "legende": "Émile Combelas",
+  "groupe": false,
+  "credit": "Émile Combelas · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/14000a/"
+ },
+ "cousinet-lucien": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2021/10/Marcelle-et-Lucien-Cousinet-photo-prise-par-Charles-Brener.jpg",
+  "legende": "Marcelle et Lucien Cousinet (photographie de Charles Brener)",
+  "groupe": true,
+  "credit": "Marcelle et Lucien Cousinet (photographie de Charles Brener) · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/13694/"
+ },
+ "cousinet-marcelle": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2021/10/Marcelle-et-Lucien-Cousinet-photo-prise-par-Charles-Brener.jpg",
+  "legende": "Marcelle et Lucien Cousinet (photographie de Charles Brener)",
+  "groupe": true,
+  "credit": "Marcelle et Lucien Cousinet (photographie de Charles Brener) · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/13694/"
+ },
+ "dalesme-joseph": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/39af46e814a09c524798a6225e2950fe.jpg",
+  "legende": "Famille Dalesme",
+  "groupe": true,
+  "credit": "Famille Dalesme · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/11295c/"
+ },
+ "dalesme-joséphine": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/39af46e814a09c524798a6225e2950fe.jpg",
+  "legende": "Famille Dalesme",
+  "groupe": true,
+  "credit": "Famille Dalesme · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/11295c/"
+ },
+ "dalesme-marcel": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/39af46e814a09c524798a6225e2950fe.jpg",
+  "legende": "Famille Dalesme",
+  "groupe": true,
+  "credit": "Famille Dalesme · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/11295c/"
+ },
+ "de créty-gaston": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b3f6490cb633c8c1bd641b80d394fd38.jpg",
+  "legende": "Gaston de Créty (© Isabelle Cochin de Créty)",
+  "groupe": false,
+  "credit": "Gaston de Créty (© Isabelle Cochin de Créty) · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/4898/"
+ },
+ "de créty-jeanne": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ed9aeaf7076c5df7d8958f0026fb0124.jpg",
+  "legende": "Jeanne de Créty (© Isabelle Cochin de Créty)",
+  "groupe": false,
+  "credit": "Jeanne de Créty (© Isabelle Cochin de Créty) · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/4898/"
+ },
+ "delbos-amelie": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2024/12/Louis-Delbos-et-Roland-Levy.png",
+  "legende": "Louis Delbos et Roland Lévy",
+  "groupe": true,
+  "credit": "Louis Delbos et Roland Lévy · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10215/"
+ },
+ "delbos-louis": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2024/12/Louis-Delbos-et-Roland-Levy.png",
+  "legende": "Louis Delbos et Roland Lévy",
+  "groupe": true,
+  "credit": "Louis Delbos et Roland Lévy · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10215/"
+ },
+ "deschamps-catherine": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/56a7b516cc63a0a4adc5113ebf51c75f.jpg",
+  "legende": "Jean & Catherine vers 1944 dans leur jardin à la campagne",
+  "groupe": true,
+  "credit": "Jean & Catherine vers 1944 dans leur jardin à la campagne · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10880/"
+ },
+ "deschamps-jean": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/56a7b516cc63a0a4adc5113ebf51c75f.jpg",
+  "legende": "Jean & Catherine vers 1944 dans leur jardin à la campagne",
+  "groupe": true,
+  "credit": "Jean & Catherine vers 1944 dans leur jardin à la campagne · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10880/"
+ },
+ "dieras-michel": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2025/02/Michel-Dieras.jpg",
+  "legende": "Michel Dieras",
+  "groupe": false,
+  "credit": "Michel Dieras · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10491/"
+ },
+ "dubois-roland": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ce3763a35ea590696142e6f12203d52c.jpg",
+  "legende": "1952 Roland & son épouse dans le jardin du presbytère de Masevaux Haut-Rhin",
+  "groupe": true,
+  "credit": "1952 Roland & son épouse dans le jardin du presbytère de Masevaux Haut-Rhin · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10576/"
+ },
+ "duc-helene": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/10/Hélène-DUC-On-ne-joue-plus-Raconté-par-Lucie-Lucas-1536x1536.jpg",
+  "legende": "Hélène Duc, « On ne joue plus », raconté par Lucie Lucas",
+  "groupe": true,
+  "credit": "Hélène Duc, « On ne joue plus », raconté par Lucie Lucas · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10515/"
+ },
+ "dupuy-helene": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/DUPUY-Hélène.jpeg",
+  "legende": "Hélène Dupuy",
+  "groupe": false,
+  "credit": "Hélène Dupuy · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/2936/"
+ },
+ "dupuy-henri": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/DUPUY-Henri.jpeg",
+  "legende": "Henri Dupuy",
+  "groupe": false,
+  "credit": "Henri Dupuy · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/2936/"
+ },
+ "dupuy-raymonde": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/DUPUY-Raymonde.jpeg",
+  "legende": "Raymonde Dupuy",
+  "groupe": false,
+  "credit": "Raymonde Dupuy · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/2936/"
+ },
+ "caroline-faure": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2024/04/Caroline-Faure.jpeg",
+  "legende": "Caroline Faure",
+  "groupe": false,
+  "credit": "Caroline Faure · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/14047b/"
+ },
+ "paul-faure": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2024/04/Paul-Faure-1887x2048.jpg",
+  "legende": "Paul Faure",
+  "groupe": false,
+  "credit": "Paul Faure · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/14047b/"
+ },
+ "garrigou-lucien": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4144d514bfab559d1cf47a07f3a28499.jpg",
+  "legende": "Lucien Garrigou",
+  "groupe": false,
+  "credit": "Lucien Garrigou · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10279/"
+ },
+ "geneste-marie": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2c7128807423a0a74fe5db6a5ef415c8.jpg",
+  "legende": "En juin 1943 Marie et Robert Geneste",
+  "groupe": true,
+  "credit": "En juin 1943 Marie et Robert Geneste · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/5662/"
+ },
+ "geneste-robert": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2c7128807423a0a74fe5db6a5ef415c8.jpg",
+  "legende": "En juin 1943 Marie et Robert Geneste",
+  "groupe": true,
+  "credit": "En juin 1943 Marie et Robert Geneste · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/5662/"
+ },
+ "jouan-amedee": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/0ba36d040f00be4224d4b4fda03d1793.jpg",
+  "legende": "Amédée JOUAN",
+  "groupe": false,
+  "credit": "Amédée JOUAN · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10245/"
+ },
+ "jouan-jeanne": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/5affcf218bec1e23d6439514df245bd8.jpg",
+  "legende": "Jeanne JOUAN",
+  "groupe": false,
+  "credit": "Jeanne JOUAN · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10245/"
+ },
+ "laboureur-marie": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b67bd08cb8a1768bf1006b8e19bdf468.jpg",
+  "legende": "Marie Laboureur dans les années 50",
+  "groupe": false,
+  "credit": "Marie Laboureur dans les années 50 · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12769/"
+ },
+ "laboureur-pierre": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/89969bac4fe890662962a8654ac99d6e.jpg",
+  "legende": "Pierre Laboureur en 1944",
+  "groupe": false,
+  "credit": "Pierre Laboureur en 1944 · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12769/"
+ },
+ "lafon-marie-louise": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b39094ad5463358aff74783894fb85b0.jpg",
+  "legende": "La famille Weill à Ligueux 29/03/44 en haut à droite Rose Weill camouflée par Mme LAFON",
+  "groupe": true,
+  "credit": "La famille Weill à Ligueux 29/03/44 en haut à droite Rose Weill camouflée par Mme LAFON · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/8636/"
+ },
+ "lamargie-jean": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4dca53f603f2bd964510353da30cee07.jpg",
+  "legende": "Jean et Rachel LAMARGIE",
+  "groupe": true,
+  "credit": "Jean et Rachel LAMARGIE · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/13077/"
+ },
+ "lamargie-rachel": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4dca53f603f2bd964510353da30cee07.jpg",
+  "legende": "Jean et Rachel LAMARGIE",
+  "groupe": true,
+  "credit": "Jean et Rachel LAMARGIE · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/13077/"
+ },
+ "laurier-angèle": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b99adb09072f143f56c64c1e65fbf648.jpg",
+  "legende": "En 1960, Angèle Laurier",
+  "groupe": true,
+  "credit": "En 1960, Angèle Laurier · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/13473/"
+ },
+ "louis-eleonore": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2025/06/mariage-Jean-et-Eleonore-LOUIS.jpg",
+  "legende": "Mariage Jean et Eléonore LOUIS",
+  "groupe": true,
+  "credit": "Mariage Jean et Eléonore LOUIS · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/11877/"
+ },
+ "louis-jean": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2025/06/mariage-Jean-et-Eleonore-LOUIS.jpg",
+  "legende": "Mariage Jean et Eléonore LOUIS",
+  "groupe": true,
+  "credit": "Mariage Jean et Eléonore LOUIS · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/11877/"
+ },
+ "mignot-yvonne": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2025/01/Yvonne-Roux-Mignot.jpg",
+  "legende": "Yvonne (Roux) Mignot",
+  "groupe": false,
+  "credit": "Yvonne (Roux) Mignot · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/2339/"
+ },
+ "parre-marguerite": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/9ea44749d05b90348d7694949073deac.jpg",
+  "legende": "Marguerite Parre et les deux enfants Shaines",
+  "groupe": true,
+  "credit": "Marguerite Parre et les deux enfants Shaines · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/9489/"
+ },
+ "ernest-picard": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2026/08/PHOTO-grands-parents-Mariage-dErnest-et-Yvonne-PICARD.jpg",
+  "legende": "Mariage d’Ernest et Yvonne Picard",
+  "groupe": true,
+  "credit": "Mariage d’Ernest et Yvonne Picard · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/14662/"
+ },
+ "yvonne-picard": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2026/08/PHOTO-grands-parents-Mariage-dErnest-et-Yvonne-PICARD.jpg",
+  "legende": "Mariage d’Ernest et Yvonne Picard",
+  "groupe": true,
+  "credit": "Mariage d’Ernest et Yvonne Picard · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/14662/"
+ },
+ "rocal-georges": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/0825a2aace171b5d34b60ff2f8e374da.jpg",
+  "legende": "Georges Rocal alias Abbé Julien",
+  "groupe": false,
+  "credit": "Georges Rocal alias Abbé Julien · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/1829/"
+ },
+ "roche-gabrielle": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/8e28eeaa676fbf644015dad36f94b581.jpg",
+  "legende": "Feyga Simler à droite avec Gabrielle Roche",
+  "groupe": false,
+  "credit": "Feyga Simler à droite avec Gabrielle Roche · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/9676/"
+ },
+ "roubinet-elisabeth": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/dcc0f4ad90c910d3b52f1480881836bb.jpg",
+  "legende": "Elisabeth ROUBINET",
+  "groupe": false,
+  "credit": "Elisabeth ROUBINET · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10589/"
+ },
+ "rousseau-jacques": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/e2a9d801d49df7f3d534029f5c337cde.jpg",
+  "legende": "Jacques Rousseau",
+  "groupe": false,
+  "credit": "Jacques Rousseau · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10515a/"
+ },
+ "rousseau-simone": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/1b7a8cc93f68817bd79ee2cf6206f77e.jpg",
+  "legende": "Jacques & Simone ROUSSEAU en 1943",
+  "groupe": true,
+  "credit": "Jacques & Simone ROUSSEAU en 1943 · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10515a/"
+ },
+ "roux-joseph": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2025/01/Joseph-Roux-1.jpg",
+  "legende": "Joseph Roux",
+  "groupe": false,
+  "credit": "Joseph Roux · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/2339/"
+ },
+ "segurel-helene": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/edc92ac0de340d75574e67d2683c9653.jpg",
+  "legende": "le couple Bissou et au centre leur fille Hélène Ségurel",
+  "groupe": true,
+  "credit": "le couple Bissou et au centre leur fille Hélène Ségurel · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/11295a/"
+ },
+ "veyssiere-jean": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4a7a8fbf87f5f461261a4172aed8a832.jpg",
+  "legende": "Jean Veyssière",
+  "groupe": false,
+  "credit": "Jean Veyssière · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10573/"
+ },
+ "veyssiere-marie": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/d6352dc8d58b2a4e8f77e45854422cc5.jpg",
+  "legende": "Marie Veyssière",
+  "groupe": false,
+  "credit": "Marie Veyssière · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10573/"
+ },
+ "villot-jean": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a3f902a7b2acec683041170241e61847.jpg",
+  "legende": "Jean et Jeanne Villot",
+  "groupe": true,
+  "credit": "Jean et Jeanne Villot · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12331/"
+ },
+ "villot-jeanne": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a3f902a7b2acec683041170241e61847.jpg",
+  "legende": "Jean et Jeanne Villot",
+  "groupe": true,
+  "credit": "Jean et Jeanne Villot · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12331/"
+ },
+ "kamper-emilie": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ceedb52bdb9b1bdfa4e4f90f9083b302.jpg",
+  "legende": "Mai 1945, près de Bergerac : au milieu, sœur Placide et le petit Gilbert",
+  "groupe": true,
+  "credit": "Mai 1945, près de Bergerac : au milieu, sœur Placide et le petit Gilbert · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/7837/"
+ },
+ "walsh-clara": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2025/03/Soeur-Agnes.jpg",
+  "legende": "Soeur Agnès",
+  "groupe": false,
+  "credit": "Soeur Agnès · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/4590/"
+ }
+});
+Object.assign(photosDossiersJustes, {
+ "10215": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/12/Louis-Delbos-et-Roland-Levy.png",
+   "legende": "Louis Delbos et Roland Lévy"
+  }
+ ],
+ "10240": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/3482a7de5766133c1fad982eca6edbbd.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  }
+ ],
+ "10245": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/0ba36d040f00be4224d4b4fda03d1793.jpg",
+   "legende": "Amédée JOUAN"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/5affcf218bec1e23d6439514df245bd8.jpg",
+   "legende": "Jeanne JOUAN"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/dca84e099232dfbe4e9495b1e80c58d5.jpg",
+   "legende": "25 novembre 2004, la cérémonie"
+  }
+ ],
+ "10279": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4144d514bfab559d1cf47a07f3a28499.jpg",
+   "legende": "Lucien Garrigou"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/5104d2fd55e720ac62155eb57d3cdee3.jpg",
+   "legende": "La remise de la médaille"
+  }
+ ],
+ "10402": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2023/04/Alexandre-Berbonde.jpg",
+   "legende": "Alexandre Berbonde"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2023/04/Marcelle-Berbonde.jpg",
+   "legende": "Marcelle Berbonde"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2023/04/De-gauche-à-droite-Wielhem-Baer-Ellen-Baer-Paula-Baer-Gertrude-Baer-M.-Maier-Walter-Simon-hahn-en-1942.jpg",
+   "legende": "De gauche à droite, Wielhem Baer, Ellen Baer, Paula Baer, Gertrude Baer, M. Maier, Walter-Simon Hahn en 1942"
+  }
+ ],
+ "10491": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/02/Michel-Dieras.jpg",
+   "legende": "Michel Dieras"
+  }
+ ],
+ "10515": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/219bca28fcacb97a23c93016925e9c36.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/10/Hélène-DUC-On-ne-joue-plus-Raconté-par-Lucie-Lucas-1536x1536.jpg",
+   "legende": "Hélène Duc, « On ne joue plus », raconté par Lucie Lucas"
+  }
+ ],
+ "10515A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/1b7a8cc93f68817bd79ee2cf6206f77e.jpg",
+   "legende": "Jacques & Simone ROUSSEAU en 1943"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/e2a9d801d49df7f3d534029f5c337cde.jpg",
+   "legende": "Jacques Rousseau"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a1bde3820c8661b74caf02212cac91c8.jpg",
+   "legende": "Simone Rousseau et, derrière, son mari Jacques"
+  }
+ ],
+ "10573": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4a7a8fbf87f5f461261a4172aed8a832.jpg",
+   "legende": "Jean Veyssière"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/d6352dc8d58b2a4e8f77e45854422cc5.jpg",
+   "legende": "Marie Veyssière"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/d51c9c995de134c2331a62f51c618312.jpg",
+   "legende": "Plaque commémorative des familles juives déportées en 1942"
+  }
+ ],
+ "10576": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ce3763a35ea590696142e6f12203d52c.jpg",
+   "legende": "1952 Roland & son épouse dans le jardin du presbytère de Masevaux Haut-Rhin"
+  }
+ ],
+ "10589": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/dcc0f4ad90c910d3b52f1480881836bb.jpg",
+   "legende": "Elisabeth ROUBINET"
+  }
+ ],
+ "10880": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/3e6b89628a222f758027b33c86d43986.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/871a43ae3e1a6a8c133e7571ce27b55f.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/fcaf7b8e334be2a867cd61c0153f14d2.jpg",
+   "legende": "La maison des Deschamps"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/da613de3f89d012381bb10b249198175.jpg",
+   "legende": "1945-Jean & catherine Deschamps et leur petit fils"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/1c626d1d4e5c57e083cfbc98d8e047ed.jpg",
+   "legende": "en 1944 Fête de famille lors de la communion solenelle des 2 petites filles Deschamps"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/56a7b516cc63a0a4adc5113ebf51c75f.jpg",
+   "legende": "Jean & Catherine vers 1944 dans leur jardin à la campagne"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b042c6733893bf13b6ea7631c28cfba9.jpg",
+   "legende": "1944-Rachel Urwicz"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/31f315a7a9462b5fd22d373bda86b017.jpg",
+   "legende": "1945 Jean Tremouville"
+  }
+ ],
+ "10885": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/90ab85da409e729c2f36ac33245fcd2b.jpg",
+   "legende": "Jean-Albert Bousquet"
+  }
+ ],
+ "11093": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/31ce1d0eabcffabd6bb49bc01bdaf272.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  }
+ ],
+ "11295A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/edc8fd556d718fd5adc5261231751531.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/32ed05673bf84734fb750f9df423c16c.jpg",
+   "legende": "Jean-Bernard & Louise Bissou"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/edc92ac0de340d75574e67d2683c9653.jpg",
+   "legende": "le couple Bissou et au centre leur fille Hélène Ségurel"
+  }
+ ],
+ "11295C": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/39af46e814a09c524798a6225e2950fe.jpg",
+   "legende": "Famille Dalesme"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a6dce6333f7557ce529382b378213efa.jpg",
+   "legende": "Famille Dalesme"
+  }
+ ],
+ "11295F": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/0e3a41b3b5d6232f4db72a7502255852.jpg",
+   "legende": "CLAUDE Paulette"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2aec90a2ed80864ad52a8c0d0a59afaa.jpg",
+   "legende": "13 juin 2010 remise des insignes de chevalier de la légion d'Honneur"
+  }
+ ],
+ "11442": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a2b439490bc5db4c94c6d3eb84ceffc4.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/83ed6101b1b0e70e796dbd4ca7810f94.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/04/photo-du-personnel-de-lécole-1536x1325.jpg",
+   "legende": "Photographie du personnel de l’école"
+  }
+ ],
+ "11512A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/f37329c9166cfb8f5803aef38849655c.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  }
+ ],
+ "11643": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b25ad7af34ff28d3229e97a1166b4637.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  }
+ ],
+ "11877": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/06/mariage-Jean-et-Eleonore-LOUIS.jpg",
+   "legende": "Mariage Jean et Eléonore LOUIS"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/f0382d22bc33824b57e046739beda6f7.jpg",
+   "legende": "Frédérique Holder Jarnac en octobre 1944"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/c79f6963b0ec71bef2abaf3fff62188f.jpg",
+   "legende": "Les jumelles Holder en 1949"
+  }
+ ],
+ "11888": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/3e685678d7e428012010795b58d45635.jpg",
+   "legende": "Auguste BRIONNE"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/e508ecc278ac385c4ba48093ed584edd.jpg",
+   "legende": "Alice BRIONNE"
+  }
+ ],
+ "12250": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b544d6e5953b70249965c609f8b79fa8.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/bae9101e4a4bca750668fcd2d7f82ad9.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  }
+ ],
+ "12309": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2aaaea3cd206c2a35bb82f459937a10d.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ac12eba2d5da30a2f90889e57fb69dce.jpg",
+   "legende": "Mariage Pinson"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/331431dfc7b7b7bcdb9f064efd2d4a29.jpg",
+   "legende": "Maison Fenster Klapholz à La Force"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/9f535480bb73af059c3cbc0025af26f8.jpg",
+   "legende": "Monument en Hommage Pinson"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/9653d5b8125cabf311f679c26600a778.jpg",
+   "legende": "Fausse carte d'identité Mme Klapholz"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/91f8368b824a2da7bdf73a66b1d8da56.jpg",
+   "legende": "Fausse carte d'identité Mme Pinson"
+  }
+ ],
+ "12331": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2ce4266aa62e2b18ae70cde8ec44d7a1.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/94a2b3400861de9c6555c83934c7d07f.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a3f902a7b2acec683041170241e61847.jpg",
+   "legende": "Jean et Jeanne Villot"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/3d4ab450d8216a37661aea4d0db7d511.jpg",
+   "legende": "Jean et Jeanne Villot"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4dd3801d2f3bf69c170ac36e4218959a.jpg",
+   "legende": "Jean-Pierre Marie Villot ayant droit et mme Simonet enfant caché"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/c9231907746b43a65080d452e1871436.jpg",
+   "legende": "Mme Simonet Sonia enfant cachée"
+  }
+ ],
+ "12547": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/84ebe2ad1685aab5b92d981b8979b594.jpg",
+   "legende": "Les époux BLEYNIE en 1936"
+  }
+ ],
+ "12621": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/93f584a1dd6817a29d1297d13aaa3556.jpg",
+   "legende": "Élise et André Boussarie"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a37e31d7ca4ab5bcf23351226b9cdb07.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/166678fb85d66032ae3b8d553b9123c8.jpg",
+   "legende": "En 1942 la Famille Kryger"
+  }
+ ],
+ "12769": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/89969bac4fe890662962a8654ac99d6e.jpg",
+   "legende": "Pierre Laboureur en 1944"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b67bd08cb8a1768bf1006b8e19bdf468.jpg",
+   "legende": "Marie Laboureur dans les années 50"
+  }
+ ],
+ "12904": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/f680d0cd736cd61776d3a79db9103c65.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/e418b68261f5b686661952412f7a7cef.jpg",
+   "legende": "Plaque Commémorative"
+  }
+ ],
+ "13077": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4dca53f603f2bd964510353da30cee07.jpg",
+   "legende": "Jean et Rachel LAMARGIE"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/08/Jean-et-Rachel-LAMARGIE-photo-2.jpg",
+   "legende": "Jean et Rachel Lamargie"
+  }
+ ],
+ "13473": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/f9132bcfaf3790eeee8fdb7ad0015db7.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b99adb09072f143f56c64c1e65fbf648.jpg",
+   "legende": "En 1960, Angèle Laurier"
+  }
+ ],
+ "13694": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/10/Marcelle-et-Lucien-Cousinet-photo-prise-par-Charles-Brener.jpg",
+   "legende": "Marcelle et Lucien Cousinet (photographie de Charles Brener)"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/10/Photo-1-en-haut-à-gauche-jean-Luc-lescure-le-fils-de-lapersonne-sauvée-sa-femme-isabelle-et-leurs-2-deux-enfants-à-gauche-de-M.-Cousinet-avec-sa-femme.jpg",
+   "legende": "Jean-Luc Lescure, fils de la personne sauvée, sa femme Isabelle et leurs deux enfants, avec M. et Mme Cousinet"
+  }
+ ],
+ "14000A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/06/Emile-Combelas.png",
+   "legende": "Émile Combelas"
+  }
+ ],
+ "14047B": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/04/Paul-Faure-1887x2048.jpg",
+   "legende": "Paul Faure"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/04/Caroline-Faure.jpeg",
+   "legende": "Caroline Faure"
+  }
+ ],
+ "14662": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2026/08/PHOTO-grands-parents-Mariage-dErnest-et-Yvonne-PICARD.jpg",
+   "legende": "Mariage d’Ernest et Yvonne Picard"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2026/08/IMG_20200810_0003-PHOTO-RAYMOND-ET-SA-MERE.jpg",
+   "legende": "Roland et sa mère"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2026/08/IMG_20200810_0007-MARGUERITE-LEVY-RAYMOND-ET-LA-GRAND-MERE.jpg",
+   "legende": "Marguerite Lévy, Roland et la grand-mère"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2026/08/IMG_20200810_0004-CLAUDINE-ET-RAYMOND.jpg",
+   "legende": "Claudine Picard et Roland Lévy"
+  }
+ ],
+ "1829": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/0825a2aace171b5d34b60ff2f8e374da.jpg",
+   "legende": "Georges Rocal alias Abbé Julien"
+  }
+ ],
+ "2339": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/01/Yvonne-Roux-Mignot.jpg",
+   "legende": "Yvonne (Roux) Mignot"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/01/Joseph-Roux-1.jpg",
+   "legende": "Joseph Roux"
+  }
+ ],
+ "2936": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/DUPUY-Henri.jpeg",
+   "legende": "Henri Dupuy"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/DUPUY-Hélène.jpeg",
+   "legende": "Hélène Dupuy"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/DUPUY-Raymonde.jpeg",
+   "legende": "Raymonde Dupuy"
+  }
+ ],
+ "4420": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/32709cde5fd08ab723e6fd24ceb13ec9.jpg",
+   "legende": "Marie-Louise TAPHANEL plante un arbre dans l'allée des Justes en 1990"
+  }
+ ],
+ "4590": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/03/Soeur-Agnes.jpg",
+   "legende": "Soeur Agnès"
+  }
+ ],
+ "4898": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4848215e8e4137abb4f31770256edf67.jpg",
+   "legende": "Château d’Excideuil, demeure des Créty (© Isabelle Cochin de Créty)"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ed9aeaf7076c5df7d8958f0026fb0124.jpg",
+   "legende": "Jeanne de Créty (© Isabelle Cochin de Créty)"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b3f6490cb633c8c1bd641b80d394fd38.jpg",
+   "legende": "Gaston de Créty (© Isabelle Cochin de Créty)"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/de5dae10286deef7abc26400359b4359.jpg",
+   "legende": "Les enfants Bernheim entourant les filles de Gaston et Jeanne de Créty (© Isabelle Cochin de Créty)"
+  }
+ ],
+ "5616": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/02/Paul-et-Jeanne-Berthoumeyrou-avec-leur-fils-Jean-et-Paulette-Greiner.jpg",
+   "legende": "Paul et Jeanne Berthoumeyrou avec leur fils Jean et Paulette Bergman (Greiner)"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/02/Paulette-Bergman-crédit-collYVJ-scaled.jpg",
+   "legende": "Paulette Bergman"
+  }
+ ],
+ "5662": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2c7128807423a0a74fe5db6a5ef415c8.jpg",
+   "legende": "En juin 1943 Marie et Robert Geneste"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/afe5278d0090abf391d5dc6a589d3cb4.jpg",
+   "legende": "Ancienne école"
+  }
+ ],
+ "6507": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/f4d43223291268393816e73b9155ee0c.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  }
+ ],
+ "6878": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/07/Louis-et-Marie-Basbayon.jpg",
+   "legende": "Louis et Marie Basbayon"
+  }
+ ],
+ "7837": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b6655554106b76775cb38ddfd2cbc9bc.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2c5fb326cd9ea72e020a7f8bc757db50.jpg",
+   "legende": "Août 1944, devant le couvent Saint-Joseph de Bergerac"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ceedb52bdb9b1bdfa4e4f90f9083b302.jpg",
+   "legende": "Mai 1945, près de Bergerac : au milieu, sœur Placide et le petit Gilbert"
+  }
+ ],
+ "8331": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/196171d52c358cd2820f396d491c637d.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  }
+ ],
+ "8619A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/09/restaurant-Belle-Etoile.jpg",
+   "legende": "restaurant Belle Etoile"
+  }
+ ],
+ "8636": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b39094ad5463358aff74783894fb85b0.jpg",
+   "legende": "La famille Weill à Ligueux 29/03/44 en haut à droite Rose Weill camouflée par Mme LAFON"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/0806d0737b1816779ea820b866fcf30b.jpg",
+   "legende": "Mme LAFON 14 ans, entre les deux neveux de Rose Weill fusillés le 29/03/44"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/698e1638f11469b018d26ed644c608d5.jpg",
+   "legende": "De gauche à droite Mme Strauss fille de Rose Weill notre délégué M.Llazare et Mme Lafon"
+  }
+ ],
+ "9408": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/05/Charles-Altorffer.jpeg",
+   "legende": "Charles Altorffer"
+  }
+ ],
+ "9489": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/988ccf51bdc1529018a366f7d572eac9.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/9ea44749d05b90348d7694949073deac.jpg",
+   "legende": "Marguerite Parre et les deux enfants Shaines"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/276140ff014fdc9393cccc3edaa30284.jpg",
+   "legende": "Sauveurs et sauvés"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/09d8072e90fbc33d70c3682b8959a01c.jpg",
+   "legende": "Cazoulès, lieu du sauvetage"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4f632ff823d0afc0fe9b69648192abcf.jpg",
+   "legende": "M. et Mme Schaines"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ba006c4fcf90aa2a75d8da027741da9f.jpg",
+   "legende": "Marguerite Parre et les deux enfants Shaines après la guerre"
+  }
+ ],
+ "9508": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/fd561bc4d2d2611379febe2d8e00bb1c.jpg",
+   "legende": "Photographie publiée dans le dossier"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/10ee099dc7cb87f4b795515356220d59.jpg",
+   "legende": "Odette en 1942, une des enfants sauvées"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/10/Lieu-du-sauvetage-1536x1003.jpg",
+   "legende": "Lieu du sauvetage"
+  }
+ ],
+ "9676": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/8e28eeaa676fbf644015dad36f94b581.jpg",
+   "legende": "Feyga Simler à droite avec Gabrielle Roche"
+  }
+ ]
+});
