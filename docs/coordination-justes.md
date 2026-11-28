@@ -17,7 +17,61 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65) et Ariège-Haute-Garonne (63), tableaux ci-dessous. Lot en cours (zone Pyrénées confiée par Thierry le 28/11) : Hautes-Pyrénées, Pyrénées-Orientales, Aude, puis Pyrénées-Atlantiques. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63) et Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), tableaux ci-dessous. Lot en cours (zone Pyrénées confiée par Thierry le 28/11) : Pyrénées-Atlantiques. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Hautes-Pyrénées, Pyrénées-Orientales et Aude (28/11/2026)
+
+Récit intégré sur `main` pour 45 dossiers ; 39 portraits et 62 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_hautes_pyrenees_pyrenees_orientales_aude_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10452 | Eugène et Marie-Jeanne Bastouil | Aude | Marie Jeanne Bastouil ; Eugène Bastouil | [CFYV](https://yadvashem-france.org/dossier/nom/10452/) |
+| 11549 | Marius et Philippine Dès ; Marie Pech ; Étienne et Henriette Dès | Aude | Philippine Dès ; Etienne Dès ; Henriette Dès ; Marius Dès ; Marie Pech ; À la ferme pendant la guerre | [CFYV](https://yadvashem-france.org/dossier/nom/11549/) |
+| 11864 | Georges Jean Roty | Aude | — | [CFYV](https://yadvashem-france.org/dossier/nom/11864/) |
+| 11864A | Danielle Chantereau (née Chamant) | Aude | Danielle Chamant Chantereau ; Danielle Chamant Chantereau lors de la remise | [CFYV](https://yadvashem-france.org/dossier/nom/11864a/) |
+| 12273 | Louis et Hélène Guilhem | Aude | Les sauvés en 1947 | [CFYV](https://yadvashem-france.org/dossier/nom/12273/) |
+| 12273A | Achille et Alphonsine Henry | Aude | Alphonsine & Achille HENRY | [CFYV](https://yadvashem-france.org/dossier/nom/12273a/) |
+| 12273B | Joseph et Françoise Baron | Aude | Joseph & Françoise BARON | [CFYV](https://yadvashem-france.org/dossier/nom/12273b/) |
+| 12773 | Germaine Rousset (née Viala) | Aude | Germaine Rousset ; 22 avril 1945 Le club des danseurs | [CFYV](https://yadvashem-france.org/dossier/nom/12773/) |
+| 12773A | Commissaire Gérard Persillon | Aude | 22 avril 1945 Le club des danseurs | [CFYV](https://yadvashem-france.org/dossier/nom/12773a/) |
+| 235 | Lucien et Agnès Bertrand | Aude | Lucien et Agnès Bertrand ; M. et Mme Tattmar ; Agnès Bertrand et l’ambassadeur d’Israël à Paris, Asher Ben Natan | [CFYV](https://yadvashem-france.org/dossier/nom/235/) |
+| 3328 | Antonin et Pauline Costes ; Juliette Rey | Aude | — | [CFYV](https://yadvashem-france.org/dossier/nom/3328/) |
+| 3444 | Abbé Albert Gau | Aude | Abbé Albert Gau | [CFYV](https://yadvashem-france.org/dossier/nom/3444/) |
+| 6506 | Juliette Bazille | Aude | Juliette BAZILLE | [CFYV](https://yadvashem-france.org/dossier/nom/6506/) |
+| 7722 | Marcel et Louise Drugy | Aude | — | [CFYV](https://yadvashem-france.org/dossier/nom/7722/) |
+| 9277 | Paul et Marie Gründrich | Aude | Paul et Marie Gründrich ; Madame Grundrich avec Sylvia Rottenberg | [CFYV](https://yadvashem-france.org/dossier/nom/9277/) |
+| 12446 | Jeanne Monacelli (née Fourasté) | Hautes-Pyrénées | Le fils de Jeanne et les nièces de Gabrielle ; Gabrielle Fisse et Jeanne Monacelli ; Georges Hirsch | [CFYV](https://yadvashem-france.org/dossier/nom/12446/) |
+| 12446A | Gabrielle Fissé | Hautes-Pyrénées | Le fils de Jeanne et les nièces de Gabrielle ; Gabrielle Fisse et Jeanne Monacelli | [CFYV](https://yadvashem-france.org/dossier/nom/12446a/) |
+| 12674 | Dominique Lapierre | Hautes-Pyrénées | Dominique LAPIERRE | [CFYV](https://yadvashem-france.org/dossier/nom/12674/) |
+| 3315 | Marcel Billières | Hautes-Pyrénées | Marcel Billières en 1939 | [CFYV](https://yadvashem-france.org/dossier/nom/3315/) |
+| 3315A | Sœur Anne-Marie Llobet | Hautes-Pyrénées | — | [CFYV](https://yadvashem-france.org/dossier/nom/3315a/) |
+| 3431 | Eugène et Charlotte Sabathié | Hautes-Pyrénées | — | [CFYV](https://yadvashem-france.org/dossier/nom/3431/) |
+| 5116 | Marie Tarbes | Hautes-Pyrénées | — | [CFYV](https://yadvashem-france.org/dossier/nom/5116/) |
+| 5578 | Charles et Charlotte Soubies | Hautes-Pyrénées | Inscription des Soubies sur le mur des Justes à Yad Vashem à Jérusalem | [CFYV](https://yadvashem-france.org/dossier/nom/5578/) |
+| 6120 | Georges et Jacques Vigoureux | Hautes-Pyrénées | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/6120/) |
+| 6316 | Maurice Trelut | Hautes-Pyrénées | Maurice Trelut (Collection of Emmanuelle Trélut) | [CFYV](https://yadvashem-france.org/dossier/nom/6316/) |
+| 7426 | Sœur Marie-Antoinette Ricard (sœur Élisabeth) | Hautes-Pyrénées | — | [CFYV](https://yadvashem-france.org/dossier/nom/7426/) |
+| 10035 | François et Catherine Authier | Pyrénées-Orientales | Catherine Authier ; François Authier | [CFYV](https://yadvashem-france.org/dossier/nom/10035/) |
+| 12092 | Lucien et Marguerite Billès | Pyrénées-Orientales | Lucien & Marguerite Billès | [CFYV](https://yadvashem-france.org/dossier/nom/12092/) |
+| 12307B | Simone Pasquet | Pyrénées-Orientales | Simone Pasquet ; Otto Weinmann en 1947 | [CFYV](https://yadvashem-france.org/dossier/nom/12307b/) |
+| 12307D | Germaine Bastacki | Pyrénées-Orientales | En 1941 Germaine BASTACKI ; Otto Weinmann | [CFYV](https://yadvashem-france.org/dossier/nom/12307d/) |
+| 12307E | Marius et Marcelle Ribes | Pyrénées-Orientales | Marcelle Ribes (née Pous) ; Marius Ribes ; Otto Weinmann en 1947 | [CFYV](https://yadvashem-france.org/dossier/nom/12307e/) |
+| 12543 | Mary Elmes | Pyrénées-Orientales | Mary Elisabeth ELMES | [CFYV](https://yadvashem-france.org/dossier/nom/12543/) |
+| 14520 | Edith et Suzanne Canard | Pyrénées-Orientales | — | [CFYV](https://yadvashem-france.org/dossier/nom/14520/) |
+| 2993 | Frère Marcel Célestin Gallon (« Monsieur Henri ») | Pyrénées-Orientales | Arbre Gallon ; Plaque devant l'arbre Gallon | [CFYV](https://yadvashem-france.org/dossier/nom/2993/) |
+| 4339 | Paul Corazzi | Pyrénées-Orientales | Paul Corazzi lors de la cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/4339/) |
+| 4681A | Friedel Bohny-Reiter | Pyrénées-Orientales | Friedel Bohny-Reiter en 1941 ; Friedel Bohny et les enfants | [CFYV](https://yadvashem-france.org/dossier/nom/4681a/) |
+| 5124 | Auguste et Marie-Thérèse Baudot | Pyrénées-Orientales | Auguste Pierre et Marie Thérèse BAUDOT | [CFYV](https://yadvashem-france.org/dossier/nom/5124/) |
+| 6368 | André Dumas | Pyrénées-Orientales | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/6368/) |
+| 6953 | Joseph et Juliette Salvador | Pyrénées-Orientales | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/6953/) |
+| 7182 | André Valéro | Pyrénées-Orientales | André VALERO | [CFYV](https://yadvashem-france.org/dossier/nom/7182/) |
+| 7560 | Manuel Valls de Gomis | Pyrénées-Orientales | Manuel Valls de Gomis | [CFYV](https://yadvashem-france.org/dossier/nom/7560/) |
+| 791 | Fernande Leboucher | Pyrénées-Orientales | — | [CFYV](https://yadvashem-france.org/dossier/nom/791/) |
+| 8252 | France Giet | Pyrénées-Orientales | France Giet | [CFYV](https://yadvashem-france.org/dossier/nom/8252/) |
+| 8628 | Marie-Thérèse Camps | Pyrénées-Orientales | — | [CFYV](https://yadvashem-france.org/dossier/nom/8628/) |
+| 9565 | Elisabeth Eidenbenz | Pyrénées-Orientales | Elisabeth Eidenbenz | [CFYV](https://yadvashem-france.org/dossier/nom/9565/) |
+
+Remarques : 12446A : Récit commun avec le dossier 12446. · 3315A : La fiche indique « Hautes-Alpes » par erreur ; Tarbes est dans les Hautes-Pyrénées. · 12307D : Récit commun avec les dossiers 12307 à 12307E. · 12307E : Récit commun avec les dossiers 12307 à 12307D. · 11864A : Récit commun avec le dossier 11864. · 12273A : Récit commun avec les dossiers 12273 et 12273B. · 12273B : Récit commun avec les dossiers 12273 et 12273A. · 12773A : Récit commun avec le dossier 12773.
 
 ## Lot Claude — Ariège et Haute-Garonne (28/11/2026)
 
