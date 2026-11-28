@@ -313,3 +313,48 @@ Toutes les photographies des fiches du Comité (76 photos, 36 dossiers) sont aff
 ## Lot Codex en cours — Puy-de-Dôme (63)
 
 Claude poursuit le Centre-Val de Loire. Codex prend le Puy-de-Dôme pour les récits et les photographies.
+
+### Relevé du Puy-de-Dôme
+
+Les 36 références de l’index local ont été recherchées. Sur les 56 fiches classées dans le 63, 54 ont un récit, dont 49 enrichies lors de ce passage. Quatre photographies ont été ajoutées. Le cas Reitz porte le total du passage à 51 fiches enrichies. Le travail iconographique reste ouvert pour les images repérées dont l’adresse directe n’a pas pu être confirmée.
+
+| Dossier CFYV | Justes | Intégration | Recoupement ou point ouvert |
+|---|---|---|---|
+| [7042](https://yadvashem-france.org/dossier/nom/7042/) | Maurice Berger | Récit ajouté | — |
+| [7862](https://yadvashem-france.org/dossier/nom/7862/) | Ernest Blaise | Récit ajouté | — |
+| [4660](https://yadvashem-france.org/dossier/nom/4660/) | Emma Chantelauze, Joseph Chantelauze | Récit ajouté · 3 photo(s) ajoutée(s) | — |
+| [12400](https://yadvashem-france.org/dossier/nom/12400/) | Marc Chassaing, Marceline Chassaing | Récit déjà présent | [AJPN, photos légendées](https://www.ajpn.org/juste-Marceline-Chassaing-3651.html) ; les liens directs du Comité ne renvoient pas les portraits |
+| [7838](https://yadvashem-france.org/dossier/nom/7838/) | Alice Chevalier | Récit ajouté | Alice Chevalier et Marie-Angélique Murat (6968) portent le même nom de religion dans les récits ; les dossiers et les personnes restent distincts |
+| [8320](https://yadvashem-france.org/dossier/nom/8320/) | Jean-Gaston Créon, Marie Créon | Récit ajouté | — |
+| [9791](https://yadvashem-france.org/dossier/nom/9791/) | Lucienne Defaisse, Germaine Retrut | Récit ajouté | — |
+| [10835](https://yadvashem-france.org/dossier/nom/10835/) | Antonius Delaire | Récit déjà présent | [AJPN, trois vues de Saint-Pierre](https://www.ajpn.org/sauvetage-Institution-Saint-Pierre-115.html) ; liens directs du Comité non résolus |
+| [9035](https://yadvashem-france.org/dossier/nom/9035/) | Claude Deschamps, Marie Deschamps | Récit ajouté | — |
+| [14604](https://yadvashem-france.org/dossier/nom/14604/) | Angèle Gardette, Jean Gardette | Récit déjà présent · photo déjà intégrée | — |
+| [9556](https://yadvashem-france.org/dossier/nom/9556/) | Marcel Genestier | Récit ajouté | — |
+| [14481](https://yadvashem-france.org/dossier/nom/14481/) | Antoine Goigoux, Marie Goigoux | Récit à documenter | [AJPN](https://www.ajpn.org/juste-Antoine-Goigoux-4441.html) ; identité et reconnaissance vérifiées, récit et photo non retrouvés |
+| [12035](https://yadvashem-france.org/dossier/nom/12035/) | Anne-Marie Gory, Isabelle Gory | Récit ajouté | — |
+| [6968C](https://yadvashem-france.org/dossier/nom/6968C/) | Marthe Guillaume | Récit ajouté | [AJPN](https://www.ajpn.org/juste-Marthe-Guillaume-1363.html) et [stèle](https://yadvashem-france.org/lieuxdememoire/esplanade-marthe-guillaume/) |
+| [4921](https://yadvashem-france.org/dossier/nom/4921/) | Paul Héritier | Récit ajouté | — |
+| [795](https://yadvashem-france.org/dossier/nom/795/) | Amelie Imberdis, Jean Imberdis, Marius Imberdis | Récit ajouté | [AJPN](https://www.ajpn.org/juste-Amelie-Imberdis-1453.html) ; rôle individuel de Jean et Amélie à préciser |
+| [3857](https://yadvashem-france.org/dossier/nom/3857/) | André Jourdan | Récit ajouté | [AJPN](https://ajpn.org/juste-Andre-Jourdan-1499.html) |
+| [7931](https://yadvashem-france.org/dossier/nom/7931/) | Denise Jourdan, Henri Jourdan | Récit ajouté | — |
+| [6968A](https://yadvashem-france.org/dossier/nom/6968A/) | Marie Lafarge | Récit ajouté | — |
+| [11780](https://yadvashem-france.org/dossier/nom/11780/) | Eugène Lamanière, Marthe Lamanière | Récit ajouté | — |
+| [14156](https://yadvashem-france.org/dossier/nom/14156/) | Lily Laroche | Récit ajouté | [AJPN](https://www.ajpn.org/juste-Lily-Laroche-4256.html) |
+| [3518](https://yadvashem-france.org/dossier/nom/3518/) | Marie-Louise Matinier, Michel Matinier | Récit ajouté | — |
+| [9347](https://yadvashem-france.org/dossier/nom/9347/) | Georges Mazeau, Marie-Louise Mazeau | Récit ajouté | — |
+| [6968](https://yadvashem-france.org/dossier/nom/6968/) | Marie-Angélique Murat, Gabriel Piguet | Récit ajouté · 1 photo(s) ajoutée(s) | — |
+| [4065](https://yadvashem-france.org/dossier/nom/4065/) | Yvonne Patras De Campaigno | Récit ajouté | [AJPN](https://www.ajpn.org/juste-Yvonne-Beghin-Patras-de-Campaigno-2140.html) ; lien avec le dossier 3424 |
+| [5455](https://yadvashem-france.org/dossier/nom/5455/) | Marius Péraudeau | Récit ajouté | — |
+| [8261](https://yadvashem-france.org/dossier/nom/8261/) | Marie Pillière, Marius Pillière | Récit ajouté | — |
+| [9716](https://yadvashem-france.org/dossier/nom/9716/) | François Quinsat | Récit ajouté | — |
+| [3424](https://yadvashem-france.org/dossier/nom/3424/) | Gabrielle Remy | Récit ajouté | — |
+| [8261A](https://yadvashem-france.org/dossier/nom/8261A/) | Eugénie Rolhion, Pierre Rolhion | Récit ajouté | Quatre photographies signalées par le Comité ; fichiers directs non résolus |
+| [11617](https://yadvashem-france.org/dossier/nom/11617/) | Albert Rozier, Marie-Louise Rozier | Récit ajouté | — |
+| [12546](https://yadvashem-france.org/dossier/nom/12546/) | Rose Sauvat | Récit ajouté | — |
+| [5784](https://yadvashem-france.org/dossier/nom/5784/) | Martha Schmidt | Récit ajouté | Saint-Anthème est le lieu indiqué ; le texte du Comité l’attribue au Puy-de-Dôme et l’index local doit être vérifié |
+| [11423](https://yadvashem-france.org/dossier/nom/11423/) | Maria Thomas | Récit ajouté | La date d’arrestation de la mère dans le récit publié contredit la date du convoi ; date omise |
+| [6966](https://yadvashem-france.org/dossier/nom/6966/) | Jeanne Vernusse, Marie-Louise Vernusse | Récit ajouté | — |
+| [10235](https://yadvashem-france.org/dossier/nom/10235/) | Françoise Vigne, Paul Vigne | Récit ajouté | — |
+
+Hors filtre départemental, [10876](https://yadvashem-france.org/dossier/nom/10876/) est indexé à Bourganeuf (Creuse). Récit ajouté aux deux fiches de René et Mathilde Reitz pour le sauvetage d’Édith et Claire Blum à Chignat (Vertaizon). [Récit de cérémonie du Comité](https://yadvashem-france.org/articles-et-documents/5-nouveaux-justes-a-la-mairie-du-2-arrt-de-paris/) et [photo familiale repérée](https://www.ajpn.org/juste-Mathilde-Reitz-2815.html).
