@@ -27,7 +27,73 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Haute-Vienne. Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Haute-Vienne (57), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Creuse et Corrèze. Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+
+## Lot Claude — Haute-Vienne
+
+Récit intégré sur `main` pour 57 dossiers ; 51 portraits et 73 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_haute-vienne.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10027 | Jean et Marguerite Beyrand (née Boissou) | Haute-Vienne | Jean Beyrand ; Marguerite Beyrand | [CFYV](https://yadvashem-france.org/dossier/nom/10027/) |
+| 10030 | Honoré Haessler | Haute-Vienne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10030/) |
+| 1038 | Pauline Gaudefroy | Haute-Vienne | Pauline Gaudefroy | [CFYV](https://yadvashem-france.org/dossier/nom/1038/) |
+| 10403 | Lucien et Gabrielle Béguin (née Prouvost) | Haute-Vienne | Lucien et Gabrielle Béguin | [CFYV](https://yadvashem-france.org/dossier/nom/10403/) |
+| 10450 | Auguste et Céline Valadas (née Menudier) | Haute-Vienne | Solange Finkelstein avec ses sauveurs en 1949 | [CFYV](https://yadvashem-france.org/dossier/nom/10450/) |
+| 10720 | Pierre et Mélanie Perrier (née Chaume), Simonne Perrier (née Château) | Haute-Vienne | Mélanie et Pierre Perrier ; Simone Perrier et son mari ; Neuvillas | [CFYV](https://yadvashem-france.org/dossier/nom/10720/) |
+| 10948 | Eugène et Jeanne Granger (née Guyot) | Haute-Vienne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10948/) |
+| 10961 | Émile et Marie-Louise Faure (née Chéroux) | Haute-Vienne | Émile et Marie-Louise Faure ; Émile et Marie-Louise Faure | [CFYV](https://yadvashem-france.org/dossier/nom/10961/) |
+| 11031 | Casimir Lascoux | Haute-Vienne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11031/) |
+| 11058 | René Dumonteil | Haute-Vienne | L’équipe de football de Rochechouart en 1943 ; Gustave Szwec, à genoux, quatrième en partant de la gauche ; Gustave Szwec, premier à droite | [CFYV](https://yadvashem-france.org/dossier/nom/11058/) |
+| 11383 | Léonard et Marie Lajat (née Coissac) | Haute-Vienne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11383/) |
+| 11525 | Henri et Céline Janailhac (née Cazat) | Haute-Vienne | Céline Janailhac avec ses enfants et Mathilde Kerner en 1945 ; Mathilde Kerner avec André et Raymond Janailhac, les fils des Justes, en 1945 | [CFYV](https://yadvashem-france.org/dossier/nom/11525/) |
+| 11810 | Marcel et Marie Maligner (née Jourde) | Haute-Vienne | Marcel Maligner ; Marie Maligner | [CFYV](https://yadvashem-france.org/dossier/nom/11810/) |
+| 11810A | François et Marguerite Jaussein (née Just) | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/11810a/) |
+| 11810C | Louis et Euphrasie Lemaigre (née Brégégère) | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/11810c/) |
+| 11965 | Albert et Odette Coudert | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/11965/) |
+| 11965A | Émile et Marthe Guéry (née Courcelle) | Haute-Vienne | Émile Guéry ; Marthe Guéry ; Émile et Marthe Guéry | [CFYV](https://yadvashem-france.org/dossier/nom/11965a/) |
+| 12104 | Jean et Marie-Louise Cubertafond (née Duchalard) | Haute-Vienne | Marie-Louise Cubertafond ; Jean Cubertafond | [CFYV](https://yadvashem-france.org/dossier/nom/12104/) |
+| 12260 | Georges et Germaine Roux (née Perdreau) | Haute-Vienne | Georges et Germaine Roux ; Pierre et Claude ; Georges et Germaine Roux avec leur fille Christiane, vers 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/12260/) |
+| 12554 | Louis et Germaine Becette (née Bessette) | Haute-Vienne | De gauche à droite : Renée Becette, Michèle Hirsch et Adeline Hirsch ; Germaine Becette et Michèle Hirsch-Lambert, juillet 1988 | [CFYV](https://yadvashem-france.org/dossier/nom/12554/) |
+| 12612 | Henri et Marie-Berthe Pénicaud (née Gane) | Haute-Vienne | Henri et Berthe Pénicaud | [CFYV](https://yadvashem-france.org/dossier/nom/12612/) |
+| 13278 | Isabel Weill (née Zuzunaga) | Haute-Vienne | Isabel Weill ; Isabel et Robert Weill | [CFYV](https://yadvashem-france.org/dossier/nom/13278/) |
+| 13947 | Jean et Marie-Louise Haviland (née Eyquem) | Haute-Vienne | Marie-Louise Eyquem et Jean Haviland fiancés, mai 1907 | [CFYV](https://yadvashem-france.org/dossier/nom/13947/) |
+| 13947A | Marie-Célestine George (sœur Liguori) | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/13947a/) |
+| 14306 | Jean et Marguerite Guionnaux (née Semblat), Jacqueline Bayle (née Guionnaux) | Haute-Vienne | Jacqueline à Montintin en 1943 ; Jacqueline Bayle recevant la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/14306/) |
+| 14335 | Adolphe et Joséphine Fargeaud (née Barbe) | Haute-Vienne | Adolphe Fargeaud ; Joséphine Fargeaud ; Maria et Jean-Paul Morhange ; Albert Morhange dans les années 1930 | [CFYV](https://yadvashem-france.org/dossier/nom/14335/) |
+| 14423 | Léon Debelut | Haute-Vienne | Léon Debelut | [CFYV](https://yadvashem-france.org/dossier/nom/14423/) |
+| 1507 | Jean-Marie Brugeas | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/1507/) |
+| 1823 | Le professeur Joseph de Léobardy | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/1823/) |
+| 3401 | Georges Dumas | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/3401/) |
+| 4003 | Marie-Louise Vouzelaud | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4003/) |
+| 4003A | Marcel et Marilou Joffre | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4003a/) |
+| 4410 | Henri Jouanet, Germaine Jouanet, René et Marie-Louise Jouanet | Haute-Vienne | Henri Jouanet en décembre 1944 ; Henri Jouanet (deuxième à droite) et sa famille ; La famille Jouanet ; Simon et Simone Tibloux, les personnes sauvées, à Ambazac en novembre 1981 | [CFYV](https://yadvashem-france.org/dossier/nom/4410/) |
+| 4564 | Germaine Collardey | Haute-Vienne | Germaine Collardey, vers 1920 ; Germaine Collardey et son fils Jean, 1942-1944 | [CFYV](https://yadvashem-france.org/dossier/nom/4564/) |
+| 4686 | Henri Delage | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4686/) |
+| 5158 | Élodie Elias et l’abbé Paul Elias | Haute-Vienne | Abbé Paul Elias ; Élodie Elias | [CFYV](https://yadvashem-france.org/dossier/nom/5158/) |
+| 5358 | Lucien Berdase | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/5358/) |
+| 6031 | Frédéric et Jeanne Ranc | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6031/) |
+| 6315 | Jean et Élise Carcy (née Bénatout) | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6315/) |
+| 6356 | Pierre et Andrée Rocher (née Herny) | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6356/) |
+| 6372 | Louis Pouyol | Haute-Vienne | Louis Pouyol | [CFYV](https://yadvashem-france.org/dossier/nom/6372/) |
+| 6372A | Pierre et Thérèse Goursaud | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6372a/) |
+| 6372B | Maurice Lagarde | Haute-Vienne | Maurice Lagarde ; Annette Marx à Limoges en octobre 1944 avec Laurent, 2 ans, et Denis, 4 mois | [CFYV](https://yadvashem-france.org/dossier/nom/6372b/) |
+| 6372C | Marie-Louise Lamaud et Claire Leblanc | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6372c/) |
+| 6373 | Germaine Lalo (née Defaix) | Haute-Vienne | Germaine Lalo | [CFYV](https://yadvashem-france.org/dossier/nom/6373/) |
+| 6819 | Pierre et Louise Hébras | Haute-Vienne | Pierre et Louise Hébras | [CFYV](https://yadvashem-france.org/dossier/nom/6819/) |
+| 7401 | François et Marie Lafaye | Haute-Vienne | François Lafaye ; Marie Lafaye | [CFYV](https://yadvashem-france.org/dossier/nom/7401/) |
+| 8086 | Joseph Storck | Haute-Vienne | Joseph Storck | [CFYV](https://yadvashem-france.org/dossier/nom/8086/) |
+| 8125 | Pierre et Marie Nouhaud | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/8125/) |
+| 814A | André et Éliane Traband (née Demaison), Louise Demaison | Haute-Vienne | André Traband | [CFYV](https://yadvashem-france.org/dossier/nom/814a/) |
+| 9097A | Louis et Marguerite Delage (née Muret), Antoine et Jeanne Muret (née Lallet) | Haute-Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/9097a/) |
+| 9297 | Henri et Marie Martin (née Aubin) | Haute-Vienne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9297/) |
+| 9529A | Henri et Juliette Fournier (née Flouquet) | Haute-Vienne | Juliette et Henri Fournier, au centre leur enfant Jacques ; à droite, le bâtiment de l’école de l’ORT à Limoges | [CFYV](https://yadvashem-france.org/dossier/nom/9529a/) |
+| 9729 | Joseph et Yvonne Labussière (née Labarre) | Haute-Vienne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9729/) |
+| 9786 | L’abbé Robert Bengel | Haute-Vienne | Robert Bengel | [CFYV](https://yadvashem-france.org/dossier/nom/9786/) |
+| 9930 | Jacques et Simone Faure (née Lanquetin) | Haute-Vienne | Jacques Faure ; Simone Faure | [CFYV](https://yadvashem-france.org/dossier/nom/9930/) |
+| 9993 | André et Hélène Paraud (née Dubot) | Haute-Vienne | André et Hélène Paraud | [CFYV](https://yadvashem-france.org/dossier/nom/9993/) |
+
+Remarques : 10027 : La partie « témoignage » de la fiche reprend un récit sans rapport avec le dossier (une jeune femme nommée Eva sauvée par des cheminots). · 10030 : Voir aussi les dossiers 9786 (abbé Bengel) et 814A (Traband). · 10403 : La partie « témoignage » de la fiche concerne un autre sauvetage (deux frères en Haute-Savoie). · 11810 : Voir aussi les dossiers 11810A (Jaussein) et 11810C (Lemaigre). · 11810A : Récit commun avec le dossier 11810. · 11810C : Récit commun avec le dossier 11810 ; la fiche ne nomme pas la personne sauvée dans l’en-tête. · 11965 : Voir aussi le dossier 11965A (Guéry). · 11965A : Récit commun avec le dossier 11965. · 12260 : Trois photographies publiées dans le dossier (Jacqueline Prandi et Zilla Cahn) concernent un autre sauvetage et n’ont pas été reprises. · 13947 : Voir aussi le dossier 13947A. · 13947A : La fiche 13947A ne contient pas de récit ; repris du dossier 13947. L’orphelinat est situé à Castres (Tarn) selon le récit du 13947. · 4003 : Voir aussi le dossier 4003A (Joffre). La fiche écrit « Vouzelaud » et « Vauzelaud ». · 4003A : Récit commun avec le dossier 4003. · 4410 : Voir aussi le dossier 4686 (Delage). · 4686 : Voir aussi le dossier 4410 (Jouanet). · 6372 : Voir aussi les dossiers 6372A, 6372B et 6372C. · 6372A : Voir aussi les dossiers 6372, 6372B et 6372C. · 6372B : Voir aussi les dossiers 6372, 6372A et 6372C. · 6372C : Voir aussi les dossiers 6372, 6372A et 6372B ; la fiche ne nomme pas les personnes sauvées dans l’en-tête. · 9297 : La partie « témoignage » de la fiche concerne un autre sauvetage (familles Dworkin et Raymond Martin). · 9529A : La fiche ne nomme pas les personnes sauvées dans l’en-tête. · 9786 : Voir aussi les dossiers 10030 (Haessler) et 814A (Traband).
 
 ## Lot Claude — Haute-Loire
 
