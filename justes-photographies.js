@@ -8250,7 +8250,7 @@ Object.assign(portraitsJustes, {
   "url": "https://yadvashem-france.org/dossier/nom/11769/"
  },
  "duplaissy-geneviève": {
-  "image": "https://yadvashem-france.org/wp-content/uploads/2023/06/Geneviève-Duplaissy.jpg",
+  "image": "https://yadvashem-france.org/wp-content/uploads/2023/06/Geneviève-Duplaissy.jpg",
   "legende": "Geneviève Duplaissy",
   "groupe": false,
   "credit": "Geneviève Duplaissy · Comité français pour Yad Vashem",
@@ -8718,7 +8718,7 @@ Object.assign(photosDossiersJustes, {
    "legende": "Henri Duplaissy"
   },
   {
-   "image": "https://yadvashem-france.org/wp-content/uploads/2023/06/Geneviève-Duplaissy.jpg",
+   "image": "https://yadvashem-france.org/wp-content/uploads/2023/06/Geneviève-Duplaissy.jpg",
    "legende": "Geneviève Duplaissy"
   },
   {
