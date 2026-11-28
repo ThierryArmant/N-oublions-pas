@@ -819,3 +819,30 @@ Object.assign(portraitsJustes, {
     "groupe": true
   }
 });
+
+Object.assign(portraitsJustes, {
+  "batt-marie-jeanne": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/e545cf9b86922cacccb86831fc542c4b.jpg.webp",
+    "legende": "Portrait de Marie-Jeanne Batt",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/11516/"
+  },
+  "batt-pierre": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/68e28b1a8ced65380d812be1b0d4b9c1.jpg.webp",
+    "legende": "Portrait de Pierre Batt",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/11516/"
+  },
+  "barwitzky-claire": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/84fd869bfeddd856d78d6956f123b611.jpg.webp",
+    "legende": "Portrait de Cläre Barwitzky",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/4768/"
+  },
+  "barras-emile": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/15c059d7f9dc6573a5bdfd99844db338.jpg.webp",
+    "legende": "Portrait d’Émile Barras",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/6755/"
+  }
+});
