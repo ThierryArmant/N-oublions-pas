@@ -63,3 +63,9 @@ Récit intégré sur `main` pour chaque dossier ci-dessous (`dossiersFrance`). P
 
 Dossiers liés laissés à l’autre lot (zone Pyrénées) : 3195, 3195A, 3195B, 3195D (foyer de La Hille), reliés à 3195C (sœurs Cordier).
 Toutes les photographies des fiches du Comité (76 photos, 36 dossiers) sont affichées dans la fiche, rubrique « Photographies du dossier » (`photosDossiersJustes`), avec la légende originale ; les photos sans légende portent la mention « Photographie publiée dans le dossier ». Feu vert des responsables ONACVG / Comité donné le 28/11/2026.
+
+## Lot Isère et Haute-Savoie — récits intégrés
+
+- Vercors, famille Smrodyni · [Ageron 11654A](https://yadvashem-france.org/justes_de_france/11654a/), [Idelon 11654](https://yadvashem-france.org/dossier/nom/11654/), [Boucher 4102](https://yadvashem-france.org/dossier/nom/4102/).
+- Isère · [Argoud 3035](https://yadvashem-france.org/dossier/nom/3035/) (OSE et photo légendée des retrouvailles avec José Gutfeld), [Aguadich 4246](https://yadvashem-france.org/dossier/nom/4246/) (Amitié chrétienne), [Audi 7584](https://yadvashem-france.org/dossier/nom/7584/) (famille Lanzenberg).
+- Haute-Savoie · [Balthazard 10744](https://yadvashem-france.org/dossier/nom/10744/) (réseau Garel), [Deffaugt 178](https://yadvashem-france.org/dossier/nom/178/) (photo légendée avec les enfants sauvés), [Barras 6755](https://yadvashem-france.org/dossier/nom/6755/) (passages vers la Suisse avec Joseph Fournier).
