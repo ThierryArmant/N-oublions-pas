@@ -27,7 +27,96 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Haute-Vienne (57), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Creuse et Corrèze. Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Haute-Vienne (57), Creuse et Corrèze (80), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Savoie et Hautes-Alpes. Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+
+## Lot Claude — Creuse et Corrèze
+
+Récit intégré sur `main` pour 80 dossiers ; 69 portraits et 112 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_creuse-correze.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10302 | Fernand Cabello | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/10302/) |
+| 10364 | Marie-Louise Bleyzat (née Louradour) | Corrèze | Marie-Louise Bleyzat | [CFYV](https://yadvashem-france.org/dossier/nom/10364/) |
+| 10492 | Jean et Suzanne Melon (née Hohenauer) | Corrèze | Suzanne Melon ; Ida Mussler | [CFYV](https://yadvashem-france.org/dossier/nom/10492/) |
+| 10991 | Jules Lafue et Madeleine Véron (née Lafue) | Corrèze | Jules Lafue en 1940 ; Madeleine Véron | [CFYV](https://yadvashem-france.org/dossier/nom/10991/) |
+| 11295D | Jean Ripoche | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/11295d/) |
+| 11310 | René et Marie Beaumont (née Dauba) | Corrèze | Marie Beaumont ; René Beaumont | [CFYV](https://yadvashem-france.org/dossier/nom/11310/) |
+| 11317A | Élie et Léontine Bouchaillou (née Bretagnol) | Corrèze | Léontine et Élie Bouchaillou ; Mathilde Faucher ; Éliane et Claude Grodner ; Élie et Léontine Bouchaillou | [CFYV](https://yadvashem-france.org/dossier/nom/11317a/) |
+| 11317B | Mathilde (Marthe) Faucher (née Bretagnol) | Corrèze | Mathilde Faucher | [CFYV](https://yadvashem-france.org/dossier/nom/11317b/) |
+| 11666 | Pierre et Julia Toussaint (née Champ) | Corrèze | Julia et Pierre Toussaint | [CFYV](https://yadvashem-france.org/dossier/nom/11666/) |
+| 12314 | Louise et Jean Eyrolle (née Mornettas) | Corrèze | Louise Eyrolle ; Jean Eyrolle | [CFYV](https://yadvashem-france.org/dossier/nom/12314/) |
+| 12314A | Paul et Geneviève Puyaubert (née Perrier) | Corrèze | Paul Puyaubert ; Geneviève Puyaubert ; Sylvie Wachtel avec ses parents Ruchla et David | [CFYV](https://yadvashem-france.org/dossier/nom/12314a/) |
+| 12710 | François et Maria Bouilhac (née Bordas) | Corrèze | François Bouilhac ; François Bouilhac et Zeilig Siekierski, 1990 | [CFYV](https://yadvashem-france.org/dossier/nom/12710/) |
+| 12805 | Madeleine Pournin (née Lasfargues) | Corrèze | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12805/) |
+| 12963 | André et Marie Grangeon (née Mournetas) | Corrèze | André et Marie Grangeon, William Merkin, Marguerite Grangeon et son fils Michel Demenjean en 1943 ; Marguerite Grangeon en 1943 ; Mariage de Marguerite Grangeon ; Mariage de Valentine Grangeon ; William à 13 ans ; William à 17 ans | [CFYV](https://yadvashem-france.org/dossier/nom/12963/) |
+| 13299 | Pierre Alfred et Antoinette Serre (née Vège) | Corrèze | Pierre Alfred Serre ; Antoinette Serre ; Antoinette Serre assise ; au deuxième rang, de gauche à droite, Tina et Jetty Adler et Marie Serre ; derrière, Alfred et Alexis Serre | [CFYV](https://yadvashem-france.org/dossier/nom/13299/) |
+| 13678 | Jean et Marie Mirat (née Boussaguet) | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/13678/) |
+| 13799 | Adrien et Marie-Louise Bouyssou, Julien et Rose Bouyou (née Delmond) | Corrèze | Adrien Bouyssou | [CFYV](https://yadvashem-france.org/dossier/nom/13799/) |
+| 13799A | Victor et Marguerite Aubertie (née Laporte) | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/13799a/) |
+| 3903 | Germaine Bocquet | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/3903/) |
+| 4110 | Marius et Aimée Guedin | Corrèze | Marius Guedin | [CFYV](https://yadvashem-france.org/dossier/nom/4110/) |
+| 4362 | Marguerite Wajdenfeld (née Lemoine) | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/4362/) |
+| 4936 | Augustin René Arth | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/4936/) |
+| 5064 | Germain et Marguerite Leix | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/5064/) |
+| 5206 | Sœur Daniéla Haag | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/5206/) |
+| 5380 | Mère Marie-Gonzague Bredoux | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/5380/) |
+| 5380A | Sœur Marie-Thérèse Berger | Corrèze | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/5380a/) |
+| 6133 | Yvonne Suzanne Faivicheff (née Chastaing) | Corrèze | Yvonne Faivicheff | [CFYV](https://yadvashem-france.org/dossier/nom/6133/) |
+| 6217 | René et Maria Fromentin (née Vaurie) | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/6217/) |
+| 6354 | Léon Bronchart | Corrèze | Léon Bronchard | [CFYV](https://yadvashem-france.org/dossier/nom/6354/) |
+| 6805 | Edmond Michelet | Corrèze | Edmond Michelet | [CFYV](https://yadvashem-france.org/dossier/nom/6805/) |
+| 6981 | Paul et Marie-Antoinette Cipan (née Charlot) | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/6981/) |
+| 7292 | Germain et Françoise Dauliat (née Valéry) | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/7292/) |
+| 7415 | Hélène Brieff | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/7415/) |
+| 8203 | Henri et Marie-Louise Rouland (née Roque) | Corrèze | Henri et Marie-Louise Rouland ; Cérémonie en l’honneur d’Henri et Marie-Louise Rouland | [CFYV](https://yadvashem-france.org/dossier/nom/8203/) |
+| 8273 | Adrienne Laquièze | Corrèze | Adrienne Laquièze | [CFYV](https://yadvashem-france.org/dossier/nom/8273/) |
+| 8273A | Jeannette Meunier (née Laquièze) | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/8273a/) |
+| 8474 | Antoine et Anne-Marie Chapugier (née Gouspillas) | Corrèze | Anne-Marie Chapugier ; Antoine Chapugier | [CFYV](https://yadvashem-france.org/dossier/nom/8474/) |
+| 8616 | Émile Moulinet | Corrèze | Émile Moulinet (debout, le troisième à gauche) ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/8616/) |
+| 9507 | Denis et Julie Fumat (née Clergeau) | Corrèze | — | [CFYV](https://yadvashem-france.org/dossier/nom/9507/) |
+| 9620 | Hélène Saran (née Bonne) | Corrèze | Hélène Saran avec ses filles et la personne sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/9620/) |
+| 10022 | Gustave et Héloïse Blondet (née Jubert) | Creuse | Gustave et Héloïse Blondet | [CFYV](https://yadvashem-france.org/dossier/nom/10022/) |
+| 10521 | Marie-Thérèse Goumy | Creuse | Marie-Thérèse Goumy dans les années 1950 | [CFYV](https://yadvashem-france.org/dossier/nom/10521/) |
+| 10521A | Marie Lagrollière | Creuse | Marie Lagrollière en 1934, troisième debout en partant de la gauche | [CFYV](https://yadvashem-france.org/dossier/nom/10521a/) |
+| 11501 | Victor et Pauline Mallet (née Wirtgen) | Creuse | La famille Mallet ; Gilbert, 3 ans, et André, 1 an et demi ; André et Gilbert Getraide en 1943 ; André Mallet et André Getraide en 2006 ; Retrouvailles d’André Getraide avec André Mallet et son épouse, novembre 2006 | [CFYV](https://yadvashem-france.org/dossier/nom/11501/) |
+| 11810B | François et Marie Pierre (née Pouillot) | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/11810b/) |
+| 12010 | Hippolyte et Émilie Léonlefranc (née Gatien) | Creuse | Hippolyte Lucien Léonlefranc ; Émilie Léonlefranc, née Gatien | [CFYV](https://yadvashem-france.org/dossier/nom/12010/) |
+| 12036 | Paul et Julienne Boucher (née Gaulier) | Creuse | Cérémonie de remise de médaille ; Le diplôme ; La médaille | [CFYV](https://yadvashem-france.org/dossier/nom/12036/) |
+| 12075 | Eugène et Raymonde Pradaude (née Cuisinaud) | Creuse | Eugène Pradaude ; Raymonde Pradaude | [CFYV](https://yadvashem-france.org/dossier/nom/12075/) |
+| 12178 | Jean-Auguste et Noëllie Rateron (née Touron) | Creuse | Les Rateron et Thomas Degré dans les années 1950 | [CFYV](https://yadvashem-france.org/dossier/nom/12178/) |
+| 12255 | Élisabeth Chabrol (née Léautrou) | Creuse | Sylvie, Élisabeth, Anne-Marie, Philippe, Hélène Picot ; Jacqueline Picot, Philippe, Sylvie, Mme Léautrou mère, Anne-Marie, M. Picot ; Élisabeth, Philippe, Hélène ; Hélène, Sylvie, Élisabeth, Anne-Marie ; Élisabeth et Sylvie | [CFYV](https://yadvashem-france.org/dossier/nom/12255/) |
+| 12285A | Jean Pérard et Georgette Pérard (née Cambe) | Creuse | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12285a/) |
+| 12298 | Silvain et Louise Bret (née Chavignaud) | Creuse | Joseph Stupp, Le Guéret, vers 1946 ; Photo de classe de Measnes, vers 1945 ; Sylvain et Louise Bret ; Mairie et école de Measnes | [CFYV](https://yadvashem-france.org/dossier/nom/12298/) |
+| 12590 | Louis et Marie Simonnet (née Tixier) | Creuse | Louis et Marie Simonnet ; La famille Simonnet | [CFYV](https://yadvashem-france.org/dossier/nom/12590/) |
+| 12590A | Émile et Marie Parcellier (née Arthur) | Creuse | Émile et Marie Parcellier | [CFYV](https://yadvashem-france.org/dossier/nom/12590a/) |
+| 12606 | Louis Mazière | Creuse | Élisabeth Rémy, ayant droit, avec sa fille Agate lisant le poème « Le Badge » lors de la cérémonie ; Pierre Nétange et sa sœur, ayants droit de Louis Mazière | [CFYV](https://yadvashem-france.org/dossier/nom/12606/) |
+| 12606A | Justin et Léone Pelaud | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/12606a/) |
+| 12606B | Simonne Le Hello | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/12606b/) |
+| 12612A | Marcelle Porte | Creuse | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12612a/) |
+| 13340 | Léon et Marie Jouannaud (née Caudoux) | Creuse | Lisa Tobias et Anna Osman et les Jouannaud | [CFYV](https://yadvashem-france.org/dossier/nom/13340/) |
+| 13340A | Simone Conchon (née Penassio) | Creuse | Simone Conchon ; Daniel Pfefer, l’enfant sauvé | [CFYV](https://yadvashem-france.org/dossier/nom/13340a/) |
+| 13340B | Léon et Marie Valaud (née Giraud) | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/13340b/) |
+| 13821 | Simone Courty (née Néollier) | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/13821/) |
+| 13826 | Georges et Juliette Marsaud (née Jeanrot) | Creuse | Médaille des Marsaud | [CFYV](https://yadvashem-france.org/dossier/nom/13826/) |
+| 14296 | Georges et Clémentine Dumont (née Montagne) | Creuse | Georges et Clémentine Dumont | [CFYV](https://yadvashem-france.org/dossier/nom/14296/) |
+| 14321B | Jean, Marguerite et Alain Bredier | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/14321b/) |
+| 14425A | Auguste et Eugénie Caudoux (née Taboury) | Creuse | Auguste et Eugénie Caudoux | [CFYV](https://yadvashem-france.org/dossier/nom/14425a/) |
+| 1974 | Joseph, Élisabeth (née Juchem) et François Weiss | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/1974/) |
+| 2462 | Irène et Renée Paillassou | Creuse | Renée Paillassou ; Irène Paillassou ; Remise de la médaille à Irène et Renée Paillassou ; Arbre planté à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/2462/) |
+| 4610 | Pierre et Marie Blanchet | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/4610/) |
+| 5316 | François et Eugénie Lavaud (née Dubreuil) | Creuse | François Lavaud et son épouse | [CFYV](https://yadvashem-france.org/dossier/nom/5316/) |
+| 5362 | Alice Caron (née Bontemps) | Creuse | Alice Caron | [CFYV](https://yadvashem-france.org/dossier/nom/5362/) |
+| 6371 | Isidore Forignon | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/6371/) |
+| 7868 | Serge et Angélique Lemeunier (née Dubayle) | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/7868/) |
+| 7871 | Lucien et Marie Reliant (née Loignon) | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/7871/) |
+| 8482 | Félix Chevrier | Creuse | Félix Chevrier ; Félix Chevrier avec ses élèves en 1941 (Mémorial de la Shoah, Paris) | [CFYV](https://yadvashem-france.org/dossier/nom/8482/) |
+| 8920 | Jean-Baptiste Robert | Creuse | Jean-Baptiste Robert et Blanche, son épouse | [CFYV](https://yadvashem-france.org/dossier/nom/8920/) |
+| 9529 | Germaine Dufour | Creuse | De gauche à droite : Germaine Dufour et Juliette Fournier ; Juliette et Henri Fournier, au centre leur enfant Jacques | [CFYV](https://yadvashem-france.org/dossier/nom/9529/) |
+| 9640 | Germaine Trépardoux (née Laporte) | Creuse | Germaine Trépardoux lors de la remise de la médaille, avec la personne sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/9640/) |
+| 9977 | Émile et Louise Nicoulaud (née Dubreuil) | Creuse | — | [CFYV](https://yadvashem-france.org/dossier/nom/9977/) |
+| 9977A | Pierre et Danielle Morel (née Nicoulaud) | Creuse | Danielle Morel ; Pierre Morel | [CFYV](https://yadvashem-france.org/dossier/nom/9977a/) |
+
+Remarques : 10521 : Voir aussi le dossier 10521A (Lagrollière). · 10521A : Récit commun avec le dossier 10521 ; la fiche ne nomme pas les personnes sauvées dans l’en-tête. · 11295D : Dossier collectif 11295 (Dordogne). · 11317A : Voir aussi le dossier 11317B (Faucher). · 11317B : Récit commun avec le dossier 11317A. · 11810B : Récit commun avec les dossiers 11810, 11810A et 11810C (Haute-Vienne). · 12285A : La fiche ne précise ni la ville ni le département ; le récit situe les faits à Saint-Silvain-Bas-le-Roc (Creuse). · 12314 : Voir aussi le dossier 12314A (Puyaubert). · 12314A : Récit commun avec le dossier 12314. · 12590 : Voir aussi le dossier 12590A (Parcellier). · 12590A : Récit commun avec le dossier 12590. · 12606 : Voir aussi les dossiers 12606A (Pelaud) et 12606B (Le Hello). La fiche écrit aussi « Moitier-Rozeille ». · 12606A : Récit commun avec le dossier 12606. · 12606B : Récit commun avec le dossier 12606 ; la fiche ne nomme pas la personne sauvée dans l’en-tête. · 12612A : Récit commun avec le dossier 12612 (Pénicaud, Haute-Vienne) ; la fiche ne nomme pas les personnes sauvées dans l’en-tête. · 13340 : Voir aussi les dossiers 13340A, 13340B et 14425A. · 13340A : Récit commun avec les dossiers 13340, 13340B et 14425A. · 13340B : La fiche 13340B ne contient pas de récit ; repris des dossiers 13340 et 13340A. · 13799 : Voir aussi le dossier 13799A (Aubertie). · 13799A : Récit commun avec le dossier 13799 ; la fiche écrit « Antoine » et « Victor » Aubertie. · 13821 : La fiche 13821 ne contient ni récit ni personne sauvée. · 14321B : Voir aussi les dossiers 14321 et 14321A (Charente). · 14425A : Voir aussi les dossiers 13340, 13340A et 13340B. · 3903 : Voir aussi le dossier 6805 (Michelet). · 4936 : Le récit date le raid du 5 juin 1944 et le témoignage du 5 avril 1944. · 5380 : Voir aussi les dossiers 5380A (Berger) et 6805 (Michelet). · 5380A : Récit commun avec le dossier 5380 ; la fiche ne nomme pas les personnes sauvées dans l’en-tête. · 6133 : La fiche nomme la Juste « Fruchard » dans le récit et « Faivicheff (née Chastaing) » dans l’en-tête. · 6354 : La fiche écrit le nom « Bronchart », « Bronchard » et « Brochard ». · 6371 : La fiche écrit aussi « Vavareix-les-Mines ». · 6805 : Voir aussi les dossiers 5380 et 5380A (Aubazine). · 8273 : Voir aussi le dossier 8273A (Meunier). · 8273A : Voir aussi le dossier 8273. · 8920 : Voir aussi le dossier 1038 (Gaudefroy, Haute-Vienne). · 9529 : Voir aussi le dossier 9529A (Fournier, Haute-Vienne). Le récit de la fiche 9529A situe la Grand’Vallée en Isère. · 9977 : Voir aussi le dossier 9977A (Morel). · 9977A : Récit commun avec le dossier 9977.
 
 ## Lot Claude — Haute-Vienne
 

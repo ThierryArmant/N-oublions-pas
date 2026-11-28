@@ -16,7 +16,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 9787 | Alphonse Parent ; Lisa Parent née Bocquet | Yonne | Sur la fiche, le récit 9787 concerne l’abbé Robert Bengel ; l’action des Parent est décrite au dossier 9787A. | [fiche](https://yadvashem-france.org/dossier/nom/9787/) |
 | 10027 | Jean et Marguerite Beyrand (née Boissou) | Haute-Vienne | La partie « témoignage » de la fiche reprend un récit sans rapport avec le dossier (une jeune femme nommée Eva sauvée par des cheminots). | [fiche](https://yadvashem-france.org/dossier/nom/10027/) |
 
-## Fiche sans récit ou récit incomplet (24)
+## Fiche sans récit ou récit incomplet (25)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
@@ -36,6 +36,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 13102 | Émile et Germaine Charpentier (née Fouque) | Yvelines | La fiche consacre l’essentiel de sa partie lisible à l’histoire de la famille Konsens. | [fiche](https://yadvashem-france.org/dossier/nom/13102/) |
 | 13156 | Jean Benezech | Val-d’Oise | Fiche sans récit. | [fiche](https://yadvashem-france.org/dossier/nom/13156/) |
 | 13266A | Jean-François Le Lay | Côtes-d’Armor | La fiche 13266A ne contient pas de récit du sauvetage. | [fiche](https://yadvashem-france.org/dossier/nom/13266a/) |
+| 13340B | Léon et Marie Valaud (née Giraud) | Creuse | La fiche 13340B ne contient pas de récit ; repris des dossiers 13340 et 13340A. | [fiche](https://yadvashem-france.org/dossier/nom/13340b/) |
 | 13505 | Abel et Marthe Marre | Drôme | La fiche 13505 ne contient pas de récit : la partie « histoire » reprend le texte général du site. | [fiche](https://yadvashem-france.org/dossier/nom/13505/) |
 | 13553 | Cardinal Eugène Tisserant | — | Sauvetage en Italie. Fiche sans récit propre ; voir le dossier 13553B (de Vial). | [fiche](https://yadvashem-france.org/dossier/nom/13553/) |
 | 13553A | Pasteur André Bouquin | — | Sauvetage en Italie. Fiche sans récit ; voir le dossier 13553B (de Vial). | [fiche](https://yadvashem-france.org/dossier/nom/13553a/) |
@@ -45,7 +46,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 14445 | Jeanne Huet-Pasquier | — | Fiche sans récit. | [fiche](https://yadvashem-france.org/dossier/nom/14445/) |
 | 14580 | Paul et Marie Gilain | Orne | Récit absent de la fiche au 28/11/2026. | [fiche](https://yadvashem-france.org/dossier/nom/14580/) |
 
-## Département ou lieu erroné ou à vérifier (33)
+## Département ou lieu erroné ou à vérifier (35)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
@@ -62,6 +63,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 6821 | Marius et Andréa Genthon (née Ferlin) | Drôme | La fiche ne précise ni la ville ni le département ; le récit situe les faits à Romans-sur-Isère. | [fiche](https://yadvashem-france.org/dossier/nom/6821/) |
 | 8330 | Charles et Marthe Herbault (née Dufresne) | Essonne | La fiche situe Dourdan dans le Val-de-Marne. | [fiche](https://yadvashem-france.org/dossier/nom/8330/) |
 | 9300 | Eugène et Élisabeth Münch (née Balcke) | Haute-Loire | La fiche ne précise ni la ville ni le département ; le récit situe les faits au Chambon-sur-Lignon. | [fiche](https://yadvashem-france.org/dossier/nom/9300/) |
+| 9529 | Germaine Dufour | Creuse | Voir aussi le dossier 9529A (Fournier, Haute-Vienne). Le récit de la fiche 9529A situe la Grand’Vallée en Isère. | [fiche](https://yadvashem-france.org/dossier/nom/9529/) |
 | 9815 | Paul Béal ; Palmire Béal | Indre | La fiche situe les faits dans la Somme ; la base rattache la notice à l’Indre. | [fiche](https://yadvashem-france.org/dossier/nom/9815/) |
 | 9945 | Henri et Simone Voisin (née Churlet) | Seine-Saint-Denis | La fiche situe Aulnay-sous-Bois en Seine-et-Marne et dit Simone infirmière, alors que l’en-tête la donne couturière. | [fiche](https://yadvashem-france.org/dossier/nom/9945/) |
 | 10882 | Lucien et Hélène Roux (née Durrieu) | Bouches-du-Rhône | La fiche situe Marseille dans le département du Rhône. | [fiche](https://yadvashem-france.org/dossier/nom/10882/) |
@@ -73,6 +75,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 12024 | Henri et Marie Leuillet ; Georges et Germaine Leuillet | Vienne | La fiche situe le dossier à Paris (14e) ; le refuge principal est Saint-Savin (Vienne). | [fiche](https://yadvashem-france.org/dossier/nom/12024/) |
 | 12151 | Henry de Menthon | Haute-Saône | La fiche situe la commune en « Haute-Loire » par erreur ; dates de naissance divergentes (22 ou 23/10/1865). | [fiche](https://yadvashem-france.org/dossier/nom/12151/) |
 | 12206B | Pierre Descours | Drôme | La fiche ne précise ni la ville ni le département ; l’hôpital est celui de Romans-sur-Isère (Drôme). | [fiche](https://yadvashem-france.org/dossier/nom/12206b/) |
+| 12285A | Jean Pérard et Georgette Pérard (née Cambe) | Creuse | La fiche ne précise ni la ville ni le département ; le récit situe les faits à Saint-Silvain-Bas-le-Roc (Creuse). | [fiche](https://yadvashem-france.org/dossier/nom/12285a/) |
 | 12289 | Raoul Houdaille ; Gabrielle Houdaille (« Marie née Loye » sur la fiche) ; Jeannine Cheremetieff | Doubs | Prénom à vérifier : « Marie (Loye) » dans la base et sur la fiche, « Gabrielle » dans le récit. | [fiche](https://yadvashem-france.org/dossier/nom/12289/) |
 | 12544 | Lois Gunden | Bouches-du-Rhône | La fiche rattache le dossier à Marseille, mais le home se trouve à Canet-Plage. | [fiche](https://yadvashem-france.org/dossier/nom/12544/) |
 | 12614 | Anna Chifflet (née Jacquemart) | Drôme | La fiche ne précise ni la ville ni le département ; le récit situe les faits à Romans-sur-Isère. | [fiche](https://yadvashem-france.org/dossier/nom/12614/) |
@@ -83,7 +86,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 14321 | Marguerite Perreau | Charente | La fiche situe le dossier à Aubusson (Creuse). | [fiche](https://yadvashem-france.org/dossier/nom/14321/) |
 | 14564 | Rolande Gaboriaud | Loiret | La fiche situe les faits dans la Loire et la Haute-Loire ; la base rattache la notice au Loiret. | [fiche](https://yadvashem-france.org/dossier/nom/14564/) |
 
-## Incohérence de nom, prénom ou date (30)
+## Incohérence de nom, prénom ou date (36)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
@@ -92,6 +95,9 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 4186 | Juliette Usach | Haute-Loire | La fiche ne nomme pas les personnes sauvées dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/4186/) |
 | 4500 | Régis et Mélanie Brenas | Haute-Loire | La légende de la photographie nomme « Roger » et non Régis Brenas. | [fiche](https://yadvashem-france.org/dossier/nom/4500/) |
 | 4502 | Albert et Eugénie Roux | Haute-Loire | La fiche ne nomme pas les personnes sauvées dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/4502/) |
+| 5380A | Sœur Marie-Thérèse Berger | Corrèze | Récit commun avec le dossier 5380 ; la fiche ne nomme pas les personnes sauvées dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/5380a/) |
+| 6133 | Yvonne Suzanne Faivicheff (née Chastaing) | Corrèze | La fiche nomme la Juste « Fruchard » dans le récit et « Faivicheff (née Chastaing) » dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/6133/) |
+| 6354 | Léon Bronchart | Corrèze | La fiche écrit le nom « Bronchart », « Bronchard » et « Brochard ». | [fiche](https://yadvashem-france.org/dossier/nom/6354/) |
 | 6372C | Marie-Louise Lamaud et Claire Leblanc | Haute-Vienne | Voir aussi les dossiers 6372, 6372A et 6372B ; la fiche ne nomme pas les personnes sauvées dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/6372c/) |
 | 7299A | Marcel Grand | Jura | Même récit que 7299. Reconnaissance 1996/1997 selon la fiche, année absente de la base. | [fiche](https://yadvashem-france.org/dossier/nom/7299a/) |
 | 7593 | Albert et Louise Achard | Hérault | La fiche date l’épisode de l’été 1944 ; les arrestations de Juifs étrangers à Montpellier évoquées correspondent plutôt à août 1942. | [fiche](https://yadvashem-france.org/dossier/nom/7593/) |
@@ -99,6 +105,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 9529A | Henri et Juliette Fournier (née Flouquet) | Haute-Vienne | La fiche ne nomme pas les personnes sauvées dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/9529a/) |
 | 9687 | Theodorus et Elisabeth Meddens | – | Sauvetage en Belgique. La fiche dit les Meddens danois ; ils étaient peut-être néerlandais. | [fiche](https://yadvashem-france.org/dossier/nom/9687/) |
 | 10448 | Jean-Claude Genet ; Marthe (Eugénie) Genet | Saône-et-Loire | Prénom de l’épouse : Marthe ou Eugénie selon la fiche. | [fiche](https://yadvashem-france.org/dossier/nom/10448/) |
+| 10521A | Marie Lagrollière | Creuse | Récit commun avec le dossier 10521 ; la fiche ne nomme pas les personnes sauvées dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/10521a/) |
 | 10654 | Jeanne Louis née Duhaut ; Marcel Marty, Olga Marty née Louis et Janine Joly née Marty (notices rattachées à Paris) | Haute-Saône | Le dossier couvre 4 notices, dont 3 classées à Paris. La fiche se contredit sur la date à laquelle les Marty rejoignent Ouge. | [fiche](https://yadvashem-france.org/dossier/nom/10654/) |
 | 11135 | Arthur Jaccard ; Wilhelmine Jaccard née Wershing ; Ruth Monney née Jaccard | Ain | Reconnaissance décernée le 28/11/2007 (année absente de la base nationale). | [fiche](https://yadvashem-france.org/dossier/nom/11135/) |
 | 11339 | Fernand Poulet (avec Marcelle Robineau) | Yonne | Identité des enfants variable selon les versions du récit. | [fiche](https://yadvashem-france.org/dossier/nom/11339/) |
@@ -112,6 +119,8 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 12260 | Georges et Germaine Roux (née Perdreau) | Haute-Vienne | Trois photographies publiées dans le dossier (Jacqueline Prandi et Zilla Cahn) concernent un autre sauvetage et n’ont pas été reprises. | [fiche](https://yadvashem-france.org/dossier/nom/12260/) |
 | 12394 | Gilbert Pasquier | Côte-d’Or | La fiche dit « policier », le récit « gendarme ». | [fiche](https://yadvashem-france.org/dossier/nom/12394/) |
 | 12535A | Juliette Jacquemard (née Petit) | Essonne | La fiche nomme la cheffe de gare « Madame Ménigault » dans le récit ; le titre est décerné en 2013 à Juliette Jacquemard. | [fiche](https://yadvashem-france.org/dossier/nom/12535a/) |
+| 12606B | Simonne Le Hello | Creuse | Récit commun avec le dossier 12606 ; la fiche ne nomme pas la personne sauvée dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/12606b/) |
+| 12612A | Marcelle Porte | Creuse | Récit commun avec le dossier 12612 (Pénicaud, Haute-Vienne) ; la fiche ne nomme pas les personnes sauvées dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/12612a/) |
 | 13438 | Robert et Alice Joubert (née Pigeron) | Seine-et-Marne | La fiche nomme la Juste Alice dans l’en-tête et Georgette dans le récit. | [fiche](https://yadvashem-france.org/dossier/nom/13438/) |
 | 13688 | Madeleine Fauconneau du Fresne | Loiret | La fiche indique « Gabrielle » en en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/13688/) |
 | 13825 | Charles Schneider ; Lilian Schneider née Volpert | Doubs | Prénoms des enfants incohérents entre la liste et le récit (Émile, Lionel / Samuel, Joseph, « Léon »). | [fiche](https://yadvashem-france.org/dossier/nom/13825/) |
