@@ -1546,3 +1546,7 @@ Les 70 dossiers du Comité français pour Yad Vashem correspondant à l’index 
 ## Ardèche (07) — contrôle complémentaire des visuels
 
 Les 33 références couvrant 55 fiches ont été contrôlées. 34 visuels supplémentaires ont été intégrés dans 23 dossiers et 17 portraits individuels ont été associés aux fiches, dont Renée Gimenez, Léon Morel et Pauline Morel. Les variantes de résolution d’une même photo ont été écartées. Les liens d’images ajoutés ont renvoyé un fichier image. [Commit des visuels](https://github.com/ThierryArmant/N-oublions-pas/commit/5a22ec032074628a6229a2ab0f1f0b0f03d8f00f).
+
+## Isère (38) — galeries et portraits vérifiés
+
+Les 79 dossiers des 137 fiches ont été contrôlés côté Comité français pour Yad Vashem. 111 visuels supplémentaires alimentent 56 galeries et 34 portraits individuels légendés ont été ajoutés. Les liens des visuels ont été vérifiés. La photographie légendée « Sœur Elisabeth FRANCOISE » reste en galerie pour le dossier 7856 : l’index présente deux entrées dont les noms se recoupent, à clarifier avant attribution individuelle. [Commit des visuels](https://github.com/ThierryArmant/N-oublions-pas/commit/711a6b7683c544eaa2ed10ee2a6b2004ae41e954).
