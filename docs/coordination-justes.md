@@ -27,7 +27,71 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Haute-Loire (43). Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Haute-Vienne. Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+
+## Lot Claude — Haute-Loire
+
+Récit intégré sur `main` pour 55 dossiers ; 39 portraits et 55 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_haute-loire.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 1026 | Mireille Philip (née Cooreman) | Haute-Loire | Mireille Philip ; Le pasteur André Trocmé, son fils Jacques, le pasteur Édouard Theis, Mireille Philip, Madeleine Barot | [CFYV](https://yadvashem-france.org/dossier/nom/1026/) |
+| 10385 | Jean et Marie Royet (née Chanal) | Haute-Loire | La famille Royet en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/10385/) |
+| 10634 | Adrienne Marsot (née Chazet) | Haute-Loire | Gisèle Marsot avec Lise Grunbaum en 1944 ; Adrienne Marsot, 18 décembre 1958 | [CFYV](https://yadvashem-france.org/dossier/nom/10634/) |
+| 10836 | Marcel et Marcelle Fachaux (née Portalier) | Haute-Loire | Marcel et Marcelle Fachaux ; Le Puy | [CFYV](https://yadvashem-france.org/dossier/nom/10836/) |
+| 11621 | Daniel et Évodie Duron (née Jonac) | Haute-Loire | Daniel et Évodie Duron en 1970 ; Daniel et Évodie Duron en 1960 | [CFYV](https://yadvashem-france.org/dossier/nom/11621/) |
+| 11796 | Jacques et Mathilde Girodet (née Soubeyre) | Haute-Loire | Jacques Girodet ; Mathilde Girodet ; Monique Balzer en 1943, en bas de l’escalier | [CFYV](https://yadvashem-france.org/dossier/nom/11796/) |
+| 12147 | Albert-Louis Bernard | Haute-Loire | Albert-Louis Bernard | [CFYV](https://yadvashem-france.org/dossier/nom/12147/) |
+| 12367 | Eugène et Célie Courtial (née Gousson) | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/12367/) |
+| 12416 | Henri et Lydie Fournier (née Issartial) | Haute-Loire | La famille Fournier | [CFYV](https://yadvashem-france.org/dossier/nom/12416/) |
+| 12747 | Pierre et Madeleine De Lattre (née Livet) | Haute-Loire | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12747/) |
+| 13653 | Maurice Chantelauze | Haute-Loire | Maurice Chantelauze en 1945 ; Maurice Chantelauze ; M. Daniel Saada, ministre près l’ambassade d’Israël à Paris | [CFYV](https://yadvashem-france.org/dossier/nom/13653/) |
+| 13686 | Évelyne Chazot (née Issartial) | Haute-Loire | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13686/) |
+| 14652 | Marie-Thérèse Robert | Haute-Loire | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14652/) |
+| 2698L | Le pasteur Raoul Lhermet | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/2698l/) |
+| 3211 | Hermine Orsi | Haute-Loire | Hermine Orsi avec dans ses bras un nourrisson juif, au Chambon-sur-Lignon en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/3211/) |
+| 3794 | Henri et Emma Héritier | Haute-Loire | Henri et Emmanuelle Héritier | [CFYV](https://yadvashem-france.org/dossier/nom/3794/) |
+| 3795 | Léon et Antoinette Eyraud | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/3795/) |
+| 3796 | Jean Bouix | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/3796/) |
+| 3797 | Le pasteur Daniel Curtet et Suzanne Curtet (née Royet) | Haute-Loire | Daniel et Suzanne Curtet, le jour de leur mariage | [CFYV](https://yadvashem-france.org/dossier/nom/3797/) |
+| 3832 | Lucie et Lydie Abel | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/3832/) |
+| 3833 | Georgette et Gabrielle Barraud | Haute-Loire | Georgette Barraud | [CFYV](https://yadvashem-france.org/dossier/nom/3833/) |
+| 3834 | Le pasteur André Bettex | Haute-Loire | Le pasteur André Bettex ; Le pasteur André Bettex entre 1939 et 1945 sur les routes du Haut-Plateau | [CFYV](https://yadvashem-france.org/dossier/nom/3834/) |
+| 3835 | Léonie Deléage et Eva Philit (née Deléage) | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/3835/) |
+| 3899 | Jean et Eugénie May (née Bayle), Germaine et Roger May | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/3899/) |
+| 4005 | Samuel et Léonie Pélissier (née Argaud) | Haute-Loire | Samuel et Léonie Pélissier en 1953 à Rioutord, commune du Mazet-Saint-Voy | [CFYV](https://yadvashem-france.org/dossier/nom/4005/) |
+| 4006 | Le pasteur Charles Delizy | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4006/) |
+| 4007 | Antoine Frachette | Haute-Loire | Antoine Frachette | [CFYV](https://yadvashem-france.org/dossier/nom/4007/) |
+| 4008 | Lucie Ruel | Haute-Loire | Lucie Ruel | [CFYV](https://yadvashem-france.org/dossier/nom/4008/) |
+| 4009 | Eva Jouve (née Chastagner) | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4009/) |
+| 4011 | Élie et Marie Russier, Lily Boît (née Russier) | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4011/) |
+| 4012 | Simone Mairesse-Doise (née Pevenage) | Haute-Loire | Simone Doise Mairesse au Chambon en 1986 | [CFYV](https://yadvashem-france.org/dossier/nom/4012/) |
+| 4101 | Marie Brottes | Haute-Loire | Marie Brottes ; Au Chambon, Léon et Marie Brottes avec le docteur Walter Mautner et son fils Egon en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/4101/) |
+| 4158 | Eugénie Mettenet | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4158/) |
+| 4159 | Hubert Meyer | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4159/) |
+| 4186 | Juliette Usach | Haute-Loire | Juliette Usach (à gauche) et deux réfugiés juifs (Le Chambon-sur-Lignon, 1944) | [CFYV](https://yadvashem-france.org/dossier/nom/4186/) |
+| 4193 | Jean et Nancy Ollivier (née Lebrat) | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4193/) |
+| 4193A | Charles-André et Berthe Kittler | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4193a/) |
+| 4193B | Lévy et Évodie Jouve (née Picot) | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4193b/) |
+| 4247 | Pierre Piton | Haute-Loire | Pierre Piton, 17 ans, en uniforme de scout | [CFYV](https://yadvashem-france.org/dossier/nom/4247/) |
+| 4352 | Jean-Jacques et Fanny-Marie Astier | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4352/) |
+| 4444 | Le pasteur Roland Leenhardt | Haute-Loire | Le pasteur Roland Leenhardt (collection Francis Weill, droits réservés) | [CFYV](https://yadvashem-france.org/dossier/nom/4444/) |
+| 4500 | Régis et Mélanie Brenas | Haute-Loire | Roger et Mélanie Brenas en 1990 | [CFYV](https://yadvashem-france.org/dossier/nom/4500/) |
+| 4502 | Albert et Eugénie Roux | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4502/) |
+| 4681 | Auguste Bohny | Haute-Loire | Auguste Bohny ; Friedel Bohny et les enfants | [CFYV](https://yadvashem-france.org/dossier/nom/4681/) |
+| 4806 | Constance Chojnacki (née Conte) | Haute-Loire | Constance Chojnacki ; Constance devant le mur des noms, 14 avril 1996 | [CFYV](https://yadvashem-france.org/dossier/nom/4806/) |
+| 5652 | Samuel-Émile Charles | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/5652/) |
+| 5941 | Alexandre Brolles | Haute-Loire | Alex Brolles | [CFYV](https://yadvashem-france.org/dossier/nom/5941/) |
+| 6950 | Le père Félix Gagne | Haute-Loire | Père Félix Gagne | [CFYV](https://yadvashem-france.org/dossier/nom/6950/) |
+| 7059 | Catherine Souchon (née Bouchet) | Haute-Loire | Marie-Catherine Souchon | [CFYV](https://yadvashem-france.org/dossier/nom/7059/) |
+| 7071 | Louis et Antonia Ouillon | Haute-Loire | Antonia Ouillon ; Louis Ouillon ; La famille Ouillon : Jean-Louis, Nini, Antonia et Mémé Garnier | [CFYV](https://yadvashem-france.org/dossier/nom/7071/) |
+| 7659 | Fernand et Hélène Court (née Bayle) | Haute-Loire | Fernand et Hélène Court et leurs quatre fils en 1944 ; La maison du sauvetage | [CFYV](https://yadvashem-france.org/dossier/nom/7659/) |
+| 8506 | Arthur et Louise Franc | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/8506/) |
+| 8625 | Charles et Aimée Molle (née Nouvet) | Haute-Loire | Charles et Aimée Molle ; La cérémonie du 18 juin 2001 | [CFYV](https://yadvashem-france.org/dossier/nom/8625/) |
+| 8820 | Hippolyte et Alphonsine Page | Haute-Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/8820/) |
+| 9300 | Eugène et Élisabeth Münch (née Balcke) | Haute-Loire | Eugène et Élisabeth Münch entourant le pasteur Trocmé devant la maison d’enfants Les Grillons ; Les dix ans de mariage d’Eugène et Élisabeth Münch dans la maison où ils ont caché des Juifs, à Mariton, hameau de La Bruyère, au Chambon | [CFYV](https://yadvashem-france.org/dossier/nom/9300/) |
+
+Remarques : 11621 : Voir aussi le dossier 4444 (pasteur Leenhardt). · 12747 : Le dossier est rattaché à la Haute-Loire, mais une grande partie des faits se déroule en région parisienne. · 13653 : La fiche ne précise ni la ville ni le département ; le récit situe les faits à La Chaise-Dieu. · 14652 : La base nationale classe le dossier en Haute-Loire, mais Saint-Galmier (42330) est dans la Loire. · 2698L : Dossier collectif 2698 (Le Chambon-sur-Lignon). · 3794 : Voir aussi les dossiers 3795, 3796, 3797 et 5652. · 3795 : Voir aussi les dossiers 3794, 3796, 3797 et 5652. · 3796 : Voir aussi les dossiers 3794, 3795, 3797 et 5652. · 3797 : Voir aussi les dossiers 3794, 3795, 3796 et 4158. · 4007 : La base nationale orthographie la personne sauvée « Gertrude Bill ». · 4011 : Voir aussi les dossiers 4159 (Meyer) et 2698L (Lhermet). · 4158 : La fiche ne nomme pas la personne sauvée dans l’en-tête. · 4159 : Voir aussi le dossier 4011 (Russier). · 4186 : La fiche ne nomme pas les personnes sauvées dans l’en-tête. · 4193 : Voir aussi les dossiers 4193A et 4193B. · 4193A : Voir aussi les dossiers 4193 et 4193B. · 4193B : Voir aussi les dossiers 4193 et 4193A. · 4444 : Voir aussi le dossier 11621 (Duron). · 4500 : La légende de la photographie nomme « Roger » et non Régis Brenas. · 4502 : La fiche ne nomme pas les personnes sauvées dans l’en-tête. · 5652 : Voir aussi les dossiers 3794, 3795, 3796 et 3797. · 9300 : La fiche ne précise ni la ville ni le département ; le récit situe les faits au Chambon-sur-Lignon.
 
 ## Lot Claude — Loire
 

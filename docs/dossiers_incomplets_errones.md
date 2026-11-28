@@ -41,7 +41,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 14445 | Jeanne Huet-Pasquier | — | Fiche sans récit. | [fiche](https://yadvashem-france.org/dossier/nom/14445/) |
 | 14580 | Paul et Marie Gilain | Orne | Récit absent de la fiche au 28/11/2026. | [fiche](https://yadvashem-france.org/dossier/nom/14580/) |
 
-## Département ou lieu erroné ou à vérifier (31)
+## Département ou lieu erroné ou à vérifier (33)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
@@ -57,6 +57,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 5792A | Éliette Cordelier ; Élie et Marguerite Cordelier | Charente | La fiche situe le dossier à Périgueux (Dordogne). | [fiche](https://yadvashem-france.org/dossier/nom/5792a/) |
 | 6821 | Marius et Andréa Genthon (née Ferlin) | Drôme | La fiche ne précise ni la ville ni le département ; le récit situe les faits à Romans-sur-Isère. | [fiche](https://yadvashem-france.org/dossier/nom/6821/) |
 | 8330 | Charles et Marthe Herbault (née Dufresne) | Essonne | La fiche situe Dourdan dans le Val-de-Marne. | [fiche](https://yadvashem-france.org/dossier/nom/8330/) |
+| 9300 | Eugène et Élisabeth Münch (née Balcke) | Haute-Loire | La fiche ne précise ni la ville ni le département ; le récit situe les faits au Chambon-sur-Lignon. | [fiche](https://yadvashem-france.org/dossier/nom/9300/) |
 | 9815 | Paul Béal ; Palmire Béal | Indre | La fiche situe les faits dans la Somme ; la base rattache la notice à l’Indre. | [fiche](https://yadvashem-france.org/dossier/nom/9815/) |
 | 9945 | Henri et Simone Voisin (née Churlet) | Seine-Saint-Denis | La fiche situe Aulnay-sous-Bois en Seine-et-Marne et dit Simone infirmière, alors que l’en-tête la donne couturière. | [fiche](https://yadvashem-france.org/dossier/nom/9945/) |
 | 10882 | Lucien et Hélène Roux (née Durrieu) | Bouches-du-Rhône | La fiche situe Marseille dans le département du Rhône. | [fiche](https://yadvashem-france.org/dossier/nom/10882/) |
@@ -73,15 +74,20 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 12614 | Anna Chifflet (née Jacquemart) | Drôme | La fiche ne précise ni la ville ni le département ; le récit situe les faits à Romans-sur-Isère. | [fiche](https://yadvashem-france.org/dossier/nom/12614/) |
 | 12629 | Raymond Lesueur | Paris | La fiche situe Fontenay-aux-Roses à Paris (75020). | [fiche](https://yadvashem-france.org/dossier/nom/12629/) |
 | 13266 | Guillaume et Marie Le Quéré (née Droniou) | — | La fiche ne précise pas le département. | [fiche](https://yadvashem-france.org/dossier/nom/13266/) |
+| 13653 | Maurice Chantelauze | Haute-Loire | La fiche ne précise ni la ville ni le département ; le récit situe les faits à La Chaise-Dieu. | [fiche](https://yadvashem-france.org/dossier/nom/13653/) |
 | 14047 | Pierre, Eva et Jacques Matignon ; Ernest, Lucie et Emma Planès | Lot-et-Garonne | La fiche situe le dossier à Saint-Antoine-de-Breuilh (Dordogne). Récit commun avec 14047A et 14047C. | [fiche](https://yadvashem-france.org/dossier/nom/14047/) |
 | 14321 | Marguerite Perreau | Charente | La fiche situe le dossier à Aubusson (Creuse). | [fiche](https://yadvashem-france.org/dossier/nom/14321/) |
 | 14564 | Rolande Gaboriaud | Loiret | La fiche situe les faits dans la Loire et la Haute-Loire ; la base rattache la notice au Loiret. | [fiche](https://yadvashem-france.org/dossier/nom/14564/) |
 
-## Incohérence de nom, prénom ou date (22)
+## Incohérence de nom, prénom ou date (26)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
 | 3595 | Jacob Derk Van Der Post ; Annie Johanna Van Der Post née Schuylenberg | Jura | Graphies Schuylenberg / Schuylenburg ; naissance de Jacob 1909 (fiche) ou 1907 (récit). Reconnaissance 1987, année absente de la base. | [fiche](https://yadvashem-france.org/dossier/nom/3595/) |
+| 4158 | Eugénie Mettenet | Haute-Loire | La fiche ne nomme pas la personne sauvée dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/4158/) |
+| 4186 | Juliette Usach | Haute-Loire | La fiche ne nomme pas les personnes sauvées dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/4186/) |
+| 4500 | Régis et Mélanie Brenas | Haute-Loire | La légende de la photographie nomme « Roger » et non Régis Brenas. | [fiche](https://yadvashem-france.org/dossier/nom/4500/) |
+| 4502 | Albert et Eugénie Roux | Haute-Loire | La fiche ne nomme pas les personnes sauvées dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/4502/) |
 | 7299A | Marcel Grand | Jura | Même récit que 7299. Reconnaissance 1996/1997 selon la fiche, année absente de la base. | [fiche](https://yadvashem-france.org/dossier/nom/7299a/) |
 | 7593 | Albert et Louise Achard | Hérault | La fiche date l’épisode de l’été 1944 ; les arrestations de Juifs étrangers à Montpellier évoquées correspondent plutôt à août 1942. | [fiche](https://yadvashem-france.org/dossier/nom/7593/) |
 | 8123 | Ernest Wittwer | Haute-Saône | Reconnaissance du 22/06/1998, année absente de la base. | [fiche](https://yadvashem-france.org/dossier/nom/8123/) |
