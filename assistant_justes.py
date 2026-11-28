@@ -206,7 +206,8 @@ def notices():
 
 
 def rechercher(question, limit=6):
-    query = concepts(tokens(question) - RECHERCHE_STOP - {"france"})
+    temoignage_demande = bool(tokens(question) & {"temoignage", "temoignages"})
+    query = concepts(tokens(question) - RECHERCHE_STOP - {"france", "temoignage", "temoignages"})
     if not query:
         return []
     if len(query) == 1 and len(next(iter(query))) < 3:
@@ -219,6 +220,10 @@ def rechercher(question, limit=6):
         if not item["facts"]:
             continue
         name = tokens(item["label"])
+        if temoignage_demande and item["rubrique"] == "Témoignages":
+            name |= {mot for mot in query if len(mot) >= 5 and any(
+                nom.startswith(mot) and len(nom) - len(mot) <= 2 for nom in name
+            )}
         place = tokens(item["place"])
         facts = concepts(tokens(item["facts"] + " " + item["terms"]))
         matches = query & (name | place | facts)
@@ -226,6 +231,8 @@ def rechercher(question, limit=6):
         if not matches or (len(query) > 1 and len(matches) < 2) or (not strong and matches != query):
             continue
         exact_name = len(name) >= 2 and name <= query
+        if temoignage_demande and item["rubrique"] == "Témoignages" and query <= name:
+            exact_name = True
         score = 6 * len(query & name) + 3 * len(query & place) + 4 * len(query & facts)
         results.append((exact_name, len(matches), score, item))
     results.sort(key=lambda row: row[:3], reverse=True)
@@ -243,13 +250,15 @@ def rechercher(question, limit=6):
 
 def cheminots_reconnus(question):
     mots = tokens(question)
-    if not re.search(r"\bjustes?\b", question, re.IGNORECASE):
-        return None
     if concepts(mots - RECHERCHE_STOP - {"france"}) != {"cheminot"}:
         return None
 
     results = []
     for item in rechercher(question, limit=None):
+        if item["rubrique"] == "Témoignages":
+            if "cheminot" in concepts(tokens(item["facts"].split(" · ", 1)[0])):
+                results.append(item)
+            continue
         nom = re.escape(item["label"])
         profession = r"(?:cheminot\w*|(?:agent|employé|ouvrier)\s+(?:de|à)\s+la\s+SNCF)"
         attribution = rf"\b{nom}(?:\s*,\s*|\s+(?:(?:était|travaillait comme)\s+)?){profession}\b"
@@ -392,17 +401,27 @@ def main():
         cheminots = cheminots_reconnus(question)
         if cheminots:
             question_affichee.text(question)
+            justes = bool(re.search(r"\bjustes?\b", question, re.IGNORECASE))
+            categorie = "Justes cheminots" if justes else "personnes identifiées comme cheminots"
             if tokens(question) & {"combien", "nombre", "total", "effectif", "effectifs"}:
-                st.write(f"Au moins {len(cheminots)} Justes dont le métier de cheminot est attesté dans les fiches consultées. Le métier n’est pas renseigné dans toutes les notices.")
+                st.write(f"Au moins {len(cheminots)} {categorie} dans les fiches consultées. Le métier n’est pas renseigné dans toutes les notices.")
             else:
-                st.write("Voici les Justes dont le métier de cheminot est attesté dans les fiches consultées.")
-            for item in cheminots:
+                st.write(f"Dans la base, voici les {categorie} dont le métier est attesté.")
+            for item in sorted(cheminots, key=lambda fiche: fiche["rubrique"] != "Témoignages"):
                 st.link_button(f"Ouvrir la fiche de {item['label']}", item["link"])
             return
         with st.spinner("Un instant, je cherche dans les archives…"):
             results = rechercher(question)
             if not results:
                 st.info("Je ne trouve pas de fiche qui permette de répondre. Pouvez-vous préciser un nom, un lieu, une date ou un matricule ?")
+                return
+            if len(results) == 1 and results[0]["rubrique"] == "Témoignages" and re.match(
+                r"^t[ée]moignage\b", question, re.IGNORECASE
+            ):
+                item = results[0]
+                question_affichee.text(question)
+                st.write(item["facts"])
+                st.link_button(f"Lire le témoignage de {item['label']}", item["link"])
                 return
             noms = {tuple(sorted(tokens(item["label"]))) for item in results
                     if tokens(item["surname"]) == tokens(question)}
