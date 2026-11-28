@@ -1434,3 +1434,7 @@ Isère côté Codex. Les 79 références de l’index (137 fiches) ont un récit
 - L’index compte 104 fiches pour 70 références. Dernier passage Codex : 39 récits ajoutés, 61 fiches enrichies. Il reste le dossier 14562 et l’inventaire des photos et portraits.
 - [14562, César et Joséphine Migeois à Ballaison](https://yadvashem-france.org/dossier/nom/14562/) : reconnaissance confirmée en 2024. Les notices publiques consultées du Comité français et de l’AJPN ne décrivent pas le sauvetage.
 - [5137, Desailloud](https://www.ajpn.org/juste-885.html) et [4454, Ducoing](https://souvenir74.fr/figures/ducoing-baud-huguette/) : compléments de l’AJPN et du Souvenir Français. [4363A, Simond](https://yadvashem-france.org/dossier/nom/4363a/) : récit croisé avec [4363, Gallay](https://yadvashem-france.org/dossier/nom/4363/).
+
+## Haute-Savoie (74) — vérification des visuels
+
+Les 70 dossiers du Comité français pour Yad Vashem correspondant à l’index ont été consultés. 81 photographies ont été ajoutées dans 46 dossiers et 32 portraits individuels légendés ont été associés à leurs fiches. Les photos collectives figurent dans les galeries. Pour le dossier 6823, la légende de la photo indique Alphonse Hudry, tandis que le récit indique Édouard Hudry : photo conservée en galerie, attribution individuelle à confirmer. Le dossier 14562 (Migeois) demeure ouvert sur le récit du sauvetage. Les annexes documentaires ne sont pas incluses dans le décompte des photos.
