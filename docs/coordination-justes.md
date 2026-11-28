@@ -17,7 +17,104 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45) et Pyrénées-Atlantiques (58), tableaux ci-dessous. Zone Pyrénées (confiée par Thierry le 28/11) terminée. Lot en cours (pris le 28/11, feu vert de Thierry) : Hauts-de-France (Nord, Pas-de-Calais, Somme, Aisne, Oise), 88 dossiers sans récit. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58) et Hauts-de-France (88 : Nord, Pas-de-Calais, Somme, Aisne, Oise), tableaux ci-dessous. Zone Pyrénées (confiée par Thierry le 28/11) terminée. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Hauts-de-France (28/11/2026)
+
+Récit intégré sur `main` pour 88 dossiers ; 75 portraits et 136 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_hauts_de_france_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 11430 | Abbé Paul Wehrle | Aisne | WEHRLE Paul | [CFYV](https://yadvashem-france.org/dossier/nom/11430/) |
+| 11430A | Alice Grout | Aisne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11430a/) |
+| 11468 | Léon et Blanche Marouzé | Aisne | Blanche Marouzé ; Léon Marouzé ; M. et Mme Marouzé en 1945 ; Famille des sauvés | [CFYV](https://yadvashem-france.org/dossier/nom/11468/) |
+| 11469 | Albert et Amélie Hulin | Aisne | Albert et Amélie Hulin | [CFYV](https://yadvashem-france.org/dossier/nom/11469/) |
+| 11620 | Gabriel, Germaine et Jean Cuvillier | Aisne | Gabriel et Jean Cuvillier ; Germaine Cuvillier ; Jacques et Micheline à Crouy ; Jacques et Micheline à Crouy ; Rachel Katz et ses enfants Jacques et Micheline | [CFYV](https://yadvashem-france.org/dossier/nom/11620/) |
+| 12113 | Roger et Madeleine Béguin | Aisne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12113/) |
+| 12315 | Robert et Annunciata Laplace | Aisne | Robert Laplace et Annunciata Laplace | [CFYV](https://yadvashem-france.org/dossier/nom/12315/) |
+| 12315A | Giovanna Maria Biasion | Aisne | — | [CFYV](https://yadvashem-france.org/dossier/nom/12315a/) |
+| 12324 | Marcel et Claire Levavasseur | Aisne | Marcel et Claire Levavasseur avec Jean Golgevit ; Marcel et Claire Levavasseur avec Jean Golgevit et Liliane ; M. Jacques Belloir, maire de Mont-Saint-Père ; M. Jean Golgevit, personne sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/12324/) |
+| 12716 | Jacques Bouldoire | Aisne | Jacques Bouldoire en 1950 | [CFYV](https://yadvashem-france.org/dossier/nom/12716/) |
+| 13206 | Joseph et Marianne Zyk | Aisne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13206/) |
+| 13348 | Charles Létoffé | Aisne | Charles Létoffé | [CFYV](https://yadvashem-france.org/dossier/nom/13348/) |
+| 1594A | Jeanne Jauquet | Aisne | Jeanne Jauquet | [CFYV](https://yadvashem-france.org/dossier/nom/1594a/) |
+| 6134 | Henri et Jeanne Cholet | Aisne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6134/) |
+| 6134A | Eugène et Marguerite Bouchard | Aisne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6134a/) |
+| 9998 | Joseph et Louise Rasseneur | Aisne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9998/) |
+| 1016 | Victor et Georgette Delcroix | Nord | — | [CFYV](https://yadvashem-france.org/dossier/nom/1016/) |
+| 10315 | André et Mireille David | Nord | de gauche à droite Maryse serge DAVID et MIreille DAVID ; De gauche à droite Mireille David, Louise et Claude Pépin ; De g. à d. Serge et André DAVID Gisèle Lerouge Louise Pépin Mireille DAVID et Claude Pépin ; de gauche à droite Serge et Ivan DAVID et Maryse ; Monsieur et Madame Verdier ; Monsieur Symcha Inowroclowski le père de Maryse ; Cérémonie ; Cérémonie ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/10315/) |
+| 10591 | Edmond Vandeportaele | Nord | Edmond Vandeportaele ; Communion de Gaby en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/10591/) |
+| 11077 | Félicien Hautcœur | Nord | Félicien Hautcœur | [CFYV](https://yadvashem-france.org/dossier/nom/11077/) |
+| 11507 | Louis et Suzanne Sailly | Nord | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11507/) |
+| 11752 | Daniel et Amélie Quenu | Nord | Amélie Quenu ; Simone Audrain et Georges Grinblatas (la personne sauvée) avec Daniel and Amelie Quenu | [CFYV](https://yadvashem-france.org/dossier/nom/11752/) |
+| 12125 | Madeleine Davaine | Nord | Madeleine DAVAINE | [CFYV](https://yadvashem-france.org/dossier/nom/12125/) |
+| 12238 | Abbé Pierre Flipo ; Jules et Marie-Thérèse Flipo ; Jules Joseph et Elsa Flipo ; Marcel et Elisa Guilbert | Nord | Marie-Thérèse et Jules Flipo | [CFYV](https://yadvashem-france.org/dossier/nom/12238/) |
+| 12360 | Jean et Émilienne Stellamans | Nord | La grand mère Stellamans ; Le grand père Stellamans ; Jean, Emilienne Stellamans et leur petit fils Jean-Pierre ; Devant la boutique des Stellamans, leur fille Mado et son fils jean-Pierre | [CFYV](https://yadvashem-france.org/dossier/nom/12360/) |
+| 12690 | Marcel et Sophie Vasseur | Nord | Marcel et Sophie Vasseur | [CFYV](https://yadvashem-france.org/dossier/nom/12690/) |
+| 13578 | Louise Deligne | Nord | Louise Deligne | [CFYV](https://yadvashem-france.org/dossier/nom/13578/) |
+| 13578A | Jeanne-Marie Vanlande | Nord | Jeanne-Marie Vanlande | [CFYV](https://yadvashem-france.org/dossier/nom/13578a/) |
+| 13938 | Marcel Hoffmann | Nord | Marcel Hoffmann | [CFYV](https://yadvashem-france.org/dossier/nom/13938/) |
+| 14273 | René Douce | Nord | René Douce | [CFYV](https://yadvashem-france.org/dossier/nom/14273/) |
+| 3673 | Abbé Oscar Rousseau | Nord | l'abbé Oscar Rousseau lors de sa cérémonie. | [CFYV](https://yadvashem-france.org/dossier/nom/3673/) |
+| 3814 | Jeanne Rousselle | Nord | Anne-Marie CAPITAIN (première à gauche) et Jeanne ROUSSELLE (première à droite) | [CFYV](https://yadvashem-france.org/dossier/nom/3814/) |
+| 4557 | Madeleine Dietz | Nord | Madeleine Dietz ; La plaque de l'arbre en l'honneur de Madeleine Dietz | [CFYV](https://yadvashem-france.org/dossier/nom/4557/) |
+| 4685 | Marcel et Madeleine Franchois ; Georgette Vandenabaele (née Franchois) | Nord | La famille Franchois ; Maurice Baran-Marszak. Il avait 9 ans | [CFYV](https://yadvashem-france.org/dossier/nom/4685/) |
+| 4685A | Eva Durrleman | Nord | — | [CFYV](https://yadvashem-france.org/dossier/nom/4685a/) |
+| 4685B | Thérèse Matter | Nord | Thérèse Matter en 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/4685b/) |
+| 4685C | France Neubert | Nord | — | [CFYV](https://yadvashem-france.org/dossier/nom/4685c/) |
+| 4846 | Léonce et Edmée Baron | Nord | Edmée Baron ; Léonce Baron | [CFYV](https://yadvashem-france.org/dossier/nom/4846/) |
+| 4846A | Pasteur Henri Nick ; Pierre-Élie et Odile Nick | Nord | Le pasteur Henri Nick et son fils Pierre-Elie (assis de gauche à droite) et les deux autres fils d'Henri | [CFYV](https://yadvashem-france.org/dossier/nom/4846a/) |
+| 4846B | Anne-Marie Capitain | Nord | Anne-Marie Capitain | [CFYV](https://yadvashem-france.org/dossier/nom/4846b/) |
+| 5721 | Marcel et Adélaïde-Agathe Thumerel | Nord | Marcel Thumerel ; Adélaïde-Agathe THUMEREL | [CFYV](https://yadvashem-france.org/dossier/nom/5721/) |
+| 6220 | Victor et Marie Aymard | Nord | — | [CFYV](https://yadvashem-france.org/dossier/nom/6220/) |
+| 6220A | Jean et Marguerite Crombez | Nord | — | [CFYV](https://yadvashem-france.org/dossier/nom/6220a/) |
+| 6220B | François et Thérèse Lamotte ; Lucie Halloie, Alice Terrier et Maria Soumillon (nées Lamotte) | Nord | — | [CFYV](https://yadvashem-france.org/dossier/nom/6220b/) |
+| 6220C | Robert et Mireille Dumoulin | Nord | — | [CFYV](https://yadvashem-france.org/dossier/nom/6220c/) |
+| 651 | Abbé Robert Stahl | Nord | 25 août 1970 cérémonie dans la crypte ; cérémonie ; plantation d'un arbre à jérusalem ; plaque commémorative | [CFYV](https://yadvashem-france.org/dossier/nom/651/) |
+| 702 | Émile et Pauline Marquillie | Nord | Emile MARQUILLIE (à gauche) et Pauline plantant un arbre ; Plaque Marquillie ; Arbre Marquillie | [CFYV](https://yadvashem-france.org/dossier/nom/702/) |
+| 7091 | Julienne Lecocq ; Hélène Dequirez | Nord | — | [CFYV](https://yadvashem-france.org/dossier/nom/7091/) |
+| 7633 | Suzanne Mitault ; Madeleine Bompais (née Mitault) | Nord | — | [CFYV](https://yadvashem-france.org/dossier/nom/7633/) |
+| 7864 | Simone Caudmont | Nord | Classe du Lycée Fénélon ; Lycée Fénélon ; Huguette Fuks | [CFYV](https://yadvashem-france.org/dossier/nom/7864/) |
+| 909 | Chanoine Raymond Vancourt | Nord | Raymond Vancourt à Lille en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/909/) |
+| 909A | Raymonde Lombard ; Mlle Leroye | Nord | Raymonde Lombard ; 1942, Raymonde Lombard avec sa protégée Irène | [CFYV](https://yadvashem-france.org/dossier/nom/909a/) |
+| 909B | Marie-Louise Siauve | Nord | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/909b/) |
+| 909D | Alphonse et Jeanne Pattyn | Nord | L'arbre des Pattyn à Jérusalem | [CFYV](https://yadvashem-france.org/dossier/nom/909d/) |
+| 909E | Jean Lecanuet | Nord | Jean Lecanuet ; la cérémonie pour planter un arbre le 25 décembre 1975 à Yad Vashem Crédit collYVJ | [CFYV](https://yadvashem-france.org/dossier/nom/909e/) |
+| 9399 | Léon et Hermance Raynal | Nord | — | [CFYV](https://yadvashem-france.org/dossier/nom/9399/) |
+| 10370 | Marcel et Aline Salagnad | Oise | — | [CFYV](https://yadvashem-france.org/dossier/nom/10370/) |
+| 10537 | Suzanne Merlette | Oise | — | [CFYV](https://yadvashem-france.org/dossier/nom/10537/) |
+| 11642 | Charles et Raymonde Carpentier | Oise | Charles et Raymonde Carpentier ; Raymonde Carpentier ayant reçu le diplôme et la Médaille | [CFYV](https://yadvashem-france.org/dossier/nom/11642/) |
+| 1227 | Henri et Suzanne Ribouleau | Oise | La famille Ribouleau ; Arbre Ribouleau ; Plaque Ribouleau | [CFYV](https://yadvashem-france.org/dossier/nom/1227/) |
+| 12481 | Ernestine Desplanque ; Amélie Mergoux | Oise | Amélie Mergoux et Ernestine Desplanque ; Jean & Michel Pleskoff pendant la guerre | [CFYV](https://yadvashem-france.org/dossier/nom/12481/) |
+| 12855 | Léon et Jeanine Babin | Oise | De gauche à droite : René Dreyfus, devant lui le petit Jean-Louis Dreyfus, Mme Thierriet, Simone Macé*, un ami, Louis Macé*, Jeanine Babin* et Léon Babin*, et devant eux, la petite Melle Maupate et Solange Dreyfus, 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/12855/) |
+| 13890A | Jeanne Lamboux | Oise | Jeanne Lamboux avec Monique et Micheline Spiegel | [CFYV](https://yadvashem-france.org/dossier/nom/13890a/) |
+| 14162 | Robert et Charlotte Ruffin | Oise | Charlotte Ruffin en 1950 ; Robert Ruffin | [CFYV](https://yadvashem-france.org/dossier/nom/14162/) |
+| 14464 | Albéric et Jeanne Colnet ; Henriette Colnet | Oise | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14464/) |
+| 5823 | Edgar Lobgeois | Oise | Juin 1994, remise de la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/5823/) |
+| 6520 | Marguerite Camplan | Oise | — | [CFYV](https://yadvashem-france.org/dossier/nom/6520/) |
+| 7293 | Pasteur André Hammel et Georgette Hammel | Oise | André Hammel | [CFYV](https://yadvashem-france.org/dossier/nom/7293/) |
+| 7313 | Marthe Jungfleisch et Madeleine Grenèche (née Jungfleisch) | Oise | — | [CFYV](https://yadvashem-france.org/dossier/nom/7313/) |
+| 8120 | Maurice et Marcelle Parée ; Mauricette Lebon (née Parée) | Oise | Colette Lichtenbaum | [CFYV](https://yadvashem-france.org/dossier/nom/8120/) |
+| 9196A | Louis et Marie Greffe | Oise | Marie et Louis GREFFE | [CFYV](https://yadvashem-france.org/dossier/nom/9196a/) |
+| 11359 | Joseph et Marianna Tysiak ; Marianna Sloma (née Tysiak) | Pas-de-Calais | Marianna Sloma ; la famille Tysiak avec les personnes sauvées | [CFYV](https://yadvashem-france.org/dossier/nom/11359/) |
+| 12853 | Olivier et Joséphine Bultez | Pas-de-Calais | Joséphine & Olivier Bultez et leur fils Raymond ; Yanchel Breitburd, alias Jean Breitburd, en mars 1938 ; Hersin-Coupigny | [CFYV](https://yadvashem-france.org/dossier/nom/12853/) |
+| 4981 | Fortuné et Louise Delestrez ; Roger et Zénobe Delestrez | Pas-de-Calais | Louise et Fortuné Delestrez ; Médaille Delestrez | [CFYV](https://yadvashem-france.org/dossier/nom/4981/) |
+| 5123 | Henri, Alice et Paulette Caine | Pas-de-Calais | — | [CFYV](https://yadvashem-france.org/dossier/nom/5123/) |
+| 5208 | Henry et Marie Laigle | Pas-de-Calais | Henry Laigle ; Marie Laigle | [CFYV](https://yadvashem-france.org/dossier/nom/5208/) |
+| 529 | Émile Carpentier | Pas-de-Calais | Émile Carpentier en 1947 ; Arbre à Yad Vashem ; Plaque Carpentier à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/529/) |
+| 8622 | Alice Legras | Pas-de-Calais | Alice Legras | [CFYV](https://yadvashem-france.org/dossier/nom/8622/) |
+| 9823 | François et Henriette Dhollande | Pas-de-Calais | 12 juillet 1943, mariage de Karla la fille des sauvés ; 1942, Jacques ; 1943, Hélène et jacques les sauvés ; 1943, Marie et Léontine les filles des sauveurs ; 1944, à droite Jacques l'enfant juif sauvé ; 1944, mariage de Léontine la fille des sauveurs ; Famille des sauvés ; La maison des Dhollande | [CFYV](https://yadvashem-france.org/dossier/nom/9823/) |
+| 10342 | Charles et Marie Monnier | Somme | Charles & Marie MONNIER ; Charles et Marie Monnier avec les sauvés | [CFYV](https://yadvashem-france.org/dossier/nom/10342/) |
+| 13210 | Thérèse Papillon | Somme | Sœur Thérèse Papillon ; Joseph Kleinhandler ; Thérèse Papillon avec les enfants, octobre 1943 ; Thérèse Papillon avec une autre nonne | [CFYV](https://yadvashem-france.org/dossier/nom/13210/) |
+| 4163 | Pierre Couvret-Damevin | Somme | — | [CFYV](https://yadvashem-france.org/dossier/nom/4163/) |
+| 7203 | Alice Rosenstiehl | Somme | Alice Rosenstiehl ; Alice Rosenstiehl | [CFYV](https://yadvashem-france.org/dossier/nom/7203/) |
+| 7870A | Madeleine Michelis | Somme | Madeleine Michelis ; Madeleine Michelis avec sa classe à Amiens | [CFYV](https://yadvashem-france.org/dossier/nom/7870a/) |
+| 8514 | Roger et Victorine Grain | Somme | — | [CFYV](https://yadvashem-france.org/dossier/nom/8514/) |
+| 8757 | Angélina Leveugle (née Carlevaris) | Somme | — | [CFYV](https://yadvashem-france.org/dossier/nom/8757/) |
+| 9299 | Clovis, Blanche et Jacques Hubert | Somme | — | [CFYV](https://yadvashem-france.org/dossier/nom/9299/) |
+| 9814 | Paul et Palmire Béal | Somme | — | [CFYV](https://yadvashem-france.org/dossier/nom/9814/) |
+
+Remarques : 4981 : Suite du parcours : dossier 4981A (Cadier, Pyrénées-Atlantiques). · 6134 : Voir aussi le dossier 6134A (Bouchard). · 7864 : Voir aussi le dossier 5315A (Pasche). · 11430 : Voir aussi le dossier 11430A (gouvernante). · 11468 : Voir aussi le dossier 11469 (Hulin), même filière. · 12315A : Récit commun avec le dossier 12315. · 14162 : Voir aussi le dossier 10342 (Monnier, Somme). · 11430A : Récit commun avec le dossier 11430. · 13578A : Voir aussi le dossier 13578 (Deligne). · 4685A : Récit commun avec les dossiers 4685B et 4685C ; voir aussi 4685 (Franchois). · 4685B : Récit commun avec le dossier 4685A. · 4685C : Récit commun avec le dossier 4685A ; la fiche ne détaille pas son rôle propre. · 4846B : Voir aussi le dossier 3814 (Rousselle). · 6220A : Voir aussi les dossiers 6220, 6220B et 6220C. · 6134A : Voir aussi le dossier 6134 (Cholet). · 909A : Récit commun avec le dossier 909. · 909B : Récit commun avec le dossier 909. · 909D : Récit commun avec le dossier 909 ; la fiche 909D ne porte pas les noms, repris du relevé. · 909E : La fiche 909E ne donne qu’une biographie, sans détail sur le sauvetage.
 
 ## Lot Claude — Pyrénées-Atlantiques (28/11/2026)
 
