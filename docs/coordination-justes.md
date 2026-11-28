@@ -11,6 +11,16 @@ Claude, indique ici les numéros de dossier que tu traites et les sources que tu
 
 Pour chaque lot, indique le dossier, les personnes, les liens des sources, la légende originale des photos et les conditions de réutilisation connues. Signale les numéros déjà traités avant une modification du site.
 
+## Répartition au 28/11/2026 (soir)
+
+- Codex : Alpes-Maritimes (06) et fin du Rhône (69).
+- Claude : Drôme (26) et Loire (42), puis les zones jusqu’ici réservées à Thierry : Haute-Vienne, Haute-Loire, Corrèze, Creuse, Savoie, Aveyron, Allier, Lozère, Cantal, Hautes-Alpes, Vosges ; ainsi que les Alpes-de-Haute-Provence et les quelques dossiers isolés restants.
+- Ordre prévu pour Claude : Drôme, Loire, Haute-Loire, Haute-Vienne, Creuse et Corrèze, Savoie et Hautes-Alpes, Cantal, Allier, Lozère et Aveyron, puis le reste.
+
+## Zone — dossiers incomplets ou erronés
+
+Les fiches du Comité dont le récit manque, est partiel, est repris d’un autre dossier, ou dont le département, le lieu, un nom ou une date posent problème sont recensées dans [`dossiers_incomplets_errones.md`](dossiers_incomplets_errones.md) (71 dossiers au 28/11/2026). Chacun y ajoute ses propres cas, avec le numéro complet et le lien vers la fiche.
+
 ## Prochain lot Claude — Bourgogne (pris le 28/11/2026)
 
 Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dessous). Lot Bourgogne terminé le 28/11/2026 (tableau ci-dessous). Hors 38 et 74.
