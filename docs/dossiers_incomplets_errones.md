@@ -6,7 +6,7 @@ Les dossiers qui partagent simplement un même récit (dossiers A, B, C…) ne f
 
 Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`docs/recherches/lot_*.json`).
 
-## Récit repris d’un autre dossier (5)
+## Récit repris d’un autre dossier (6)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 4795A | Cécile, Thérèse et Marie-Anne Legars (née Le Noac’h) | Paris | La fiche reprend le récit du dossier 4795 (Granger, Val-de-Marne). | [fiche](https://yadvashem-france.org/dossier/nom/4795a/) |
 | 9787 | Alphonse Parent ; Lisa Parent née Bocquet | Yonne | Sur la fiche, le récit 9787 concerne l’abbé Robert Bengel ; l’action des Parent est décrite au dossier 9787A. | [fiche](https://yadvashem-france.org/dossier/nom/9787/) |
 | 10027 | Jean et Marguerite Beyrand (née Boissou) | Haute-Vienne | La partie « témoignage » de la fiche reprend un récit sans rapport avec le dossier (une jeune femme nommée Eva sauvée par des cheminots). | [fiche](https://yadvashem-france.org/dossier/nom/10027/) |
+| 11125 | Claudia My (née Bardet) | Allier | La fiche ne comporte en ligne aucun récit du sauvetage de Georges Weill par Claudia My ; le texte affiché concerne un autre sauvetage, celui de la famille Lévy par Léah Dauga dans le Gers, sans rapport avec le dossier. | [fiche](https://yadvashem-france.org/dossier/nom/11125/) |
 
 ## Fiche sans récit ou récit incomplet (26)
 
@@ -47,13 +48,15 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 14445 | Jeanne Huet-Pasquier | — | Fiche sans récit. | [fiche](https://yadvashem-france.org/dossier/nom/14445/) |
 | 14580 | Paul et Marie Gilain | Orne | Récit absent de la fiche au 28/11/2026. | [fiche](https://yadvashem-france.org/dossier/nom/14580/) |
 
-## Département ou lieu erroné ou à vérifier (37)
+## Département ou lieu erroné ou à vérifier (41)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
 | 100 | Docteure Adélaïde Hautval | — | Département non renseigné sur la fiche ; les faits commencent à Bourges. | [fiche](https://yadvashem-france.org/dossier/nom/100/) |
 | 1233 | Charles Gombert | Meuse | La fiche situe Nançois-sur-Ornain dans les Vosges ; la commune est dans la Meuse. | [fiche](https://yadvashem-france.org/dossier/nom/1233/) |
 | 1710 | Victor et Joséphine Guicherd (née Court-Fortune) | Savoie | La fiche situe Dullin « non loin de Lépin-le-Lac (Rhône) » ; les deux communes sont en Savoie. | [fiche](https://yadvashem-france.org/dossier/nom/1710/) |
+| 1807A | Louise Thèbes | Aveyron | Voir aussi les dossiers 1807 (Bergon) et 1807B (Roques). Le récit situe Capdenac dans le Lot, alors que la fiche indique l’Aveyron. | [fiche](https://yadvashem-france.org/dossier/nom/1807a/) |
+| 1807B | Marguerite Roques | Aveyron | Voir aussi les dossiers 1807 (Bergon) et 1807A (Thèbes). Le récit situe Capdenac dans le Lot, alors que la fiche indique l’Aveyron. | [fiche](https://yadvashem-france.org/dossier/nom/1807b/) |
 | 1820 | Adolphine Dorel et Jeanne Bonhomme (née Dorel) | Loire | La fiche situe Saint-Pal-de-Mons dans la Loire (récit) et en Haute-Loire (en-tête) ; la commune est en Haute-Loire, le dossier est rattaché à la Loire. | [fiche](https://yadvashem-france.org/dossier/nom/1820/) |
 | 3080A | Julien-Henri et Marthe Justes ; Simone Justes | Landes | Récit lié au dossier 3080 ; la fiche situe le dossier à Paris (18e). | [fiche](https://yadvashem-france.org/dossier/nom/3080a/) |
 | 3315A | Sœur Anne-Marie Llobet | Hautes-Pyrénées | La fiche indique « Hautes-Alpes » par erreur ; Tarbes est dans les Hautes-Pyrénées. | [fiche](https://yadvashem-france.org/dossier/nom/3315a/) |
@@ -64,9 +67,11 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 5654 | Paul Chevalier ; Alice Chevalier née Prudent | Saône-et-Loire | La fiche cite aussi Bourg-la-Reine : lieu à vérifier. | [fiche](https://yadvashem-france.org/dossier/nom/5654/) |
 | 5792A | Éliette Cordelier ; Élie et Marguerite Cordelier | Charente | La fiche situe le dossier à Périgueux (Dordogne). | [fiche](https://yadvashem-france.org/dossier/nom/5792a/) |
 | 6821 | Marius et Andréa Genthon (née Ferlin) | Drôme | La fiche ne précise ni la ville ni le département ; le récit situe les faits à Romans-sur-Isère. | [fiche](https://yadvashem-france.org/dossier/nom/6821/) |
+| 7829 | Jean et Marthe Desrutin | Allier | Le récit situe Ainay-le-Château dans le Cher ; la commune se trouve dans l’Allier. | [fiche](https://yadvashem-france.org/dossier/nom/7829/) |
 | 8330 | Charles et Marthe Herbault (née Dufresne) | Essonne | La fiche situe Dourdan dans le Val-de-Marne. | [fiche](https://yadvashem-france.org/dossier/nom/8330/) |
 | 9300 | Eugène et Élisabeth Münch (née Balcke) | Haute-Loire | La fiche ne précise ni la ville ni le département ; le récit situe les faits au Chambon-sur-Lignon. | [fiche](https://yadvashem-france.org/dossier/nom/9300/) |
 | 9529 | Germaine Dufour | Creuse | Voir aussi le dossier 9529A (Fournier, Haute-Vienne). Le récit de la fiche 9529A situe la Grand’Vallée en Isère. | [fiche](https://yadvashem-france.org/dossier/nom/9529/) |
+| 9625 | Jeanne Dessaigne (Sœur Marie-Angèle) et Philomène Rolland (Sœur Marie-Étienne) | Cantal | La fiche situe les Justes à « Allanches » ; la commune s’écrit Allanche. | [fiche](https://yadvashem-france.org/dossier/nom/9625/) |
 | 9815 | Paul Béal ; Palmire Béal | Indre | La fiche situe les faits dans la Somme ; la base rattache la notice à l’Indre. | [fiche](https://yadvashem-france.org/dossier/nom/9815/) |
 | 9945 | Henri et Simone Voisin (née Churlet) | Seine-Saint-Denis | La fiche situe Aulnay-sous-Bois en Seine-et-Marne et dit Simone infirmière, alors que l’en-tête la donne couturière. | [fiche](https://yadvashem-france.org/dossier/nom/9945/) |
 | 10882 | Lucien et Hélène Roux (née Durrieu) | Bouches-du-Rhône | La fiche situe Marseille dans le département du Rhône. | [fiche](https://yadvashem-france.org/dossier/nom/10882/) |

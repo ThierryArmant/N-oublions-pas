@@ -27,7 +27,95 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Haute-Vienne (57), Creuse et Corrèze (80), Savoie et Hautes-Alpes (48), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Cantal, Allier, Lozère et Aveyron. Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+79
+
+## Lot Claude — Cantal, Allier, Lozère et Aveyron
+
+Récit intégré sur `main` pour 79 dossiers ; 102 portraits et 134 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_cantal-allier-lozere-aveyron.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10005 | Jacques et Marguerite Copet (née Thomas) | Allier | Marguerite Copet, Edith Bloche et Florence Heilbronn, 25 juin 1942 ; Jacques Copet et Florence Heilbronn, 25 juin 1942 ; Avril 1944 : Florence, Philippe et Hubert Heilbronn | [CFYV](https://yadvashem-france.org/dossier/nom/10005/) |
+| 10206 | Antoine et Michelle Buffet (née Rollet) | Allier | Michelle et Antoine Buffet ; Philippe Créange en 1945 | [CFYV](https://yadvashem-france.org/dossier/nom/10206/) |
+| 10206A | Pierre et Jeanne-Simone Dépalle (née Rollet) | Allier | Pierre et Jeanne-Simone Dépalle | [CFYV](https://yadvashem-france.org/dossier/nom/10206a/) |
+| 10577 | Albina Stacchiotti | Allier | En 1941, Albina Stacchiotti avec Martine et Nicole Enriquez | [CFYV](https://yadvashem-france.org/dossier/nom/10577/) |
+| 11125 | Claudia My (née Bardet) | Allier | — | [CFYV](https://yadvashem-france.org/dossier/nom/11125/) |
+| 11878 | Pierre et Elisabeth François (née Risler) | Allier | Pierre François ; Elisabeth Risler-François | [CFYV](https://yadvashem-france.org/dossier/nom/11878/) |
+| 11878A | René et Henriette Duphil (née Laulhé) | Allier | René Duphil ; Henriette Duphil-Laulhé | [CFYV](https://yadvashem-france.org/dossier/nom/11878a/) |
+| 11935 | Philibert et Marie-Louise Tuloup (née Morignat) | Allier | Monsieur et Madame Tuloup | [CFYV](https://yadvashem-france.org/dossier/nom/11935/) |
+| 13672 | Félix et Marthe Bonneaud (née Malterre), Jeannine Rebeyrol (née Bonneaud) | Allier | Marthe Bonneaud ; Jeannine Rebeyrol à son mariage, avec ses parents Félix et Marthe Bonneaud, septembre 1945 | [CFYV](https://yadvashem-france.org/dossier/nom/13672/) |
+| 13854 | Juliette Blanche Jondreville (née Schenck) | Allier | Juliette Jondreville ; David Gerson, 5 ou 6 ans, Vichy, 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/13854/) |
+| 14220 | Etienne Espinel | Allier | Étienne Espinel | [CFYV](https://yadvashem-france.org/dossier/nom/14220/) |
+| 4199 | Roger et Pierrette Jurvillier (née Bozard) | Allier | Roger Jurvillier, M. et Mme Loeb, M. et Mme Wolf avec leur fille ; Roger et Pierrette Jurvillier | [CFYV](https://yadvashem-france.org/dossier/nom/4199/) |
+| 7083 | Marie Pelin | Allier | Marie Pelin ; Marie Pelin et les enfants sauvés | [CFYV](https://yadvashem-france.org/dossier/nom/7083/) |
+| 7186 | Marcelle Jardiller | Allier | Marcelle Jardiller | [CFYV](https://yadvashem-france.org/dossier/nom/7186/) |
+| 7301 | François et Anna Potonnier (née Jonard) | Allier | Remise de la médaille à François Potonnier ; Francis Rosenstiel et sa mère à Vichy en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/7301/) |
+| 7829 | Jean et Marthe Desrutin | Allier | — | [CFYV](https://yadvashem-france.org/dossier/nom/7829/) |
+| 9294 | Jeanne Rodien (Mère Jeanne) et Marie Laurence Castillon | Allier | Marie Castillon ; Jeanne Rodien | [CFYV](https://yadvashem-france.org/dossier/nom/9294/) |
+| 9525 | Emile et Denise Coury (née Quichon) | Allier | — | [CFYV](https://yadvashem-france.org/dossier/nom/9525/) |
+| 9536 | Louis Collet | Allier | Louis Collet | [CFYV](https://yadvashem-france.org/dossier/nom/9536/) |
+| 9728 | Stéphane et Louise Andrivon (née Lamoine) | Allier | Louise Andrivon ; Stéphane Andrivon | [CFYV](https://yadvashem-france.org/dossier/nom/9728/) |
+| 9915 | Jean et Marie Raveau (née Bichet) | Allier | Jean Raveau en 1955 ; En 1957 Mathilde Blumenthal ; Jean Raveau et Marie-Odile Blumenthal en 1940 ; Hubert Raveau lors de la cérémonie du 24 novembre 2005 | [CFYV](https://yadvashem-france.org/dossier/nom/9915/) |
+| 10588 | Marcel et Fanny Bourgouin (née Gandy), Georges et Madeleine Bourgouin | Aveyron | La famille Bourgouin en 1942 : Marcel, Fanny, Georges et Madeleine | [CFYV](https://yadvashem-france.org/dossier/nom/10588/) |
+| 10938 | Emmanuel et Marie-Louise Arnal (née Arvieu) | Aveyron | Emmanuel et Marie-Louise Arnal ; Les personnes sauvées ; Article de La Dépêche du Midi, 6 août 2023 | [CFYV](https://yadvashem-france.org/dossier/nom/10938/) |
+| 11563B | Eugénie Hérail (Mère Augustin en religion) | Aveyron | Eugénie Hérail, mère Augustin en religion ; Remise de la médaille et du diplôme | [CFYV](https://yadvashem-france.org/dossier/nom/11563b/) |
+| 11611 | Alfred et Marie Émilie Falippou (née Alaux) | Aveyron | Alfred et Marie Falippou ; Le Combal ; Article de La Dépêche du Midi, 6 août 2023 | [CFYV](https://yadvashem-france.org/dossier/nom/11611/) |
+| 11809 | Marcel et Germaine Cazalet (née Grasset) | Aveyron | Marcel et Germaine Cazalet | [CFYV](https://yadvashem-france.org/dossier/nom/11809/) |
+| 11858 | Raoul et Carmen Borie (née Alary) | Aveyron | Carmen Borie ; Raoul Borie | [CFYV](https://yadvashem-france.org/dossier/nom/11858/) |
+| 11858A | Pierre et Marie Cabanettes (née Jouve) | Aveyron | Pierre et Marie Cabanettes | [CFYV](https://yadvashem-france.org/dossier/nom/11858a/) |
+| 12033 | Blanche Rouve | Aveyron | Blanche Rouve ; Article de La Dépêche du Midi, 3 septembre 2023 | [CFYV](https://yadvashem-france.org/dossier/nom/12033/) |
+| 12060 | Marie-Laurence Quatrefages (née Egrefeuille) | Aveyron | Marie-Laurence Quatrefages ; Chaïm Widerspan et sa famille | [CFYV](https://yadvashem-france.org/dossier/nom/12060/) |
+| 13461 | Eva Pourcel (née Gaudou) | Aveyron | Eva Pourcel | [CFYV](https://yadvashem-france.org/dossier/nom/13461/) |
+| 13480 | Yvonne Moncet | Aveyron | Yvonne Moncet en juillet 1947 | [CFYV](https://yadvashem-france.org/dossier/nom/13480/) |
+| 13583 | Ernest et Jeanne Sirvain (née Lissorgues) | Aveyron | Ernest Sirvain ; Jeanne Sirvain ; Famille Antcher en Suisse ; Fela et Anne Antcher en Suisse en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/13583/) |
+| 14413 | Jean-Baptiste et Maria Fabre (née Cayre) | Aveyron | Jean-Baptiste et Maria Fabre ; Au centre : Jean Waligora, personne sauvée (1941-1942) | [CFYV](https://yadvashem-france.org/dossier/nom/14413/) |
+| 1532 | Antoinette Masserey (Sœur Antoinette) | Aveyron | Sœur Antoinette Masserey | [CFYV](https://yadvashem-france.org/dossier/nom/1532/) |
+| 1672 | Idebert et Yvonne Exbrayat (née Cordeil) | Aveyron | Le pasteur Idebert Exbrayat ; Yvonne Exbrayat ; Cérémonie à Yad Vashem, le 23 juin 1981 | [CFYV](https://yadvashem-france.org/dossier/nom/1672/) |
+| 1807 | Denise Bergon | Aveyron | Sœur Denise Bergon ; Sœur Denise Bergon | [CFYV](https://yadvashem-france.org/dossier/nom/1807/) |
+| 1807A | Louise Thèbes | Aveyron | Article de La Dépêche du Midi, 23 juillet 2023 | [CFYV](https://yadvashem-france.org/dossier/nom/1807a/) |
+| 1807B | Marguerite Roques | Aveyron | Marguerite Roques ; Article de La Dépêche du Midi, 2 juillet 2023 | [CFYV](https://yadvashem-france.org/dossier/nom/1807b/) |
+| 2698I | Paul et Marguerite Ramadier (née Cerri) | Aveyron | Paul Ramadier ; Cérémonie ; Dévoilement de la plaque | [CFYV](https://yadvashem-france.org/dossier/nom/2698i/) |
+| 5638 | Jeanne-Françoise Zufferey (Sœur Jeanne-Françoise) | Aveyron | Sœur Jeanne-Françoise (au centre) | [CFYV](https://yadvashem-france.org/dossier/nom/5638/) |
+| 9924 | Joseph et Marie Alauze (née Mazel) | Aveyron | Marie et Joseph Alauze ; Article de La Dépêche du Midi, 3 août 2023 | [CFYV](https://yadvashem-france.org/dossier/nom/9924/) |
+| 9944 | Philémon Dumoulin (abbé) | Aveyron | L’abbé Dumoulin en 1950 | [CFYV](https://yadvashem-france.org/dossier/nom/9944/) |
+| 10847 | Eugène et Florine Canal (née Moinet), Denise Varennes (née Canal) | Cantal | Eugène et Florine Canal ; Denise Varennes | [CFYV](https://yadvashem-france.org/dossier/nom/10847/) |
+| 10847A | Félix Alfred Chardon | Cantal | Félix Alfred Chardon en 1945 ; M. Chardon et trois de ses fils, Olivier, Victor et Auguste, été 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/10847a/) |
+| 12116 | Amparo Pappo (née Otero) | Cantal | Amparo Pappo | [CFYV](https://yadvashem-france.org/dossier/nom/12116/) |
+| 12925 | Laurent et Blanche Danguiral (née Uzols) | Cantal | Blanche Danguiral ; Laurent Danguiral ; Georges et Betty Zilberstein | [CFYV](https://yadvashem-france.org/dossier/nom/12925/) |
+| 13597 | Pierre Delbos | Cantal | Lieu du sauvetage | [CFYV](https://yadvashem-france.org/dossier/nom/13597/) |
+| 14037 | Jean Géraud et Marie Rongier (née Gaillac), Léontine Tournier (née Rongier) | Cantal | Marie Rongier ; Léontine Rongier ; Jean, dit Géraud, Rongier | [CFYV](https://yadvashem-france.org/dossier/nom/14037/) |
+| 14037B | Marie Bonal (née Combelle), Eliane Bonal (née Combelle) | Cantal | Éliane Bonal en 1944 ; Abram Kuczynski en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/14037b/) |
+| 2714 | Marie Sagnier | Cantal | Marie Sagnier reçoit le diplôme à Yad Vashem ; Marie Sagnier (à gauche) plante un arbre dans l’allée des Justes en 1984 | [CFYV](https://yadvashem-france.org/dossier/nom/2714/) |
+| 5579 | Marie-Alice Vidal (Sœur Marie-Alice) | Cantal | Sœur Marie-Alice Vidal donnant des soins | [CFYV](https://yadvashem-france.org/dossier/nom/5579/) |
+| 7841 | Antoine et Henriette Laybros (née Cellier) | Cantal | Cérémonie en l’honneur d’Antoine et Henriette Laybros à Yad Vashem, 27 avril 1999 ; Au micro, Antoine Laybros ; derrière, Henriette Laybros, Robert Mizrahi et, à côté, Louisette Tête ; Henriette et Antoine Laybros, assis ; Cérémonie à Aurillac, juillet 1998 : intervention d’Edmond Mizrahi, caché par la famille Laybros | [CFYV](https://yadvashem-france.org/dossier/nom/7841/) |
+| 7841A | Philippe et Yvonne Tête | Cantal | Philippe et Yvonne Tête | [CFYV](https://yadvashem-france.org/dossier/nom/7841a/) |
+| 8183 | Abel Enjalbert | Cantal | Abel Enjalbert ; Abel Enjalbert devant le mur des Justes à Yad Vashem, 4 mai 2000 | [CFYV](https://yadvashem-france.org/dossier/nom/8183/) |
+| 8183A | Henri Weisbecker | Cantal | Henri Weisbecker en 1946 | [CFYV](https://yadvashem-france.org/dossier/nom/8183a/) |
+| 8473 | Jeanne Lavialle | Cantal | Jeanne Lavialle ; Jeanne Lavialle en 1950 à son bureau de la préfecture d’Aurillac | [CFYV](https://yadvashem-france.org/dossier/nom/8473/) |
+| 9126 | Paul et Jean-Michel Dousselin | Cantal | Paul et Madeleine Dousselin ; Paul Dousselin (deuxième à droite) et ses enfants ; Jean-Michel est le premier à gauche ; Remise de la Légion d’honneur à Paul Dousselin par M. Royer, Strasbourg, 7 décembre 1957 ; Bessac, la ferme ; Paul et Madeleine Dousselin | [CFYV](https://yadvashem-france.org/dossier/nom/9126/) |
+| 9126A | Antoinette Marthe Nicolas (née Lemasson) | Cantal | — | [CFYV](https://yadvashem-france.org/dossier/nom/9126a/) |
+| 9625 | Jeanne Dessaigne (Sœur Marie-Angèle) et Philomène Rolland (Sœur Marie-Étienne) | Cantal | À gauche, Philomène Rolland (sœur Marie-Étienne) ; à droite, Jeanne Dessaigne (sœur Marie-Angèle) | [CFYV](https://yadvashem-france.org/dossier/nom/9625/) |
+| 9784 | Roger Bonhoure | Cantal | Roger Bonhoure ; Roger Bonhoure | [CFYV](https://yadvashem-france.org/dossier/nom/9784/) |
+| 10575 | Henri et Hélène Cordesse (née Fielbard) | Lozère | Henri et Hélène Cordesse ; Les quatre frères Reiss | [CFYV](https://yadvashem-france.org/dossier/nom/10575/) |
+| 12132 | Augustine Brugeron (Sœur Marie-Rose en religion) | Lozère | Augustine Brugeron, sœur Marie-Rose en religion ; La plaque commémorative | [CFYV](https://yadvashem-france.org/dossier/nom/12132/) |
+| 12132A | Joseph Caupert | Lozère | Père Joseph Caupert | [CFYV](https://yadvashem-france.org/dossier/nom/12132a/) |
+| 12132B | Marie-Rose Hermantier (Sœur Marie-Émilienne en religion) | Lozère | Sœur Marie-Émilienne | [CFYV](https://yadvashem-france.org/dossier/nom/12132b/) |
+| 14609 | Roger et Malvina Fagès (née Martin) | Lozère | Roger Fagès | [CFYV](https://yadvashem-france.org/dossier/nom/14609/) |
+| 14609B | Rose Fagès | Lozère | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14609b/) |
+| 2698B | François et Liliane Chazel | Lozère | François Chazel ; Liliane Chazel | [CFYV](https://yadvashem-france.org/dossier/nom/2698b/) |
+| 2698G | Franck Robert | Lozère | — | [CFYV](https://yadvashem-france.org/dossier/nom/2698g/) |
+| 2698M | André et Fleur Gall | Lozère | — | [CFYV](https://yadvashem-france.org/dossier/nom/2698m/) |
+| 2698N | Joseph Isaac et Henriette Bourdon (née Roux) | Lozère | Joseph et Henriette Bourdon | [CFYV](https://yadvashem-france.org/dossier/nom/2698n/) |
+| 3370 | Marc et Françoise Donadille (née Odier) | Lozère | Le pasteur Marc Donadille et sa femme Françoise ; L’arbre des Donadille ; La plaque sous l’arbre des Donadille | [CFYV](https://yadvashem-france.org/dossier/nom/3370/) |
+| 3774 | Léon et Yvonne Guin (née Gely) | Lozère | — | [CFYV](https://yadvashem-france.org/dossier/nom/3774/) |
+| 3979 | Paul et Annie Tinel | Lozère | — | [CFYV](https://yadvashem-france.org/dossier/nom/3979/) |
+| 4072 | Gaston Charles et Simone Martin | Lozère | Le pasteur Gaston-Charles Martin | [CFYV](https://yadvashem-france.org/dossier/nom/4072/) |
+| 4411 | Camille Auguste Gaillard et Camille Alla (née Gaillard) | Lozère | Camille Gaillard Alla ; Camille Auguste Gaillard | [CFYV](https://yadvashem-france.org/dossier/nom/4411/) |
+| 532 | Ernest et Lucie Audrix | Lozère | Ernest Audrix | [CFYV](https://yadvashem-france.org/dossier/nom/532/) |
+| 532A | Simone Serrière (née Baldy) | Lozère | Simone Serrière | [CFYV](https://yadvashem-france.org/dossier/nom/532a/) |
+| 5805 | Marcellin Cazals | Lozère | Marcellin Cazals ; Suzanne, sa mère et Régine, les personnes sauvées | [CFYV](https://yadvashem-france.org/dossier/nom/5805/) |
+
+Remarques : 10206 : Voir aussi le dossier 10206A (Dépalle). · 10206A : Voir aussi le dossier 10206 (Buffet). · 10847 : Voir aussi le dossier 10847A (Chardon). · 10847A : Voir aussi le dossier 10847 (Canal). · 11125 : La fiche ne comporte en ligne aucun récit du sauvetage de Georges Weill par Claudia My ; le texte affiché concerne un autre sauvetage, celui de la famille Lévy par Léah Dauga dans le Gers, sans rapport avec le dossier. · 11858 : Voir aussi le dossier 11858A (Cabanettes). · 11858A : Voir aussi le dossier 11858 (Borie). · 11878 : Voir aussi le dossier 11878A (Duphil). · 11878A : Voir aussi le dossier 11878 (François). · 12132 : Voir aussi les dossiers 12132A (Caupert) et 12132B (Hermantier). · 12132A : Voir aussi les dossiers 12132 (Brugeron) et 12132B (Hermantier). · 12132B : Voir aussi les dossiers 12132 (Brugeron) et 12132A (Caupert). · 14037 : Voir aussi le dossier 14037B (Bonal). · 14037B : Voir aussi le dossier 14037 (Rongier). · 14609 : Voir aussi le dossier 14609B (Rose Fagès) et le dossier 3370 (Donadille). · 14609B : Voir aussi le dossier 14609 (Roger et Malvina Fagès). · 1807 : Voir aussi les dossiers 1807A et 1807B. · 1807A : Voir aussi les dossiers 1807 (Bergon) et 1807B (Roques). Le récit situe Capdenac dans le Lot, alors que la fiche indique l’Aveyron. · 1807B : Voir aussi les dossiers 1807 (Bergon) et 1807A (Thèbes). Le récit situe Capdenac dans le Lot, alors que la fiche indique l’Aveyron. · 2698B : Voir aussi les dossiers 2698N (Bourdon) et 2698M (Gall). · 2698I : Le dossier de la réunion de Yad Vashem ne donne pas l’année de la décision (« le 17 janvier »). · 2698M : Voir aussi les dossiers 532A (Serrière), 532 (Audrix) et 2698N (Bourdon). · 2698N : Voir aussi les dossiers 2698B (Chazel) et 2698M (Gall). · 3979 : Le nom est écrit « Tinnel » sur la fiche et « Tinel » dans le récit. Voir aussi le dossier 4072 (Martin). · 4072 : Voir aussi le dossier 3979 (Tinel). · 532 : Voir aussi les dossiers 532A (Serrière) et 2698M (Gall). · 532A : Voir aussi les dossiers 532 (Audrix) et 2698M (Gall). · 7083 : Le lieu de cache, Chassaings (Vestolaye), est situé dans le Puy-de-Dôme selon le récit, alors que la fiche est classée dans l’Allier. · 7829 : Le récit situe Ainay-le-Château dans le Cher ; la commune se trouve dans l’Allier. · 7841 : Voir aussi le dossier 7841A (Tête). · 7841A : Voir aussi le dossier 7841 (Laybros). · 8183 : Voir aussi le dossier 8183A (Weisbecker). · 8183A : Voir aussi le dossier 8183 (Enjalbert). · 9126 : Le récit place Bessac dans la Vienne, alors que la ferme est atteinte en voiture à cheval depuis Massiac. Voir aussi le dossier 9126A (Nicolas). · 9126A : Voir aussi le dossier 9126 (Dousselin). · 9536 : Voir aussi le dossier 9915 (Raveau). · 9625 : La fiche situe les Justes à « Allanches » ; la commune s’écrit Allanche. · 9915 : Voir aussi le dossier 9536 (Collet). · 9924 : La fiche les dit représentant et commerçante, le récit agriculteurs.
 
 ## Lot Claude — Savoie et Hautes-Alpes
 
