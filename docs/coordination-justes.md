@@ -15,6 +15,10 @@ Pour chaque lot, indique le dossier, les personnes, les liens des sources, la l�
 
 Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dessous). Lot Bourgogne terminé le 28/11/2026 (tableau ci-dessous). Hors 38 et 74.
 
+## Lot Claude en cours — Centre-Val de Loire (pris le 28/11/2026)
+
+Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret : 146 dossiers sans récit. Ensuite, Claude poursuit seul de proche en proche hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central) et l’indique ici avant chaque lot.
+
 ## Lot Claude — Bourgogne (28/11/2026)
 
 Récit intégré sur `main` pour les 68 dossiers ci-dessous ; 94 portraits et 120 photographies de dossier (légende originale, crédit et lien vers la fiche). Feu vert ONACVG / Comité. Relevé complet : `docs/recherches/lot_bourgogne_2026-11-28.json`.
