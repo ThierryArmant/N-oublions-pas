@@ -17,7 +17,85 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69) et Poitou-Charentes (68 : Vienne, Charente, Deux-Sèvres, Charente-Maritime), tableaux ci-dessous. Lot en cours : Gironde, Landes et Lot-et-Garonne ; ensuite Dordogne (Pyrénées-Atlantiques laissés à la zone Pyrénées). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central, Puy-de-Dôme) et l’indique ici avant chaque lot.
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68) et Gironde-Landes-Lot-et-Garonne (69), tableaux ci-dessous. Lot en cours : Dordogne. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées dont Pyrénées-Atlantiques, Massif central, Puy-de-Dôme) et l’indique ici avant chaque lot.
+
+## Lot Claude — Gironde, Landes et Lot-et-Garonne (28/11/2026)
+
+Récit intégré sur `main` pour 69 dossiers ; 60 portraits et 96 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_gironde_landes_lot_et_garonne_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10097 | Edith Cérézuelle | Gironde | Edith CEREZUELLE | [CFYV](https://yadvashem-france.org/dossier/nom/10097/) |
+| 10368A | Henri Daigueperse | Gironde | Henri Daigueperse | [CFYV](https://yadvashem-france.org/dossier/nom/10368a/) |
+| 10515B | Maurice Hautefaye | Gironde | Maurice HAUTEFAYE | [CFYV](https://yadvashem-france.org/dossier/nom/10515b/) |
+| 10779 | René-Charles et Thérèse Boussat | Gironde | René et Thérèse Boussat | [CFYV](https://yadvashem-france.org/dossier/nom/10779/) |
+| 11002A | Georges et Jeanne Cadapeaud | Gironde | Georges et Jeanne Cadapaud | [CFYV](https://yadvashem-france.org/dossier/nom/11002a/) |
+| 11718 | André et Thérèse Bouchereau | Gironde | Maurice et Thérèse Bouchereau ; DE G A D JOSETTE GERCHENZON, MADELEINE BOUCHEREAU, JACQUES RENVERSADE ,SIMONE GERCHENZON,ALBERT ROUSSO | [CFYV](https://yadvashem-france.org/dossier/nom/11718/) |
+| 11769 | Léopold et Marthe Dumas | Gironde | Léopold Dumas | [CFYV](https://yadvashem-france.org/dossier/nom/11769/) |
+| 12204 | Marc Monthuzet | Gironde | — | [CFYV](https://yadvashem-france.org/dossier/nom/12204/) |
+| 12204B | Yvonne Bourdeix | Gironde | — | [CFYV](https://yadvashem-france.org/dossier/nom/12204b/) |
+| 12204C | Asunta Guilhem | Gironde | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12204c/) |
+| 12204D | Pierre et Jacqueline Jay | Gironde | Pierre & Jacqueline Jay | [CFYV](https://yadvashem-france.org/dossier/nom/12204d/) |
+| 12372 | Jean et Amélie Lacampagne | Gironde | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12372/) |
+| 12402 | Léon et Henriette Chignac | Gironde | Vers 1930, Léon & Henriette CHIGNAC | [CFYV](https://yadvashem-france.org/dossier/nom/12402/) |
+| 12823 | Marcelle Larigaudière | Gironde | — | [CFYV](https://yadvashem-france.org/dossier/nom/12823/) |
+| 12823A | Fernand et Suzanne Favre | Gironde | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12823a/) |
+| 13233 | André et Hortensia Laumier | Gironde | Lucien et Denise Kalisz, Hortensia Laumier et Paulette Kalisz ; Denise Kalisz André Laumier et Lucien Kalisz ; Sana Kalisz | [CFYV](https://yadvashem-france.org/dossier/nom/13233/) |
+| 14047A | Georges et Jeannine Merveilleau | Gironde | De gauche à droite, Eva Marx, Georges Merveilleau, Jeanine Merveilleau, Jean-Paul Marx, René Marx | [CFYV](https://yadvashem-france.org/dossier/nom/14047a/) |
+| 14047C | Pierre Marbouty | Gironde | — | [CFYV](https://yadvashem-france.org/dossier/nom/14047c/) |
+| 14158 | Michel Ballarin | Gironde | Michel Ballarin | [CFYV](https://yadvashem-france.org/dossier/nom/14158/) |
+| 264 | Aristides de Sousa Mendes | Gironde | Aristide DE SOUSA MENDES ; Enveloppe timbrée à l'effigie de Aristide | [CFYV](https://yadvashem-france.org/dossier/nom/264/) |
+| 2833 | Marcel Lagarde | Gironde | Marcel Lagarde | [CFYV](https://yadvashem-france.org/dossier/nom/2833/) |
+| 4857 | Anne-Marie Estève | Gironde | Carte de combattant | [CFYV](https://yadvashem-france.org/dossier/nom/4857/) |
+| 5577A | Marcel Bernadac | Gironde | Max Rosenzweig dirigeant une chorale à Thionville dans les années 1950 (archives familiales) | [CFYV](https://yadvashem-france.org/dossier/nom/5577a/) |
+| 6687 | Robert Lacoste | Gironde | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/6687/) |
+| 7045 | René et Mauricette Beaucaillou | Gironde | Mauricette Beaucaillou avec René et Clairette Torrès | [CFYV](https://yadvashem-france.org/dossier/nom/7045/) |
+| 7183 | Étienne et Gilberte Dumarchat | Gironde | — | [CFYV](https://yadvashem-france.org/dossier/nom/7183/) |
+| 7185 | Marguerite Lajugie (née Farges) | Gironde | En 1943, Marguerite LAJUGIE ; Boris Cyrulnik en 1943 ; En 1997, Marguerite Lajugie-Farges et Boris Cyrulnik | [CFYV](https://yadvashem-france.org/dossier/nom/7185/) |
+| 7535 | René Tauzin | Gironde | — | [CFYV](https://yadvashem-france.org/dossier/nom/7535/) |
+| 8619 | Raymonde Fanouillaire (née Sauviac) | Gironde | Photo des enfants cachés ; Raymonde Fanouillaire avec, à sa droite, M. de Monbrison | [CFYV](https://yadvashem-france.org/dossier/nom/8619/) |
+| 8620 | Émile et Georgette Herpe | Gironde | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/8620/) |
+| 8727 | Paul et Marthe Vergnaud | Gironde | Marthe VERGNAUD ; Paul VERGNAUD | [CFYV](https://yadvashem-france.org/dossier/nom/8727/) |
+| 8818 | Georges et Lucienne Mitteau | Gironde | — | [CFYV](https://yadvashem-france.org/dossier/nom/8818/) |
+| 9036 | Madeleine Ladevèze | Gironde | — | [CFYV](https://yadvashem-france.org/dossier/nom/9036/) |
+| 9166 | Pierrette Laurens (née Vincelot) | Gironde | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9166/) |
+| 9345 | Jeanne Pinet (sœur Dominique) | Gironde | PINET Dominique | [CFYV](https://yadvashem-france.org/dossier/nom/9345/) |
+| 9456 | Jacques Ellul | Gironde | Jacques Ellul | [CFYV](https://yadvashem-france.org/dossier/nom/9456/) |
+| 9926 | Germaine Ballini | Gironde | Germaine Ballini | [CFYV](https://yadvashem-france.org/dossier/nom/9926/) |
+| 1032 | Raoul Laporterie | Landes | Raoul LAPORTERIE | [CFYV](https://yadvashem-france.org/dossier/nom/1032/) |
+| 11301 | Jean-Marie Lapeyre ; Nathalie et Germaine Lapeyre | Landes | Été 1944 à Saint-Sever, Roland et Odette Sarah Hafon | [CFYV](https://yadvashem-france.org/dossier/nom/11301/) |
+| 3080 | Pierre et Cécile Larrazet | Landes | Pierre et Cécile LARRAZET avec les deux filles qu'ils ont sauvées Esther et Charlotte. | [CFYV](https://yadvashem-france.org/dossier/nom/3080/) |
+| 3080A | Julien-Henri et Marthe Justes ; Simone Justes | Landes | — | [CFYV](https://yadvashem-france.org/dossier/nom/3080a/) |
+| 4665 | Henri, Henriette et Geneviève Duplaissy | Landes | Henri Duplaissy ; Geneviève Duplaissy ; Henriette Duplaissy ; Plaque Duplaissy à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/4665/) |
+| 4665A | Charles et Marguerite Bouzats | Landes | Marguerite et Charles Bouzat ; Cérémonie à Dax (photographie Ville de Dax, Clément Garby) | [CFYV](https://yadvashem-france.org/dossier/nom/4665a/) |
+| 6654 | Sébastien, Maria et Jacqueline Baleste | Landes | Monique Segal, l’enfant sauvée ; Jacqueline Baleste ; Sébastien et Maria Baleste ; Jacqueline Baleste recevant le diplôme des mains de l’ambassade | [CFYV](https://yadvashem-france.org/dossier/nom/6654/) |
+| 7982 | Jean-Baptiste et Marie Lalanne | Landes | — | [CFYV](https://yadvashem-france.org/dossier/nom/7982/) |
+| 9348 | Alphonse, Marie et Jean-Paul Soubeste | Landes | Alphonse SOUBESTE, Jean-Paul SOUBESTE, Henriette et Moïse COHEN (parents de Denise et Claudine) ; Claudine CATTAN et Denise PREZIOSO en 1947 ; Denise CATTAN, Claudine PREZIOSO (les sauvées) et Jean Paul SOUBESTE ; Denise CATTAN et Jean Paul SOUBESTE ; Jean Paul SOUBESTE | [CFYV](https://yadvashem-france.org/dossier/nom/9348/) |
+| 10368 | Fernand et Aurélie Cenou | Lot-et-Garonne | Fernand Cenou | [CFYV](https://yadvashem-france.org/dossier/nom/10368/) |
+| 10436 | Georges et Eva Rouquet ; Ginette Fournier | Lot-et-Garonne | Georges Rouquet ; Ginette Fournier ; Eva Rouquet | [CFYV](https://yadvashem-france.org/dossier/nom/10436/) |
+| 11583 | Denise Baratz | Lot-et-Garonne | Denise Baratz ; Remise de la Légion d'Honneur | [CFYV](https://yadvashem-france.org/dossier/nom/11583/) |
+| 11952 | Docteur Louis Baud | Lot-et-Garonne | Louis Baud | [CFYV](https://yadvashem-france.org/dossier/nom/11952/) |
+| 11952A | Gabriel et Léonie Magimel | Lot-et-Garonne | Gabriel et Léonie MAGIMEL | [CFYV](https://yadvashem-france.org/dossier/nom/11952a/) |
+| 12198 | Zélie et Henriette Lassort | Lot-et-Garonne | Henriette LASSORT | [CFYV](https://yadvashem-france.org/dossier/nom/12198/) |
+| 12532 | Lucienne Deguilhem | Lot-et-Garonne | Lucienne Deguilhem, vers 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/12532/) |
+| 12645 | Bertrand et Marie Fabre | Lot-et-Garonne | Bertrand Fabre ; Marie Fabre ; Henri & Amélie BACHMAN en 1943 à Villeneuve sur Lot | [CFYV](https://yadvashem-france.org/dossier/nom/12645/) |
+| 12901 | Abel et Marie Dulong | Lot-et-Garonne | Famille Lobl en Belgique ; Nadine Dulong | [CFYV](https://yadvashem-france.org/dossier/nom/12901/) |
+| 13606A | Abel (Émile) Fondronnier | Lot-et-Garonne | Louis Lévy | [CFYV](https://yadvashem-france.org/dossier/nom/13606a/) |
+| 13892 | René et Marthe Palaci | Lot-et-Garonne | René et Marthe Palaci | [CFYV](https://yadvashem-france.org/dossier/nom/13892/) |
+| 14047 | Pierre, Eva et Jacques Matignon ; Ernest, Lucie et Emma Planès | Lot-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/14047/) |
+| 1844 | Anne-Marie Guillot | Lot-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/1844/) |
+| 200 | Janusz et Suzanne Zwolakowski | Lot-et-Garonne | Janusz Zwolakowski ; Arbre à Yad Vashem ; Plaque devant l'arbre | [CFYV](https://yadvashem-france.org/dossier/nom/200/) |
+| 3926A | Paul et Elia Laboual | Lot-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/3926a/) |
+| 4422 | Gaston Bourgeois | Lot-et-Garonne | Gaston BOURGEOIS ; Remise de la médaille de la résistance en 1946 | [CFYV](https://yadvashem-france.org/dossier/nom/4422/) |
+| 4856 | Gaston et Gabrielle Chignaguet | Lot-et-Garonne | Gabrielle CHIGNAGUET ; Gaston et Gabrielle Chignaguet | [CFYV](https://yadvashem-france.org/dossier/nom/4856/) |
+| 6272 | Simone May (née Rivière) | Lot-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6272/) |
+| 691 | Maurice Morlon | Lot-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/691/) |
+| 7865 | Abdon Laurent | Lot-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/7865/) |
+| 8041 | Martino et Joséphine Ceruti | Lot-et-Garonne | Joséphine Ceruti ; Joséphine Ceruti ; Martino Ceruti | [CFYV](https://yadvashem-france.org/dossier/nom/8041/) |
+| 828 | Paul et Marguerite Tzaut | Lot-et-Garonne | Paul Tzaut ; Marguerite Tzaut ; Cérémonie Tzaut à Yad Vashem ; Remise du titre Tzaut à Yad Vashem ; Plantation de l'arbre à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/828/) |
+| 8615 | Jean (Clovis) et Blanche Merly | Lot-et-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/8615/) |
+
+Remarques : 10368A : Dossier lié au 10368 (Fernand et Aurélie Cenou, Lot-et-Garonne). · 10515B : Dossier lié aux Justes Duc et Rousseau (même sauvetage). · 12204B : Récit commun avec les dossiers 12204, 12204C et 12204D. · 12204C : Récit commun avec les dossiers 12204, 12204B et 12204D. · 12204D : Récit commun avec les dossiers 12204, 12204B et 12204C. · 12823A : Récit commun avec le dossier 12823. · 14047C : Récit commun avec les dossiers 14047, 14047A et 14047B. · 5577A : Dossier lié au 5577 (Désiré Lalande). · 3080A : Récit lié au dossier 3080 ; la fiche situe le dossier à Paris (18e). · 4665A : Récit lié au dossier 4665. · 10368 : Dossier lié au 10368A (Henri Daigueperse, Gironde). · 11952 : Le nom du Juste n’apparaît pas dans l’en-tête de la fiche ; il est donné par le récit. · 11952A : Récit commun avec le dossier 11952. · 14047 : La fiche situe le dossier à Saint-Antoine-de-Breuilh (Dordogne). Récit commun avec 14047A et 14047C. · 3926A : Dossier lié au 3926 (famille Lequien). · 4856 : Dossier lié au 4857 (Anne-Marie Estève).
 
 ## Lot Claude — Poitou-Charentes (28/11/2026)
 
