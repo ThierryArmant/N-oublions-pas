@@ -17,7 +17,79 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69) et Dordogne (65), tableaux ci-dessous. Lot en cours (zone Pyrénées confiée par Thierry le 28/11) : Ariège et Haute-Garonne, puis Hautes-Pyrénées, Pyrénées-Orientales, Aude et Pyrénées-Atlantiques, avec repérage des liens avec le camp du Vernet et le train fantôme. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65) et Ariège-Haute-Garonne (63), tableaux ci-dessous. Lot en cours (zone Pyrénées confiée par Thierry le 28/11) : Hautes-Pyrénées, Pyrénées-Orientales, Aude, puis Pyrénées-Atlantiques. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Ariège et Haute-Garonne (28/11/2026)
+
+Récit intégré sur `main` pour 63 dossiers ; 50 portraits et 84 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_ariege_haute_garonne_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10490 | Jean-Pierre Acgouau ; Jean-Baptiste et Jeanne Rogalle | Ariège | Jeanne Rogalle ; Jeanne Rogalle et ses parents Marie et Jean-Pierre ; Jean-Baptiste Rogalle en 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/10490/) |
+| 12123 | Conception Faya | Ariège | Conception Faya | [CFYV](https://yadvashem-france.org/dossier/nom/12123/) |
+| 13243 | José et Maria Martinez | Ariège | Marie et José Martinez en 1942 ; José Martinez en 1942 ; En 1941 Henri Joseph et Sarah WAITER avec Lucie ; En 1941, Henri Joseph Waiter sa femme Sarah et leur fille Lucie | [CFYV](https://yadvashem-france.org/dossier/nom/13243/) |
+| 14420 | Robert et Laure Octobon ; Marie-Josèphe Defawe | Ariège | — | [CFYV](https://yadvashem-france.org/dossier/nom/14420/) |
+| 3195A | Rosa Naëf | Ariège | Rosa Naëf à droite au château de la Hille en 1941 | [CFYV](https://yadvashem-france.org/dossier/nom/3195a/) |
+| 3195B | Anne-Marie Im Hof (née Piguet) | Ariège | Anne-Marie Im Hof-Piguet ; Carte d’identité d’Anne-Marie Im Hof-Piguet | [CFYV](https://yadvashem-france.org/dossier/nom/3195b/) |
+| 3195D | Sebastian Steiger | Ariège | Sébastien Steiger | [CFYV](https://yadvashem-france.org/dossier/nom/3195d/) |
+| 6131 | Xavier Gros | Ariège | Xavier Gros | [CFYV](https://yadvashem-france.org/dossier/nom/6131/) |
+| 8511 | Catherine et Huguette Trompette | Ariège | — | [CFYV](https://yadvashem-france.org/dossier/nom/8511/) |
+| 9123 | Margareta Tobler | Ariège | — | [CFYV](https://yadvashem-france.org/dossier/nom/9123/) |
+| 9530F | Albert et Mathilde Laurent | Ariège | — | [CFYV](https://yadvashem-france.org/dossier/nom/9530f/) |
+| 11126 | Pierre Boué et Catherine Laborderie | Haute-Garonne | Pierre Boué ; Moritz BAJOWICZ | [CFYV](https://yadvashem-france.org/dossier/nom/11126/) |
+| 11228 | Honorine Abribat ; Bertrand et Marie Pagnon | Haute-Garonne | Bertrand Pagnon en 1935 ; Honorine Abribat Pagnon en 1944 ; Marie Pagnon en 1910 | [CFYV](https://yadvashem-france.org/dossier/nom/11228/) |
+| 11324C | Gabriel et Maria Féraud | Haute-Garonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11324c/) |
+| 11411 | Jean Olivier | Haute-Garonne | OLIVIER Jean | [CFYV](https://yadvashem-france.org/dossier/nom/11411/) |
+| 11417 | Jeanne Marceillac | Haute-Garonne | Jeanne Marceillac | [CFYV](https://yadvashem-france.org/dossier/nom/11417/) |
+| 11622 | Jean et Marie Desplan | Haute-Garonne | Jean & Marie DESPLAN et Hélène Schwartz ; La famille juive sauvée en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/11622/) |
+| 11671 | Jean-Bernard et Marie Bonnet | Haute-Garonne | BONNET Jean-Bernard ; Marie BONNET ; Plaque commémorative posée sur la maison où a eu lieu le sauvetage | [CFYV](https://yadvashem-france.org/dossier/nom/11671/) |
+| 11746 | Pierre Thomas | Haute-Garonne | Pierre Thomas en 2008 ; 1943 Pierre THOMAS | [CFYV](https://yadvashem-france.org/dossier/nom/11746/) |
+| 11799 | Jean-Marie et Clémence Ordy | Haute-Garonne | Famille ORDY ; Famille LEVIT | [CFYV](https://yadvashem-france.org/dossier/nom/11799/) |
+| 1193 | Marie Fenayrol ; Jean et Marie Fenayrol | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/1193/) |
+| 12025 | Roger et Marie-Louise Massoc | Haute-Garonne | Marie-Louise Massoc ; Roger Massoc | [CFYV](https://yadvashem-france.org/dossier/nom/12025/) |
+| 12115 | Jeanne Pariset | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/12115/) |
+| 12173 | Charles Suran | Haute-Garonne | Charles Suran et des proches ; Suran Charles au centre | [CFYV](https://yadvashem-france.org/dossier/nom/12173/) |
+| 12719 | Marie-Louise Aubrespin | Haute-Garonne | Raymond Rozenfarb avec Marie-Louise Aubrespin | [CFYV](https://yadvashem-france.org/dossier/nom/12719/) |
+| 12721 | Docteur Diego Diaz | Haute-Garonne | Diego Diaz en 1990 ; Diego Diaz devant la faculté de médecine | [CFYV](https://yadvashem-france.org/dossier/nom/12721/) |
+| 12721A | Jean et Louise Boyer | Haute-Garonne | Louise Boyer ; Jean Boyer | [CFYV](https://yadvashem-france.org/dossier/nom/12721a/) |
+| 12798 | Lucien et Marie-Angèle Thulau | Haute-Garonne | Marie-Angèle Thulau ; Lucien Thulau ; Cérémonie Thulau | [CFYV](https://yadvashem-france.org/dossier/nom/12798/) |
+| 12851 | Roger et Marguerite Blaquières | Haute-Garonne | Marguerite et Roger Blaquières en 1925 ; Marguerite et Roger Blaquières en 1970 | [CFYV](https://yadvashem-france.org/dossier/nom/12851/) |
+| 13008 | Gabrielle Sourgens (sœur Louise) | Haute-Garonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13008/) |
+| 13415 | Lucien et Blanche Robène | Haute-Garonne | Blanche Robène ; Lucien Robène ; Lucien Robène avec ses deux filles Lucette et Marguerite | [CFYV](https://yadvashem-france.org/dossier/nom/13415/) |
+| 13665 | Roger et Raymonde Fontaneau | Haute-Garonne | Raymonde et Roger Fontaneau ; Cérémonie de la remise de la médaille ; Raymonde Fontaneau, « Revoir la tour Eiffel », raconté par Nagui | [CFYV](https://yadvashem-france.org/dossier/nom/13665/) |
+| 13685 | Joséphine Rios-Cohen | Haute-Garonne | Rios-Cohen Joséphine | [CFYV](https://yadvashem-france.org/dossier/nom/13685/) |
+| 1807C | Mgr Louis de Courrèges d’Ustou | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/1807c/) |
+| 197 | Mgr Jules-Géraud Saliège | Haute-Garonne | Mgr Saliège ; Plaque à Yad Vashem, Jérusalem ; Arbre de Mgr Saliège à Yad Vashem, Jérusalem | [CFYV](https://yadvashem-france.org/dossier/nom/197/) |
+| 3084 | Jean-François Marty | Haute-Garonne | Jean-François Marty en 1940 ; Jean-François et Violette en 1948 | [CFYV](https://yadvashem-france.org/dossier/nom/3084/) |
+| 3146 | Raymond Viadieu (« Vira ») | Haute-Garonne | Raymond Viadieu | [CFYV](https://yadvashem-france.org/dossier/nom/3146/) |
+| 3195 | Maurice Dubois | Haute-Garonne | Maurice Dubois, Chateau La Hille en 1941 | [CFYV](https://yadvashem-france.org/dossier/nom/3195/) |
+| 3734 | Abbé René de Naurois | Haute-Garonne | René DE NAUROIS | [CFYV](https://yadvashem-france.org/dossier/nom/3734/) |
+| 3900 | Alice Schneider (née Broudin-Ober) | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/3900/) |
+| 4161 | Georges et Marie Guichard | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4161/) |
+| 4161A | Louis et Marie-Hélène Ramel | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4161a/) |
+| 5968 | Mathieu, Jeanne et Victoria Rey | Haute-Garonne | Victoria Rey, le jour de la cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/5968/) |
+| 627 | Émile et Anne Fréchengues ; André et Gilberte Fréchengues | Haute-Garonne | Plaque Alfred et Marcelle Frechengues ; Frechengues dans le Jardin des Justes à Yad Vashem ; Plaque Emile Anne André Gilberte Frechengues ; Frechengues dans le Jardin des Justes à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/627/) |
+| 627A | Alfred et Marcelle Fréchengues | Haute-Garonne | Plantation de l'arbre à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/627a/) |
+| 6426 | Commissaire Jean Philippe | Haute-Garonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/6426/) |
+| 6530 | Juliette Doumeng | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6530/) |
+| 6674 | Jean-Bertrand et Andréa Dufor | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6674/) |
+| 6674A | Pierre et Denise Roy | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6674a/) |
+| 6674B | Marien et Jeannette Augendre | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6674b/) |
+| 686 | André Thouroude | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/686/) |
+| 6949 | François et Jeanne Baccalerie ; Maria Couillens | Haute-Garonne | F. et J. Baccalerie, M. Aribaut, J. Maurel, J. Baccalerie, A. Bouillens, P. Weinrib | [CFYV](https://yadvashem-france.org/dossier/nom/6949/) |
+| 6960 | Père Joseph-Auguste Arribat | Haute-Garonne | Père Joseph Auguste ARRIBAT | [CFYV](https://yadvashem-france.org/dossier/nom/6960/) |
+| 7131 | Maurice et Yvette Roulleau | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/7131/) |
+| 824 | Père John Aan de Stegge | Haute-Garonne | Père John Aan de Stegge ; John Aan de Stegge lors de sa visite à Yad Vashem, 13 octobre 1977 (coll. Yad Vashem) | [CFYV](https://yadvashem-france.org/dossier/nom/824/) |
+| 8437 | Marcelle Fraysse (née Rivenc) | Haute-Garonne | Remise de la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/8437/) |
+| 8475 | Élie Armengaud | Haute-Garonne | Elie Armengaud | [CFYV](https://yadvashem-france.org/dossier/nom/8475/) |
+| 9398 | Noémie Marty ; Louisa Ramondou | Haute-Garonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/9398/) |
+| 9398A | Adrien Montet | Haute-Garonne | Adrien Montet | [CFYV](https://yadvashem-france.org/dossier/nom/9398a/) |
+| 9896 | Marie Diu | Haute-Garonne | Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/9896/) |
+| 9929 | Henriette Vaur (née Figeac) | Haute-Garonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9929/) |
+| 9943 | Raymond et Françoise Mazas | Haute-Garonne | Françoise Mazas ; les Mazas en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/9943/) |
+| 9969 | Marina Palus | Haute-Garonne | Marina Palus ; Cérémonie Palus 2 ; Cérémonie Palus 1 | [CFYV](https://yadvashem-france.org/dossier/nom/9969/) |
+
+Remarques : 3195B : Récit lié aux dossiers 3195 et 3195A ; voir aussi le dossier Cordier (Jura). · 9530F : Dossier collectif 9530 ; autres Justes dans l’Hérault et l’Aveyron. · 11324C : Dossier lié aux autres Justes du dossier 11324 (Lot). · 12721A : Récit commun avec le dossier 12721. · 4161A : Récit commun avec le dossier 4161. · 627A : Récit commun avec le dossier 627. · 9398 : Dossier lié au 8437 (Marcelle Fraysse). · 9398A : Récit commun avec le dossier 9398.
 
 ## Lot Claude — Dordogne (28/11/2026)
 
