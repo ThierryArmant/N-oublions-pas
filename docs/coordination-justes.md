@@ -17,7 +17,102 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88) et Bretagne-Grand Est hors Vosges (76), tableaux ci-dessous. Zone Pyrénées (confiée par Thierry le 28/11) terminée. Lot en cours (pris le 28/11) : Occitanie est hors Massif central (Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), 206 dossiers sans récit, traités en deux parties (1 : Gard, Hérault, Gers ; 2 : Tarn, Tarn-et-Garonne, Lot). Lozère et Aveyron laissés à Thierry (Massif central). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est partie 1 : Gard, Hérault, Gers (86), tableaux ci-dessous. Lot en cours (pris le 28/11) : Occitanie est partie 2 (Tarn, Tarn-et-Garonne, Lot, 120 dossiers). Lozère et Aveyron laissés à Thierry (Massif central). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Occitanie est, partie 1 : Gard, Hérault, Gers (28/11/2026)
+
+Récit intégré sur `main` pour 86 dossiers ; 56 portraits et 108 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_occitanie_est_1_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 11294 | Rosa Palon ; Hélène Doret (née Palon) | Gard | Rosa Palon en 1945 ; Hélène Doret ; Renée Couque la personne sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/11294/) |
+| 11574 | Eusébie et Fanny Llinarès | Gard | Eusébie et Fanny LLINARES | [CFYV](https://yadvashem-france.org/dossier/nom/11574/) |
+| 12343 | Jeanne Bonicel (née Albouy) | Gard | Jeanne Albouy pendant la guerre crédit coll YVJ ; La sauvée Claire Kohlman avec sa famille au milieu en blanc le fils de Jeanne Albouy | [CFYV](https://yadvashem-france.org/dossier/nom/12343/) |
+| 12635 | Henri Malécot | Gard | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12635/) |
+| 12842 | Ismaël et Lucienne Miolan | Gard | 23 août 2016 Monsieur Miolan le fils des sauveurs avec son épouse sa fille et son petit-fils | [CFYV](https://yadvashem-france.org/dossier/nom/12842/) |
+| 13346 | René et Hélène Fabaron | Gard | 28 août 1915, à Générargues, mariage de René et Hélène Fabaron | [CFYV](https://yadvashem-france.org/dossier/nom/13346/) |
+| 13346A | Odette Hofbauer (née Rocher) | Gard | Odette Hofbauer | [CFYV](https://yadvashem-france.org/dossier/nom/13346a/) |
+| 14117 | Pasteur Jean Saint-Martin | Gard | Jean Saint-Martin étudiant en théologie ; Jean Saint-Martin, sa femme et ses quatre filles en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/14117/) |
+| 14609A | Marcel et Marguerite Calvet | Gard | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14609a/) |
+| 2698C | Pasteur Élie Brée | Gard | — | [CFYV](https://yadvashem-france.org/dossier/nom/2698c/) |
+| 2698D | Pasteur Roland Pollex | Gard | — | [CFYV](https://yadvashem-france.org/dossier/nom/2698d/) |
+| 2698E | Pasteur Edmond Peloux et Marie Peloux | Gard | — | [CFYV](https://yadvashem-france.org/dossier/nom/2698e/) |
+| 2698F | Pasteur Robert Joseph | Gard | Pasteur Robert Joseph | [CFYV](https://yadvashem-france.org/dossier/nom/2698f/) |
+| 2698K | Pasteur Paul Brunel et Charlotte Brunel | Gard | — | [CFYV](https://yadvashem-france.org/dossier/nom/2698k/) |
+| 484 | Aimée Jeanroy | Gard | — | [CFYV](https://yadvashem-france.org/dossier/nom/484/) |
+| 6090 | Charles et Andrée Lautre | Gard | — | [CFYV](https://yadvashem-france.org/dossier/nom/6090/) |
+| 6238 | Jean et Lucie Boissier | Gard | — | [CFYV](https://yadvashem-france.org/dossier/nom/6238/) |
+| 6238A | Élie et Eva Guiraud | Gard | Symcha Szafran près du mur des Justes à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/6238a/) |
+| 6238B | Maurice et Hélène Puech | Gard | Symcha Szafran près du mur des Justes à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/6238b/) |
+| 6273 | Pierre et Émilie Baldy | Gard | Pierre et Emilie BALDY | [CFYV](https://yadvashem-france.org/dossier/nom/6273/) |
+| 7424 | Jules et Odette Hébrard | Gard | Jules HEBRARD ; Odette HEBRARD ; Gilberte Stemmer | [CFYV](https://yadvashem-france.org/dossier/nom/7424/) |
+| 813 | Pasteur Pierre-Charles Toureille | Gard | Plaque en l’honneur de Pierre Toureille ; Arbre de Pierre Toureille | [CFYV](https://yadvashem-france.org/dossier/nom/813/) |
+| 8419 | Henri, Paulette, Émile et Albertine Fournier | Gard | Cérémonie ; Remise du diplôme à Hélène Fournier | [CFYV](https://yadvashem-france.org/dossier/nom/8419/) |
+| 8419A | Raymond et Hélène Fournier | Gard | Remise du diplôme à Hélène Fournier | [CFYV](https://yadvashem-france.org/dossier/nom/8419a/) |
+| 8419B | René Fournier | Gard | — | [CFYV](https://yadvashem-france.org/dossier/nom/8419b/) |
+| 8419C | Élie Fournier | Gard | — | [CFYV](https://yadvashem-france.org/dossier/nom/8419c/) |
+| 8420 | Alphonse Rémézy | Gard | — | [CFYV](https://yadvashem-france.org/dossier/nom/8420/) |
+| 8917 | Marguerite Creston (née Fadat) | Gard | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/8917/) |
+| 9039 | Gabriel et Juliette Soulier | Gard | — | [CFYV](https://yadvashem-france.org/dossier/nom/9039/) |
+| 9040 | Pasteur Edgar Wasserfallen et Élise Wasserfallen | Gard | Edgar Wasserfallen | [CFYV](https://yadvashem-france.org/dossier/nom/9040/) |
+| 9921 | Pasteur Roger Muller et Esther Muller | Gard | Roger et Esther MULLER en septembre 1944 ; 1994 - Roger & Esther Muller | [CFYV](https://yadvashem-france.org/dossier/nom/9921/) |
+| 10186 | Marius et Marguerite Bouchard | Gers | De droite à gauche Mme ALTER témoin, René BOUCHARD, Yvette BOUCHARD, M. Gérard FOLUS (pdt de la licra) ; Remise de la Médaille des Justes le 30.03.05 à Marius et Marguerite BOUCHARD à Toulouse ; Mme Yvette BOUCHARD, M. Georges BOUCHARD, Mme Raymonde BOUCHARD ; En 1944 Fernand, Henri et Simon Alter, Yvette Bouchard, Alex Alter, Fanny Schiffman, Raymond Bouchard, premier rang Georges Bouchard ; de G à D debout Yvette Bouchard, sa fille Arlette, Derchen Alter, Margeurite Bouchard, Milchen, Albert Alter& sa fille , assis Alex Alter tenant son fils Alain, Fernand, Henri Alter & Marius Bouchard ; En1947 debout Albert Alter dans les bras de sa mère Milchen, M. Montamat fiancé d'Yvette Bouchard, Fernand Alter, Marguerite & Marius Bouchard assis Raymond et georges Bouchard, Simon & Maurice | [CFYV](https://yadvashem-france.org/dossier/nom/10186/) |
+| 10319 | Jules Lapeyrère | Gers | Jules LAPEYRERE ; de gauche à droite Robert MIzrahi, le consul géneral Arié Avidor, Pierre Antoine LAPEYRERE et son frère Claude | [CFYV](https://yadvashem-france.org/dossier/nom/10319/) |
+| 10979 | Comte Henri et comtesse Simone d’André | Gers | Simone & Henri D'André ; Marcel Laska en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/10979/) |
+| 11100 | Léah Dauga | Gers | Léah Dauga ; Bernard Lévy | [CFYV](https://yadvashem-france.org/dossier/nom/11100/) |
+| 11200 | Gabriel et Marie-Louise Lanoux | Gers | Gabriel et Marie Louise Lanoux ; Famille Lanoux ; Les enfants sauvés | [CFYV](https://yadvashem-france.org/dossier/nom/11200/) |
+| 11789 | Archiprêtre Arthur Sentex | Gers | l'Archiprêtre Sentex le 15 août 1944 à Lectoure derrière Fernand Henry le mari de sa sœur Aimée Sentex ; août 1944, Arthur Sentex & sa nièce Jacqueline Mezeix née Henry | [CFYV](https://yadvashem-france.org/dossier/nom/11789/) |
+| 12085 | Mélanie Duprat | Gers | Mélanie Duprat en 1978 ; en 1944 Mélanie Duprat seconde à partir de la droite | [CFYV](https://yadvashem-france.org/dossier/nom/12085/) |
+| 13075 | Casimir et Marie Garette | Gers | Myriam Joseph Raphaël et Benjamin SCHREIBER vers le 26 juin 1942 ; Sänger Léon, Fanny Schreiber avec benjamin sur son bras Joseph Myriam et Raphaël Schreiber | [CFYV](https://yadvashem-france.org/dossier/nom/13075/) |
+| 13075A | Ferdinand et Lucie Durban | Gers | Ferdinand et Lucie Durban ; Fanny Schreiber ; Raphaël Schreiber | [CFYV](https://yadvashem-france.org/dossier/nom/13075a/) |
+| 14260 | René Escafre | Gers | René ESCAFRE | [CFYV](https://yadvashem-france.org/dossier/nom/14260/) |
+| 14399 | Eva Rotgé (née Davezies) | Gers | Jean, Pierrot et Eva, Montégut ; Armand et Monique Singer en 1939 | [CFYV](https://yadvashem-france.org/dossier/nom/14399/) |
+| 3799 | Valentin et Clotilde Daubas | Gers | Valentin Daubas | [CFYV](https://yadvashem-france.org/dossier/nom/3799/) |
+| 4828 | Fernand et Yvette Sentou | Gers | Fernand SENTOU ; Yvette SENTOU ; 17 Juin 1992, Cérémonie à la Mairie de Cazaubon | [CFYV](https://yadvashem-france.org/dossier/nom/4828/) |
+| 6959 | Gaston et Marie Lacave | Gers | Gaston Lacave en 1963 | [CFYV](https://yadvashem-france.org/dossier/nom/6959/) |
+| 7061 | Achille Laborie | Gers | Achille Laborie à droite et Alfred Elefant, qui avait 16 ans en 1942, à gauche | [CFYV](https://yadvashem-france.org/dossier/nom/7061/) |
+| 7239 | Robert et Odette Tiennot | Gers | Odette Tiennot ; Remise de la Médaille | [CFYV](https://yadvashem-france.org/dossier/nom/7239/) |
+| 7870 | Betty Orlhac (née Beaumont) | Gers | — | [CFYV](https://yadvashem-france.org/dossier/nom/7870/) |
+| 882 | Abel Sarramiac | Gers | Abel SARRAMIAC | [CFYV](https://yadvashem-france.org/dossier/nom/882/) |
+| 882A | Denise Rieu (née Hachon) | Gers | Nicole Wittmann | [CFYV](https://yadvashem-france.org/dossier/nom/882a/) |
+| 882B | Clair Escriba ; Henriette Mazet (née Escriba) | Gers | Henriette MAZET ; ESCRIBA Clair | [CFYV](https://yadvashem-france.org/dossier/nom/882b/) |
+| 882D | Maurice Couairon | Gers | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/882d/) |
+| 9520 | Simone Siboni (née Filhol) | Gers | — | [CFYV](https://yadvashem-france.org/dossier/nom/9520/) |
+| 9792A | Vila Glasberg (Victor Vermont) | Gers | Vila Glasberg | [CFYV](https://yadvashem-france.org/dossier/nom/9792a/) |
+| 10302A | Léonie Perrin (née Cabello) | Hérault | — | [CFYV](https://yadvashem-france.org/dossier/nom/10302a/) |
+| 1045 | Suzanne Babut (née Planchon) | Hérault | Suzanne Babut ; La maison de Suzanne Babut, villa Planchon | [CFYV](https://yadvashem-france.org/dossier/nom/1045/) |
+| 12142 | Albert et Marie Anglade | Hérault | Lieu du sauvetage | [CFYV](https://yadvashem-france.org/dossier/nom/12142/) |
+| 12153B | Louise Baldy | Hérault | — | [CFYV](https://yadvashem-france.org/dossier/nom/12153b/) |
+| 12375 | Louis et Hortense Vergnes | Hérault | Hortense VERGNES ; Louis Vergnes ; La famille VERGNES Pierre Charles Marguerite Cyprienne et Anne-Marie et Robert Weil | [CFYV](https://yadvashem-france.org/dossier/nom/12375/) |
+| 12971 | Laetizia Carayol (née Cipollini) | Hérault | La famille Carayol avec Laetizia au centre | [CFYV](https://yadvashem-france.org/dossier/nom/12971/) |
+| 12971A | Gabrielle Gasset (née Salles) | Hérault | Gabrielle Gasset ; Août 1944 : à droite Berthe Cohen puis Gabrielle Gasset, devant Edmond Cohen | [CFYV](https://yadvashem-france.org/dossier/nom/12971a/) |
+| 2968 | Achille Bautes | Hérault | — | [CFYV](https://yadvashem-france.org/dossier/nom/2968/) |
+| 4245 | Abbé Pierre Mopty | Hérault | Abbé Pierre Mopty | [CFYV](https://yadvashem-france.org/dossier/nom/4245/) |
+| 4281 | Joseph et Jeanne Joly | Hérault | Cérémonie de remise de la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/4281/) |
+| 4735 | Paul et Lily Poujol | Hérault | — | [CFYV](https://yadvashem-france.org/dossier/nom/4735/) |
+| 4847 | Paul et Paule Carrausse ; Louise et Nicole Carrausse | Hérault | — | [CFYV](https://yadvashem-france.org/dossier/nom/4847/) |
+| 5066 | Louis et Henriette Monna | Hérault | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/5066/) |
+| 527 | Marie Junker (née Kissling) | Hérault | Marie Junker | [CFYV](https://yadvashem-france.org/dossier/nom/527/) |
+| 5476 | Jean-Marie Courounat | Hérault | Jean-Marie Courounat | [CFYV](https://yadvashem-france.org/dossier/nom/5476/) |
+| 6238C | Pasteur Laurent Olivès et Suzanne Olivès | Hérault | Symcha Szafran près du mur des Justes à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/6238c/) |
+| 6274 | Georges et Lucie Pascal | Hérault | Georges et Lucie Pascal ; Georges Pascal | [CFYV](https://yadvashem-france.org/dossier/nom/6274/) |
+| 709 | Camille Ernst | Hérault | Camille Ernst plante son arbre le 7 mai 1972 à Yad Vashem ; Cérémonie à Yad vashem le 7 mai 1972 | [CFYV](https://yadvashem-france.org/dossier/nom/709/) |
+| 7276 | Docteur Raymond Simorre | Hérault | Raymond Simorre en 1940 ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/7276/) |
+| 7298 | Marius, Sylvie et Odette Cannac | Hérault | Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/7298/) |
+| 7312 | Marie-Antoinette Pallarès ; Renée Pariselle et Paulette Roche (nées Pallarès) | Hérault | Marie-Antoinette Pallarès ; Renée Pallarès, « Une sœur inattendue », raconté par Emmanuelle Béart | [CFYV](https://yadvashem-france.org/dossier/nom/7312/) |
+| 7593 | Albert et Louise Achard | Hérault | Cérémonie de la remise de la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/7593/) |
+| 8122 | Pasteur Jacques Martin et Jacqueline Martin | Hérault | Jacques et Jacqueline MARTIN | [CFYV](https://yadvashem-france.org/dossier/nom/8122/) |
+| 8407 | Jean Pallarès | Hérault | Jean Pallarès | [CFYV](https://yadvashem-france.org/dossier/nom/8407/) |
+| 8745 | Edmond Valat | Hérault | — | [CFYV](https://yadvashem-france.org/dossier/nom/8745/) |
+| 9025 | René et Madeleine Alram | Hérault | René Alram ; Madeleine Alram | [CFYV](https://yadvashem-france.org/dossier/nom/9025/) |
+| 9238 | Pierre et Rose Granal | Hérault | — | [CFYV](https://yadvashem-france.org/dossier/nom/9238/) |
+| 9238A | André Bringuier | Hérault | Montagnac 1941 | [CFYV](https://yadvashem-france.org/dossier/nom/9238a/) |
+| 9530 | Louis et Yvonne Villaret | Hérault | Les Villaret | [CFYV](https://yadvashem-france.org/dossier/nom/9530/) |
+| 9530A | Henri et Adrienne Bonnafous | Hérault | — | [CFYV](https://yadvashem-france.org/dossier/nom/9530a/) |
+| 9530B | Pasteur Charles Cabanis | Hérault | — | [CFYV](https://yadvashem-france.org/dossier/nom/9530b/) |
+| 9530E | Mathilde Fabre | Hérault | — | [CFYV](https://yadvashem-france.org/dossier/nom/9530e/) |
+
+Remarques : 12971 : Voir aussi le dossier 12971A (Gasset). · 12971A : Récit commun avec le dossier 12971. · 13075 : Voir aussi le dossier 13075A (Durban). · 13075A : Récit commun avec le dossier 13075. · 13346 : Sa sœur Esther : dossier 13346A. · 6238 : Suite du parcours : 6238B (Puech), 6238A (Guiraud), 6238C (Olivès). · 6238A : Voir aussi le dossier 6238. · 6238B : Voir aussi le dossier 6238. · 7593 : La fiche date l’épisode de l’été 1944 ; les arrestations de Juifs étrangers à Montpellier évoquées correspondent plutôt à août 1942. · 7870 : Voir aussi le dossier 7870A (Michelis, Somme). · 8419 : Dossiers liés : 8419A, 8419B, 8419C et 8420. · 8419A : Récit commun avec le dossier 8419. · 8419B : La fiche 8419B ne contient pas de récit ; repris du dossier 8419. · 8419C : Récit commun avec le dossier 8419. · 8420 : Récit commun avec le dossier 8419. · 882A : Voir aussi les dossiers 882, 882B et 882D. · 882B : Voir aussi le dossier 882. · 9039 : Voir aussi le dossier 9040. · 9238 : Voir aussi le dossier 9238A (Bringuier). · 9238A : Récit commun avec le dossier 9238. · 9530 : Dossiers liés : 9530A, 9530B, 9530E. · 9530A : Récit commun avec le dossier 9530. · 9530B : Récit commun avec le dossier 9530. · 9530E : Récit commun avec le dossier 9530 ; la fiche ne détaille pas son rôle propre. · 9921 : Voir aussi le dossier 2698E (Peloux).
 
 ## Lot Claude — Bretagne et Grand Est (28/11/2026)
 
