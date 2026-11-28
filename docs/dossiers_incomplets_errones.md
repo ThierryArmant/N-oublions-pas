@@ -6,18 +6,19 @@ Les dossiers qui partagent simplement un même récit (dossiers A, B, C…) ne f
 
 Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`docs/recherches/lot_*.json`).
 
-## Récit repris d’un autre dossier (6)
+## Récit repris d’un autre dossier (7)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
 | 1288 | Pasteur André Morel | Pyrénées-Atlantiques | Ce récit figure aussi, par erreur, sur la fiche 1293 (Péraud, Charente). | [fiche](https://yadvashem-france.org/dossier/nom/1288/) |
 | 1293 | Jean et Blanche Péraud | Charente | Récit de la fiche sans rapport avec les Justes du dossier (copie du dossier du pasteur Morel) : à vérifier auprès du Comité. | [fiche](https://yadvashem-france.org/dossier/nom/1293/) |
+| 1294 | Charles et Charlotte Fuller (née Duclos) | Loire-Atlantique | Le texte affiché sur la fiche concerne un autre sauvetage : il retrace l’action du pasteur André Morel, de la CIMADE, à Gurs, à la frontière suisse et au Chambon-sur-Lignon, sans rapport avec le dossier. | [fiche](https://yadvashem-france.org/dossier/nom/1294/) |
 | 4795A | Cécile, Thérèse et Marie-Anne Legars (née Le Noac’h) | Paris | La fiche reprend le récit du dossier 4795 (Granger, Val-de-Marne). | [fiche](https://yadvashem-france.org/dossier/nom/4795a/) |
 | 9787 | Alphonse Parent ; Lisa Parent née Bocquet | Yonne | Sur la fiche, le récit 9787 concerne l’abbé Robert Bengel ; l’action des Parent est décrite au dossier 9787A. | [fiche](https://yadvashem-france.org/dossier/nom/9787/) |
 | 10027 | Jean et Marguerite Beyrand (née Boissou) | Haute-Vienne | La partie « témoignage » de la fiche reprend un récit sans rapport avec le dossier (une jeune femme nommée Eva sauvée par des cheminots). | [fiche](https://yadvashem-france.org/dossier/nom/10027/) |
 | 11125 | Claudia My (née Bardet) | Allier | La fiche ne comporte en ligne aucun récit du sauvetage de Georges Weill par Claudia My ; le texte affiché concerne un autre sauvetage, celui de la famille Lévy par Léah Dauga dans le Gers, sans rapport avec le dossier. | [fiche](https://yadvashem-france.org/dossier/nom/11125/) |
 
-## Fiche sans récit ou récit incomplet (26)
+## Fiche sans récit ou récit incomplet (27)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
@@ -38,6 +39,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 13156 | Jean Benezech | Val-d’Oise | Fiche sans récit. | [fiche](https://yadvashem-france.org/dossier/nom/13156/) |
 | 13266A | Jean-François Le Lay | Côtes-d’Armor | La fiche 13266A ne contient pas de récit du sauvetage. | [fiche](https://yadvashem-france.org/dossier/nom/13266a/) |
 | 13340B | Léon et Marie Valaud (née Giraud) | Creuse | La fiche 13340B ne contient pas de récit ; repris des dossiers 13340 et 13340A. | [fiche](https://yadvashem-france.org/dossier/nom/13340b/) |
+| 13458 | Roger Roy | Jura | La fiche 13458 ne contient pas de récit : la partie « histoire » reprend le texte général du site. | [fiche](https://yadvashem-france.org/dossier/nom/13458/) |
 | 13505 | Abel et Marthe Marre | Drôme | La fiche 13505 ne contient pas de récit : la partie « histoire » reprend le texte général du site. | [fiche](https://yadvashem-france.org/dossier/nom/13505/) |
 | 13553 | Cardinal Eugène Tisserant | — | Sauvetage en Italie. Fiche sans récit propre ; voir le dossier 13553B (de Vial). | [fiche](https://yadvashem-france.org/dossier/nom/13553/) |
 | 13553A | Pasteur André Bouquin | — | Sauvetage en Italie. Fiche sans récit ; voir le dossier 13553B (de Vial). | [fiche](https://yadvashem-france.org/dossier/nom/13553a/) |
@@ -48,7 +50,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 14445 | Jeanne Huet-Pasquier | — | Fiche sans récit. | [fiche](https://yadvashem-france.org/dossier/nom/14445/) |
 | 14580 | Paul et Marie Gilain | Orne | Récit absent de la fiche au 28/11/2026. | [fiche](https://yadvashem-france.org/dossier/nom/14580/) |
 
-## Département ou lieu erroné ou à vérifier (41)
+## Département ou lieu erroné ou à vérifier (44)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
@@ -74,6 +76,8 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 9625 | Jeanne Dessaigne (Sœur Marie-Angèle) et Philomène Rolland (Sœur Marie-Étienne) | Cantal | La fiche situe les Justes à « Allanches » ; la commune s’écrit Allanche. | [fiche](https://yadvashem-france.org/dossier/nom/9625/) |
 | 9815 | Paul Béal ; Palmire Béal | Indre | La fiche situe les faits dans la Somme ; la base rattache la notice à l’Indre. | [fiche](https://yadvashem-france.org/dossier/nom/9815/) |
 | 9945 | Henri et Simone Voisin (née Churlet) | Seine-Saint-Denis | La fiche situe Aulnay-sous-Bois en Seine-et-Marne et dit Simone infirmière, alors que l’en-tête la donne couturière. | [fiche](https://yadvashem-france.org/dossier/nom/9945/) |
+| 10589A | Jehan et Marie-Jeanne Dienne (née Roubinet) | Alpes-de-Haute-Provence | La fiche situe le dossier à Neuilly-sur-Seine (Hauts-de-Seine), alors que le récit place les Dienne à Paris et aux Mées. | [fiche](https://yadvashem-france.org/dossier/nom/10589a/) |
+| 10876 | René et Mathilde Reitz | Creuse | La fiche situe les Justes à Bourganeuf (Creuse), alors que le refuge décrit se trouve à Chignat, aujourd’hui Vertaizon (Puy-de-Dôme). | [fiche](https://yadvashem-france.org/dossier/nom/10876/) |
 | 10882 | Lucien et Hélène Roux (née Durrieu) | Bouches-du-Rhône | La fiche situe Marseille dans le département du Rhône. | [fiche](https://yadvashem-france.org/dossier/nom/10882/) |
 | 11394 | Gilbert Durand | Loire | La fiche rattache le dossier à Roanne (Loire), mais les faits se déroulent à Chambéry (Savoie). | [fiche](https://yadvashem-france.org/dossier/nom/11394/) |
 | 11509 | Marie-Françoise Borel (née Lech’vien) | Essonne | La fiche indique Romainville et un code postal de l’Essonne. | [fiche](https://yadvashem-france.org/dossier/nom/11509/) |
@@ -91,6 +95,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 13266 | Guillaume et Marie Le Quéré (née Droniou) | — | La fiche ne précise pas le département. | [fiche](https://yadvashem-france.org/dossier/nom/13266/) |
 | 13653 | Maurice Chantelauze | Haute-Loire | La fiche ne précise ni la ville ni le département ; le récit situe les faits à La Chaise-Dieu. | [fiche](https://yadvashem-france.org/dossier/nom/13653/) |
 | 14047 | Pierre, Eva et Jacques Matignon ; Ernest, Lucie et Emma Planès | Lot-et-Garonne | La fiche situe le dossier à Saint-Antoine-de-Breuilh (Dordogne). Récit commun avec 14047A et 14047C. | [fiche](https://yadvashem-france.org/dossier/nom/14047/) |
+| 14139 | Armande Mauté | Sarthe | La fiche 14139 ne comporte en ligne ni récit ni nom de personne sauvée. | [fiche](https://yadvashem-france.org/dossier/nom/14139/) |
 | 14321 | Marguerite Perreau | Charente | La fiche situe le dossier à Aubusson (Creuse). | [fiche](https://yadvashem-france.org/dossier/nom/14321/) |
 | 14564 | Rolande Gaboriaud | Loiret | La fiche situe les faits dans la Loire et la Haute-Loire ; la base rattache la notice au Loiret. | [fiche](https://yadvashem-france.org/dossier/nom/14564/) |
 

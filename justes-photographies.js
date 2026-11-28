@@ -32694,3 +32694,152 @@ Object.assign(photosDossiersJustes, {
   }
  ]
 });
+
+// Vosges, Alpes-de-Haute-Provence et dossiers isolés (images des fiches du Comité français pour Yad Vashem)
+Object.assign(portraitsJustes, {
+ "dienne-jehan": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/3c614e141c678eaeb4183529466f44fa.jpg",
+  "legende": "Jehan Yves Dienne",
+  "groupe": false,
+  "credit": "Jehan Yves Dienne · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10589a/"
+ },
+ "dienne-marie-jeanne": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2c450cf88303d8aec24b4a41fb272fb7.jpg",
+  "legende": "Marie-Jeanne Dienne",
+  "groupe": false,
+  "credit": "Marie-Jeanne Dienne · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10589a/"
+ },
+ "dol-sophie": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ff1c68508389c32368b658bc07396424.jpg",
+  "legende": "Jeanne Regnier en 1945 avec sa mère Sophie Dol",
+  "groupe": false,
+  "credit": "Jeanne Regnier en 1945 avec sa mère Sophie Dol · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10626/"
+ },
+ "durandy-yves": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/Yves-Durandy-pendant-la-guerre.png",
+  "legende": "Yves Durandy pendant la guerre",
+  "groupe": false,
+  "credit": "Yves Durandy pendant la guerre · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/9806/"
+ },
+ "grac-antonin": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/34e0057ef85dae0a713e2f480a752059.jpg",
+  "legende": "Antonin Grac",
+  "groupe": false,
+  "credit": "Antonin Grac · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/8129/"
+ },
+ "martin-andre": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2032d8e4d41c2dc0867a18fe75766ad4.jpg",
+  "legende": "André Martin devant la mairie d’Annot en 1943",
+  "groupe": false,
+  "credit": "André Martin devant la mairie d’Annot en 1943 · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12726/"
+ },
+ "raybaud-alix": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2627a9a09b11ad009a41456511b12f0f.jpg",
+  "legende": "Alix Raybaud",
+  "groupe": false,
+  "credit": "Alix Raybaud · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10626a/"
+ },
+ "regnier-jeanne": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ff1c68508389c32368b658bc07396424.jpg",
+  "legende": "Jeanne Regnier en 1945 avec sa mère Sophie Dol",
+  "groupe": false,
+  "credit": "Jeanne Regnier en 1945 avec sa mère Sophie Dol · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10626/"
+ },
+ "reitz-mathilde": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/8351a0aa7337f560d1031a4bdba7f7aa.jpg",
+  "legende": "Mathilde et René Reitz",
+  "groupe": true,
+  "credit": "Mathilde et René Reitz · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10876/"
+ },
+ "reitz-rené": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/8351a0aa7337f560d1031a4bdba7f7aa.jpg",
+  "legende": "Mathilde et René Reitz",
+  "groupe": true,
+  "credit": "Mathilde et René Reitz · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10876/"
+ },
+ "steinberg-madeleine": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/5bb1ef8afa2117ec9770ad7877ebbab1.jpg",
+  "legende": "Madeleine en 1940 à Paris",
+  "groupe": false,
+  "credit": "Madeleine en 1940 à Paris · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12650/"
+ }
+});
+Object.assign(photosDossiersJustes, {
+ "10589A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/3c614e141c678eaeb4183529466f44fa.jpg",
+   "legende": "Jehan Yves Dienne"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2c450cf88303d8aec24b4a41fb272fb7.jpg",
+   "legende": "Marie-Jeanne Dienne"
+  }
+ ],
+ "10626": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ff1c68508389c32368b658bc07396424.jpg",
+   "legende": "Jeanne Regnier en 1945 avec sa mère Sophie Dol"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/17a8149e47f1af021ed3af35da16e28f.jpg",
+   "legende": "Jeanne Regnier en 1940"
+  }
+ ],
+ "9806": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/Yves-Durandy-pendant-la-guerre.png",
+   "legende": "Yves Durandy pendant la guerre"
+  }
+ ],
+ "8129": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/34e0057ef85dae0a713e2f480a752059.jpg",
+   "legende": "Antonin Grac"
+  }
+ ],
+ "12726": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2032d8e4d41c2dc0867a18fe75766ad4.jpg",
+   "legende": "André Martin devant la mairie d’Annot en 1943"
+  }
+ ],
+ "10626A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2627a9a09b11ad009a41456511b12f0f.jpg",
+   "legende": "Alix Raybaud"
+  }
+ ],
+ "10876": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/8351a0aa7337f560d1031a4bdba7f7aa.jpg",
+   "legende": "Mathilde et René Reitz"
+  }
+ ],
+ "12650": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/5bb1ef8afa2117ec9770ad7877ebbab1.jpg",
+   "legende": "Madeleine en 1940 à Paris"
+  }
+ ],
+ "3518": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/05/Arbre-martinier-Trebosc.jpg",
+   "legende": "L’arbre Matinier-Trébosc"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2024/05/Plaque-Martiner-Trebosc-1536x1152.jpg",
+   "legende": "La plaque Matinier-Trébosc"
+  }
+ ]
+});

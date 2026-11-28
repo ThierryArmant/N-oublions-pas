@@ -27,7 +27,31 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-79
+15
+
+## Lot Claude — Vosges, Alpes-de-Haute-Provence et dossiers isolés
+
+Récit intégré sur `main` pour 15 dossiers ; 11 portraits et 12 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_dossiers-isoles.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10589A | Jehan et Marie-Jeanne Dienne (née Roubinet) | Alpes-de-Haute-Provence | Jehan Yves Dienne ; Marie-Jeanne Dienne | [CFYV](https://yadvashem-france.org/dossier/nom/10589a/) |
+| 10626 | Sophie Dol, Jeanne Regnier (née Dol) | Alpes-de-Haute-Provence | Jeanne Regnier en 1945 avec sa mère Sophie Dol ; Jeanne Regnier en 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/10626/) |
+| 10626A | Alix Raybaud (Sœur Alix) | Alpes-de-Haute-Provence | Alix Raybaud | [CFYV](https://yadvashem-france.org/dossier/nom/10626a/) |
+| 12726 | André Magloire Jules Martin | Alpes-de-Haute-Provence | André Martin devant la mairie d’Annot en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/12726/) |
+| 8129 | Antonin Grac | Alpes-de-Haute-Provence | Antonin Grac | [CFYV](https://yadvashem-france.org/dossier/nom/8129/) |
+| 9806 | Thimothée, Marie et Yves Durandy | Alpes-de-Haute-Provence | Yves Durandy pendant la guerre | [CFYV](https://yadvashem-france.org/dossier/nom/9806/) |
+| 14122 | Maurice et Hermine Delubac (née Pontal), Josette Samuel (née Delubac) | Ardèche | — | [CFYV](https://yadvashem-france.org/dossier/nom/14122/) |
+| 10876 | René et Mathilde Reitz | Creuse | Mathilde et René Reitz | [CFYV](https://yadvashem-france.org/dossier/nom/10876/) |
+| 13458 | Roger Roy | Jura | — | [CFYV](https://yadvashem-france.org/dossier/nom/13458/) |
+| 1294 | Charles et Charlotte Fuller (née Duclos) | Loire-Atlantique | — | [CFYV](https://yadvashem-france.org/dossier/nom/1294/) |
+| 3518 | Michel Alphonse et Marie-Louise Matinier, Paule Yvette Trébosc (née Matinier) | Puy-de-Dôme | L’arbre Matinier-Trébosc ; La plaque Matinier-Trébosc | [CFYV](https://yadvashem-france.org/dossier/nom/3518/) |
+| 14139 | Armande Mauté | Sarthe | — | [CFYV](https://yadvashem-france.org/dossier/nom/14139/) |
+| 12650 | Madeleine Steinberg (née White) | Vosges | Madeleine en 1940 à Paris | [CFYV](https://yadvashem-france.org/dossier/nom/12650/) |
+| 9128 | Marthe, Ernest et Ermance Petitgenet (née Rosenkrantz) | Vosges | — | [CFYV](https://yadvashem-france.org/dossier/nom/9128/) |
+| 9128A | Jean-Baptiste Rozenkrantz | Vosges | — | [CFYV](https://yadvashem-france.org/dossier/nom/9128a/) |
+
+Remarques : 14122 : La fiche ne renseigne pas de département ; le lieu indiqué est Le Cheylard (Ardèche). · 10589A : La fiche situe le dossier à Neuilly-sur-Seine (Hauts-de-Seine), alors que le récit place les Dienne à Paris et aux Mées. · 10626 : Voir aussi le dossier 10626A (Raybaud). · 10626A : Voir aussi le dossier 10626 (Dol et Regnier). · 1294 : Le texte affiché sur la fiche concerne un autre sauvetage : il retrace l’action du pasteur André Morel, de la CIMADE, à Gurs, à la frontière suisse et au Chambon-sur-Lignon, sans rapport avec le dossier. · 8129 : Le récit écrit une fois « Graux » pour Braux. · 14139 : La fiche 14139 ne comporte en ligne ni récit ni nom de personne sauvée. · 9128 : Voir aussi le dossier 9128A (Rozenkrantz). · 9128A : Voir aussi le dossier 9128 (Petitgenet). Le nom est écrit « Rosenkrantz » pour sa sœur. · 10876 : La fiche situe les Justes à Bourganeuf (Creuse), alors que le refuge décrit se trouve à Chignat, aujourd’hui Vertaizon (Puy-de-Dôme). · 13458 : La fiche 13458 ne contient pas de récit : la partie « histoire » reprend le texte général du site. · 3518 : La fiche classe le dossier à Paris, alors que l’essentiel du sauvetage a lieu à Clermont-Ferrand (Puy-de-Dôme).
 
 ## Lot Claude — Cantal, Allier, Lozère et Aveyron
 
