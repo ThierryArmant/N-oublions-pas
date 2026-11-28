@@ -12351,3 +12351,11 @@ Object.assign(photosDossiersJustes, {
   }
  ]
 });
+
+photosDossiersJustes["2249"] = [...(photosDossiersJustes["2249"] || []), ...[{"image":"https://yadvashem-france.org/wp-content/uploads/2020/07/af9a55c2cdf03b7dde6d7434ea050ee4.jpg.webp","legende":"Anne-Marie Mingat"}]];
+photosDossiersJustes["4364"] = [...(photosDossiersJustes["4364"] || []), ...[{"image":"https://yadvashem-france.org/wp-content/uploads/2020/07/84fa5eee3d1a223a3b887f98999842fd.jpg","legende":"Edmonde Broitgan et sa mère et Suzanne Prezman"},{"image":"https://yadvashem-france.org/wp-content/uploads/2020/07/b1f0993af21dee00159bc5c046e5ed39.jpg","legende":"Suzanne Prezman, Paul et Henri Borenshein, Edmonde Broitgan, Monique Wacholder"},{"image":"https://yadvashem-france.org/wp-content/uploads/2020/07/a0490f5d78b990164273130eab2b61b0.jpg","legende":"Jeanne Couturier avec Edmonde Broitgan et ses filles"}]];
+photosDossiersJustes["4687"] = [...(photosDossiersJustes["4687"] || []), ...[{"image":"https://yadvashem-france.org/wp-content/uploads/2024/03/Marthe-Zech-Mere-Marie-Magda-de-Sion.png","legende":"Marthe Zech, Mère Marie Magda de Sion"}]];
+photosDossiersJustes["9330"] = [...(photosDossiersJustes["9330"] || []), ...[{"image":"https://yadvashem-france.org/wp-content/uploads/2020/08/80f7757dac003814c4bb1064432891b2.jpg","legende":"Marius & Blanche GLENAT"}]];
+photosDossiersJustes["12218"] = [...(photosDossiersJustes["12218"] || []), ...[{"image":"https://yadvashem-france.org/wp-content/uploads/2020/08/8b6c13349e3c4c6599bc2e0fac90b134.jpg.webp","legende":"Louis et Marie-Louise Magnin et leur fille Yvette"}]];
+photosDossiersJustes["12277"] = [...(photosDossiersJustes["12277"] || []), ...[{"image":"https://yadvashem-france.org/wp-content/uploads/2020/08/d866024bd125d955f814c41e1e172a69.jpg.webp","legende":"1976, Gabriel & Louise Ferrand"}]];
+photosDossiersJustes["14397"] = [...(photosDossiersJustes["14397"] || []), ...[{"image":"https://yadvashem-france.org/wp-content/uploads/2024/10/Paul-et-Josephine-Second-et-leur-fille-Annick-400x540.jpg","legende":"Paul et Joséphine Second et leur fille Annick"}]];
