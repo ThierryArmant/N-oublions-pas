@@ -17,7 +17,7 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69) et Dordogne (65), tableaux ci-dessous. Prochain lot Claude : Hauts-de-France (Nord, Aisne, Oise…), à confirmer ici avant de commencer. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées dont Pyrénées-Atlantiques, Massif central, Puy-de-Dôme).
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69) et Dordogne (65), tableaux ci-dessous. Lot en cours (zone Pyrénées confiée par Thierry le 28/11) : Ariège et Haute-Garonne, puis Hautes-Pyrénées, Pyrénées-Orientales, Aude et Pyrénées-Atlantiques, avec repérage des liens avec le camp du Vernet et le train fantôme. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
 
 ## Lot Claude — Dordogne (28/11/2026)
 
