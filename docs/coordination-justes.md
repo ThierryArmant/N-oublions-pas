@@ -17,7 +17,84 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111) et Normandie (69 : Orne, Manche, Eure, Seine-Maritime, Calvados), tableaux ci-dessous. Lot en cours : Poitou-Charentes (Vienne, Charente, Deux-Sèvres, Charente-Maritime). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central, Puy-de-Dôme) et l’indique ici avant chaque lot.
+Terminés : Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69) et Poitou-Charentes (68 : Vienne, Charente, Deux-Sèvres, Charente-Maritime), tableaux ci-dessous. Lot en cours : Nouvelle-Aquitaine sud (Gironde, Dordogne, Landes, Lot-et-Garonne, Pyrénées-Atlantiques hors zone Pyrénées si prise). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central, Puy-de-Dôme) et l’indique ici avant chaque lot.
+
+## Lot Claude — Poitou-Charentes (28/11/2026)
+
+Récit intégré sur `main` pour 68 dossiers ; 54 portraits et 98 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_poitou_charentes_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10936 | Liliane Bloch-Morhange | Charente | Liliane Bloch-Morhange | [CFYV](https://yadvashem-france.org/dossier/nom/10936/) |
+| 11677 | Marie-Élisabeth Lacalle (sœur Saint-Cybard) | Charente | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11677/) |
+| 12027 | Jean et Cécile Audoin | Charente | Jean et Cécile Audouin en 1940 ; Cécile Audouin en 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/12027/) |
+| 12086 | Joseph et Henriette Briand | Charente | Frédéric Robins ; Bernard Rubinstein et photo de son mariage ; Famille Briand ; Elisabeth Briand ; Joseph Briand ; Louis BRIAND ; La maison de Chateaubernard en 2011 | [CFYV](https://yadvashem-france.org/dossier/nom/12086/) |
+| 12333 | Joseph et Agnès (Aneska) Stacke | Charente | Aneska et Joseph Stacke | [CFYV](https://yadvashem-france.org/dossier/nom/12333/) |
+| 12472 | René et Eugénie Cordeau | Charente | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12472/) |
+| 1293 | Jean et Blanche Péraud | Charente | — | [CFYV](https://yadvashem-france.org/dossier/nom/1293/) |
+| 14321 | Marguerite Perreau | Charente | — | [CFYV](https://yadvashem-france.org/dossier/nom/14321/) |
+| 14321A | Marie Schmitt (sœur Martine) | Charente | — | [CFYV](https://yadvashem-france.org/dossier/nom/14321a/) |
+| 14557 | Alexandre, Fernande et Michel Gémot | Charente | Famille Gémot ; Georges Klotz, novembre 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/14557/) |
+| 14557A | Charly et Camille Guiberteau | Charente | Georges Klotz, novembre 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/14557a/) |
+| 3186 | Paul et Valentine Vacheyroux ; Marie-Louise Dannequin | Charente | — | [CFYV](https://yadvashem-france.org/dossier/nom/3186/) |
+| 4188 | Jean Keruzore | Charente | Jean Kéruzore | [CFYV](https://yadvashem-france.org/dossier/nom/4188/) |
+| 5792 | Lucie Landré | Charente | Lucie Landré | [CFYV](https://yadvashem-france.org/dossier/nom/5792/) |
+| 5792A | Éliette Cordelier ; Élie et Marguerite Cordelier | Charente | — | [CFYV](https://yadvashem-france.org/dossier/nom/5792a/) |
+| 5792B | Georges et Madeleine Delaby ; Gaston Delaby | Charente | La famille Delaby | [CFYV](https://yadvashem-france.org/dossier/nom/5792b/) |
+| 6872 | Marie Rio | Charente | — | [CFYV](https://yadvashem-france.org/dossier/nom/6872/) |
+| 8659 | Jean et Léontine Javelaud | Charente | en 1948 Elise Kahne épouse Windland à gauche et à côté Colette Vignaud son amie | [CFYV](https://yadvashem-france.org/dossier/nom/8659/) |
+| 10301 | Arsène Viaud ; Alphonsine et Marcel Filagre | Charente-Maritime | Arsène Viaud ; La mère de M. STANFELD, Mme Alphonsine FILAGRE, son fils Marcel, M. STANFELD (enfant) | [CFYV](https://yadvashem-france.org/dossier/nom/10301/) |
+| 10784 | Gilbert Denis | Charente-Maritime | Cérémonie ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/10784/) |
+| 13143 | Arthur et Éléonore Rippe | Charente-Maritime | Arthur Eléonore Rippe | [CFYV](https://yadvashem-france.org/dossier/nom/13143/) |
+| 13269 | Auguste et Anathalie Demunter ; Alfred et Louise Labeausse | Charente-Maritime | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13269/) |
+| 2832 | Nelson et Clémence Fumeau | Charente-Maritime | Clémence Fumeau ; Nelson FUMEAU | [CFYV](https://yadvashem-france.org/dossier/nom/2832/) |
+| 5577 | Désiré Lalande | Charente-Maritime | — | [CFYV](https://yadvashem-france.org/dossier/nom/5577/) |
+| 7872 | René et Paulette Garnier | Charente-Maritime | En 1945, la famille Israël-Meyer à Pons ; En 1945 les enfants Pierre et son frère Daniel MEYER ; Propriété des grands-parents à Pons | [CFYV](https://yadvashem-france.org/dossier/nom/7872/) |
+| 9732 | Louis-Joseph et Mélanie Nicolas | Charente-Maritime | Fausses cartes d'identité | [CFYV](https://yadvashem-france.org/dossier/nom/9732/) |
+| 12050 | Lucile Godrie (née Huteau) | Deux-Sèvres | Bobby et Luce, devant la maison du 110 rue de Grange. Le lundi 20 juin 2009. | [CFYV](https://yadvashem-france.org/dossier/nom/12050/) |
+| 13000 | Aimé et Jeanne Sochard | Deux-Sèvres | Regine Goldblat ; Jeanne & Aimé Sochard debout en arrière plan | [CFYV](https://yadvashem-france.org/dossier/nom/13000/) |
+| 14293 | Églantine Larcher (sœur Gertrude) | Deux-Sèvres | Eglantine Larcher | [CFYV](https://yadvashem-france.org/dossier/nom/14293/) |
+| 14293A | Pierre et Madeleine Gauthier | Deux-Sèvres | — | [CFYV](https://yadvashem-france.org/dossier/nom/14293a/) |
+| 3238 | Noémie Fradin | Deux-Sèvres | Arbre de Noémie Fradin dans le jardin des Justes à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/3238/) |
+| 5751 | Suzanne Raynaud | Deux-Sèvres | enfants sauvés - Ginette & Maurice JACUBOWITCH ; enfants sauvés - Ginette & Maurice JACUBOWITCH ; Remise de la médaille en 1994 à Suzanne Raynaud | [CFYV](https://yadvashem-france.org/dossier/nom/5751/) |
+| 5839 | Jacques et Louise Pelletier | Deux-Sèvres | Jacques & Louise PELLETIER | [CFYV](https://yadvashem-france.org/dossier/nom/5839/) |
+| 5839A | Auguste et Marie-Louise Garnaud | Deux-Sèvres | — | [CFYV](https://yadvashem-france.org/dossier/nom/5839a/) |
+| 7929 | François et Léontine Naffrechoux | Deux-Sèvres | François (2° à gauche) et Léontine (3° à droite) NAFRECHOUX | [CFYV](https://yadvashem-france.org/dossier/nom/7929/) |
+| 8408 | Clovis et Clémentine Macouin | Deux-Sèvres | Clovis et Clémentine Macouin le jour de leur mariage | [CFYV](https://yadvashem-france.org/dossier/nom/8408/) |
+| 9234 | Georges et Marcelle Roy | Deux-Sèvres | — | [CFYV](https://yadvashem-france.org/dossier/nom/9234/) |
+| 9519 | Pasteur Pierre Fouchier | Deux-Sèvres | — | [CFYV](https://yadvashem-france.org/dossier/nom/9519/) |
+| 9764 | Hélène Rosenberg (née Schweitzer) | Deux-Sèvres | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9764/) |
+| 10580 | Louis et Augustine Delage | Vienne | Augustine & Louis DELAGE | [CFYV](https://yadvashem-france.org/dossier/nom/10580/) |
+| 11911 | Alphonse et Anne-Marie Gaboriaud | Vienne | Hélène Rozner, tenant Mme Gaboriaud et son frère Armand. Derrière Armand, Albert Rowek. ; Alphonse Gaboriaud et Hélène Rozner ; Anne-Marie Gaboriaud au centre et de gauche à droite Colette, James, jean-Claude et Nicole ; Famille Hepner le jour de la Libération du camps de Poitiers ; Hendla Hepner avec M. & Mme Hepner | [CFYV](https://yadvashem-france.org/dossier/nom/11911/) |
+| 12009 | Odile de Morin (Teyssendier de La Serve) | Vienne | Odile Teyssandier | [CFYV](https://yadvashem-france.org/dossier/nom/12009/) |
+| 12024 | Henri et Marie Leuillet ; Georges et Germaine Leuillet | Vienne | Famille LEUILLET | [CFYV](https://yadvashem-france.org/dossier/nom/12024/) |
+| 12225 | Noël Degout | Vienne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12225/) |
+| 12450 | Louis Joseph Bernard | Vienne | Louis BERNARD | [CFYV](https://yadvashem-france.org/dossier/nom/12450/) |
+| 12450A | Julien David | Vienne | Julien David | [CFYV](https://yadvashem-france.org/dossier/nom/12450a/) |
+| 12565A | Docteur Raoul Désormeaux | Vienne | Raoul Désormeaux | [CFYV](https://yadvashem-france.org/dossier/nom/12565a/) |
+| 13969 | Marie Chagnon | Vienne | Marie Chagnon | [CFYV](https://yadvashem-france.org/dossier/nom/13969/) |
+| 1484 | Hélène Marzellier | Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/1484/) |
+| 1484A | Hélène Durand | Vienne | Hélène Durand | [CFYV](https://yadvashem-france.org/dossier/nom/1484a/) |
+| 1484B | Aline Renaudin | Vienne | Plaque devant l'arbre ; L'arbre dans le jardin des Justes | [CFYV](https://yadvashem-france.org/dossier/nom/1484b/) |
+| 1484C | Jeanne Caillaud (née Fayolle) | Vienne | Jeanne Caillaud ; Jérusalem nov.1987 | [CFYV](https://yadvashem-france.org/dossier/nom/1484c/) |
+| 1484D | Claire Chauveau | Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/1484d/) |
+| 1484E | Pierrette Poirier (« Cathy ») | Vienne | Pierrette Poirier | [CFYV](https://yadvashem-france.org/dossier/nom/1484e/) |
+| 1484F | Suzanne Bourlat | Vienne | Suzanne BOURLAT ; Plaque Suzanne Bourlat ; Arbre Suzanne Bourlat | [CFYV](https://yadvashem-france.org/dossier/nom/1484f/) |
+| 1484G | Germain et Simone de Saint-Seine | Vienne | La Comtesse Simone et le Comte Germain de Saint Seine ; Arbre à Yad Vashem ; Plaque devant l'arbre | [CFYV](https://yadvashem-france.org/dossier/nom/1484g/) |
+| 1484H | Constance de Saint-Seine | Vienne | Constance de Saint Seine en 2007 | [CFYV](https://yadvashem-france.org/dossier/nom/1484h/) |
+| 1484K | Théophile et Berthe Brault | Vienne | Théophile Brault ; Marthe Brault | [CFYV](https://yadvashem-france.org/dossier/nom/1484k/) |
+| 5825 | Jacques Toulat | Vienne | Jacques Toulat | [CFYV](https://yadvashem-france.org/dossier/nom/5825/) |
+| 5825A | Camille Thibault | Vienne | Camille Thibault, au deuxième rang à droite | [CFYV](https://yadvashem-france.org/dossier/nom/5825a/) |
+| 5825C | Alphée Bonnaud | Vienne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/5825c/) |
+| 6271 | Marius et Marguerite Montier ; Paul Planty | Vienne | Paul PLANTY avec les sauvés | [CFYV](https://yadvashem-france.org/dossier/nom/6271/) |
+| 6271B | Marthe-Marie Renaud (née Hennequin) | Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6271b/) |
+| 7008 | Suzanne Trichet | Vienne | Suzanne TRICHET | [CFYV](https://yadvashem-france.org/dossier/nom/7008/) |
+| 7075 | Maurice Grousseau | Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/7075/) |
+| 7421A | Moïse et Margot Sarazin | Vienne | — | [CFYV](https://yadvashem-france.org/dossier/nom/7421a/) |
+| 8814 | Gaston Thibault ; Jacqueline Bidegorry (née Thibault) | Vienne | Gaston Thibault ; Jacqueline Thibault | [CFYV](https://yadvashem-france.org/dossier/nom/8814/) |
+| 8844 | Auguste, Rachel et Roger Gautron | Vienne | Roger et Alphonse en 1941 ; La famille CERF | [CFYV](https://yadvashem-france.org/dossier/nom/8844/) |
+
+Remarques : 12024 : La fiche situe le dossier à Paris (14e) ; le refuge principal est Saint-Savin (Vienne). · 12450A : Récit commun avec le dossier 12450. · 5825A : Récit commun avec les dossiers 5825 et 5825C. · 6271B : Récit lié au dossier 6271. · 7421A : Dossier lié au 7421 (Georges et Germaine Durand). · 1293 : Récit de la fiche sans rapport avec les Justes du dossier (copie du dossier du pasteur Morel) : à vérifier auprès du Comité. · 14321 : La fiche situe le dossier à Aubusson (Creuse). · 14321A : Récit commun avec le dossier 14321. · 14557A : Récit commun avec le dossier 14557. · 5792A : La fiche situe le dossier à Périgueux (Dordogne). · 14293A : Récit commun avec le dossier 14293. · 5839A : Récit commun avec le dossier 5839. · 8408 : Le récit de la fiche retrace surtout la carrière politique de Clovis Macouin et ne détaille pas le sauvetage.
 
 ## Lot Claude — Normandie (28/11/2026)
 
