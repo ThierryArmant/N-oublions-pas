@@ -2232,3 +2232,5 @@ Object.assign(photosDossiersJustes, {
   }
  ]
 });
+
+photosDossiersJustes["14604"] = [...(photosDossiersJustes["14604"] || []), {"image":"https://yadvashem-france.org/wp-content/uploads/2026/07/Maurice-et-Robert-Krasnobroda-et-leurs-parents-scaled.jpg","legende":"Maurice et Robert Krasnobroda et leurs parents. Maurice a été accueilli par Jean et Angèle Gardette."}];
