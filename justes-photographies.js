@@ -931,3 +931,34 @@ photosDossiersJustes["12277"] = [...(photosDossiersJustes["12277"] || []), ...[
     "legende": "Noces d’or de Louise et Gabriel Ferrand"
   }
 ]];
+
+Object.assign(portraitsJustes, {
+  "barnier-jeanne": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/dfbb3d27ee3f3bc48eb0f41e99c379ae.jpg.webp",
+    "legende": "Jeanne Barnier",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/3973/"
+  },
+  "samuel-cesmat": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2026/01/Capture-decran-2026-01-08-a-14.29.55.png",
+    "legende": "Samuel Cesmat",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/14532/"
+  },
+  "romand-jeanne": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2025/01/Jeanne-Romand-en-1945-400x621.jpg",
+    "legende": "Jeanne Romand en 1945",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/2553/"
+  }
+});
+photosDossiersJustes["14634"] = [...(photosDossiersJustes["14634"] || []), ...[
+  {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2026/01/Capture-decran-2026-01-08-a-15.10.13.png",
+    "legende": "Marcelle et Jean Pierre"
+  },
+  {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2026/01/Capture-decran-2026-01-08-a-15.12.03.png",
+    "legende": "Jacques et Pierre Caen, personnes sauvées"
+  }
+]];
