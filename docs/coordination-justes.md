@@ -1116,6 +1116,6 @@ Les 33 références de l’index ont été traitées. Les 55 fiches ont un réci
 | [10597](https://yadvashem-france.org/dossier/nom/10597/) | Georges Vialle, Noémie Vialle | Ajouté | — | — |
 | [13181](https://yadvashem-france.org/dossier/nom/13181/) | Edouard Vigne, Julia Vigne | Ajouté | 5 | La notice emploie Julia et certaines légendes Julie |
 
-## Lot Isère (38) — en cours
+## Lot Isère (38) — récits complets
 
-Isère côté Codex, Hauts-de-France côté Claude. 59 fiches enrichies avec 38 récits et 9 photographies ajoutées. [Relevé des 79 références](recherches/lot_isere_2026-11-28.md).
+Isère côté Codex. Les 79 références de l’index (137 fiches) ont un récit. 72 récits ajoutés couvrent 125 fiches. 9 photographies ont été intégrées au premier passage. La vérification des galeries et portraits se poursuit. La Haute-Savoie (74) est ouverte côté Codex. [Relevé des 79 références](recherches/lot_isere_2026-11-28.md).
