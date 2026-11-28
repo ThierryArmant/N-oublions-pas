@@ -1956,3 +1956,7 @@ Le Rhône est réservé à Codex. Le relevé initial identifie 119 références 
 ## Rhône (69) — deuxième lot
 
 16 dossiers vérifiés, 24 fiches enrichies avec les récits. Le contrôle des notices a permis d’ajouter 15 visuels dans 11 dossiers, dont 10 portraits individuels associés aux fiches. Les photos de groupe et le document non légendé restent en galerie.
+
+## Rhône (69) — contrôle du lot de 18 dossiers
+
+Les 18 récits du commit 966d49e sont en ligne et couvrent 28 fiches. Après vérification des notices du Comité français pour Yad Vashem, 21 visuels ont été ajoutés dans 12 galeries et 6 portraits individuels ont été associés aux fiches. Les 21 liens d’image ont été testés. [Commit des visuels](https://github.com/ThierryArmant/N-oublions-pas/commit/4fe16de7c2b8a7931cf3c7b6c1caa872f1dc13b4).
