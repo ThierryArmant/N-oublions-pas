@@ -2,7 +2,7 @@
 
 Zone : Ain (versant jurassien : Bugey, Valserine), Jura, Doubs, Haute-Saône, Territoire de Belfort. Source : fiches du Comité français pour Yad Vashem (yadvashem-france.org/dossier/nom/<numéro>/), récits reformulés.
 
-31 dossiers ajoutés à `dossiersFrance` (index.html), soit 57 notices de la base nationale. Détail complet (personnes aidées, lieux, portraits, remarques) : `docs/recherches/lot_jura_franche_comte_2026-11-28.json`.
+42 dossiers ajoutés à `dossiersFrance` (index.html), récits complets de la base nationale. Détail complet (personnes aidées, lieux, portraits, remarques) : `docs/recherches/lot_jura_franche_comte_2026-11-28.json`.
 
 ## Conservation et traitement
 
@@ -11,8 +11,8 @@ Zone : Ain (versant jurassien : Bugey, Valserine), Jura, Doubs, Haute-Saône, Te
 - Dossiers couvrant des notices classées ailleurs : 11703 (Emile Deusy, Paris) et 10654 (Marcel, Olga et Janine Marty, Paris).
 - Dossiers liés à reprendre : 3195, 3195A, 3195B, 3195D (La Hille, Haute-Garonne et Ariège) ; 14227B (Jeanne Floccard, Lyon) ; 5315A, 5315C (Roubaix) ; 6569 (Saulnier, Paris).
 - À vérifier : 12289, prénom « Marie (Loye) » sur la fiche mais « Gabrielle » dans le récit ; 13825, prénoms des enfants Tuchband discordants ; 12151, commune placée en « Haute-Loire » par la fiche ; 5315B, « Selencourt » probablement Seloncourt ; 3595, Schuylenberg / Schuylenburg.
-- Portraits : aucun intégré. Seul crédit affiché : Frédéric Domain (Saul Janou et Louisette Martinand, 11841). Les autres photos n’ont pas de crédit ; le site est sous « © Yad Vashem, tous droits réservés », sans licence ouverte : autorisation à demander au Comité et aux familles.
-- Sans récit : 13458 (Roger Roy, Aumont). Non traités (Ain hors versant jurassien) : 11756, 11855, 12237, 12951, 7930, 899, 9947.
+- Portraits : 51 fiches illustrées par les images publiées sur les fiches du Comité (liens d’origine, légende originale, crédit et lien vers la fiche). Accord ONACVG / Comité en cours de formalisation.
+- Sans récit : 13458 (Roger Roy, Aumont). Ajoutés ensuite : Ain hors versant jurassien (11756, 11855, 12237, 12951, 7930, 899, 9947) et dossiers liés 14227B, 5315A, 5315C, 6569.
 
 ## Index
 
