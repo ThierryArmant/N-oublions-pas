@@ -20,6 +20,23 @@ def tokens(text):
     return set(re.findall(r"[a-z0-9]+", "".join(c for c in plain if not unicodedata.combining(c)))) - STOP
 
 
+RECHERCHE_STOP = set("combien nombre total effectif effectifs existe existez existe-t-il recense recenses recensees compte comptent liste listes donne donnez montre montrez trouver trouvez rechercher recherche trouve trouver cite citer nomme retrouve quels quelles svp merci stp pls jai voudrais aimerais pouvez dites trouve moi".split())
+FAMILLES_DE_TERMES = (
+    ({"cheminot", "cheminots", "cheminote", "cheminotes", "sncf", "ferroviaire", "ferroviaires"}, "cheminot"),
+    ({"instituteur", "instituteurs", "institutrice", "institutrices"}, "instituteur"),
+    ({"medecin", "medecins", "docteur", "docteurs"}, "medecin"),
+    ({"pasteur", "pasteurs"}, "pasteur"),
+    ({"cure", "cures", "pretre", "pretres"}, "pretre"),
+)
+
+
+def concepts(mots):
+    for variantes, terme in FAMILLES_DE_TERMES:
+        if mots & variantes:
+            mots = (mots - variantes) | {terme}
+    return mots
+
+
 def dossier_url(number):
     return "https://yadvashem-france.org/dossier/nom/" + quote(number.lower()) + "/"
 
@@ -134,7 +151,7 @@ def notices():
     page = (HERE / "index.html").read_text(encoding="utf-8")
     national = json.loads((HERE / "justes-france.json").read_text(encoding="utf-8"))["personnes"]
     regional = {}
-    for match in re.finditer(r"const dossiers(?:Vaucluse|BouchesDuRhone|Paca|France) = (\{[^\n]+\});", page):
+    for match in re.finditer(r"(?:const dossiers(?:Vaucluse|BouchesDuRhone|Paca|France) = |Object\.assign\(dossiers(?:Vaucluse|BouchesDuRhone|Paca|France), )(\{[^\n]+\})[);]", page):
         regional.update(json.loads(match[1]))
     for match in re.finditer(r"'([0-9]+[A-Za-z]?)':\s*\{\s*periode:'([^']*)',\s*geste:'([^']*)',\s*aide:'([^']*)',\s*histoire:'([^']*)'", page):
         number, period, action, people, story = match.groups()
@@ -146,7 +163,7 @@ def notices():
         entries[slug] = dict(label=label, place=", ".join(filter(None, [city, area])),
                              facts=" · ".join(regional.get(number.upper(), [])[:4]) or
                              (f"Reconnaissance par Yad Vashem en {year}." if year else "Notice nominative."),
-                             source=dossier_url(number), terms=alias, surname=name)
+                             source=dossier_url(number), terms=alias, surname=name, reconnu=bool(year))
     cases = json.loads(re.search(r"const sauvetages = (\[[^\n]+\]);", page)[1])
     for case_id, city, year, numbers, people, story, persons, *source in cases:
         for name, given in persons:
@@ -159,7 +176,7 @@ def notices():
             entries[key] = dict(label=label, place=city + ", Vaucluse",
                                 facts=f"{story} Personnes aidées : {people}. " + (
                                     f"Reconnaissance par Yad Vashem : {year}." if year else "Sauvetage documenté, reconnaissance non établie."),
-                                source=url, terms="", surname=name)
+                                source=url, terms="", surname=name, reconnu=bool(year))
     for key, entry in entries.items():
         if key == "landi-giuseppe":
             entry["facts"] += " Giuseppe Landi était agent de la SNCF (cheminot)."
@@ -189,16 +206,21 @@ def notices():
 
 
 def rechercher(question, limit=6):
-    query = tokens(question)
+    query = concepts(tokens(question) - RECHERCHE_STOP - {"france"})
+    if not query:
+        return []
     if len(query) == 1 and len(next(iter(query))) < 3:
         return []
     results = []
+    justes_demandes = bool(re.search(r"\bjustes?\b", question, re.IGNORECASE))
     for item in notices():
+        if justes_demandes and not item.get("reconnu"):
+            continue
         if not item["facts"]:
             continue
         name = tokens(item["label"])
         place = tokens(item["place"])
-        facts = tokens(item["facts"] + " " + item["terms"])
+        facts = concepts(tokens(item["facts"] + " " + item["terms"]))
         matches = query & (name | place | facts)
         strong = query & (name | facts)
         if not matches or (len(query) > 1 and len(matches) < 2) or (not strong and matches != query):
@@ -217,6 +239,24 @@ def rechercher(question, limit=6):
         and (best_coverage < 2 or coverage >= 2)
     ]
     return selected[:limit]
+
+
+def cheminots_reconnus(question):
+    mots = tokens(question)
+    if not re.search(r"\bjustes?\b", question, re.IGNORECASE):
+        return None
+    if concepts(mots - RECHERCHE_STOP - {"france"}) != {"cheminot"}:
+        return None
+
+    results = []
+    for item in rechercher(question, limit=None):
+        nom = re.escape(item["label"])
+        profession = r"(?:cheminot\w*|(?:agent|employé|ouvrier)\s+(?:de|à)\s+la\s+SNCF)"
+        attribution = rf"\b{nom}(?:\s*,\s*|\s+(?:(?:était|travaillait comme)\s+)?){profession}\b"
+        titre = rf"\b{profession}\s+{nom}\b"
+        if re.search(rf"(?:{attribution}|{titre})", item["facts"], re.IGNORECASE):
+            results.append(item)
+    return results
 
 
 def albert(question, results, key, model):
@@ -240,7 +280,7 @@ def albert(question, results, key, model):
                 "sincères sur ces sujets sont autorisées. "
                 "Réponds uniquement par un objet JSON avec status parmi answer, clarify, refuse "
                 "et message contenant ta réponse. "
-                "Si les faits ne suffisent pas, indique-le. N’invente ni source ni détail. "
+                "Si seul le total manque, indique la limite et donne tout de même les personnes ou faits attestés, avec leurs références. N’invente ni source ni détail. "
                 "Ne déduis jamais un total du nombre de notices retrouvées. "
                 "Pour un effectif, cite uniquement un chiffre explicite et son périmètre. Sans ce chiffre, indique que le total reste à établir."
             )},
@@ -348,6 +388,16 @@ def main():
             for phrase, libelle, lien in bilan:
                 st.write(phrase)
                 st.link_button(libelle, lien)
+            return
+        cheminots = cheminots_reconnus(question)
+        if cheminots:
+            question_affichee.text(question)
+            if tokens(question) & {"combien", "nombre", "total", "effectif", "effectifs"}:
+                st.write(f"Au moins {len(cheminots)} Justes dont le métier de cheminot est attesté dans les fiches consultées. Le métier n’est pas renseigné dans toutes les notices.")
+            else:
+                st.write("Voici les Justes dont le métier de cheminot est attesté dans les fiches consultées.")
+            for item in cheminots:
+                st.link_button(f"Ouvrir la fiche de {item['label']}", item["link"])
             return
         with st.spinner("Un instant, je cherche dans les archives…"):
             results = rechercher(question)
