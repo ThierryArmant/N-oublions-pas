@@ -17,7 +17,130 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Île-de-France parties 1 (95 dossiers : Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne) et 2 (90 : Val-d’Oise, Yvelines, Essonne, Seine-et-Marne), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Lot en cours (pris le 28/11) : Île-de-France, parties 3 et 4 (Paris, 229 dossiers). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Île-de-France parties 1 (95 dossiers : Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne) 2 (90 : Val-d’Oise, Yvelines, Essonne, Seine-et-Marne) et 3 (114 : Paris, première moitié), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Lot en cours (pris le 28/11) : Île-de-France, partie 4 (Paris, seconde moitié, 115 dossiers). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Île-de-France, partie 3 : Paris, première moitié (28/11/2026)
+
+Récit intégré sur `main` pour 114 dossiers ; 94 portraits et 196 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_ile_de_france_3_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10091 | Docteur Georges et Marie-Louise Couanet (née Desvigne) | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/10091/) |
+| 10091A | Maurice et Jeannine Dauvilliers (née Neveux) | Paris | Maurice et Jeannine Dauvilliers et leur fils Guy | [CFYV](https://yadvashem-france.org/dossier/nom/10091a/) |
+| 10093 | Albert et Gabrielle Lequin | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/10093/) |
+| 10188A | Simonne Nugeyre (née Tenenboim) | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/10188a/) |
+| 10253 | Henri et Elisabeth Rudolph (née Strunk) | Paris | Henri et Elisabeth Rudolph en 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/10253/) |
+| 10253A | Victor Weber | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/10253a/) |
+| 1027 | Pasteur Henri Roser | Paris | Henri Roser | [CFYV](https://yadvashem-france.org/dossier/nom/1027/) |
+| 10278 | Jeanne Marguerite Dumont | Paris | Jeanne Dumont | [CFYV](https://yadvashem-france.org/dossier/nom/10278/) |
+| 10329 | Marie-Josèphe Courbet (née Philippe) | Paris | Septembre 1943, deux petites filles Widerman et Mme Courbet | [CFYV](https://yadvashem-france.org/dossier/nom/10329/) |
+| 10449 | Ida Barret (née Petit) | Paris | Ida Barret ; Nelly Pecker (née Herrmann), Victor Pecker, Jean-Claude Pecker | [CFYV](https://yadvashem-france.org/dossier/nom/10449/) |
+| 10487 | Germaine Quéré (née Fageol) | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/10487/) |
+| 10556 | Andrée Pauly-Santoni (née Coutier) | Paris | Andrée Pauly-Santoni | [CFYV](https://yadvashem-france.org/dossier/nom/10556/) |
+| 10690 | Yvonne Collomb (née Verdier) | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10690/) |
+| 10694 | Lucien et Louise Schmitt (née Vadez) | Paris | Lucien et Louise Schmitt en 1950 | [CFYV](https://yadvashem-france.org/dossier/nom/10694/) |
+| 10698 | Maria Errázuriz (née Edwards) | Paris | Photographie prise en 2006 à la synagogue de Santiago | [CFYV](https://yadvashem-france.org/dossier/nom/10698/) |
+| 10702 | Marthe et Alphonse Licini | Paris | Marthe Licini en 1942 ; M. Jakobowicz père en 1941 à Beaune-la-Rolande | [CFYV](https://yadvashem-france.org/dossier/nom/10702/) |
+| 10742 | Mère Marie Francia (Gabrielle de Linarès) | Paris | Gabrielle de Linarès | [CFYV](https://yadvashem-france.org/dossier/nom/10742/) |
+| 10774 | Marcel et Marthe Reinhard (née Roty) | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10774/) |
+| 10785 | Fernand et Marguerite Choquart | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/10785/) |
+| 10809 | Gaston et Thérèse Mater (née Sac) | Paris | Gaston Mater ; Thérèse Mater ; Simon Hohman, hébergé par le couple Mater | [CFYV](https://yadvashem-france.org/dossier/nom/10809/) |
+| 10837 | Lucienne Boutet (née Million-Kahn) | Paris | Lucienne Jeanne Boutet | [CFYV](https://yadvashem-france.org/dossier/nom/10837/) |
+| 10881 | Georgette et Pierre Zwiller (née Beringer) | Paris | Georgette Zwiller ; Pierre Zwiller | [CFYV](https://yadvashem-france.org/dossier/nom/10881/) |
+| 10896A | Gina Libera | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10896a/) |
+| 10907 | Jeanne Henri-Robert | Paris | À gauche Jeanne Henri-Robert, à droite Gisèle Godlewski | [CFYV](https://yadvashem-france.org/dossier/nom/10907/) |
+| 10953 | Lucien et Élise Perthuis (née Pajot) | Paris | Lucien Perthuis | [CFYV](https://yadvashem-france.org/dossier/nom/10953/) |
+| 10971 | Edmond et Fernande Cheval (née Millet) | Paris | Janvier 1949, la famille Cheval devant la synagogue de la rue Notre-Dame-de-Nazareth (Paris 3e) ; Marie-Louise Zylberberg dite Malou | [CFYV](https://yadvashem-france.org/dossier/nom/10971/) |
+| 10992 | Jules-Henri Proquitte | Paris | La famille Mann en 1938 ; Salomon Mann en 1943 ; La famille Mann aux Sables-d’Olonne | [CFYV](https://yadvashem-france.org/dossier/nom/10992/) |
+| 11045 | Robert Cornon | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11045/) |
+| 11062 | Laurent et Marie Mazier (née Viateau) ; Catherine Viateau | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11062/) |
+| 11147 | Théophile et Madeleine Larue (née Cardot) | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11147/) |
+| 11349 | Auguste et Marie Jaeger (née Erdinger) | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11349/) |
+| 11360 | André Patrolin | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11360/) |
+| 11382 | Julien et Laure Houdusse (née Guffroy) | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11382/) |
+| 11409 | Gaston Girousse | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11409/) |
+| 11517 | Michel-Marcel et Francisca Tendero (née Morales) | Paris | Francisca Tendero ; Michel Tendero | [CFYV](https://yadvashem-france.org/dossier/nom/11517/) |
+| 11564A | Simone Feran (née Jamard) et Germaine Jamard | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11564a/) |
+| 11569 | Achille et Louise Jacob (née Léger) | Paris | Achille et Louise Jacob ; De g à d, Jacob Louise et les personnes sauvées Suzanne la fille de Chana, Ruby chana et Léon Siedlecki en 1943 ; Léon Siedlecki avec Ruby Suzanne en 1944 ; Léon Siedlecki en 1940 ; Les enfants des sauvées Ruby, Abraham et Chana | [CFYV](https://yadvashem-france.org/dossier/nom/11569/) |
+| 11585 | Suzanne Merten-Pavy et Roger Merten | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/11585/) |
+| 11586A | Gaston et Frédérique Grandjean (née Dubée) | Paris | Frédérique Grandjean ; Gaston Grandjean ; Moszek Chaim Hepner ; Sarah Grosman ; Feiga Swiderska | [CFYV](https://yadvashem-france.org/dossier/nom/11586a/) |
+| 11586B | Aline Pierre | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/11586b/) |
+| 11657 | Georgette Schwarz | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/11657/) |
+| 11692 | Madeleine Hébras (née Coignoux) | Paris | Madeleine Hébras ; Le petit Guy Korwill 10 ans à la foire du trône en 1953 | [CFYV](https://yadvashem-france.org/dossier/nom/11692/) |
+| 11705 | Paul et Augustine Fiket (née Conrath) | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11705/) |
+| 11711 | Alphonse et Gabrielle Lacoudre (née Totin) | Paris | Alphonse Lacoudre ; Gabrielle Lacoudre | [CFYV](https://yadvashem-france.org/dossier/nom/11711/) |
+| 11723 | Clémence Henriette Grangier | Paris | Clémence Grangier | [CFYV](https://yadvashem-france.org/dossier/nom/11723/) |
+| 11751 | Henri et Marguerite Pellacoeur (née Doucet) | Paris | Alice Pellacoeur ; Henri Pellacoeur ; Marius Jeremiasz | [CFYV](https://yadvashem-france.org/dossier/nom/11751/) |
+| 11787 | Charles et Henriette Ginoux-Defermon (née Thevenet) | Paris | Charles et Henriette Ginoux-Defermon | [CFYV](https://yadvashem-france.org/dossier/nom/11787/) |
+| 11820 | Catherine Dautricourt (née Delporte) | Paris | Catherine Dautricourt | [CFYV](https://yadvashem-france.org/dossier/nom/11820/) |
+| 11838 | Marie-Louise Grandjean et Henri Jault | Paris | Henri Jault ; Marie-Louise Grandjean en 1947 | [CFYV](https://yadvashem-france.org/dossier/nom/11838/) |
+| 11870 | Sœur Agnès (Emma Navarro) | Paris | À gauche, Emma Navarro en 1955 | [CFYV](https://yadvashem-france.org/dossier/nom/11870/) |
+| 11940 | Gabriel et Émilie Fradet (née Lambruny) | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/11940/) |
+| 12006A | Léontine Tiercelin (née Regereau) | Paris | Léontine Tiercelin | [CFYV](https://yadvashem-france.org/dossier/nom/12006a/) |
+| 12026 | Agnès Breitburd (née Delespaul) | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12026/) |
+| 12047 | Yves Criou | Paris | Yves Criou et sa fille ; Les Kagan en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/12047/) |
+| 12097 | Maurice et Denise Brunet (née Hiernard) | Paris | Maurice et Denise Brunet et leur fille en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/12097/) |
+| 12146 | Lucien et Simone Faille (née Thiercelin) | Paris | Cérémonie (Mme Christiane Picchiotino) | [CFYV](https://yadvashem-france.org/dossier/nom/12146/) |
+| 12183 | Charles et Jeanne Dupouy (née Dulac) | Paris | Charles et Jeanne Dupouy | [CFYV](https://yadvashem-france.org/dossier/nom/12183/) |
+| 12266 | Alfred et Augustine Le Guellec (née Guichard) | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12266/) |
+| 12278 | Czeslaw (César) et Marie Szafranski (née Kotulski) | Paris | M. et Mme Szafranski ; Czeslaw Szafranski ; Marie Szafranski ; M Zylberberg militaire ; Sylvain Zylberberg et sa mère 1941 ; Ginette à Sisteron en 1943 ; Fils Szafranski ; M David Zylberberg en Allemagne en 1942 ; M. et Mme Zylberberg ; Sylvain à Sisteron en 1942 ; Sylvain et sa mère en 1940 ; Claude Szafranski ; Sylvain Zylberberg | [CFYV](https://yadvashem-france.org/dossier/nom/12278/) |
+| 12285 | Léone Beau | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12285/) |
+| 12321 | Filomeno, Anna (née Trombetta) et Raymond Barone | Paris | Anna Barone ; Raymond Barone ; Filomeno Barone ; Famille Barone lors de la remise de la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/12321/) |
+| 12368 | Docteur Joseph Chaillet | Paris | Docteur Chaillet ; Joseph Chaillet ; Diplôme du Docteur Chaillet ; Enfant sauvé Albert Ickowicz ; Philippe et Marie-Françoise Chaillet, les enfants du docteur Chaillet, lors de la cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/12368/) |
+| 12565 | Anne-Marie Lance | Paris | Anne Marie Lance ; Anne Marie avec les maquisards à Venasque en 1943 ; Le premier char entre à Longwy avec Anne-Marie triomphante (20 juin 1945) | [CFYV](https://yadvashem-france.org/dossier/nom/12565/) |
+| 12601 | Alain de Coatgoureden | Paris | Jacques Hausfater et Alain de Coatgoureden | [CFYV](https://yadvashem-france.org/dossier/nom/12601/) |
+| 12629 | Raymond Lesueur | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12629/) |
+| 12644 | Marguerite Delouche | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/12644/) |
+| 12670 | Albertine Rouxel (née Pina) | Paris | Albertine Rouxel | [CFYV](https://yadvashem-france.org/dossier/nom/12670/) |
+| 12832 | Lucienne Daniel-Miltsztayn | Paris | Jacob Miltsztayn et son épouse Sarah, née Rabinowicz ; Lucienne Daniel (Le Rebours) | [CFYV](https://yadvashem-france.org/dossier/nom/12832/) |
+| 12855A | Louis et Simone Macé (née Babin) | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12855a/) |
+| 12925B | Raymond Rayssiguier | Paris | Georges et Betty Zilberstein | [CFYV](https://yadvashem-france.org/dossier/nom/12925b/) |
+| 12949 | Renée Abel (née Lafleur) | Paris | Renée Abel en 1949 | [CFYV](https://yadvashem-france.org/dossier/nom/12949/) |
+| 1297 | Margarete Schachnowsky | Paris | Nahum et Margarete Schachnowsky | [CFYV](https://yadvashem-france.org/dossier/nom/1297/) |
+| 12971B | Françoise Sauty (née Beaubérot) | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12971b/) |
+| 12979 | Émilienne Masson (née Gaudichot) | Paris | Emilienne Masson | [CFYV](https://yadvashem-france.org/dossier/nom/12979/) |
+| 13010 | Céline Morali (née Demarez) | Paris | Céline Morali ; Mariette Bloch et les Zénatti : Georges, Arlette, Claude, Lucie | [CFYV](https://yadvashem-france.org/dossier/nom/13010/) |
+| 13056 | André et Baptistine Vermeulen (née Bradesi) | Paris | André Vermeulen ; Baptistine Vermeulen ; Famille Abramovitch Eugénie Henri et leurs fils Salomon et Maurice | [CFYV](https://yadvashem-france.org/dossier/nom/13056/) |
+| 13221 | Yvonne (née Champon), Simone et Robert Bonnaventure | Paris | Yvonne Bonnaventure ; Robert Bonnaventure ; Simone Bonnaventure ; Yvonne et Lemel | [CFYV](https://yadvashem-france.org/dossier/nom/13221/) |
+| 13246 | Alexandre et Suzanne Simiot (née Rohmer) | Paris | Alexandre et Suzanne Simiot | [CFYV](https://yadvashem-france.org/dossier/nom/13246/) |
+| 13294 | Louis, Gabrielle (née Parillaud) et Maurice Guidi | Paris | Gabrielle Guidi | [CFYV](https://yadvashem-france.org/dossier/nom/13294/) |
+| 13383 | André et Pauline Gaillard (née Marteaux) | Paris | André Gaillard ; Pauline Gaillard ; André et Pauline Gaillard | [CFYV](https://yadvashem-france.org/dossier/nom/13383/) |
+| 13404 | André Labatut et Marie-Louise Fonvieille (née Carrère) | Paris | André Labatut ; Marie-Louise Fonvieille | [CFYV](https://yadvashem-france.org/dossier/nom/13404/) |
+| 13404B | Marcelle Galligazon (née Bauer) | Paris | Marcelle Galligazon | [CFYV](https://yadvashem-france.org/dossier/nom/13404b/) |
+| 13413A | Lucienne Muller (née Delannoy) | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/13413a/) |
+| 13496 | Jean-Baptiste et Berthe Peyrabout (née Maingain) | Paris | Berthe et Jean-Baptiste Peyrabout | [CFYV](https://yadvashem-france.org/dossier/nom/13496/) |
+| 13549 | Arsène, Angèle et Marcelle Richard | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13549/) |
+| 13637 | Léontine Breuil (née Harscoët) | Paris | Léontine Breuil en 1966 ; Léontine Breuil et Michel et Danièle Falk | [CFYV](https://yadvashem-france.org/dossier/nom/13637/) |
+| 14014A | Mathilde Gauthier (née Delattre) | Paris | Mathilde Gauthier ; Yvonne, Daniel et René | [CFYV](https://yadvashem-france.org/dossier/nom/14014a/) |
+| 14174 | Robert et Gilberte Dumesnil | Paris | Gilberte Dumesnil | [CFYV](https://yadvashem-france.org/dossier/nom/14174/) |
+| 14294 | Adrien et Lucienne Gerber (née Candas) | Paris | Adrien Gerber, Édith Candas à gauche, Lucienne Gerber à droite | [CFYV](https://yadvashem-france.org/dossier/nom/14294/) |
+| 14333B | Henri et Marie Labanot (née Granger) | Paris | Marie et Henri Labanot ; Bernard Valin et ses parents | [CFYV](https://yadvashem-france.org/dossier/nom/14333b/) |
+| 14365 | Ismaïl Abdallah | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/14365/) |
+| 14516 | Léon et Marcelle Mazeaud (née Cabaud) | Paris | Léon et Marcelle Mazeaud en 1939 | [CFYV](https://yadvashem-france.org/dossier/nom/14516/) |
+| 14666 | Maria Svoboda (née Jurcovich) | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14666/) |
+| 1594 | Henri et Marie-Thérèse Sérennes | Paris | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/1594/) |
+| 1670 | Pasteur Jean Jousselin | Paris | Plantation le 10 novembre 1980 (collection Yad Vashem) ; Plaque à Yad Vashem ; Arbre à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/1670/) |
+| 1745 | Jean et Yvonne Dorso (née Quériaux) | Paris | Plaque de l'arbre des Dorso ; Arbre des Dorso à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/1745/) |
+| 1761 | Pierre et Geneviève Berthoumeyrou (née Legrand) | Paris | Pierre Berthoumeyrou ; Geneviève Berthoumeyrou ; Plaque dans le jardin des Justes parmi les Nations à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/1761/) |
+| 1925 | Hélène Burger (née Gutzler) | Paris | Hélène Burger en 1942 ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/1925/) |
+| 2290 | Docteur Rita Breton | Paris | Rita Breton ; Remise de la médaille à Rita Breton | [CFYV](https://yadvashem-france.org/dossier/nom/2290/) |
+| 3004 | Roger Belbéoch | Paris | Roger Belbeoch ; L’arbre de Roger Belbeoch à Yad Vashem ; Avant la Libération, avec l’équipe de policiers de Nogent-sur-Marne ; Roger Belbeoch lors de la signature en 2005 entre l’INA et la Fondation pour la Mémoire de la Shoah, au CDJC, en présence de Simone Veil | [CFYV](https://yadvashem-france.org/dossier/nom/3004/) |
+| 3078 | Mère Marie (Élisabeth Skobtsova) et père Dimitri Klépinine | Paris | Élisabeth Skobtsova (Mère Marie) ; Plaque commémorative | [CFYV](https://yadvashem-france.org/dossier/nom/3078/) |
+| 3109 | Petrus Henricus (Henri) Aendekerk | Paris | Berthe Falcman l'enfant sauvée | [CFYV](https://yadvashem-france.org/dossier/nom/3109/) |
+| 3185 | Marie-Elvire Flament (née Goutenègre) | Paris | Marie-Elvire Flament | [CFYV](https://yadvashem-france.org/dossier/nom/3185/) |
+| 3218 | Albonéa Cyferman (Loeffert, née Balboni) | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/3218/) |
+| 3225 | Maurice Baumont | Paris | Maurice Baumont ; Plaque à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/3225/) |
+| 3520 | Berthe Laurain | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/3520/) |
+| 3735 | Georgette Cheverry (née Rigault) | Paris | Georgette Cheverry | [CFYV](https://yadvashem-france.org/dossier/nom/3735/) |
+| 3758 | Adulphe Bennezon | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/3758/) |
+| 3781A | Lucette, Maurice et Clotilde Bousquet | Paris | Plaque Bousquet | [CFYV](https://yadvashem-france.org/dossier/nom/3781a/) |
+| 3831 | Micheline « Topo » Bellair-Cahen | Paris | Micheline Bellair à Yad Vashem en 1988 ; Gilberte Steig, avec le manteau clair, Micheline Bellair 2e à gauche ; Micheline Bellair, première à droite ; Micheline Bellair et Gilberte Steig avec des amis | [CFYV](https://yadvashem-france.org/dossier/nom/3831/) |
+| 3926 | André et Antoinette Lequien | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/3926/) |
+| 3974 | Fernand et Odette Béchard | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/3974/) |
+| 3976 | Madeleine Denis | Paris | — | [CFYV](https://yadvashem-france.org/dossier/nom/3976/) |
+| 3980 | Pasteur Paul et Marcelle Vergara (née Roberty) | Paris | 27 avril 1992 cérémonie ; Cérémonie en l’honneur de Paul et Marcelle Vergara (collection Yad Vashem) | [CFYV](https://yadvashem-france.org/dossier/nom/3980/) |
+
+Remarques : 10091 : Voir aussi le dossier 10091A (Dauvilliers). · 10091A : Voir aussi le dossier 10091 (Couanet). · 10188A : Voir aussi le dossier 10188 (Cerclet, Essonne). · 10253 : Voir aussi le dossier 10253A (Weber). · 10253A : Voir aussi le dossier 10253 (Rudolph). · 10742 : Voir aussi le dossier 10774 (Reinhard). · 10774 : Voir aussi le dossier 10742 (Mère Marie Francia). · 11564A : Voir aussi le dossier des Lebrun (Manche). · 11586A : Voir aussi le dossier 11586B (Aline Pierre). · 11586B : Voir aussi le dossier 11586A (Grandjean). · 11657 : Voir aussi le dossier 7842 (Noël). · 11751 : La fiche nomme la Juste Alice dans l’en-tête et Marguerite dans le récit. · 12047 : Voir aussi le dossier 12266 (Le Guellec). · 12601 : Voir aussi le dossier 12601A (Blézat). · 12629 : La fiche situe Fontenay-aux-Roses à Paris (75020). · 12670 : Voir aussi le dossier 8673 (Dubouloz). · 12855A : Voir aussi le dossier des Babin (Oise). · 12971B : Voir aussi le dossier 12971 (Chanez). · 13010 : Voir aussi le dossier des Bondurand (zone sud). · 13404 : Voir aussi le dossier 13404B (Galligazon). · 13404B : Voir aussi le dossier 13404 (Labatut et Fonvieille). · 14174 : Voir aussi le dossier 14174A (Jaeger, Yvelines). · 14333B : Voir aussi les dossiers 14333, 14333A et 14333C (Yvelines, Essonne). · 14516 : Léon Mazeaud devient après la guerre le premier président de la FNDIR. · 1594 : Voir aussi le dossier de Jeanne Jauquet (Aisne). · 3974 : Voir aussi les dossiers 3976 (Denis) et 3980 (Vergara). · 3976 : Voir aussi les dossiers 3974 (Béchard) et 3980 (Vergara). · 3980 : Voir aussi les dossiers 3974 (Béchard) et 3976 (Denis).
 
 ## Lot Claude — Île-de-France, partie 2 : Val-d’Oise, Yvelines, Essonne, Seine-et-Marne (28/11/2026)
 
