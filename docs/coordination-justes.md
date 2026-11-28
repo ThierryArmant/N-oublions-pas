@@ -19,7 +19,7 @@ Pour chaque lot, indique le dossier, les personnes, les liens des sources, la l�
 
 ## Zone — dossiers incomplets ou erronés
 
-Les fiches du Comité dont le récit manque, est partiel, est repris d’un autre dossier, ou dont le département, le lieu, un nom ou une date posent problème sont recensées dans [`dossiers_incomplets_errones.md`](dossiers_incomplets_errones.md) (71 dossiers au 28/11/2026). Chacun y ajoute ses propres cas, avec le numéro complet et le lien vers la fiche.
+Les fiches du Comité dont le récit manque, est partiel, est repris d’un autre dossier, ou dont le département, le lieu, un nom ou une date posent problème sont recensées dans [`dossiers_incomplets_errones.md`](dossiers_incomplets_errones.md) (au 28/11/2026). Chacun y ajoute ses propres cas, avec le numéro complet et le lien vers la fiche.
 
 ## Prochain lot Claude — Bourgogne (pris le 28/11/2026)
 
@@ -27,7 +27,59 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Loire (42). Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Haute-Loire (43). Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+
+## Lot Claude — Loire
+
+Récit intégré sur `main` pour 43 dossiers ; 46 portraits et 62 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_loire.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10003 | Pierre-Henri Lallement | Loire | 6 mai 1944 : M. et Mme Lallement et leurs quatre enfants | [CFYV](https://yadvashem-france.org/dossier/nom/10003/) |
+| 10098 | Le père Antoine Girardin | Loire | Le père Antoine Girardin | [CFYV](https://yadvashem-france.org/dossier/nom/10098/) |
+| 1033 | Le père Jean Adrien | Loire | Jean Adrien ; Arbre de Jean Adrien ; Plaque devant l’arbre de Jean Adrien | [CFYV](https://yadvashem-france.org/dossier/nom/1033/) |
+| 1093 | Louise Plasse (née Lavis), Madeleine Clair (née Plasse) et Gabrielle Lavis (née Néron) | Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/1093/) |
+| 11257 | Pierre et Berthe Beaufrère (née Cizeron) | Loire | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11257/) |
+| 11277 | Louise Piney (sœur Élisabeth) | Loire | Louise Piney, sœur Élisabeth | [CFYV](https://yadvashem-france.org/dossier/nom/11277/) |
+| 11394 | Gilbert Durand | Loire | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11394/) |
+| 11512 | Antoine et Françoise Badard (née Rocher) | Loire | Antoine Badard ; Françoise Badard | [CFYV](https://yadvashem-france.org/dossier/nom/11512/) |
+| 11538 | Jean-Pierre Toquant | Loire | Jean-Pierre Toquant ; Carte ; Diplôme de Jean-Pierre Toquant ; Michel Toquant | [CFYV](https://yadvashem-france.org/dossier/nom/11538/) |
+| 11568 | Jean et Gabrielle Aumont (née Entringer) | Loire | Jean et Gabrielle Aumont ; Souvenir | [CFYV](https://yadvashem-france.org/dossier/nom/11568/) |
+| 12014 | Dora Rivière | Loire | Dora Rivière ; Portrait de Dora Rivière par le peintre Janusz de Rola Janicki | [CFYV](https://yadvashem-france.org/dossier/nom/12014/) |
+| 12096 | Pierre et Marguerite Lignot (née Quiot) | Loire | M. et Mme Lignot ; Mme Lignot, M. Lévy et le petit André ; Rochetaillée, juin 1942 ; Barrage de Rochetaillée | [CFYV](https://yadvashem-france.org/dossier/nom/12096/) |
+| 12443 | Le frère Gabriel Boile | Loire | Le frère Lucien Cherpin et Bernard Hochman ; Lucien Cherpin ; Mademoiselle Pichon (gardienne) et Bernard Hochman en 1943, pensionnat Saint-Louis | [CFYV](https://yadvashem-france.org/dossier/nom/12443/) |
+| 13839 | Jean et Jeanne Veaux (née Labrosse) | Loire | Jean Veaux vers 1914 ; Jeanne Veaux en 1955 | [CFYV](https://yadvashem-france.org/dossier/nom/13839/) |
+| 14025 | André et Georgette Volral (née Grosjean), Lilly Matichard (née Mambré) | Loire | André et Georgette Volral et Lily Matichard | [CFYV](https://yadvashem-france.org/dossier/nom/14025/) |
+| 14637 | Joseph et Claudia Chambodut | Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/14637/) |
+| 1820 | Adolphine Dorel et Jeanne Bonhomme (née Dorel) | Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/1820/) |
+| 1926 | Paulette Loire (née Girard) | Loire | Paulette Loire | [CFYV](https://yadvashem-france.org/dossier/nom/1926/) |
+| 2470 | Louise Laffont (née Vial) | Loire | Louise Laffont avec la petite Eva Grupper pendant la guerre à Dargoire ; Arbre de Louise Laffont ; Plaque devant l’arbre | [CFYV](https://yadvashem-france.org/dossier/nom/2470/) |
+| 4010 | Yvonne Cellier | Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/4010/) |
+| 4540 | Marie-Antoinette Vial (née Flatry) | Loire | Marie-Antoinette Vial Flatry en 1941 ; Marie-Antoinette Vial Flatry (troisième à gauche au dernier rang) et les enfants du home Le Nid | [CFYV](https://yadvashem-france.org/dossier/nom/4540/) |
+| 4905 | L’abbé Antoine Dumas | Loire | 5 février 1992, Saint-Just-Doizieux | [CFYV](https://yadvashem-france.org/dossier/nom/4905/) |
+| 5062 | Jules et Andrée Robert (née Prigent) | Loire | Andrée Robert en 1946 ; Jules Joseph Robert en 1946 ; Andrée Robert en 1992 recevant la médaille | [CFYV](https://yadvashem-france.org/dossier/nom/5062/) |
+| 518 | Marinette Guy et Juliette Vidal | Loire | Marinette Guy et Juliette Vidal à Nice, avec Guy Wladimir Zandt, 1946 | [CFYV](https://yadvashem-france.org/dossier/nom/518/) |
+| 579 | Oswald et Léa Bardone | Loire | Léa et Oswald Bardone ; Plaque Bardone | [CFYV](https://yadvashem-france.org/dossier/nom/579/) |
+| 6187 | Pierre et Marguerite Thévenet (née Sablonnière), Jeanne Laurent (née Thévenet) | Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/6187/) |
+| 6346 | Claudius et Gabrielle Desbat (née Longin) | Loire | Claudius et Gabrielle Desbat | [CFYV](https://yadvashem-france.org/dossier/nom/6346/) |
+| 6804 | Jean Rist | Loire | Jean Rist | [CFYV](https://yadvashem-france.org/dossier/nom/6804/) |
+| 6892 | Marie-Louise Lafont (sœur Marie-Madeleine) | Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/6892/) |
+| 6892A | Germaine Veyrine | Loire | Germaine Veyrine | [CFYV](https://yadvashem-france.org/dossier/nom/6892a/) |
+| 7266 | Le père Victor Kolmer | Loire | Père Victor Kolmer | [CFYV](https://yadvashem-france.org/dossier/nom/7266/) |
+| 7266A | Le père René Delafosse | Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/7266a/) |
+| 7863 | Marie-Louise Dumas (née Chevallier) | Loire | Marie-Louise Dumas en 1956 | [CFYV](https://yadvashem-france.org/dossier/nom/7863/) |
+| 8457 | Paul et Anna Pasqualini (née Seaume) | Loire | Anna Pasqualini ; Paul Pasqualini | [CFYV](https://yadvashem-france.org/dossier/nom/8457/) |
+| 8457A | Aimé et Andrée Thévenet | Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/8457a/) |
+| 8480 | Monique Le Guennan (née Herry) | Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/8480/) |
+| 8519 | Arthur et Anne Schneeberger (née Van Overbeke) | Loire | — | [CFYV](https://yadvashem-france.org/dossier/nom/8519/) |
+| 9125 | Joseph et Paule Thiollier (née Gay) | Loire | Paule et Joseph Thiollier | [CFYV](https://yadvashem-france.org/dossier/nom/9125/) |
+| 9125A | Joannès et Catherine Furnon (née Rivoire) | Loire | Joannès et Catherine Furnon avec Alberte et Monique Netter en 1945 | [CFYV](https://yadvashem-france.org/dossier/nom/9125a/) |
+| 9125B | André et Germaine Cellard (née Chenebert) | Loire | Germaine et André Cellard ; La famille Cellard en 1942 ; de gauche à droite : André, Odette sa fille aînée, Germaine son épouse, France sa fille cadette, Jean ; au second rang : Pierre, Claude et Paul | [CFYV](https://yadvashem-france.org/dossier/nom/9125b/) |
+| 9409 | Paul et Yvonne Frédric (née Peguet) | Loire | Paul et Yvonne Frédric | [CFYV](https://yadvashem-france.org/dossier/nom/9409/) |
+| 9470 | Pierre et Marie Deroche (née Meleton) | Loire | Marie et Pierre Deroche | [CFYV](https://yadvashem-france.org/dossier/nom/9470/) |
+| 9589 | Jacques et Antonia Muron (née Gris) | Loire | Jacques et Antonia Muron après la guerre ; Daniel Gameroff, Antonia et Muriel Gameroff en 1947 ; Pauline et Simon Gameroff avec leur fils Daniel | [CFYV](https://yadvashem-france.org/dossier/nom/9589/) |
+
+Remarques : 11257 : Voir aussi les dossiers 12443 (frère Gabriel Boile) et 4540 (Marie-Antoinette Vial). · 11394 : La fiche rattache le dossier à Roanne (Loire), mais les faits se déroulent à Chambéry (Savoie). · 12443 : Voir aussi les dossiers 11257 (Beaufrère) et 4540 (Vial). · 13839 : Voir aussi le dossier 6346 (Desbat). · 14025 : La fiche écrit le nom « Volral » et « Voral ». · 1820 : La fiche situe Saint-Pal-de-Mons dans la Loire (récit) et en Haute-Loire (en-tête) ; la commune est en Haute-Loire, le dossier est rattaché à la Loire. · 4905 : Voir aussi le dossier 11512 (Badard). · 6187 : Voir aussi le dossier 518 (Guy et Vidal). · 6346 : Voir aussi le dossier 13839 (Veaux). · 6892 : Voir aussi le dossier 6892A (Veyrine). · 6892A : Récit commun avec le dossier 6892. · 7266 : Voir aussi le dossier 7266A (Delafosse). · 7266A : Récit commun avec le dossier 7266. · 8457 : Voir aussi le dossier 8457A (Thévenet). · 8457A : Récit commun avec le dossier 8457. · 9125 : Voir aussi les dossiers 9125A (Furnon) et 9125B (Cellard). · 9125A : Voir aussi les dossiers 9125 (Thiollier) et 9125B (Cellard). · 9125B : Voir aussi les dossiers 9125 (Thiollier) et 9125A (Furnon).
 
 ## Lot Claude — Drôme
 

@@ -15,7 +15,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 4795A | Cécile, Thérèse et Marie-Anne Legars (née Le Noac’h) | Paris | La fiche reprend le récit du dossier 4795 (Granger, Val-de-Marne). | [fiche](https://yadvashem-france.org/dossier/nom/4795a/) |
 | 9787 | Alphonse Parent ; Lisa Parent née Bocquet | Yonne | Sur la fiche, le récit 9787 concerne l’abbé Robert Bengel ; l’action des Parent est décrite au dossier 9787A. | [fiche](https://yadvashem-france.org/dossier/nom/9787/) |
 
-## Fiche sans récit ou récit incomplet (20)
+## Fiche sans récit ou récit incomplet (21)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
@@ -33,6 +33,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 13102 | Émile et Germaine Charpentier (née Fouque) | Yvelines | La fiche consacre l’essentiel de sa partie lisible à l’histoire de la famille Konsens. | [fiche](https://yadvashem-france.org/dossier/nom/13102/) |
 | 13156 | Jean Benezech | Val-d’Oise | Fiche sans récit. | [fiche](https://yadvashem-france.org/dossier/nom/13156/) |
 | 13266A | Jean-François Le Lay | Côtes-d’Armor | La fiche 13266A ne contient pas de récit du sauvetage. | [fiche](https://yadvashem-france.org/dossier/nom/13266a/) |
+| 13505 | Abel et Marthe Marre | Drôme | La fiche 13505 ne contient pas de récit : la partie « histoire » reprend le texte général du site. | [fiche](https://yadvashem-france.org/dossier/nom/13505/) |
 | 13553 | Cardinal Eugène Tisserant | — | Sauvetage en Italie. Fiche sans récit propre ; voir le dossier 13553B (de Vial). | [fiche](https://yadvashem-france.org/dossier/nom/13553/) |
 | 13553A | Pasteur André Bouquin | — | Sauvetage en Italie. Fiche sans récit ; voir le dossier 13553B (de Vial). | [fiche](https://yadvashem-france.org/dossier/nom/13553a/) |
 | 13960 | Silvio et Armilde Pes | — | Fiche sans récit. | [fiche](https://yadvashem-france.org/dossier/nom/13960/) |
@@ -40,12 +41,13 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 14445 | Jeanne Huet-Pasquier | — | Fiche sans récit. | [fiche](https://yadvashem-france.org/dossier/nom/14445/) |
 | 14580 | Paul et Marie Gilain | Orne | Récit absent de la fiche au 28/11/2026. | [fiche](https://yadvashem-france.org/dossier/nom/14580/) |
 
-## Département ou lieu erroné ou à vérifier (26)
+## Département ou lieu erroné ou à vérifier (31)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
 | 100 | Docteure Adélaïde Hautval | — | Département non renseigné sur la fiche ; les faits commencent à Bourges. | [fiche](https://yadvashem-france.org/dossier/nom/100/) |
 | 1233 | Charles Gombert | Meuse | La fiche situe Nançois-sur-Ornain dans les Vosges ; la commune est dans la Meuse. | [fiche](https://yadvashem-france.org/dossier/nom/1233/) |
+| 1820 | Adolphine Dorel et Jeanne Bonhomme (née Dorel) | Loire | La fiche situe Saint-Pal-de-Mons dans la Loire (récit) et en Haute-Loire (en-tête) ; la commune est en Haute-Loire, le dossier est rattaché à la Loire. | [fiche](https://yadvashem-france.org/dossier/nom/1820/) |
 | 3080A | Julien-Henri et Marthe Justes ; Simone Justes | Landes | Récit lié au dossier 3080 ; la fiche situe le dossier à Paris (18e). | [fiche](https://yadvashem-france.org/dossier/nom/3080a/) |
 | 3315A | Sœur Anne-Marie Llobet | Hautes-Pyrénées | La fiche indique « Hautes-Alpes » par erreur ; Tarbes est dans les Hautes-Pyrénées. | [fiche](https://yadvashem-france.org/dossier/nom/3315a/) |
 | 4611 | André Renard | Orne | La fiche indique le département « Oise », mais Boucé est situé dans l’Orne. | [fiche](https://yadvashem-france.org/dossier/nom/4611/) |
@@ -53,25 +55,29 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 5315B | Maria Corbat | Doubs | Lieu du pasteur écrit « Selencourt » : probablement Seloncourt (Doubs), à vérifier. Dossiers liés 5315A et 5315C (Roubaix, Nord). | [fiche](https://yadvashem-france.org/dossier/nom/5315b/) |
 | 5654 | Paul Chevalier ; Alice Chevalier née Prudent | Saône-et-Loire | La fiche cite aussi Bourg-la-Reine : lieu à vérifier. | [fiche](https://yadvashem-france.org/dossier/nom/5654/) |
 | 5792A | Éliette Cordelier ; Élie et Marguerite Cordelier | Charente | La fiche situe le dossier à Périgueux (Dordogne). | [fiche](https://yadvashem-france.org/dossier/nom/5792a/) |
+| 6821 | Marius et Andréa Genthon (née Ferlin) | Drôme | La fiche ne précise ni la ville ni le département ; le récit situe les faits à Romans-sur-Isère. | [fiche](https://yadvashem-france.org/dossier/nom/6821/) |
 | 8330 | Charles et Marthe Herbault (née Dufresne) | Essonne | La fiche situe Dourdan dans le Val-de-Marne. | [fiche](https://yadvashem-france.org/dossier/nom/8330/) |
 | 9815 | Paul Béal ; Palmire Béal | Indre | La fiche situe les faits dans la Somme ; la base rattache la notice à l’Indre. | [fiche](https://yadvashem-france.org/dossier/nom/9815/) |
 | 9945 | Henri et Simone Voisin (née Churlet) | Seine-Saint-Denis | La fiche situe Aulnay-sous-Bois en Seine-et-Marne et dit Simone infirmière, alors que l’en-tête la donne couturière. | [fiche](https://yadvashem-france.org/dossier/nom/9945/) |
 | 10882 | Lucien et Hélène Roux (née Durrieu) | Bouches-du-Rhône | La fiche situe Marseille dans le département du Rhône. | [fiche](https://yadvashem-france.org/dossier/nom/10882/) |
+| 11394 | Gilbert Durand | Loire | La fiche rattache le dossier à Roanne (Loire), mais les faits se déroulent à Chambéry (Savoie). | [fiche](https://yadvashem-france.org/dossier/nom/11394/) |
 | 11509 | Marie-Françoise Borel (née Lech’vien) | Essonne | La fiche indique Romainville et un code postal de l’Essonne. | [fiche](https://yadvashem-france.org/dossier/nom/11509/) |
 | 11590 | Angelo et Angèle Tamietti ; Jules et Berthe Trouillet | Orne | La fiche rattache le dossier à Saint-Hilaire-la-Gérard (Orne), mais le récit commence à Montlhéry. | [fiche](https://yadvashem-france.org/dossier/nom/11590/) |
 | 11672 | Gabriel et Charlotte Chacou (née Nicolas) | Essonne | La fiche indique le département de l’Yonne, mais Saint-Sulpice-de-Favières est dans l’Essonne. | [fiche](https://yadvashem-france.org/dossier/nom/11672/) |
 | 11889A | Maxime Aucoin ; Yvonne Aucoin | Nièvre | Lieu : Chanteloup dans le récit, Guipy sur la fiche. Dossier lié 11889 (famille Anne, Argenteuil). | [fiche](https://yadvashem-france.org/dossier/nom/11889a/) |
 | 12024 | Henri et Marie Leuillet ; Georges et Germaine Leuillet | Vienne | La fiche situe le dossier à Paris (14e) ; le refuge principal est Saint-Savin (Vienne). | [fiche](https://yadvashem-france.org/dossier/nom/12024/) |
 | 12151 | Henry de Menthon | Haute-Saône | La fiche situe la commune en « Haute-Loire » par erreur ; dates de naissance divergentes (22 ou 23/10/1865). | [fiche](https://yadvashem-france.org/dossier/nom/12151/) |
+| 12206B | Pierre Descours | Drôme | La fiche ne précise ni la ville ni le département ; l’hôpital est celui de Romans-sur-Isère (Drôme). | [fiche](https://yadvashem-france.org/dossier/nom/12206b/) |
 | 12289 | Raoul Houdaille ; Gabrielle Houdaille (« Marie née Loye » sur la fiche) ; Jeannine Cheremetieff | Doubs | Prénom à vérifier : « Marie (Loye) » dans la base et sur la fiche, « Gabrielle » dans le récit. | [fiche](https://yadvashem-france.org/dossier/nom/12289/) |
 | 12544 | Lois Gunden | Bouches-du-Rhône | La fiche rattache le dossier à Marseille, mais le home se trouve à Canet-Plage. | [fiche](https://yadvashem-france.org/dossier/nom/12544/) |
+| 12614 | Anna Chifflet (née Jacquemart) | Drôme | La fiche ne précise ni la ville ni le département ; le récit situe les faits à Romans-sur-Isère. | [fiche](https://yadvashem-france.org/dossier/nom/12614/) |
 | 12629 | Raymond Lesueur | Paris | La fiche situe Fontenay-aux-Roses à Paris (75020). | [fiche](https://yadvashem-france.org/dossier/nom/12629/) |
 | 13266 | Guillaume et Marie Le Quéré (née Droniou) | — | La fiche ne précise pas le département. | [fiche](https://yadvashem-france.org/dossier/nom/13266/) |
 | 14047 | Pierre, Eva et Jacques Matignon ; Ernest, Lucie et Emma Planès | Lot-et-Garonne | La fiche situe le dossier à Saint-Antoine-de-Breuilh (Dordogne). Récit commun avec 14047A et 14047C. | [fiche](https://yadvashem-france.org/dossier/nom/14047/) |
 | 14321 | Marguerite Perreau | Charente | La fiche situe le dossier à Aubusson (Creuse). | [fiche](https://yadvashem-france.org/dossier/nom/14321/) |
 | 14564 | Rolande Gaboriaud | Loiret | La fiche situe les faits dans la Loire et la Haute-Loire ; la base rattache la notice au Loiret. | [fiche](https://yadvashem-france.org/dossier/nom/14564/) |
 
-## Incohérence de nom, prénom ou date (21)
+## Incohérence de nom, prénom ou date (22)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
@@ -95,6 +101,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 13438 | Robert et Alice Joubert (née Pigeron) | Seine-et-Marne | La fiche nomme la Juste Alice dans l’en-tête et Georgette dans le récit. | [fiche](https://yadvashem-france.org/dossier/nom/13438/) |
 | 13688 | Madeleine Fauconneau du Fresne | Loiret | La fiche indique « Gabrielle » en en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/13688/) |
 | 13825 | Charles Schneider ; Lilian Schneider née Volpert | Doubs | Prénoms des enfants incohérents entre la liste et le récit (Émile, Lionel / Samuel, Joseph, « Léon »). | [fiche](https://yadvashem-france.org/dossier/nom/13825/) |
+| 14025 | André et Georgette Volral (née Grosjean), Lilly Matichard (née Mambré) | Loire | La fiche écrit le nom « Volral » et « Voral ». | [fiche](https://yadvashem-france.org/dossier/nom/14025/) |
 | 14238D | Jules Délidais ; Reine Délidais née Caseaux | Jura | Graphie « Délidais » sur la fiche, « Delidais » dans la base. Titre du 11/07/2022. | [fiche](https://yadvashem-france.org/dossier/nom/14238d/) |
 
 ## Pour signaler un nouveau cas
