@@ -28,7 +28,63 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Haute-Vienne (57), Creuse et Corrèze (80), Savoie et Hautes-Alpes (48), Cantal, Allier, Lozère et Aveyron (79), Vosges, Alpes-de-Haute-Provence et dossiers isolés (15), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Toutes les zones attribuées à Claude sont terminées. Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Haute-Vienne (57), Creuse et Corrèze (80), Savoie et Hautes-Alpes (48), Cantal, Allier, Lozère et Aveyron (79), Vosges, Alpes-de-Haute-Provence et dossiers isolés (15), fin du Rhône, Puy-de-Dôme et Haute-Savoie (47), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Toutes les zones attribuées à Claude sont terminées, fin du Rhône comprise ; il ne reste que les Alpes-Maritimes (Codex). Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+
+## Lot Claude — Fin du Rhône, Puy-de-Dôme et Haute-Savoie
+
+Récit intégré sur `main` pour 47 dossiers ; 44 portraits et 62 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_rhone-fin.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 14562 | César Auguste et Joséphine Augusta Migeois (née Guennard) | Haute-Savoie | — | [CFYV](https://yadvashem-france.org/dossier/nom/14562/) |
+| 14481 | Antoine et Marie Goigoux (née Boyer) | Puy-de-Dôme | — | [CFYV](https://yadvashem-france.org/dossier/nom/14481/) |
+| 10242 | Pierre Moucot | Rhône | Pierre Moucot ; Ausweis de Pierre Moucot | [CFYV](https://yadvashem-france.org/dossier/nom/10242/) |
+| 10707 | Pierre et Marguerite Page (née Canalis) | Rhône | Marguerite Page ; Pierre Page ; La famille Goldberg en 1942, avant la séparation ; La famille Goldberg avec Liliane et Léon ; Pierre et Marguerite Page | [CFYV](https://yadvashem-france.org/dossier/nom/10707/) |
+| 11237 | Louis et Léa Petit (née Sanvert) | Rhône | D. Saada et Irène Karayan à Saint-Mamert, 14 juin 2009 ; Irène Karayan et les élèves lors de la remise de la médaille des Justes à Louis et Léa Petit, Saint-Mamert, 14 juin 2009 ; D. Saada, B. Perrut, A. Karo et P. Thillet ; A. Karo, O. Lambrey de Souza, Irène Karayan et B. Lambrey de Souza ; Louis, Irène, Léa et Roger Petit en 1956 | [CFYV](https://yadvashem-france.org/dossier/nom/11237/) |
+| 12141 | Jean et Hélène Tête (née Jambon) | Rhône | Jean et Hélène Tête après la guerre | [CFYV](https://yadvashem-france.org/dossier/nom/12141/) |
+| 12254 | Edouard et Thérèse Payen (née Robin) | Rhône | Édouard et Thérèse Payen ; Michel et Dwora à Lyon | [CFYV](https://yadvashem-france.org/dossier/nom/12254/) |
+| 1233A | Cécile Sendrowicz (née Challut) | Rhône | Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/1233a/) |
+| 12835 | Jacques et Félicie Pignard (née Berry) | Rhône | Jacques et Félicie Pignard ; Félicie Pignard | [CFYV](https://yadvashem-france.org/dossier/nom/12835/) |
+| 12856 | Marc et Jeanne Vireton (née Dupuy) | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/12856/) |
+| 13032 | Jean-François et Yvonne Truchet (née Pilloix) | Rhône | Jean-François Truchet ; Yvonne Truchet | [CFYV](https://yadvashem-france.org/dossier/nom/13032/) |
+| 13304 | Albert Routier | Rhône | Albert Routier | [CFYV](https://yadvashem-france.org/dossier/nom/13304/) |
+| 13448 | Pétrus et Marie-Joséphine Roche (née Gaydon) | Rhône | Le diplôme des Roche | [CFYV](https://yadvashem-france.org/dossier/nom/13448/) |
+| 13621 | Léon Péray | Rhône | Léon Péray | [CFYV](https://yadvashem-france.org/dossier/nom/13621/) |
+| 13806 | René Reymond | Rhône | René Reymond en 1940 ; La famille Reymond ; Les enfants Seiligmann | [CFYV](https://yadvashem-france.org/dossier/nom/13806/) |
+| 1391 | Jean Henri Weidner | Rhône | Jean Weidner ; Plantation de l’arbre de Jean Weidner à Yad Vashem, 25 mai 1978 | [CFYV](https://yadvashem-france.org/dossier/nom/1391/) |
+| 14308 | Joseph Réginald et Marie Valentine Remillieux (née Le Gros) | Rhône | Joseph Remillieux ; Marie Remillieux ; Jeanne Saïmowitch | [CFYV](https://yadvashem-france.org/dossier/nom/14308/) |
+| 14359 | Monique Roux de Bézieux (née Jordan) | Rhône | Monique Jeanne Jordan en 1929 | [CFYV](https://yadvashem-france.org/dossier/nom/14359/) |
+| 14485 | Raymonde Rose Perrier (née Pillot) | Rhône | Raymonde Rose Pillot en 1941 ; Raymonde Rose Pillot-Perrier en avril 2012 | [CFYV](https://yadvashem-france.org/dossier/nom/14485/) |
+| 14558 | Jean-Claude et Marie Elisée Mure (née Villard) | Rhône | La famille Mure ; David Bitton, personne sauvée, 1981-1982 | [CFYV](https://yadvashem-france.org/dossier/nom/14558/) |
+| 1732 | Charles et Jeanne Sève | Rhône | Charles et Jeanne Sève | [CFYV](https://yadvashem-france.org/dossier/nom/1732/) |
+| 2188B | Louis Ricard (abbé) | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/2188b/) |
+| 2188C | Georges Villepelet | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/2188c/) |
+| 3547 | Pierre Robert de Saint-Vincent (général) | Rhône | Le général Pierre Robert de Saint-Vincent | [CFYV](https://yadvashem-france.org/dossier/nom/3547/) |
+| 365 | Louis et Ketty Oesch | Rhône | Louis et Ketty Oesch | [CFYV](https://yadvashem-france.org/dossier/nom/365/) |
+| 367 | Germaine Ribière | Rhône | Germaine Ribière ; Germaine Ribière | [CFYV](https://yadvashem-france.org/dossier/nom/367/) |
+| 4195 | Robert et Léa Mullet | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/4195/) |
+| 4196 | Edouard, Gertie, René et Janine Sérullaz | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/4196/) |
+| 4456 | Ferdinand Jean | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/4456/) |
+| 4572A | Yvette Portal (née Guiot-Desvarenne) | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/4572a/) |
+| 4825 | Edouard Parnot | Rhône | Edouard Parnot | [CFYV](https://yadvashem-france.org/dossier/nom/4825/) |
+| 5197 | Jean Nallit | Rhône | Jean Nallit ; Jean Nallit recevant l’ordre national du Mérite | [CFYV](https://yadvashem-france.org/dossier/nom/5197/) |
+| 5654A | Francine Sanchez (née Merlin) | Rhône | Francine Sanchez en 1944 ; Francine Sanchez ; Francine Sanchez | [CFYV](https://yadvashem-france.org/dossier/nom/5654a/) |
+| 5772 | Hélène Robin | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/5772/) |
+| 5890 | Jean-Marie Soutou | Rhône | Jean-Marie Soutou | [CFYV](https://yadvashem-france.org/dossier/nom/5890/) |
+| 663 | Jean Parent (abbé) | Rhône | L’abbé Jean Parent ; L’abbé Jean Parent en 1971 à Yad Vashem ; Cérémonie à Yad Vashem ; La plaque ; L’arbre | [CFYV](https://yadvashem-france.org/dossier/nom/663/) |
+| 6670 | Joseph et Catherine Relave | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/6670/) |
+| 6980 | Roger et Andrée Mousselin (née Dumas) | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/6980/) |
+| 7219 | Elisabeth Rivet (Mère Elisabeth) | Rhône | Elisabeth Rivet | [CFYV](https://yadvashem-france.org/dossier/nom/7219/) |
+| 7219B | Damien et Marie-Rose Tronel | Rhône | Damien et Marie-Rose Tronel | [CFYV](https://yadvashem-france.org/dossier/nom/7219b/) |
+| 7238 | Honoré et Antoinette Tomatis (née Plasse) | Rhône | Antoinette et Honoré Tomatis ; Antoinette et Honoré Tomatis | [CFYV](https://yadvashem-france.org/dossier/nom/7238/) |
+| 7265 | André et Simone Romanet | Rhône | André et Simone Romanet | [CFYV](https://yadvashem-france.org/dossier/nom/7265/) |
+| 728 | Auguste et Hélène Pfister | Rhône | Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/728/) |
+| 7529 | Henriette Ogier (née Girard) | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/7529/) |
+| 8479 | Louis et Jeanne Tixier (née Berthier) | Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/8479/) |
+| 9626 | Georges et Elisabeth Volla (née Bernus) | Rhône | Georges et Elisabeth Volla ; La famille Volla en 1941 | [CFYV](https://yadvashem-france.org/dossier/nom/9626/) |
+| 9715 | Jeanne Augustine Rosenstiel (née Mitscher) | Rhône | Jeanne Rosenstiel | [CFYV](https://yadvashem-france.org/dossier/nom/9715/) |
+
+Remarques : 1233A : La fiche écrit « Chalut », le récit « Challut ». Voir aussi le dossier de Charles Gombert. · 13032 : Le récit date la libération de Hirsh Abel du « 27 janvier 1944 », alors qu’il a été déporté en août 1944 : il s’agit sans doute du 27 janvier 1945. · 13448 : La fiche 13448 ne contient pas de récit en ligne. · 1391 : Voir aussi le dossier 14485 (Pillot-Perrier). · 14481 : La fiche 14481 ne comporte en ligne ni récit ni nom de personne sauvée. · 14485 : Voir aussi le dossier 1391 (Weidner). · 14562 : La fiche 14562 ne comporte en ligne ni récit ni nom de personne sauvée. · 2188B : Voir aussi le dossier 2188C (Villepelet). · 2188C : Voir aussi le dossier 2188B (Ricard). · 4195 : Voir aussi le dossier 4196 (Sérullaz). · 4196 : Voir aussi le dossier 4195 (Mullet). · 5890 : Voir aussi le dossier 367 (Ribière). · 7219 : Voir aussi le dossier 7219B (Tronel). · 7219B : Voir aussi le dossier 7219 (Rivet). · 7238 : Voir aussi le dossier 7265 (Romanet). · 7265 : Le récit date le premier contact d’avril 1944, puis l’arrivée des enfants d’avril 1943. Voir aussi le dossier 7238 (Tomatis).
 
 ## Lot Claude — Vosges, Alpes-de-Haute-Provence et dossiers isolés
 
