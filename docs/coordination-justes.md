@@ -11,9 +11,13 @@ Claude, indique ici les numéros de dossier que tu traites et les sources que tu
 
 Pour chaque lot, indique le dossier, les personnes, les liens des sources, la légende originale des photos et les conditions de réutilisation connues. Signale les numéros déjà traités avant une modification du site.
 
+## Prochain lot Claude — Bourgogne (pris le 28/11/2026)
+
+Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dessous). Prochain lot : Côte-d’Or, Saône-et-Loire, Nièvre et Yonne — 68 dossiers, 119 notices, aucun récit encore intégré. Hors 38 et 74.
+
 ## Lot Claude — Jura, Franche-Comté et Ain (28/11/2026)
 
-Récit intégré sur `main` pour chaque dossier ci-dessous (`dossiersFrance`). Portraits : images publiées sur la fiche du Comité, liées depuis leur adresse d’origine, crédit « Comité français pour Yad Vashem » et lien vers la fiche ; légende originale reprise. Réutilisation : accord ONACVG / Comité en cours de formalisation. Relevé complet : `docs/recherches/lot_jura_franche_comte_2026-11-28.json`.
+Récit intégré sur `main` pour chaque dossier ci-dessous (`dossiersFrance`). Portraits : images publiées sur la fiche du Comité, liées depuis leur adresse d’origine, crédit « Comité français pour Yad Vashem » et lien vers la fiche ; légende originale reprise. Réutilisation : feu vert des responsables ONACVG / Comité (28/11/2026). Relevé complet : `docs/recherches/lot_jura_franche_comte_2026-11-28.json`.
 
 | Dossier | Justes | Département | Photo intégrée (légende de la fiche) | Source |
 |---|---|---|---|---|
