@@ -17,7 +17,59 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Lot en cours (pris le 28/11) : Bouches-du-Rhône, Vaucluse et Var (43 dossiers), puis les 88 fiches sans département renseigné. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Lot en cours (pris le 28/11) : les 88 fiches sans département renseigné. Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Bouches-du-Rhône, Vaucluse, Var (28/11/2026)
+
+Récit intégré sur `main` pour 43 dossiers ; 27 portraits et 83 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_provence_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10254 | Omer et Élise Patris | Bouches-du-Rhône | Omer et Élise Patris | [CFYV](https://yadvashem-france.org/dossier/nom/10254/) |
+| 10882 | Lucien et Hélène Roux (née Durrieu) | Bouches-du-Rhône | Hélène Roux ; Lucien Roux ; Fernande la soeur de Joseph qui a été assassinée à Auschwitz ; Les personnes sauvées ; Nelly et Arlette Smadja en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/10882/) |
+| 11338 | Henri et Henriette Julien (née Pauriol) | Bouches-du-Rhône | Henri et Henriette Julien ; Henri et Henriette Julien ; Henri et Henriette Julien | [CFYV](https://yadvashem-france.org/dossier/nom/11338/) |
+| 11400 | Charles Démery | Bouches-du-Rhône | Charles Démery | [CFYV](https://yadvashem-france.org/dossier/nom/11400/) |
+| 11428 | Marcel et Claire Josuan (née Laborde) | Bouches-du-Rhône | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11428/) |
+| 11462 | Marcel-Joseph Foucault | Bouches-du-Rhône | Marcel Joseph Foucault ; Marcel Joseph Foucault ; Marcel Joseph Foucault ; Chana Rechtszaid ; Chana Rechtszaid avec ses enfants Paulette et Maurice (rescapés) ; Remise de la médaille aux enfants de Marcel Joseph Foucault | [CFYV](https://yadvashem-france.org/dossier/nom/11462/) |
+| 11573 | Denise, Marie-Françoise (épouse Payre) et Antoine Vigué | Bouches-du-Rhône | La famille Vigué en 1936 ; Henri Gluck, l’enfant sauvé, en 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/11573/) |
+| 11589 | Charles Vial | Bouches-du-Rhône | Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/11589/) |
+| 11651 | Camille et Anne dite Noëlle Wiedrich (née Ganter) | Bouches-du-Rhône | Camille et Anne Wiedrich | [CFYV](https://yadvashem-france.org/dossier/nom/11651/) |
+| 12544 | Lois Gunden | Bouches-du-Rhône | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12544/) |
+| 12564 | Adolphe et Lise Faraudi (née Cabanal) | Bouches-du-Rhône | Carte d’identité d’Adolphe Faraudi ; Carte d’identité de Lise Faraudi ; Jules Glass en 1943 ; Adolphe et Lise Faraudi en 1948 ; Luba Glass en 1948 | [CFYV](https://yadvashem-france.org/dossier/nom/12564/) |
+| 12701 | Monseigneur Jean Delay | Bouches-du-Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/12701/) |
+| 13188 | Léo et Joséphine Vieu (née Comte) | Bouches-du-Rhône | Cérémonie ; Léo Vieu, Mme Saltiel, Mme Paoli, Joséphine Vieu ; France et Jean-Jacques Paoli | [CFYV](https://yadvashem-france.org/dossier/nom/13188/) |
+| 13384 | Docteur Fernand et Mathilde Vidal de Veyres (née Brémond) | Bouches-du-Rhône | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13384/) |
+| 2378 | André Merle et Adèle Defarges | Bouches-du-Rhône | Adèle Defarges ; André Merle | [CFYV](https://yadvashem-france.org/dossier/nom/2378/) |
+| 3210 | Émilie dite Hélène Guth | Bouches-du-Rhône | Émilie Guth ; Plantation de l’arbre | [CFYV](https://yadvashem-france.org/dossier/nom/3210/) |
+| 3338 | Gaston, Suzanne (née Jacquet) et Michel Vincent | Bouches-du-Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/3338/) |
+| 3369 | Pasteur Henri et Alice Manen (née Bertrand) | Bouches-du-Rhône | Alice et Henri Manen | [CFYV](https://yadvashem-france.org/dossier/nom/3369/) |
+| 3781 | Andrée Pellissier | Bouches-du-Rhône | Cérémonie en l’honneur d’Andrée Pellissier, le 13 novembre 1990 ; André, Rosalie et Maria Pellissier | [CFYV](https://yadvashem-france.org/dossier/nom/3781/) |
+| 395A | Suzelly Leenhardt (née Boudet) | Bouches-du-Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/395a/) |
+| 4104 | Roger Taillefer | Bouches-du-Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/4104/) |
+| 4796 | Rose-Anna Romagnan | Bouches-du-Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/4796/) |
+| 5065 | Docteur André et Georgette Donnier (née Ponge) | Bouches-du-Rhône | Georgette Donnier, mur des Justes, Jérusalem ; André Donnier ; André et Georgette Donnier, esplanade des Justes d’Aix-en-Provence | [CFYV](https://yadvashem-france.org/dossier/nom/5065/) |
+| 5209 | Maurice et Odette Dejean (née Glarner) | Bouches-du-Rhône | Odette et Maurice Dejean en 1942 ; 23 août 1944 à la Rose | [CFYV](https://yadvashem-france.org/dossier/nom/5209/) |
+| 5209A | Gilbert et Suzanne Giraud (née Ruby) | Bouches-du-Rhône | Suzanne et Gilbert Giraud | [CFYV](https://yadvashem-france.org/dossier/nom/5209a/) |
+| 5538B | Marie-Ange Rodriguez (née Alibert) | Bouches-du-Rhône | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/5538b/) |
+| 610 | Gilles et Marie Fedi | Bouches-du-Rhône | Gilles Fedi entouré de M. et Mme Feldman, le 23 février 1971 à Yad Vashem ; Remise du diplôme, le 23 février 1971 à Yad Vashem | [CFYV](https://yadvashem-france.org/dossier/nom/610/) |
+| 6353 | Adolphe et Assunta Espanet | Bouches-du-Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/6353/) |
+| 6754 | Raymond et Joséphine Bertrand | Bouches-du-Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/6754/) |
+| 8036 | Sœur Marie-Gilberte (Victoria Depo) | Bouches-du-Rhône | Sœur Marie-Gilberte ; Sœur Marie-Gilberte et Jacques ; Remise de la médaille des Justes à titre posthume à sœur Marie-Josée | [CFYV](https://yadvashem-france.org/dossier/nom/8036/) |
+| 8297 | Abbé Fernand Singerlé | Bouches-du-Rhône | Abbé Singerlé | [CFYV](https://yadvashem-france.org/dossier/nom/8297/) |
+| 8332 | Jeanne Peysson (née Ivens) | Bouches-du-Rhône | — | [CFYV](https://yadvashem-france.org/dossier/nom/8332/) |
+| 8606 | Père Joseph-Marie Perrin | Bouches-du-Rhône | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/8606/) |
+| 9057 | Eugène et Marie Vincent (née Dossetto) | Bouches-du-Rhône | Marie Vincent et Henriette Cohen | [CFYV](https://yadvashem-france.org/dossier/nom/9057/) |
+| 3028 | Mère Marie-Thérèse Roux | Var | — | [CFYV](https://yadvashem-france.org/dossier/nom/3028/) |
+| 3028A | Jeanne Hertel | Var | — | [CFYV](https://yadvashem-france.org/dossier/nom/3028a/) |
+| 3028B | Germaine, Suzanne, Henri-Claude et Alice Teillard | Var | La famille Teillard en 1936 | [CFYV](https://yadvashem-france.org/dossier/nom/3028b/) |
+| 10356 | François et Agnès Bezol (née Michel) | Vaucluse | François Bézol | [CFYV](https://yadvashem-france.org/dossier/nom/10356/) |
+| 10356A | Fernand et Berthe Chapelin (née Ripert) | Vaucluse | Fernand et Berthe Chapelin en 1946 (collection Yad Vashem) | [CFYV](https://yadvashem-france.org/dossier/nom/10356a/) |
+| 10517 | Georges et Marie-Angèle Charmaison (née Rimbert) | Vaucluse | Cérémonie ; Au premier plan Jacob Cukier derrière Georges et Marie Charmaison, leurs enfants derrière | [CFYV](https://yadvashem-france.org/dossier/nom/10517/) |
+| 12206 | Sidoine et Yvonne Clément (née Boyer) | Vaucluse | Sidoine et Yvonne Clément ; Cérémonie. De gauche à droite : Mme Arondel, ayant droit, M. Ratson, M. Dagnaud | [CFYV](https://yadvashem-france.org/dossier/nom/12206/) |
+| 12435 | Giuseppe et Henriette Landi (née Forlino) ; Yvonne Borowski (née Landi) | Vaucluse | Les personnes sauvées ; Les personnes sauvées ; Les personnes sauvées | [CFYV](https://yadvashem-france.org/dossier/nom/12435/) |
+| 12435A | Juliette Boudou (née Roqueirol) | Vaucluse | Les personnes sauvées ; Les personnes sauvées ; Les personnes sauvées ; Juliette Boudou ; Juliette Boudou ; Juliette Boudou ; Juliette Boudou et son mari ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/12435a/) |
+
+Remarques : 10356 : Voir aussi le dossier 10356A (Chapelin). · 10356A : Voir aussi le dossier 10356 (Bezol). · 10882 : La fiche situe Marseille dans le département du Rhône. · 12435 : Voir aussi le dossier 12435A (Boudou). · 12435A : Voir aussi le dossier 12435 (Landi). La fiche ne détaille pas son action dans sa partie lisible. · 12544 : La fiche rattache le dossier à Marseille, mais le home se trouve à Canet-Plage. · 12701 : La fiche ne nomme pas de personne sauvée. · 3028 : Voir aussi les dossiers 3028A (Hertel) et 3028B (Teillard). · 3028A : Voir aussi les dossiers 3028 (Roux) et 3028B (Teillard). · 3028B : Voir aussi les dossiers 3028 et 3028A. · 3781 : Voir aussi le dossier 3781A (Bousquet, Paris). · 395A : Voir aussi le dossier de Germaine Muehlenthaler. · 5209 : Voir aussi le dossier 5209A (Giraud). · 5209A : Voir aussi le dossier 5209 (Dejean).
 
 ## Lot Claude — Île-de-France, partie 4 : Paris, seconde moitié (28/11/2026)
 
