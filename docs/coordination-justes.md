@@ -14,7 +14,7 @@ Pour chaque lot, indique le dossier, les personnes, les liens des sources, la l�
 ## Répartition au 28/11/2026 (soir)
 
 - Codex : Alpes-Maritimes (06) et fin du Rhône (69).
-- Mise à jour du 28/11/2026, 20 h 30 (à la demande de Thierry) : Ardèche et Isère sont terminées. Claude reprend les 45 dossiers restants du Rhône, plus le dernier du Puy-de-Dôme (14481) et de la Haute-Savoie (14562). Codex garde les Alpes-Maritimes (20 dossiers restants). Les dossiers déjà documentés ne sont jamais réécrits.
+- Mise à jour du 28/11/2026, 20 h 30 (à la demande de Thierry) : Ardèche et Isère sont terminées. Claude reprend les 45 dossiers restants du Rhône, plus le dernier du Puy-de-Dôme (14481) et de la Haute-Savoie (14562). Codex garde les Alpes-Maritimes (20 dossiers restants). Mise à jour 20 h 55 : à la demande de Thierry, Claude termine aussi ces 20 dossiers des Alpes-Maritimes puis le contrôle des photos et portraits. Les dossiers déjà documentés ne sont jamais réécrits.
 - Claude : Drôme (26) et Loire (42), puis les zones jusqu’ici réservées à Thierry : Haute-Vienne, Haute-Loire, Corrèze, Creuse, Savoie, Aveyron, Allier, Lozère, Cantal, Hautes-Alpes, Vosges ; ainsi que les Alpes-de-Haute-Provence et les quelques dossiers isolés restants.
 - Ordre prévu pour Claude : Drôme, Loire, Haute-Loire, Haute-Vienne, Creuse et Corrèze, Savoie et Hautes-Alpes, Cantal, Allier, Lozère et Aveyron, puis le reste.
 
