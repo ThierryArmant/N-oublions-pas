@@ -1018,3 +1018,7 @@ Les 33 références de l’index ont été traitées. Les 55 fiches ont un réci
 | [4430](https://yadvashem-france.org/dossier/nom/4430/) | Madeleine Tartier, Roland Tartier | Ajouté | — | — |
 | [10597](https://yadvashem-france.org/dossier/nom/10597/) | Georges Vialle, Noémie Vialle | Ajouté | — | — |
 | [13181](https://yadvashem-france.org/dossier/nom/13181/) | Edouard Vigne, Julia Vigne | Ajouté | 5 | La notice emploie Julia et certaines légendes Julie |
+
+## Lot Isère (38) — en cours
+
+Isère côté Codex, Hauts-de-France côté Claude. 59 fiches enrichies avec 38 récits et 9 photographies ajoutées. [Relevé des 79 références](recherches/lot_isere_2026-11-28.md).
