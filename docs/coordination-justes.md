@@ -17,7 +17,106 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : Île-de-France partie 1 (95 dossiers : Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Lot en cours (pris le 28/11) : Île-de-France, parties 2 (Val-d’Oise, Yvelines, Essonne, Seine-et-Marne, 90 dossiers) puis 3 et 4 (Paris, 229 dossiers). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+Terminés : Île-de-France parties 1 (95 dossiers : Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne) et 2 (90 : Val-d’Oise, Yvelines, Essonne, Seine-et-Marne), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lozère et Aveyron laissés à Thierry (Massif central). Lot en cours (pris le 28/11) : Île-de-France, parties 3 et 4 (Paris, 229 dossiers). Claude reste hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Massif central, Puy-de-Dôme).
+
+## Lot Claude — Île-de-France, partie 2 : Val-d’Oise, Yvelines, Essonne, Seine-et-Marne (28/11/2026)
+
+Récit intégré sur `main` pour 90 dossiers ; 80 portraits et 131 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_ile_de_france_2_2026-11-28.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10188 | Eugénie Cerclet (née Trouvé) | Essonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10188/) |
+| 11509 | Marie-Françoise Borel (née Lech’vien) | Essonne | Marie-Françoise Borel | [CFYV](https://yadvashem-france.org/dossier/nom/11509/) |
+| 11672 | Gabriel et Charlotte Chacou (née Nicolas) | Essonne | Charlotte Chacou ; Gabriel Chacou | [CFYV](https://yadvashem-france.org/dossier/nom/11672/) |
+| 11844A | André et Renée Charpentier (née Avice) ; Armandine Langlais (née Avice) | Essonne | André Charpentier, Andrée Langlais, Renée Charpentier en 1946 | [CFYV](https://yadvashem-france.org/dossier/nom/11844a/) |
+| 12428 | Jeanne Odette Beuque (née Anthoine) | Essonne | Jeanne Beuque pendant la guerre ; Lise et Gisèle Behar (enfants sauvées) ; Jeanne Beuque aujourd'hui | [CFYV](https://yadvashem-france.org/dossier/nom/12428/) |
+| 12514 | Gaston, Alice (née Portet) et Blanche Tussa (née Bonnin) | Essonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/12514/) |
+| 12535A | Juliette Jacquemard (née Petit) | Essonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/12535a/) |
+| 12742 | Jeanne Coiffier (née Foix) | Essonne | Jeanne et son mari Emile ; Jeanne et son mari Emile | [CFYV](https://yadvashem-france.org/dossier/nom/12742/) |
+| 13536 | Lise Fuga (née Septier) | Essonne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13536/) |
+| 14171 | Henri et Cécile Blanc (née Viala) | Essonne | Henri Blanc ; Cécile Blanc | [CFYV](https://yadvashem-france.org/dossier/nom/14171/) |
+| 14192 | Albert et Rachel Lauverjon (née Grenier) | Essonne | Rachel et Albert Lauverjon à la retraite ; L’hôtel des Lauverjon à Brunoy | [CFYV](https://yadvashem-france.org/dossier/nom/14192/) |
+| 14333C | Louis et Juliette Rameau (née Tyssandier) | Essonne | Louis et Juliette Rameau | [CFYV](https://yadvashem-france.org/dossier/nom/14333c/) |
+| 14410 | Bertrand Duloutre | Essonne | Bertrand Duloutre ; Famille Tzéhoval | [CFYV](https://yadvashem-france.org/dossier/nom/14410/) |
+| 14585 | Clotilde Veissière (née Le Baudy) | Essonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/14585/) |
+| 4421 | Henriette Tracol (née Lannes) | Essonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4421/) |
+| 4487A | Olivier et Roger de Vilmorin | Essonne | Olivier et Roger de Vilmorin ; Le Château des Vilmorin | [CFYV](https://yadvashem-france.org/dossier/nom/4487a/) |
+| 4659 | Jean et Lydie Bouteilly | Essonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/4659/) |
+| 5361 | Roger et Marguerite Cadiou | Essonne | Roger Cadiou ; Marguerite Cadiou | [CFYV](https://yadvashem-france.org/dossier/nom/5361/) |
+| 5969 | Pierre et Lucienne Lagarde | Essonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/5969/) |
+| 6132 | Maurice, Fernande et Paul Arnoult | Essonne | Maurice Arnoult ; Mur des Justes | [CFYV](https://yadvashem-france.org/dossier/nom/6132/) |
+| 6889 | René et Madeleine Drouet | Essonne | Madeleine Drouet | [CFYV](https://yadvashem-france.org/dossier/nom/6889/) |
+| 6891 | Lucienne Reuter | Essonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6891/) |
+| 7240 | Yvonne et Jeannine Trihoreau | Essonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/7240/) |
+| 7421 | Georges et Germaine Durand (née Tuffé) | Essonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/7421/) |
+| 8330 | Charles et Marthe Herbault (née Dufresne) | Essonne | Charles Herbault ; Marthe Herbault | [CFYV](https://yadvashem-france.org/dossier/nom/8330/) |
+| 8673 | Marguerite et Lucien Dubouloz (née Rayard) | Essonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/8673/) |
+| 9171 | Francis et Georgette Remoissenet (née Bizet) | Essonne | — | [CFYV](https://yadvashem-france.org/dossier/nom/9171/) |
+| 9402 | Robert et Christiane Vilgard (née Ponssard) | Essonne | Robert Vilgard ; Christiane Vilgard | [CFYV](https://yadvashem-france.org/dossier/nom/9402/) |
+| 9702 | Julie Thelliez (née Delahodde) | Essonne | Julie Thelliez, été 1940 | [CFYV](https://yadvashem-france.org/dossier/nom/9702/) |
+| 9918 | Docteur Maurice Charollais ; Marcel et Stéphanie Guillet (née Cloupeau) | Essonne | Maurice Charollais ; Corinne Charollais ; Le docteur Maurice Charollais ; Le fils aîné, Jean-Lou Charollais ; Stéphanie Guillet (épouse) ; Marcel Guillet (oncle) | [CFYV](https://yadvashem-france.org/dossier/nom/9918/) |
+| 10034 | Jean et Eugénie Kroutz (née Moiret) | Seine-et-Marne | Les sauveurs et les sauvés ; Henri et Élie Goldingas avec leur mère en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/10034/) |
+| 10343 | Suzanne Vaillant-Saunier (née Salvayat) | Seine-et-Marne | Suzanne Vaillant-Saunier en 1931 | [CFYV](https://yadvashem-france.org/dossier/nom/10343/) |
+| 10343A | Hélène de Campaigno de Patras | Seine-et-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/10343a/) |
+| 10405 | Robert et Émilienne Guillet (née Castel) | Seine-et-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/10405/) |
+| 10535 | Charles et Madeleine Gagnon (née Laurent) | Seine-et-Marne | Charles et Madeleine Gagnon ; Mme Thiébault-Gagnon recevant la médaille des mains de Barnéa Hassid | [CFYV](https://yadvashem-france.org/dossier/nom/10535/) |
+| 10653 | Charlotte Olinger (née Gavel) | Seine-et-Marne | Charlotte Olinger | [CFYV](https://yadvashem-france.org/dossier/nom/10653/) |
+| 11286 | Paul, Marguerite (née Ifager) et Paulette Bertin | Seine-et-Marne | Paul et Marguerite Bertin ; Paul, Marguerite et Paulette Bertin, Daniel et Marcelle | [CFYV](https://yadvashem-france.org/dossier/nom/11286/) |
+| 11535 | Fernand et Berthe Dhuiège (née Rochois) | Seine-et-Marne | Famille Dhuiège en mars 1944 ; Berthe Dhuiège, à gauche | [CFYV](https://yadvashem-france.org/dossier/nom/11535/) |
+| 11584 | Henri et Marie Dégremont (née Jacquot) | Seine-et-Marne | Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/11584/) |
+| 12470 | Dominique et Marie-Françoise Poli (née Barbetti) | Seine-et-Marne | Michel Fansten en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/12470/) |
+| 13329 | Marcel et Maximilienne Nadaud (née Chapuis) | Seine-et-Marne | Maximilienne Nadaud ; Marcel Nadaud ; Jean Zylber | [CFYV](https://yadvashem-france.org/dossier/nom/13329/) |
+| 13438 | Robert et Alice Joubert (née Pigeron) | Seine-et-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/13438/) |
+| 14314 | Charles et Eugénie Edelmann (née Robert) | Seine-et-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/14314/) |
+| 14665 | Paul et Léonie Roussel (née Forest) ; Simone Venet (née Roussel) | Seine-et-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14665/) |
+| 1717 | Henri et Jeanne Maindron | Seine-et-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/1717/) |
+| 3099 | Père Jacques (Lucien Bunel) | Seine-et-Marne | Lucien Bunel (le père Jacques) | [CFYV](https://yadvashem-france.org/dossier/nom/3099/) |
+| 3236 | Fernand et Louise Dussart (née Capron) | Seine-et-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/3236/) |
+| 338 | Jeanne Gellert | Seine-et-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/338/) |
+| 3395 | Germaine Le Guillant (née Le Hénaff) | Seine-et-Marne | Germaine Le Guillant ; Germaine Le Guillant conduit la leçon de chants au Château de la Guette | [CFYV](https://yadvashem-france.org/dossier/nom/3395/) |
+| 4385 | Abbé Jean Terruwe | Seine-et-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/4385/) |
+| 5653A | Jules Boucherit | Seine-et-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/5653a/) |
+| 6871 | Kléber et Rose Grosset (née Souverain) | Seine-et-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6871/) |
+| 6890A | Henri et Lucienne Sebille (née Gombault) | Seine-et-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/6890a/) |
+| 7652 | Abbé Henri Ménardais | Seine-et-Marne | L’abbé Henri Ménardais | [CFYV](https://yadvashem-france.org/dossier/nom/7652/) |
+| 8626 | Marquis René et marquise Henriette de Roys | Seine-et-Marne | — | [CFYV](https://yadvashem-france.org/dossier/nom/8626/) |
+| 9124 | Léopold Gaillard | Seine-et-Marne | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9124/) |
+| 9624 | Paul Mathéry | Seine-et-Marne | Paul Mathéry | [CFYV](https://yadvashem-france.org/dossier/nom/9624/) |
+| 10277 | René et Jeanne Malais (née Brossel) | Val-d’Oise | René et Jeanne Malais, avril 1978 ; Léa Bruder et sa fille Monique (les sauvées) en 1943 | [CFYV](https://yadvashem-france.org/dossier/nom/10277/) |
+| 11422 | Arthur et Cécile Magnier (née Pagnon) | Val-d’Oise | 1933, David Charlotte et Regina ; Charlotte avec des amis ; Charlotte et Paulette avec des voisins ; Charlotte et sa soeur Paulette dans le jardin de Arthur Magnier ; Charlotte Storch personne sauvée ; Charlotte, Marcel Magnier et Paulette ; Charlotte, Paulette et André ; Les sauvés en 1945 (collection Yad Vashem) ; Michel et Ginette Delcloy, Paulette, Charlotte et André ; Regina en 1942 | [CFYV](https://yadvashem-france.org/dossier/nom/11422/) |
+| 11555 | Robert et Marie Borgeon (née Victor) | Val-d’Oise | Marie Borgeon et sa protégée Madeleine Golebiowski en 1947 ; Robert Borgeon sur les marches de son pavillon à Franconville en 1946 ; Madeleine Golebiowski élève à l'école communale de Franconville âgée de 7 et 10 ans | [CFYV](https://yadvashem-france.org/dossier/nom/11555/) |
+| 11889 | Lucien et Albertine Anne | Val-d’Oise | Fernand Anne ; Albertine Anne | [CFYV](https://yadvashem-france.org/dossier/nom/11889/) |
+| 11893 | Abbé Antoine Corriger | Val-d’Oise | Antoine Corriger | [CFYV](https://yadvashem-france.org/dossier/nom/11893/) |
+| 11898 | Henriette Pichon (née Dautrey) | Val-d’Oise | Henriette Pichon à Barrais en 1997 ; Henriette Pichon avec les enfants sauvés ; Henriette Pichon avec les sauvés à Barrais Bussoles | [CFYV](https://yadvashem-france.org/dossier/nom/11898/) |
+| 13156 | Jean Benezech | Val-d’Oise | Diplôme de Juste des Nations | [CFYV](https://yadvashem-france.org/dossier/nom/13156/) |
+| 4858 | Salvator et Anna Gotti | Val-d’Oise | — | [CFYV](https://yadvashem-france.org/dossier/nom/4858/) |
+| 7286 | Adrien et Marie-Louise Bras (née Bonin) | Val-d’Oise | Marie-Louise et Adrien Bras ; Marie-Louise et Adrien Bras ; Albert Oler au mariage de Yolande et Jean Charpentier ; Marie-Louise avec Albert ; Albert avec Annie Charpentier | [CFYV](https://yadvashem-france.org/dossier/nom/7286/) |
+| 7632 | Roger et Simone Hannebert (née Sizaire-Romain) | Val-d’Oise | Roger Hannebert ; Simone Hannebert | [CFYV](https://yadvashem-france.org/dossier/nom/7632/) |
+| 10496 | Armand et Céline Zahler | Yvelines | Armand et Céline Zahler en 1942 ; Jacques-Henri Zahler, fils des Justes, reçoit la médaille des mains de Dina Sorek | [CFYV](https://yadvashem-france.org/dossier/nom/10496/) |
+| 10522 | Henri et Thérèse Debauge (née Jacques) | Yvelines | Henri Debauge | [CFYV](https://yadvashem-france.org/dossier/nom/10522/) |
+| 10743 | Gérard et Madeleine Monod (née Vautier) | Yvelines | Gérard Monod | [CFYV](https://yadvashem-france.org/dossier/nom/10743/) |
+| 12409 | Marcel et Antoinette Loubeau (née Ménard) | Yvelines | Marcel et Antoinette Loubeau | [CFYV](https://yadvashem-france.org/dossier/nom/12409/) |
+| 13102 | Émile et Germaine Charpentier (née Fouque) | Yvelines | Germaine Charpentier avec les deux enfants sauvés en 1942 ; Médaille des Justes Germaine et Emile Charpentier ; Nicolas Renaud, Henri Konsens, Didier Charpentier, le 19 juin 2016 ; Victor Emile Charpentier | [CFYV](https://yadvashem-france.org/dossier/nom/13102/) |
+| 14083 | Aurélien et Julienne Morin (née Mutel) | Yvelines | Aurélien et Julienne Morin ; Henri Dauman et la petite-fille d’Aurélien et Julienne Morin | [CFYV](https://yadvashem-france.org/dossier/nom/14083/) |
+| 14174A | Jeanne Jaeger | Yvelines | La crèche de Jeanne Jaeger | [CFYV](https://yadvashem-france.org/dossier/nom/14174a/) |
+| 14237 | Jean-Baptiste dit Charles et Henriette Mézière (née Rousseau) | Yvelines | Henriette Mézière ; Charles Mézière | [CFYV](https://yadvashem-france.org/dossier/nom/14237/) |
+| 14333 | Augustin et Marcelline Orsi (née Luciani) | Yvelines | Commissaire Orsi | [CFYV](https://yadvashem-france.org/dossier/nom/14333/) |
+| 14333A | Joseph et Jeanne Guenantin (née Guillaume) | Yvelines | Joseph Guenantin vers 1950 et son petit-fils Serge ; Jeanne Guenantin vers 1950 | [CFYV](https://yadvashem-france.org/dossier/nom/14333a/) |
+| 14611 | Georges et Émilienne Angèle Schneider (née Lamy) | Yvelines | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/14611/) |
+| 3978 | Alice Staudenmann | Yvelines | — | [CFYV](https://yadvashem-france.org/dossier/nom/3978/) |
+| 4240 | Victor et Lucienne Cauchois ; Bernadette Ferrarini (née Cauchois) | Yvelines | Victor Cauchois ; Lucienne Cauchois ; Bernadette Ferrarini | [CFYV](https://yadvashem-france.org/dossier/nom/4240/) |
+| 5477 | Yves, Joséphine (née Kerambeller) et Colette Sebille | Yvelines | Yves et Joséphine Sebille ; Colette Sebille | [CFYV](https://yadvashem-france.org/dossier/nom/5477/) |
+| 5538C | Capitaine Henri Rioufol | Yvelines | — | [CFYV](https://yadvashem-france.org/dossier/nom/5538c/) |
+| 5752 | Abbé Jean-Marie Viollet | Yvelines | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/5752/) |
+| 6463 | Thérèse Monnais | Yvelines | — | [CFYV](https://yadvashem-france.org/dossier/nom/6463/) |
+| 7237 | André et Adèle Lambert | Yvelines | — | [CFYV](https://yadvashem-france.org/dossier/nom/7237/) |
+| 7566 | Lucien et Léopoldine Gareau | Yvelines | — | [CFYV](https://yadvashem-france.org/dossier/nom/7566/) |
+| 9131 | Pierre Olivet | Yvelines | — | [CFYV](https://yadvashem-france.org/dossier/nom/9131/) |
+| 9591 | Mère Annette (Marthe Delesalle) | Yvelines | — | [CFYV](https://yadvashem-france.org/dossier/nom/9591/) |
+| 9591C | Sœur Marguerite Olivier | Yvelines | Marguerite Olivier et Véra Folic en 2000 | [CFYV](https://yadvashem-france.org/dossier/nom/9591c/) |
+| 9920 | Edmond et Adeline Langlois (née Delarue) | Yvelines | Adeline et Edmond Langlois | [CFYV](https://yadvashem-france.org/dossier/nom/9920/) |
+
+Remarques : 10343 : Voir aussi le dossier 10343A (Hélène de Campaigno). · 10343A : Voir aussi le dossier 10343 (Vaillant-Saunier). · 11509 : La fiche indique Romainville et un code postal de l’Essonne. · 11672 : La fiche indique le département de l’Yonne, mais Saint-Sulpice-de-Favières est dans l’Essonne. · 11893 : La fiche consacre surtout une longue biographie à l’abbé. · 12535A : La fiche nomme la cheffe de gare « Madame Ménigault » dans le récit ; le titre est décerné en 2013 à Juliette Jacquemard. · 13102 : La fiche consacre l’essentiel de sa partie lisible à l’histoire de la famille Konsens. · 13156 : Fiche sans récit. · 13438 : La fiche nomme la Juste Alice dans l’en-tête et Georgette dans le récit. · 14314 : Fiche sans récit. · 14333 : Voir aussi les dossiers 14333A (Guenantin) et 14333C (Rameau). · 14333A : Voir aussi les dossiers 14333 (Orsi) et 14333C (Rameau). · 14333C : Voir aussi les dossiers 14333 (Orsi) et 14333A (Guenantin). · 3099 : La fiche ne détaille pas, dans sa partie lisible, l’arrestation de janvier 1944. · 4487A : Voir aussi le dossier 4487 (Lecureur). · 6890A : Voir aussi le dossier 6890 (Gombault, Aube). · 7421 : Voir aussi le dossier des Sarazin (Vienne). · 8330 : La fiche situe Dourdan dans le Val-de-Marne. · 9131 : Voir aussi le dossier des Paulin (Tarn). · 9591 : Voir aussi le dossier 9591C (sœur Marguerite Olivier). · 9591C : Voir aussi le dossier 9591 (Mère Annette). · 9624 : Voir aussi le dossier 3099 (père Jacques).
 
 ## Lot Claude — Île-de-France, partie 1 : Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne (28/11/2026)
 
