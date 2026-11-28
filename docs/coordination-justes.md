@@ -1900,3 +1900,7 @@ Les 79 dossiers des 137 fiches ont été contrôlés côté Comité français po
 ## Rhône (69) — en cours côté Codex
 
 Le Rhône est réservé à Codex. Le relevé initial identifie 119 références sans récit, qui concernent 177 fiches. Le contrôle des sources et des visuels part de ces références.
+
+## Rhône (69) — deuxième lot
+
+16 dossiers vérifiés, 24 fiches enrichies avec les récits. Le contrôle des notices a permis d’ajouter 15 visuels dans 11 dossiers, dont 10 portraits individuels associés aux fiches. Les photos de groupe et le document non légendé restent en galerie.
