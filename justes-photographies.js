@@ -25791,3 +25791,203 @@ Object.assign(photosDossiersJustes, {
   }
  ]
 });
+
+// Rhône — galeries contrôlées du lot de 18 dossiers.
+for (const [dossier, photos] of Object.entries({
+  "2267": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/036a8010bbb6c1b69081e6dcb2df7929.jpg",
+      "legende": "Olivier Harty De Pierrebourg",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/2267/"
+    }
+  ],
+  "3012": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/8d0e1ad3eb9f914a15b399e5611e5494.jpg",
+      "legende": "Gilbert Lesage",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/3012/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/7470aebd7b9246717ea889660c66690d.jpg",
+      "legende": "Remise du diplôme à Yad Vashem le 24 mai 1985",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/3012/"
+    }
+  ],
+  "4554": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/92f373472259a59a6c255195e46dd447.jpg",
+      "legende": "François et Henriette GUFFLET",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/4554/"
+    }
+  ],
+  "4935": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/e0d8d5ad46c69a35f3adb9beaff670b1.jpg",
+      "legende": "Mathilde Burdin",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/4935/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2bbc735e767385f26efeb3d969a2c5ca.jpg",
+      "legende": "Mathilde et  Charles KHENAFFOU en 1938",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/4935/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/59d3ffe36cc7850156b24da027850754.jpg",
+      "legende": "Mathilde et Charles KHENAFFOU",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/4935/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/9427ffcba40e54fa0f857050e61908aa.jpg",
+      "legende": "Mathilde Khenaffou  1943",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/4935/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/490594ac55120661ae7ff5ab323eb23f.jpg",
+      "legende": "Mathilde Burdin, remise de medaille",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/4935/"
+    }
+  ],
+  "5853": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a46060ffbbb0e7936691c6416f919c5f.jpg",
+      "legende": "Ernest HOLZAPFEL",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/5853/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/7f1d7a8e3583f8ba509c9e659bbca9be.jpg",
+      "legende": "En juin 1945, Claude 6 ans, dans un camp de louveteaux",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/5853/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/e59b32b6b495efaa63f09c1fe93c7b6a.jpg",
+      "legende": "Petit Claude en louveteau",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/5853/"
+    }
+  ],
+  "5935": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2024/05/Ceremonie-de-la-remise-du-titre-400x288.png",
+      "legende": "Cérémonie de la remise du titre Hagoussian",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/5935/"
+    }
+  ],
+  "7222": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/f16982dce156806b41bb0e2d53cb3d26.jpg",
+      "legende": "Lucien LACHAISE",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/7222/"
+    }
+  ],
+  "9129": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a96b316e4fd1bcfef8dec8668837db91.jpg",
+      "legende": "Marie Louise et Gilbert Hugonnet en 1943",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/9129/"
+    }
+  ],
+  "9717": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/f7a3dc50c1ca5b951269edd24c2006de.jpg",
+      "legende": "Jean Mallen",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/9717/"
+    }
+  ],
+  "12291": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/c201e5fe7f800be4117a653c4ff111df.jpg",
+      "legende": "FERRAND Pierre et Suzanne",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/12291/"
+    }
+  ],
+  "13171": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/78bf4e1c6feca89fd6dd7e07d6c83763.jpg",
+      "legende": "Epoux Gubian",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/13171/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/bfb6b818db7d1e39279c452638253d8d.jpg",
+      "legende": "La famille Bitton",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/13171/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/aac726ecfed1b98eec76a1a36e242b9d.jpg",
+      "legende": "Les deux enfants David et Jacob",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/13171/"
+    }
+  ],
+  "12291A": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/17958f7570e01e55f9bda0393131287f.jpg",
+      "legende": "MAGAUD Paul et Rose",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/12291A/"
+    }
+  ]
+})) {
+  photosDossiersJustes[dossier] = [...(photosDossiersJustes[dossier] || []), ...photos];
+}
+Object.assign(portraitsJustes, {
+  "harty de pierrebourg-olivier": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/036a8010bbb6c1b69081e6dcb2df7929.jpg",
+    "legende": "Olivier Harty De Pierrebourg",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/2267/",
+    "groupe": false
+  },
+  "lesage-gilbert": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/8d0e1ad3eb9f914a15b399e5611e5494.jpg",
+    "legende": "Gilbert Lesage",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/3012/",
+    "groupe": false
+  },
+  "khenaffou-mathilde": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/9427ffcba40e54fa0f857050e61908aa.jpg",
+    "legende": "Mathilde Khenaffou  1943",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/4935/",
+    "groupe": false
+  },
+  "holzapfel-ernest": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a46060ffbbb0e7936691c6416f919c5f.jpg",
+    "legende": "Ernest HOLZAPFEL",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/5853/",
+    "groupe": false
+  },
+  "lachaise-lucien": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/f16982dce156806b41bb0e2d53cb3d26.jpg",
+    "legende": "Lucien LACHAISE",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/7222/",
+    "groupe": false
+  },
+  "mallen-jean": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/f7a3dc50c1ca5b951269edd24c2006de.jpg",
+    "legende": "Jean Mallen",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/9717/",
+    "groupe": false
+  }
+});
