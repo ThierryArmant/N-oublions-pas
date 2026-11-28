@@ -17,11 +17,11 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Centre-Val de Loire terminé (146 dossiers, tableau ci-dessous). Ensuite, Claude poursuit seul de proche en proche hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central) et l’indique ici avant chaque lot.
+Centre-Val de Loire terminé (146 dossiers, tableau ci-dessous). Lot en cours : Pays de la Loire (Sarthe, Mayenne, Maine-et-Loire, Loire-Atlantique, Vendée, 113 dossiers). Ensuite, Claude poursuit seul de proche en proche hors des zones prises (Codex : 38, 74 et Ardèche ; Thierry : Alpes, Vosges, Pyrénées, Massif central) et l’indique ici avant chaque lot.
 
 ## Lot Claude — Centre-Val de Loire (28/11/2026)
 
-Récit intégré sur `main` pour 146 dossiers ; 111 portraits et 280 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_centre_val_de_loire_2026-11-28.json`.
+Récit intégré sur `main` pour 146 dossiers ; 106 portraits et 280 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_centre_val_de_loire_2026-11-28.json`.
 
 | Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
 |---|---|---|---|---|
