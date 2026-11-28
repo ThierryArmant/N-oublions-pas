@@ -25008,3 +25008,193 @@ Object.assign(photosDossiersJustes, {
   }
  ]
 });
+
+// Rhône — visuels des dossiers vérifiés.
+for (const [dossier, photos] of Object.entries({
+  "978": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2024/03/Screenshot_20240312_195422_com.android.gallery3d-212x300.jpg",
+      "legende": "Paul-Henri De Lagarde",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/978/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2024/03/Screenshot_20240312_195437_com.android.gallery3d-224x300.jpg",
+      "legende": "Yvonne De Lagarde",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/978/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/5e39dbd7f6377c9107fd450426591256.jpg",
+      "legende": "Pierre Wolff en 2008",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/978/"
+    }
+  ],
+  "1066": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2024/10/Jacqueline-et-Roland-De-Pury-en-1954-400x322.jpg",
+      "legende": "Jacqueline et Roland De Pury en 1954",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/1066/"
+    }
+  ],
+  "3011": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/eb3327f0337bb9bcf6d38deb4df14a5b.jpg",
+      "legende": "DREYER Hélène",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/3011/"
+    }
+  ],
+  "6048": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/a095ca6c8f24677adcac99da6b29e147.jpg",
+      "legende": "Photographie publiée dans le dossier",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/6048/"
+    }
+  ],
+  "7425": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2023/11/Claudius-Denise-600x402.jpg",
+      "legende": "Claudius & Denise Couturier",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/7425/"
+    }
+  ],
+  "9132": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/50dba3e3c795017156e570e811ce8932.jpg",
+      "legende": "Marie-Louise DELECHENAULT",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/9132/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2024/05/Soeur-Louis-de-Gonzague-400x584.jpg",
+      "legende": "Sœur Louis de Gonzague",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/9132/"
+    }
+  ],
+  "10661": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ce74d8d4434f2f17c8fdd18b7732f628.jpg",
+      "legende": "COQUET Marie-louise",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/10661/"
+    }
+  ],
+  "11033": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/9dd90ace2dfaa218102347b1eb8c02bf.jpg",
+      "legende": "Jean et Aimée Barange",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/11033/"
+    }
+  ],
+  "11183": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/194caa6b772669d110dcf527547c6c62.jpg",
+      "legende": "Anna Ehret",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/11183/"
+    },
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/85a2d5d1130d354ad7dfd0f94cd24754.jpg",
+      "legende": "Léon Ehret",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/11183/"
+    }
+  ],
+  "13145": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/94d147926cb381de6d2892bbec23f942.jpg",
+      "legende": "CHEVALIER Henri",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/13145/"
+    }
+  ],
+  "14204": [
+    {
+      "image": "https://yadvashem-france.org/wp-content/uploads/2023/01/Clara-Conrard.jpg",
+      "legende": "Clara Conrard",
+      "credit": "Comité français pour Yad Vashem",
+      "url": "https://yadvashem-france.org/dossier/nom/14204/"
+    }
+  ]
+})) {
+  photosDossiersJustes[dossier] = [...(photosDossiersJustes[dossier] || []), ...photos];
+}
+Object.assign(portraitsJustes, {
+  "de-lagarde-paul-henri": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2024/03/Screenshot_20240312_195422_com.android.gallery3d-212x300.jpg",
+    "legende": "Paul-Henri De Lagarde",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/978/",
+    "groupe": false
+  },
+  "de-lagarde-yvonne": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2024/03/Screenshot_20240312_195437_com.android.gallery3d-224x300.jpg",
+    "legende": "Yvonne De Lagarde",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/978/",
+    "groupe": false
+  },
+  "dreyer-helene": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/eb3327f0337bb9bcf6d38deb4df14a5b.jpg",
+    "legende": "DREYER Hélène",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/3011/",
+    "groupe": false
+  },
+  "delechenault-marie-louise": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/50dba3e3c795017156e570e811ce8932.jpg",
+    "legende": "Marie-Louise DELECHENAULT",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/9132/",
+    "groupe": false
+  },
+  "laurent-yvonne": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2024/05/Soeur-Louis-de-Gonzague-400x584.jpg",
+    "legende": "Sœur Louis de Gonzague",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/9132/",
+    "groupe": false
+  },
+  "coquet-marie-louise": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ce74d8d4434f2f17c8fdd18b7732f628.jpg",
+    "legende": "COQUET Marie-louise",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/10661/",
+    "groupe": false
+  },
+  "ehret-anna": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/194caa6b772669d110dcf527547c6c62.jpg",
+    "legende": "Anna Ehret",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/11183/",
+    "groupe": false
+  },
+  "ehret-leon": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/85a2d5d1130d354ad7dfd0f94cd24754.jpg",
+    "legende": "Léon Ehret",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/11183/",
+    "groupe": false
+  },
+  "chevalier-henri": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/94d147926cb381de6d2892bbec23f942.jpg",
+    "legende": "CHEVALIER Henri",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/13145/",
+    "groupe": false
+  },
+  "claire-conrard": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2023/01/Clara-Conrard.jpg",
+    "legende": "Clara Conrard",
+    "credit": "Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/14204/",
+    "groupe": false
+  }
+});
