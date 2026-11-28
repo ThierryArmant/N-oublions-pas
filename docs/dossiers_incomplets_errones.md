@@ -102,7 +102,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 14562 | César Auguste et Joséphine Augusta Migeois (née Guennard) | Haute-Savoie | La fiche 14562 ne comporte en ligne ni récit ni nom de personne sauvée. | [fiche](https://yadvashem-france.org/dossier/nom/14562/) |
 | 14564 | Rolande Gaboriaud | Loiret | La fiche situe les faits dans la Loire et la Haute-Loire ; la base rattache la notice au Loiret. | [fiche](https://yadvashem-france.org/dossier/nom/14564/) |
 
-## Incohérence de nom, prénom ou date (40)
+## Incohérence de nom, prénom ou date (41)
 
 | Dossier | Justes | Département | Problème | Fiche CFYV |
 |---|---|---|---|---|
@@ -141,6 +141,7 @@ Mise à jour : 28/11/2026. Liste établie à partir des remarques des lots (`doc
 | 12606B | Simonne Le Hello | Creuse | Récit commun avec le dossier 12606 ; la fiche ne nomme pas la personne sauvée dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/12606b/) |
 | 12612A | Marcelle Porte | Creuse | Récit commun avec le dossier 12612 (Pénicaud, Haute-Vienne) ; la fiche ne nomme pas les personnes sauvées dans l’en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/12612a/) |
 | 13335 | Félix et Marie Maurier (née Burdet) | Savoie | Le récit nomme le Juste « Jean » et l’en-tête « Félix » Maurier. | [fiche](https://yadvashem-france.org/dossier/nom/13335/) |
+| 13366A | Giovanni et Giuseppina Sovieri (née Bavosi) | Alpes-Maritimes | La fiche ne nomme pas les personnes sauvées et l’essentiel du récit porte sur le sauvetage par la famille Boullu en Isère. | [fiche](https://yadvashem-france.org/dossier/nom/13366a/) |
 | 13438 | Robert et Alice Joubert (née Pigeron) | Seine-et-Marne | La fiche nomme la Juste Alice dans l’en-tête et Georgette dans le récit. | [fiche](https://yadvashem-france.org/dossier/nom/13438/) |
 | 13688 | Madeleine Fauconneau du Fresne | Loiret | La fiche indique « Gabrielle » en en-tête. | [fiche](https://yadvashem-france.org/dossier/nom/13688/) |
 | 13825 | Charles Schneider ; Lilian Schneider née Volpert | Doubs | Prénoms des enfants incohérents entre la liste et le récit (Émile, Lionel / Samuel, Joseph, « Léon »). | [fiche](https://yadvashem-france.org/dossier/nom/13825/) |

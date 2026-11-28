@@ -28,7 +28,36 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Haute-Vienne (57), Creuse et Corrèze (80), Savoie et Hautes-Alpes (48), Cantal, Allier, Lozère et Aveyron (79), Vosges, Alpes-de-Haute-Provence et dossiers isolés (15), fin du Rhône, Puy-de-Dôme et Haute-Savoie (47), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Toutes les zones attribuées à Claude sont terminées, fin du Rhône comprise ; il ne reste que les Alpes-Maritimes (Codex). Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Haute-Vienne (57), Creuse et Corrèze (80), Savoie et Hautes-Alpes (48), Cantal, Allier, Lozère et Aveyron (79), Vosges, Alpes-de-Haute-Provence et dossiers isolés (15), fin du Rhône, Puy-de-Dôme et Haute-Savoie (47), fin des Alpes-Maritimes (20), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Tous les dossiers de l’index ont désormais un récit. Reste le contrôle des photos, des portraits et de leur affichage. Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+
+## Lot Claude — Fin des Alpes-Maritimes
+
+Récit intégré sur `main` pour 20 dossiers ; 21 portraits et 24 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_alpes-maritimes-fin.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 10355 | Jean et Jeanne Rous (née Gebellin) | Alpes-Maritimes | Jean Rous ; Jeanne Rous | [CFYV](https://yadvashem-france.org/dossier/nom/10355/) |
+| 10447 | Eugène et Rose Seguin | Alpes-Maritimes | Eugène et Rose Seguin | [CFYV](https://yadvashem-france.org/dossier/nom/10447/) |
+| 10574 | Clémentine Riccobono (née Giordan) | Alpes-Maritimes | — | [CFYV](https://yadvashem-france.org/dossier/nom/10574/) |
+| 10697 | Roger et Camille Staklin (née Martin) | Alpes-Maritimes | Camille Staklin ; Roger Staklin | [CFYV](https://yadvashem-france.org/dossier/nom/10697/) |
+| 10980B | Pierre Roubaudi (abbé) | Alpes-Maritimes | L’école Sasserno | [CFYV](https://yadvashem-france.org/dossier/nom/10980b/) |
+| 12062 | Jean et Alphonsine Rives (née Joly) | Alpes-Maritimes | Jean et Alphonsine Rives en 1960 ; Jean et Alphonsine Rives avec leurs deux enfants | [CFYV](https://yadvashem-france.org/dossier/nom/12062/) |
+| 12404 | Marius et Marie-Thérèse Pallanca (née Dagna) | Alpes-Maritimes | Marius et Marie-Thérèse Pallanca à Cagnes-sur-Mer, le 20 août 1969 | [CFYV](https://yadvashem-france.org/dossier/nom/12404/) |
+| 13030 | Jean Alexandre Ordan | Alpes-Maritimes | Jean Ordan | [CFYV](https://yadvashem-france.org/dossier/nom/13030/) |
+| 13030A | Joseph Xavier et Henriette Joséphine Ordan (née Lantéry) | Alpes-Maritimes | Henriette Ordan et son époux Joseph ; La famille Ortsman à Nice en 1940 ; Israël Ortsman et son frère Oscar | [CFYV](https://yadvashem-france.org/dossier/nom/13030a/) |
+| 13366A | Giovanni et Giuseppina Sovieri (née Bavosi) | Alpes-Maritimes | — | [CFYV](https://yadvashem-france.org/dossier/nom/13366a/) |
+| 4848 | Germaine Rajbaut | Alpes-Maritimes | — | [CFYV](https://yadvashem-france.org/dossier/nom/4848/) |
+| 5061 | Paul Rémond (Mgr) | Alpes-Maritimes | Mgr Paul Rémond ; Mgr Paul Rémond | [CFYV](https://yadvashem-france.org/dossier/nom/5061/) |
+| 6155 | Marcel Louis Reynaud | Alpes-Maritimes | Marcel Louis Reynaud ; Anna et Monique Pogorelsky ; Germaine Pogorelsky | [CFYV](https://yadvashem-france.org/dossier/nom/6155/) |
+| 6575 | Sébastien, Adeline et Josette Tafani | Alpes-Maritimes | Sébastien Tafani (debout à gauche), Adeline Tafani (assise à droite) et Josette Tafani (debout au centre) | [CFYV](https://yadvashem-france.org/dossier/nom/6575/) |
+| 6954 | Yvonne Roques (née Randoy) | Alpes-Maritimes | Yvonne Roques | [CFYV](https://yadvashem-france.org/dossier/nom/6954/) |
+| 7836 | Vincent Siméoni (père) | Alpes-Maritimes | Le père Vincent Siméoni | [CFYV](https://yadvashem-france.org/dossier/nom/7836/) |
+| 8569 | Emile et Valentine Puget (née Fournier) | Alpes-Maritimes | — | [CFYV](https://yadvashem-france.org/dossier/nom/8569/) |
+| 8667 | Simone Vidal (née Medici) | Alpes-Maritimes | — | [CFYV](https://yadvashem-france.org/dossier/nom/8667/) |
+| 8919 | Simonne Marie Zazzeri (née Verpeau) | Alpes-Maritimes | Simonne Zazzeri | [CFYV](https://yadvashem-france.org/dossier/nom/8919/) |
+| 9524 | Delphin et Antoinette Picco | Alpes-Maritimes | À gauche, la personne sauvée ; M. Francone et sa fille Gaby, en mariée, en 1963 ; Antoinette Picco en 1963 | [CFYV](https://yadvashem-france.org/dossier/nom/9524/) |
+
+Remarques : 13030 : Voir aussi le dossier 13030A (Joseph et Henriette Ordan). · 13030A : Voir aussi le dossier 13030 (Jean Ordan). · 13366A : La fiche ne nomme pas les personnes sauvées et l’essentiel du récit porte sur le sauvetage par la famille Boullu en Isère. · 6954 : Le récit qualifie Georges Mandel de « leader socialiste » ; Mandel n’était pas socialiste.
 
 ## Lot Claude — Fin du Rhône, Puy-de-Dôme et Haute-Savoie
 

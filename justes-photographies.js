@@ -33471,3 +33471,282 @@ Object.assign(photosDossiersJustes, {
   }
  ]
 });
+
+// Fin des Alpes-Maritimes (images des fiches du Comité français pour Yad Vashem)
+Object.assign(portraitsJustes, {
+ "ordan-henriette": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/181ac2521aea317653d189bb2cc2bba3.jpg",
+  "legende": "Henriette Ordan et son époux Joseph",
+  "groupe": true,
+  "credit": "Henriette Ordan et son époux Joseph · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/13030a/"
+ },
+ "ordan-jean": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2023/08/Jean-Ordan.jpg",
+  "legende": "Jean Ordan",
+  "groupe": false,
+  "credit": "Jean Ordan · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/13030/"
+ },
+ "ordan-joseph": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/181ac2521aea317653d189bb2cc2bba3.jpg",
+  "legende": "Henriette Ordan et son époux Joseph",
+  "groupe": true,
+  "credit": "Henriette Ordan et son époux Joseph · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/13030a/"
+ },
+ "pallanca-marie-therese": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/03/Marius-Marie-Thérèse-PALLANCA-le-20-août1969-à-Cagne-sur-Mer-1536x1019.jpg",
+  "legende": "Marius et Marie-Thérèse Pallanca à Cagnes-sur-Mer, le 20 août 1969",
+  "groupe": true,
+  "credit": "Marius et Marie-Thérèse Pallanca à Cagnes-sur-Mer, le 20 août 1969 · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12404/"
+ },
+ "pallanca-marius": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/03/Marius-Marie-Thérèse-PALLANCA-le-20-août1969-à-Cagne-sur-Mer-1536x1019.jpg",
+  "legende": "Marius et Marie-Thérèse Pallanca à Cagnes-sur-Mer, le 20 août 1969",
+  "groupe": true,
+  "credit": "Marius et Marie-Thérèse Pallanca à Cagnes-sur-Mer, le 20 août 1969 · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12404/"
+ },
+ "picco-antoinette": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/aacca65f99821f5ee2217406cc8a51b9.jpg",
+  "legende": "Antoinette Picco en 1963",
+  "groupe": false,
+  "credit": "Antoinette Picco en 1963 · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/9524/"
+ },
+ "reynaud-marcel": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/55f9091fbd1472dac961e74bbd9909f8.jpg",
+  "legende": "Marcel Louis Reynaud",
+  "groupe": false,
+  "credit": "Marcel Louis Reynaud · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/6155/"
+ },
+ "rives-alphonsine": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2021/09/en-1960-Jean-Alphonsine.jpg",
+  "legende": "Jean et Alphonsine Rives en 1960",
+  "groupe": true,
+  "credit": "Jean et Alphonsine Rives en 1960 · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12062/"
+ },
+ "rives-jean": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2021/09/en-1960-Jean-Alphonsine.jpg",
+  "legende": "Jean et Alphonsine Rives en 1960",
+  "groupe": true,
+  "credit": "Jean et Alphonsine Rives en 1960 · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/12062/"
+ },
+ "roques-yvonne": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2023/05/Yvonne-Roques.jpg",
+  "legende": "Yvonne Roques",
+  "groupe": false,
+  "credit": "Yvonne Roques · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/6954/"
+ },
+ "rous-jean": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2025/04/Jean-Rous.jpg",
+  "legende": "Jean Rous",
+  "groupe": false,
+  "credit": "Jean Rous · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10355/"
+ },
+ "rous-jeanne": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2025/04/Jeanne-Rous.jpg",
+  "legende": "Jeanne Rous",
+  "groupe": false,
+  "credit": "Jeanne Rous · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10355/"
+ },
+ "seguin-eugene": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/0f877ea9603807a90440e28d25efe0ae.jpg",
+  "legende": "Eugène et Rose Seguin",
+  "groupe": true,
+  "credit": "Eugène et Rose Seguin · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10447/"
+ },
+ "seguin-rose": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/0f877ea9603807a90440e28d25efe0ae.jpg",
+  "legende": "Eugène et Rose Seguin",
+  "groupe": true,
+  "credit": "Eugène et Rose Seguin · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10447/"
+ },
+ "simeoni-vincent": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/Père-Siméoni.png",
+  "legende": "Le père Vincent Siméoni",
+  "groupe": false,
+  "credit": "Le père Vincent Siméoni · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/7836/"
+ },
+ "staklin-camille": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/732a324e1f9bf7b6c494f31d706996cb.jpg",
+  "legende": "Camille Staklin",
+  "groupe": false,
+  "credit": "Camille Staklin · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10697/"
+ },
+ "staklin-roger": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4873ddb199fa4f637e5343bda12188a8.jpg",
+  "legende": "Roger Staklin",
+  "groupe": false,
+  "credit": "Roger Staklin · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/10697/"
+ },
+ "tafani-adeline": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/452b2100381dcda9ea738ca665eca325.jpg",
+  "legende": "Sébastien Tafani (debout à gauche), Adeline Tafani (assise à droite) et Josette Tafani (debout au centre)",
+  "groupe": true,
+  "credit": "Sébastien Tafani (debout à gauche), Adeline Tafani (assise à droite) et Josette Tafani (debout au centre) · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/6575/"
+ },
+ "tafani-josette": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/452b2100381dcda9ea738ca665eca325.jpg",
+  "legende": "Sébastien Tafani (debout à gauche), Adeline Tafani (assise à droite) et Josette Tafani (debout au centre)",
+  "groupe": true,
+  "credit": "Sébastien Tafani (debout à gauche), Adeline Tafani (assise à droite) et Josette Tafani (debout au centre) · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/6575/"
+ },
+ "tafani-sebastien": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/452b2100381dcda9ea738ca665eca325.jpg",
+  "legende": "Sébastien Tafani (debout à gauche), Adeline Tafani (assise à droite) et Josette Tafani (debout au centre)",
+  "groupe": true,
+  "credit": "Sébastien Tafani (debout à gauche), Adeline Tafani (assise à droite) et Josette Tafani (debout au centre) · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/6575/"
+ },
+ "zazzeri-simonne": {
+  "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ae63b8c6bd20258a0108b0614e8268d1.jpg",
+  "legende": "Simonne Zazzeri",
+  "groupe": false,
+  "credit": "Simonne Zazzeri · Comité français pour Yad Vashem",
+  "url": "https://yadvashem-france.org/dossier/nom/8919/"
+ }
+});
+Object.assign(photosDossiersJustes, {
+ "10355": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/04/Jean-Rous.jpg",
+   "legende": "Jean Rous"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2025/04/Jeanne-Rous.jpg",
+   "legende": "Jeanne Rous"
+  }
+ ],
+ "10447": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/0f877ea9603807a90440e28d25efe0ae.jpg",
+   "legende": "Eugène et Rose Seguin"
+  }
+ ],
+ "10697": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/732a324e1f9bf7b6c494f31d706996cb.jpg",
+   "legende": "Camille Staklin"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/4873ddb199fa4f637e5343bda12188a8.jpg",
+   "legende": "Roger Staklin"
+  }
+ ],
+ "10980B": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/14bbfcf9c4f12dc77ce485c325699a49.jpg",
+   "legende": "L’école Sasserno"
+  }
+ ],
+ "12062": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2021/09/en-1960-Jean-Alphonsine.jpg",
+   "legende": "Jean et Alphonsine Rives en 1960"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/5b8e6f1c72383747c831bb3397d26553.jpg",
+   "legende": "Jean et Alphonsine Rives avec leurs deux enfants"
+  }
+ ],
+ "12404": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/03/Marius-Marie-Thérèse-PALLANCA-le-20-août1969-à-Cagne-sur-Mer-1536x1019.jpg",
+   "legende": "Marius et Marie-Thérèse Pallanca à Cagnes-sur-Mer, le 20 août 1969"
+  }
+ ],
+ "13030": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2023/08/Jean-Ordan.jpg",
+   "legende": "Jean Ordan"
+  }
+ ],
+ "13030A": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/181ac2521aea317653d189bb2cc2bba3.jpg",
+   "legende": "Henriette Ordan et son époux Joseph"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/3174aebba5bbfb1d523c43257fb9a619.jpg",
+   "legende": "La famille Ortsman à Nice en 1940"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/97b4db3def1e449fd91ac84b5f96ef40.jpg",
+   "legende": "Israël Ortsman et son frère Oscar"
+  }
+ ],
+ "5061": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/0367451d742703581e2eb1ae2d926078.jpg",
+   "legende": "Mgr Paul Rémond"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/0d44bf394d569b85c5f9d787b08250bf.jpg",
+   "legende": "Mgr Paul Rémond"
+  }
+ ],
+ "6155": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/55f9091fbd1472dac961e74bbd9909f8.jpg",
+   "legende": "Marcel Louis Reynaud"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/0e48a4ddddbdfe4e626c32426d097d73.jpg",
+   "legende": "Anna et Monique Pogorelsky"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/8a37a6c7c5b5de4dfee867326f42ac38.jpg",
+   "legende": "Germaine Pogorelsky"
+  }
+ ],
+ "6575": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/452b2100381dcda9ea738ca665eca325.jpg",
+   "legende": "Sébastien Tafani (debout à gauche), Adeline Tafani (assise à droite) et Josette Tafani (debout au centre)"
+  }
+ ],
+ "6954": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2023/05/Yvonne-Roques.jpg",
+   "legende": "Yvonne Roques"
+  }
+ ],
+ "7836": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2022/08/Père-Siméoni.png",
+   "legende": "Le père Vincent Siméoni"
+  }
+ ],
+ "8919": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/ae63b8c6bd20258a0108b0614e8268d1.jpg",
+   "legende": "Simonne Zazzeri"
+  }
+ ],
+ "9524": [
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/e72d09518796aa1eecb9aa435feca08b.jpg",
+   "legende": "À gauche, la personne sauvée ; M. Francone et sa fille Gaby, en mariée, en 1963"
+  },
+  {
+   "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/aacca65f99821f5ee2217406cc8a51b9.jpg",
+   "legende": "Antoinette Picco en 1963"
+  }
+ ]
+});
