@@ -848,3 +848,31 @@ Object.assign(portraitsJustes, {
 });
 
 photosDossiersJustes["4768"] = [...(photosDossiersJustes["4768"] || []), {"image":"https://yadvashem-france.org/wp-content/uploads/2020/07/d775e149b7885391dd193dace6eed7f0.jpg","legende":"Cläre Barwitzky avec les enfants survivants."}];
+
+Object.assign(portraitsJustes, {
+  "berchmans-marie": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2023/11/telechargement.jpg",
+    "legende": "Sœur Marie Berchmans",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/5025/"
+  },
+  "boccard-raymond": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/07/0ac5421fabe95db55f7f4ead39901126.jpg",
+    "legende": "Frère Raymond Boccard",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/3601/"
+  },
+  "chapal-odette": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/eeb9060f4a6a4c0297815dfd459fb349.jpg.webp",
+    "legende": "Odette Chapal",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/5359/"
+  },
+  "chapal-paul": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/b8f6f25ce195acb2e04906b202fb474f.jpg.webp",
+    "legende": "Pasteur Paul Chapal",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/5359/"
+  }
+});
+photosDossiersJustes["12684"] = [...(photosDossiersJustes["12684"] || []), {"image":"https://yadvashem-france.org/wp-content/uploads/2020/08/c7a4d3e0fa55ac91e1d9c36b77d14a91.jpg","legende":"Marie Charreton, dite « Mémé Charreton », avec ses sœurs Louise et Joséphine Drevon."}];
