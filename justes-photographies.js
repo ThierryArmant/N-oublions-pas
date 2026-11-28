@@ -876,3 +876,58 @@ Object.assign(portraitsJustes, {
   }
 });
 photosDossiersJustes["12684"] = [...(photosDossiersJustes["12684"] || []), {"image":"https://yadvashem-france.org/wp-content/uploads/2020/08/c7a4d3e0fa55ac91e1d9c36b77d14a91.jpg","legende":"Marie Charreton, dite « Mémé Charreton », avec ses sœurs Louise et Joséphine Drevon."}];
+
+Object.assign(portraitsJustes, {
+  "couttet-marie-louise": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2025/04/Marie-Louise-Couttet-400x685.jpg",
+    "legende": "Marie-Louise Couttet",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/1795/"
+  },
+  "folliet-camille": {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/2685a9640e7b1694c653d371bcd08153.jpg",
+    "legende": "Abbé Camille Folliet",
+    "credit": "Source : Comité français pour Yad Vashem",
+    "url": "https://yadvashem-france.org/dossier/nom/4872/"
+  }
+});
+photosDossiersJustes["10271"] = [...(photosDossiersJustes["10271"] || []), ...[
+  {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/145b695860bf26afcf718e728726522a.jpg.webp",
+    "legende": "Fernande et Camille Claret-Tournier avec leur fils Daniel en 1944"
+  },
+  {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/243ef83d6f8ac08ef9029d3142d68911.jpg.webp",
+    "legende": "Camille et Fernande Claret avec Berthe Sadowski"
+  },
+  {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/beffa355cb8e7fe6aa8e55d97ed77cb9.jpg.webp",
+    "legende": "Camille et Fernande Claret-Tournier et Berthe Sadowski"
+  }
+]];
+photosDossiersJustes["12277"] = [...(photosDossiersJustes["12277"] || []), ...[
+  {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/fb65c83d31d594493ca9a2f326756f7d.jpg.webp",
+    "legende": "Louise et Gabriel Ferrand"
+  },
+  {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/66a939615071c77ac39f492bc4c4533f.jpg.webp",
+    "legende": "Louise et Gabriel Ferrand"
+  },
+  {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/56eb083874ae06025dac934cd3779170.jpg.webp",
+    "legende": "Louise et Gabriel Ferrand"
+  },
+  {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/31ca27ed16f862b0d99ea01f5be01a74.jpg.webp",
+    "legende": "Gabriel Ferrand et, en haut à droite, Monique Nathan"
+  },
+  {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/04bf63d25b0226b2cfe9fef073f7ea5b.jpg.webp",
+    "legende": "Louise Ferrand"
+  },
+  {
+    "image": "https://yadvashem-france.org/wp-content/uploads/2020/08/7c03550d80a35e10546a42b04eb95d60.jpg.webp",
+    "legende": "Noces d’or de Louise et Gabriel Ferrand"
+  }
+]];
