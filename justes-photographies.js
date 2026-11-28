@@ -4350,3 +4350,6 @@ Object.assign(photosDossiersJustes, {
   }
  ]
 });
+
+photosDossiersJustes["4660"] = [...(photosDossiersJustes["4660"] || []), ...[{"image":"https://yadvashem-france.org/wp-content/uploads/2020/07/4756fa365a09d3c50d9007879020a8b9.jpg.webp","legende":"Les enfants Chantelauze"},{"image":"https://yadvashem-france.org/wp-content/uploads/2020/07/d143773029c594c045ffd339a9afb86a.jpg.webp","legende":"M. Chantelauze et sa fille"},{"image":"https://yadvashem-france.org/wp-content/uploads/2020/07/3ae0bea41f7c245f64685815134c643b.jpg.webp","legende":"Rose Banner et son mari après la guerre"}]];
+photosDossiersJustes["6968"] = [...(photosDossiersJustes["6968"] || []), ...[{"image":"https://yadvashem-france.org/wp-content/uploads/2020/08/0783518124c9aa7b4eccf4200cca3f13.jpg.webp","legende":"Gabriel Piguet"}]];
