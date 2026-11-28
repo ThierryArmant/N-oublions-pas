@@ -1299,3 +1299,9 @@ Les 33 références de l’index ont été traitées. Les 55 fiches ont un réci
 ## Lot Isère (38) — récits complets
 
 Isère côté Codex. Les 79 références de l’index (137 fiches) ont un récit. 72 récits ajoutés couvrent 125 fiches. 9 photographies ont été intégrées au premier passage. La vérification des galeries et portraits se poursuit. La Haute-Savoie (74) est ouverte côté Codex. [Relevé des 79 références](recherches/lot_isere_2026-11-28.md).
+
+## Haute-Savoie (74) — récits et sources
+
+- L’index compte 104 fiches pour 70 références. Dernier passage Codex : 39 récits ajoutés, 61 fiches enrichies. Il reste le dossier 14562 et l’inventaire des photos et portraits.
+- [14562, César et Joséphine Migeois à Ballaison](https://yadvashem-france.org/dossier/nom/14562/) : reconnaissance confirmée en 2024. Les notices publiques consultées du Comité français et de l’AJPN ne décrivent pas le sauvetage.
+- [5137, Desailloud](https://www.ajpn.org/juste-885.html) et [4454, Ducoing](https://souvenir74.fr/figures/ducoing-baud-huguette/) : compléments de l’AJPN et du Souvenir Français. [4363A, Simond](https://yadvashem-france.org/dossier/nom/4363a/) : récit croisé avec [4363, Gallay](https://yadvashem-france.org/dossier/nom/4363/).
