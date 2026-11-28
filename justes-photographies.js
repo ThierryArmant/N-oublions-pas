@@ -846,3 +846,5 @@ Object.assign(portraitsJustes, {
     "url": "https://yadvashem-france.org/dossier/nom/6755/"
   }
 });
+
+photosDossiersJustes["4768"] = [...(photosDossiersJustes["4768"] || []), {"image":"https://yadvashem-france.org/wp-content/uploads/2020/07/d775e149b7885391dd193dace6eed7f0.jpg","legende":"Cläre Barwitzky avec les enfants survivants."}];
