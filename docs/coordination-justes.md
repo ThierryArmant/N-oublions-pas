@@ -27,7 +27,64 @@ Suivi lu et confirmé. Lot Jura, Ain et Franche-Comté terminé (tableau ci-dess
 
 ## Avancement Claude
 
-Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Haute-Vienne (57), Creuse et Corrèze (80), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Savoie et Hautes-Alpes. Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+Terminés : fiches sans département renseigné (88 dossiers, dont une quarantaine de sauvetages hors de France), Drôme (48 dossiers), Loire (43), Haute-Loire (55), Haute-Vienne (57), Creuse et Corrèze (80), Savoie et Hautes-Alpes (48), Bouches-du-Rhône, Vaucluse et Var (43 dossiers), Île-de-France (414 dossiers en quatre parties : 95 pour Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne ; 90 pour Val-d’Oise, Yvelines, Essonne et Seine-et-Marne ; 229 pour Paris), Centre-Val de Loire (146 dossiers), Pays de la Loire (111), Normandie (69), Poitou-Charentes (68), Gironde-Landes-Lot-et-Garonne (69), Dordogne (65), Ariège-Haute-Garonne (63), Hautes-Pyrénées-Pyrénées-Orientales-Aude (45), Pyrénées-Atlantiques (58), Hauts-de-France (88), Bretagne-Grand Est hors Vosges (76) et Occitanie est (206 : Gard, Hérault, Gers, Tarn, Tarn-et-Garonne, Lot), tableaux ci-dessous. Lot en cours : Cantal, Allier, Lozère et Aveyron. Zones de Codex : Isère, Haute-Savoie, Ardèche, Puy-de-Dôme, Rhône et Alpes-Maritimes.
+
+## Lot Claude — Savoie et Hautes-Alpes
+
+Récit intégré sur `main` pour 48 dossiers ; 42 portraits et 117 photographies de dossier (légende originale, crédit et lien vers la fiche). Relevé : `docs/recherches/lot_savoie-hautes-alpes.json`.
+
+| Dossier | Justes | Département | Photos (légendes de la fiche) | Source |
+|---|---|---|---|---|
+| 11303 | Roxane Durand | Hautes-Alpes | Roxane Durand | [CFYV](https://yadvashem-france.org/dossier/nom/11303/) |
+| 11303A | Rosa Gontard (sœur Valentine) | Hautes-Alpes | Rosa Gontard, sœur Valentine en religion ; Londres, juin 1962 : Isra Berz, sœur Valentine, Fénia Berz-Rabinovitch et Juliette Pellenq | [CFYV](https://yadvashem-france.org/dossier/nom/11303a/) |
+| 11648 | Louis et Marguerite Taix (née Allemand) | Hautes-Alpes | Madame Bismuth ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/11648/) |
+| 11693 | Germaine Bisserier (dite Jamy) | Hautes-Alpes | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11693/) |
+| 11693A | Simone Chaumet | Hautes-Alpes | Gilbert et Maxime Allouch en 1943 ; Simone Chaumet, assise à gauche, et Germaine Bisserier, debout, avec le groupe d’enfants ; Simone Chaumet | [CFYV](https://yadvashem-france.org/dossier/nom/11693a/) |
+| 13412 | L’abbé Jean-Gabriel Robin | Hautes-Alpes | — | [CFYV](https://yadvashem-france.org/dossier/nom/13412/) |
+| 14186A | Juliette Fischbacher | Hautes-Alpes | — | [CFYV](https://yadvashem-france.org/dossier/nom/14186a/) |
+| 4242 | Le père Jean Espitallier | Hautes-Alpes | André Espitallier le jour de la cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/4242/) |
+| 10425 | Antoine et Marie Thomas (née Labeye) | Savoie | Antoine et Marie Thomas à Marseille en 1939 ; La médaille des Thomas | [CFYV](https://yadvashem-france.org/dossier/nom/10425/) |
+| 11214 | Antoine Besson | Savoie | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11214/) |
+| 11384 | Louise et Francia Labioz-Lamberlin | Savoie | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11384/) |
+| 11466 | Honoré et Léa Bernichon (née Faraboz) | Savoie | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/11466/) |
+| 11494 | Joseph, Élisa (née Meurier) et Amélie Blumet (née Richard) | Savoie | Joseph et Élisa Blumet | [CFYV](https://yadvashem-france.org/dossier/nom/11494/) |
+| 11647 | Sylvie et Gilbert Debroux (née Gallet) | Savoie | Photo de famille ; Rodolphe et Charlotte Goldenberg avec deux enfants de la famille Debroux, Dressy, 1961 ; Rodolphe et Charlotte Goldenberg, Dressy, 1961 ; Berthe et Joseph Goldenberg avec leurs trois enfants Charlotte, Jeannine et Maurice ; De gauche à droite : le mari de Louise Gallet, Sylvie Debroux au milieu et Louise Gallet | [CFYV](https://yadvashem-france.org/dossier/nom/11647/) |
+| 12056 | Pierre et Victorine Déglise-Favre (née Eyvrard) | Savoie | Claudine Perrin Poznanski avec la fille de ses sauveurs ; Victorine Déglise-Favre | [CFYV](https://yadvashem-france.org/dossier/nom/12056/) |
+| 12058 | Marie-Magdeleine Théodulle (née Hugonin) | Savoie | Marie-Magdeleine Théodulle et sa fille Marthe ; André Schein, l’enfant sauvé | [CFYV](https://yadvashem-france.org/dossier/nom/12058/) |
+| 12114 | Charles et Alice Perrier (née Expert), Marie Expert (née Ranque) | Savoie | École Jules-Ferry à Chambéry, octobre 1944 ; La personne sauvée avec la famille Perrier | [CFYV](https://yadvashem-france.org/dossier/nom/12114/) |
+| 12144 | René Borel | Savoie | René Borel ; René Borel ; Cérémonie ; Cérémonie ; Cérémonie | [CFYV](https://yadvashem-france.org/dossier/nom/12144/) |
+| 12279 | Charles et Élise Reverdy (née Robardet), Louise Riondet (née Reverdy) | Savoie | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/12279/) |
+| 12338 | Jean-Baptiste et Marie-Louise Palluel-Blanc (née Bal) | Savoie | — | [CFYV](https://yadvashem-france.org/dossier/nom/12338/) |
+| 12588 | Pierre et Estelle Cugnet (née Brunel) | Savoie | Estelle Cugnet et son époux Pierre ; Les quatre enfants Cugnet, de gauche à droite : Paul, Pierre, Roger et Henri | [CFYV](https://yadvashem-france.org/dossier/nom/12588/) |
+| 12600 | Jean-François et Adélaïde Mailland-Mollard | Savoie | Eva et Rosa Lerner, Jean-François Mailland-Mollard ; François, Adélaïde et leurs enfants ; Les survivants | [CFYV](https://yadvashem-france.org/dossier/nom/12600/) |
+| 13069 | Louis et Séraphine Darvey (née Tournassat) | Savoie | La famille Darvey | [CFYV](https://yadvashem-france.org/dossier/nom/13069/) |
+| 13069A | Jean-Claude et Marthe Burnat (née Nantet) | Savoie | David et Suzanne en 1942-1944 ; De gauche à droite : Joseph, Thérèse, Marthe, Suzanne et Charles Burnat | [CFYV](https://yadvashem-france.org/dossier/nom/13069a/) |
+| 13335 | Félix et Marie Maurier (née Burdet) | Savoie | Liliane Kuhn ; Cérémonie ; La famille Maurier ; La petite Liliane ; Lieu du sauvetage | [CFYV](https://yadvashem-france.org/dossier/nom/13335/) |
+| 14049 | Le docteur Frédéric Pétri | Savoie | Frédéric Pétri en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/14049/) |
+| 14330 | Joseph Sidorski | Savoie | Joseph Sidorski et Jochvet Kawka | [CFYV](https://yadvashem-france.org/dossier/nom/14330/) |
+| 1710 | Victor et Joséphine Guicherd (née Court-Fortune) | Savoie | Victor et Joséphine Guicherd (au deuxième plan, à droite) en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/1710/) |
+| 3413 | Jean Boëte | Savoie | Jean Boëte, à gauche ; Jean Boëte en 1942 ; 1942 : Jean Boëte, deuxième à partir de la droite, et Alain Mossé, quatrième ; Cérémonie ; À gauche, Alain Mossé et Jean Boëte | [CFYV](https://yadvashem-france.org/dossier/nom/3413/) |
+| 4099 | Robert Gachet | Savoie | Robert Gachet en 1944 | [CFYV](https://yadvashem-france.org/dossier/nom/4099/) |
+| 4099A | Louis Jean Pugeat | Savoie | — | [CFYV](https://yadvashem-france.org/dossier/nom/4099a/) |
+| 4100 | John et Juliette Charrière | Savoie | — | [CFYV](https://yadvashem-france.org/dossier/nom/4100/) |
+| 4190 | Émile Voiron | Savoie | — | [CFYV](https://yadvashem-france.org/dossier/nom/4190/) |
+| 4792 | Pierre Chambre | Savoie | — | [CFYV](https://yadvashem-france.org/dossier/nom/4792/) |
+| 6899 | Maurice René Garavel | Savoie | Maurice Garavel | [CFYV](https://yadvashem-france.org/dossier/nom/6899/) |
+| 6922 | Joseph et Augusta Rullier (née Azario-Cattalo), Suzanne Burdin (née Rullier) | Savoie | — | [CFYV](https://yadvashem-france.org/dossier/nom/6922/) |
+| 7191 | René Muller | Savoie | René Muller | [CFYV](https://yadvashem-france.org/dossier/nom/7191/) |
+| 7418 | Jean et Ginette Bénéteau, Élisabeth Dunand | Savoie | De gauche à droite : Mme Wachtel, Nicole Bénéteau, Geneviève Bénéteau, Mme Dunand ; De gauche à droite : Florence Bénéteau, Mme Wachtel, Geneviève et Jean Bénéteau, 1983 ; De gauche à droite : Geneviève et Jean Bénéteau, Mme Wachtel, 1973 ; De gauche à droite : Geneviève Bénéteau, M. Wachtel, Jean Bénéteau, 1973 ; Village de Chevron ; Château de Chevron | [CFYV](https://yadvashem-france.org/dossier/nom/7418/) |
+| 7420 | Marie Massonnat | Savoie | Marie Massonnat | [CFYV](https://yadvashem-france.org/dossier/nom/7420/) |
+| 7737 | Raymond Pichon | Savoie | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/7737/) |
+| 7975 | Georges, Odette (née Petit), Joseph et Alexandrine (née Bertin) Gaudin | Savoie | Alexandrine Gaudin ; Alexandrine Gaudin et ses petits-enfants Raymond et Michèle ; Georges Gaudin et ses enfants Raymond et Michèle ; Joseph Gaudin et son petit-fils Raymond ; Odette Gaudin et ses enfants Raymond et Michèle | [CFYV](https://yadvashem-france.org/dossier/nom/7975/) |
+| 8121 | Marius et Andréa Bertin (née Gandet) | Savoie | Andréa et Marius Bertin | [CFYV](https://yadvashem-france.org/dossier/nom/8121/) |
+| 8325 | Marius Martin | Savoie | Remise de la médaille à Marius Martin | [CFYV](https://yadvashem-france.org/dossier/nom/8325/) |
+| 8518 | Adrien et Céline Menuisier (née Lambert) | Savoie | Adrienne Menuisier, la fille des Justes, avec la nièce de Maurice Goutstein | [CFYV](https://yadvashem-france.org/dossier/nom/8518/) |
+| 9298 | Pierre et Cécile Fort | Savoie | Elie Bitton à sept ans et demi, quand il était caché dans une ferme en Savoie | [CFYV](https://yadvashem-france.org/dossier/nom/9298/) |
+| 9401 | Raymond et Amélie Pegaz (née Chanvillard), Renée Pegaz et Marie-Thérèse Pegaz (née Cochet) | Savoie | Dominique Boy-Mottard et Maurice Winnykamen | [CFYV](https://yadvashem-france.org/dossier/nom/9401/) |
+| 9403 | Pierre Lemoulle | Savoie | photo sans légende | [CFYV](https://yadvashem-france.org/dossier/nom/9403/) |
+| 9919 | Placide et Marie Chagnon | Savoie | Placide et Marie Chagnon | [CFYV](https://yadvashem-france.org/dossier/nom/9919/) |
+
+Remarques : 10425 : Voir aussi le dossier 9919 (Chagnon). · 11303 : Voir aussi le dossier 11303A (sœur Valentine). · 11303A : Récit commun avec le dossier 11303. · 11466 : Voir aussi le dossier 11384 (Labioz-Lamberlin). · 11648 : La fiche nomme le Juste « Louis » dans l’en-tête et « Henri » dans le récit. · 11693 : Voir aussi le dossier 11693A (Chaumet). · 11693A : Récit commun avec le dossier 11693. · 12144 : La fiche ne nomme pas les personnes sauvées dans l’en-tête. · 13069 : Voir aussi le dossier 13069A (Burnat). · 13069A : Récit commun avec le dossier 13069. · 13335 : Le récit nomme le Juste « Jean » et l’en-tête « Félix » Maurier. · 14186A : La fiche 14186A ne contient pas de récit ; le code postal indiqué (02150) ne correspond pas aux Hautes-Alpes. · 1710 : La fiche situe Dullin « non loin de Lépin-le-Lac (Rhône) » ; les deux communes sont en Savoie. · 4099 : Voir aussi le dossier 4099A (Pugeat). · 4099A : Voir aussi le dossier 4099 (Gachet). · 4190 : La fiche situe Chambéry en Haute-Savoie ; la ville est en Savoie. · 4792 : Voir aussi le dossier 7191 (Muller). · 6899 : Voir aussi le dossier 6922 (Rullier). · 6922 : Voir aussi le dossier 6899 (Garavel). · 7191 : Voir aussi le dossier 4792 (Chambre). · 7420 : La légende de la photographie nomme « sœur Marie Massonnat ». · 7737 : Les faits principaux se déroulent dans le Lot-et-Garonne et le Gers ; le dossier est rattaché à la Savoie par sa mutation. · 9919 : Voir aussi le dossier 10425 (Thomas).
 
 ## Lot Claude — Creuse et Corrèze
 
